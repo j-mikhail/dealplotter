@@ -25,15 +25,15 @@ Most of the code is self-taught using books, and as such, may not follow best es
 
 ```
 .
-├── /Code/                    # Main PHP display/processing/administration files
-│   ├── /Sources/             # Crawlers for specific deal sites
-├── /Hist/                    # Generated SVG histograms
-├── /IF/                      # Graphics
-│   ├── /Old/                 # Obsoleted graphics
-├── /Pages/                   # Source HTML for deal sites, at time of last crawl (late 2011/early 2012)
-├── /QR/                      # Generated QR Codes
-├── /Scripts/                 # CSS and JS code
-│   ├── /Crushed/             # Compacted code for production
+├── /Code/         # Main PHP display/processing/administration files
+│   └── /Sources/  # Crawlers for specific deal sites
+├── /Hist/         # Generated SVG histograms
+├── /IF/           # Graphics
+│   └── /Old/      # Obsoleted graphics
+├── /Pages/        # Source HTML for deal sites, at time of last crawl (late 2011/early 2012)
+├── /QR/           # Generated QR Codes
+└── /Scripts/      # CSS and JS code
+    └── /Crushed/  # Compacted code for production
 ```
 
 ##License
