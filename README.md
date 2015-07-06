@@ -1,5 +1,3 @@
-# DealPlotter
-
 ![DealPlotter](/Logo.png)
 
 At the peak of the group buy phenomenon and ahead of the dramatic implosion and consolidation of the space, I built a localized aggregation portal, focused on presenting nearby deals in relation to the street-level position of site visitors, akin to the Groupon app which later followed. I further leveraged third party APIs to present historical data and supplemental metadata on vendors to better determine deal value and credibility.
@@ -22,6 +20,21 @@ Most of the code is self-taught using books, and as such, may not follow best es
 ## Requirements
 
 * LAMP stack or equivalent.
+
+## Folder structure
+
+```
+.
+├── /Code/                    # Main PHP display/processing/administration files
+│   ├── /Sources/             # Crawlers for specific deal sites
+├── /Hist/                    # Generated SVG histograms
+├── /IF/                      # Graphics
+│   ├── /Old/                 # Obsoleted graphics
+├── /Pages/                   # Source HTML for deal sites, at time of last crawl (late 2011/early 2012)
+├── /QR/                      # Generated QR Codes
+├── /Scripts/                 # CSS and JS code
+│   ├── /Crushed/             # Compacted code for production
+```
 
 ##License
 
