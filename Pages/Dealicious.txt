@@ -1,0 +1,621 @@
+http://www.dealicious.ca/toronto
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html xmlns:fb="https://www.facebook.com/2008/fbml">
+<head>
+<title>Toronto Deal of the Day and Daily Deals by Dealicious.ca</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8"/>
+<meta property="fb:admins" content="100000363977254"/>
+<meta property="fb:app_id" content="160606717286879"/>
+<link href="css/reset_fonts_grid.css?v=2" rel="stylesheet" type="text/css">
+<link href="css/layout.css?v=2" rel="stylesheet" type="text/css">
+<link href="css/top_slider.css" rel="stylesheet" type="text/css">
+<link href="css/Thickbox.css" rel="stylesheet" type="text/css">
+<script language="javascript" type="text/javascript" src="includes/js/jquery.js"></script>
+<script type="text/javascript" src="includes/js/common.js"></script>
+<script type="text/javascript" src="includes/js/noDeal.js"></script>
+<script type="text/javascript" src="includes/js/emailSubscribe.js"></script>
+<script type="text/javascript" src="includes/js/util-functions.js"></script>
+<script type="text/javascript" src="includes/js/clear-default-text.js"></script>
+<script type="text/javascript" language="javascript" src="includes/js/subscribedailyEmail.js"></script>
+<script type="text/javascript" language="javascript" src="includes/js/giveAsGift.js"></script>
+<script type="text/javascript" src="includes/js/Thickbox.js"></script>
+<script src="includes/js/AC_OETags.js" language="javascript"></script>    <!--CONTEST DEP-->
+    <script src="includes/js/pageear.js" type="text/javascript"></script> <!--CONTEST DEP-->
+<script language="javascript" type="text/javascript">
+//<![CDATA[
+$(document).ready(function(){
+	$("#moreCities,#hideCity,#dailyAlerts,#hideSubscribe").click(function(){var a=$("#subscribeBox").css("display");if(a="block"){$("#subscribeBox").slideUp();};$("#cityBox").slideToggle();});
+	$("#dailyAlerts,#hideSubscribe").click(function(){var a=$("#subscribeForm").css("display");if(a="block"){$("#subscribeForm").slideUp();};$("#scribeForm").slideToggle();});
+});
+//]]>
+</script>
+<script type="text/JavaScript">
+//<![CDATA[
+function MenuOnmouseover(Id){
+	if(Id==1){
+	 document.getElementById('tab1_data').style.display='block';
+	 document.getElementById('tab1').style.background='url(../images/active_tab.jpg)';
+	 document.getElementById('tab2').style.background='url(../images/inactive_tab.jpg)';
+	 document.getElementById('tab1').style.color='black';
+	 document.getElementById('tab2').style.color='black';
+	 document.getElementById('tab2_data').style.display='none';
+	}if(Id==2){
+	 document.getElementById('tab2_data').style.display='block';
+	 document.getElementById('tab1').style.background='url(../images/inactive_tab.jpg)';
+	 document.getElementById('tab2').style.background='url(../images/active_tab.jpg)';
+	 document.getElementById('tab2').style.color='black';
+	 document.getElementById('tab1').style.color='black';
+	 document.getElementById('tab1_data').style.display='none';
+	}
+}
+//]]>
+</script>
+</head>
+<body>
+<!--cityBox start -->
+<div class="topBox">
+  <div id="cityBox" class="cityBox">
+    <div class="hideCityBox"><a href="#" id="hideCity">hide</a></div>
+    <div>
+     	  <div class="country-he">Canada</div>
+       <div class="cityList">
+    	<ul>
+        		 <li>  <p class="active"> <a href="abbotsford">Abbotsford</a></p></li>
+      		 <li>  <p class="active"> <a href="barrie">Barrie</a></p></li>
+      		 <li>  <p class="active"> <a href="brampton">Brampton</a></p></li>
+      		 <li> <p class="dactive"> <a href="calgary">Calgary</a></p></li>
+      		 <li>  <p class="active"> <a href="durham">Durham</a></p></li>
+      		 <li> <p class="dactive"> <a href="edmonton">Edmonton</a></p></li>
+      		 <li>  <p class="active"> <a href="halifax">Halifax</a></p></li>
+      		 <li>  <p class="active"> <a href="hamilton">Hamilton</a></p></li>
+      		 <li>  <p class="active"> <a href="kelowna">Kelowna</a></p></li>
+      		 <li>  <p class="active"> <a href="kingston">Kingston</a></p></li>
+      		 <li>  <p class="active"> <a href="kitchenerwaterloo">Kitchener/Waterloo</a></p></li>
+      		 <li>  <p class="active"> <a href="london">London</a></p></li>
+      		 <li>  <p class="active"> <a href="mississauga">Mississauga</a></p></li>
+      		 <li>  <p class="active"> <a href="montreal">Montreal</a></p></li>
+      		 <li>  <p class="active"> <a href="oakville">Oakville</a></p></li>
+      		 <li>  <p class="active"> <a href="ottawa">Ottawa</a></p></li>
+      		 <li>  <p class="active"> <a href="quebeccity">Quebec City</a></p></li>
+      		 <li>  <p class="active"> <a href="regina">Regina</a></p></li>
+      		 <li>  <p class="active"> <a href="saskatoon">Saskatoon</a></p></li>
+      		 <li>  <p class="active"> <a href="stcatharinesniagara">St. Catharines/Niagara</a></p></li>
+      		 <li>  <p class="active"> <a href="stjohns">St. John's</a></p></li>
+      		 <li>  <p class="active"> <a href="sudbury">Sudbury</a></p></li>
+      		 <li>  <p class="active"> <a href="surrey">Surrey</a></p></li>
+      		 <li>  <p class="active"> <a href="toronto" class='current'>Toronto</a></p></li>
+      		 <li>  <p class="active"> <a href="vancouver">Vancouver</a></p></li>
+      		 <li>  <p class="active"> <a href="victoria">Victoria</a></p></li>
+      		 <li>  <p class="active"> <a href="windsor">Windsor</a></p></li>
+      		 <li>  <p class="active"> <a href="winnipeg">Winnipeg</a></p></li>
+      		 <li>  <p class="active"> <a href="yorkregion">York Region</a></p></li>
+                  <div class="clear"></div>
+             <div class="clear"></div>
+        </ul>
+        </div>
+         	  <div class="country-he">United States</div>
+       <div class="cityList">
+    	<ul>
+        		 <li> <p class="dactive"> <a href="atlanta">Atlanta</a></p></li>
+      		 <li> <p class="dactive"> <a href="austin">Austin</a></p></li>
+      		 <li> <p class="dactive"> <a href="baltimore">Baltimore</a></p></li>
+      		 <li> <p class="dactive"> <a href="boston">Boston</a></p></li>
+      		 <li> <p class="dactive"> <a href="charlotte">Charlotte</a></p></li>
+      		 <li> <p class="dactive"> <a href="chicago">Chicago</a></p></li>
+      		 <li> <p class="dactive"> <a href="cleveland">Cleveland</a></p></li>
+      		 <li> <p class="dactive"> <a href="dallas">Dallas</a></p></li>
+      		 <li> <p class="dactive"> <a href="denver">Denver</a></p></li>
+      		 <li> <p class="dactive"> <a href="detroit">Detroit</a></p></li>
+      		 <li> <p class="dactive"> <a href="fortlauderdale">Fort Lauderdale</a></p></li>
+      		 <li> <p class="dactive"> <a href="houston">Houston</a></p></li>
+      		 <li> <p class="dactive"> <a href="indianapolis">Indianapolis</a></p></li>
+      		 <li> <p class="dactive"> <a href="kansas">Kansas</a></p></li>
+      		 <li> <p class="dactive"> <a href="lasvegas">Las Vegas</a></p></li>
+      		 <li> <p class="dactive"> <a href="losangeles">Los Angeles</a></p></li>
+      		 <li> <p class="dactive"> <a href="miami">Miami</a></p></li>
+      		 <li> <p class="dactive"> <a href="milwaukee">Milwaukee</a></p></li>
+      		 <li> <p class="dactive"> <a href="minneapolis">Minneapolis</a></p></li>
+      		 <li> <p class="dactive"> <a href="nashville">Nashville</a></p></li>
+      		 <li> <p class="dactive"> <a href="neworleans">New Orleans</a></p></li>
+      		 <li> <p class="dactive"> <a href="newyork">New York</a></p></li>
+      		 <li> <p class="dactive"> <a href="norfolk">Norfolk</a></p></li>
+      		 <li> <p class="dactive"> <a href="orlando">Orlando</a></p></li>
+      		 <li> <p class="dactive"> <a href="philadelphia">Philadelphia</a></p></li>
+      		 <li> <p class="dactive"> <a href="phoenix">Phoenix</a></p></li>
+      		 <li> <p class="dactive"> <a href="pittsburgh">Pittsburgh</a></p></li>
+      		 <li> <p class="dactive"> <a href="portland">Portland</a></p></li>
+      		 <li> <p class="dactive"> <a href="raleigh">Raleigh</a></p></li>
+      		 <li> <p class="dactive"> <a href="richmond">Richmond</a></p></li>
+      		 <li> <p class="dactive"> <a href="sacramento">Sacramento</a></p></li>
+      		 <li> <p class="dactive"> <a href="saltlakecity">Salt Lake City</a></p></li>
+      		 <li> <p class="dactive"> <a href="sanantonio">San Antonio</a></p></li>
+      		 <li> <p class="dactive"> <a href="sandiego">San Diego</a></p></li>
+      		 <li> <p class="dactive"> <a href="sanfrancisco">San Francisco</a></p></li>
+      		 <li> <p class="dactive"> <a href="sanjose">San Jose</a></p></li>
+      		 <li> <p class="dactive"> <a href="seattle">Seattle</a></p></li>
+      		 <li> <p class="dactive"> <a href="stlouis">St. Louis</a></p></li>
+      		 <li> <p class="dactive"> <a href="tampa">Tampa</a></p></li>
+      		 <li> <p class="dactive"> <a href="washington">Washington</a></p></li>
+                  <div class="clear"></div>
+             <div class="clear"></div>
+        </ul>
+        </div>
+             </div>
+    <div class="clear"></div>
+  </div>
+  <div class="clear"></div>
+</div>
+<div class="clear"></div>
+<!--CONTEST-->
+
+<script type="text/javascript">    
+    writeObjects();
+</script>
+
+<!--END CONTEST-->
+<!--cityBox end -->
+<!--SubscribeBox start -->
+<div class="topBox">
+  <div id="scribeForm" class="cityBox">
+    <div class="hideCityBox"><a href="#" id="hideSubscribe">hide</a></div>
+    <ul class="cityList">
+      <div>
+        <div class="clear"></div>
+      </div>
+      <div class="clear"></div>
+    </ul>
+    <div class="clear"></div>
+  </div>
+  <div class="clear"></div>
+</div>
+<div class="clear"></div>
+<!--SubscribeBox end -->
+<div class="outerwrap">
+<div id="Main">
+<div class="Header">
+  <div class="Logo"><a href="toronto" title="Dealicious"><img src="images/logo.png" alt="Dealicious" width="250" height="75" border="0"></a></div>
+  <div class="header-right">
+  	<div class="header-top">
+    <div class="TopNav">
+      <div class="TopNav_Left"></div>
+      <div class="TopNav_Midd"> <a href="#url" id="moreCities"><span>Change City</span></a> <a href="aboutus.php">About Dealicious</a> <a href="refer-afriend.php" title="Refer Friends">Refer Friends and Get $5</a><span><strong style="color:#FFCC00">Free Deal Alerts</strong></span><form method="post" action="/index.php" onSubmit="return validateSub();" style="display:inline">     
+        <input name="email" id="emailHeader" type="text" value="Enter Email Here" class="newsletter_input cleardefault"> <input id="subscribeEmail" type="image" src="images/signup.png" name="subscribeEmail">  
+    </form></div>
+      <div class="TopNav_Right"></div>    
+    <div class="clear"></div>
+    </div>
+    <div class="header-bot"><img src="images/email-reminder.gif" align="right">
+    <div id="emailv" class="validateMsg" style="color:RED;font-weight:bold"></div>
+      	</div>
+	<div class="NewsletterBar">	
+	Dealicious&#8482; savings on the best in <a href="#url" id="moreCities"><div class="cityUnder"><strong>Toronto</div> +</strong></a>
+   
+</div>
+  <div class="clear"></div>
+    </div>
+  </div>
+</div> 
+<div id="navbar">
+<div id="NavTop"></div>
+	<div class="navbar-left">
+<div class="NavTitle"><a href="toronto">Today's Deals</a> <a href="toronto-coupons">Restaurant Coupons</a><a href="toronto-specials">Restaurant Specials</a> <a href="cms.php?id=Nw==">How it Works</a> <a href="pastDeals.php">Past Deals</a> <a href="contactus.php" style="background:none">Contact Us</a></div>
+        <div class="clear"></div>
+    </div>
+    <div class="navbar-right" style="padding-top:10px"><div class="Links_bar_right">
+    	<span class="floatLeft">
+ <script type="text/javascript" language="javascript" src="includes/js/redirectFunction.js"></script>
+ <div class="fuser">
+    <div style="float:left;width:76px;height:21px;"> <fb:login-button perms="email,user_birthday"/> </div>
+  <div style="float:left;margin-right:5px;padding:0px 5px;"> <a href="login.php">Sign In </a>&nbsp;&nbsp; | &nbsp;&nbsp;<a href="signup.php">Register </a> </div>
+    <div id="fb-root"></div>
+    <script src="http://connect.facebook.net/en_US/all.js"></script>
+    <script>
+	//<![CDATA[
+	FB.init({"appId":'160606717286879',"status":true,"cookie":true,"xfbml":true});
+	FB.Event.subscribe('auth.login',function(response){window.location='http://dealicious.ca/';});
+	//]]>
+	</script>
+  </div> </span>
+  </div>
+  <div class="clear"></div>
+    </div>
+</div>
+<div class="clear"></div>
+<script type="text/javascript" src="includes/js/common.js"></script>
+<script type="text/javascript" src="includes/js/noDeal.js"></script>
+<script language="javascript" type="text/javascript">
+//<![CDATA[
+function sendToSocialSite(str){
+  popupWin=window.open(str,'mywindow','width=900,height=500,left=150,right=400,top=0');
+  mywindow.moveTo(0,0);
+}
+//]]>
+</script>
+<!-- Featured and Side Deals -->
+<div id="Content_body">
+  <div class="Left_Homepage">
+    <div class="Homepage_Div">
+      <div class="BigRound_top"></div>
+      <div class="HomePage_Midd">
+		  				  <img src="images/title-featured.gif" />
+				  			<!-- Featured Deal -->
+			<div class="DealiciousDeal">
+			 <div class="OfferImage" style="border-right:solid #B4E1E4"><a href="toronto?dealId=NjI5"><img src="uploads/deal//thumb/629.jpg" width="250" height="250"></a></div>
+			<div class="OfferTitle"><a href="toronto?dealId=NjI5">Fuzion Resto-Lounge</a></div>
+             <div class="Offering"> $34 For $70 Worth Of  Chef Edrick De Villa's Offerings At Brunch Or Dinner At Fuzion Resto-Lounge & Garden</div>
+			<div>
+              <div class="OfferAddress" style="border-right:solid #B4E1E4">
+			    <div style="color:#d52c58;font-size:50px;text-align:left"><strong>$34</strong></div>
+				<center><table style="padding-top:5px;padding-bottom:10px">
+				  <tr><td style="border-right:1px solid #B4E1E4;padding-right:10px">Value<br><b><span style="font-size:18px">$70</span></b></td>
+				  <td style="padding-left:10px">Discount<br><b><span style="font-size:18px">51%</span></b></td></tr>
+				</table>
+				<a href="toronto?dealId=NjI5" style="text-decoration:none"><div class="SmallRound_sidedeal">
+				 3 Days Left				</div></a>
+				</center>
+			  </div>
+			  <div class="OfferDetails">
+                  <div class="clear"></div>
+              <p>
+	Toronto is well known for its cosmopolitan nature, especially when it comes to its restaurants. Experience a combination of international tastes, local organics, and opulent decor with today&#39;s deal: For $34 You Get $70 worth of Chef Edrick De Villa&#39;s offerings at brunch or dinner at Fuzion Resto-Lounge &amp;...<br />
+				<a href="toronto?dealId=NjI5"><strong>VIEW DEAL</strong></a>
+				<div class="clear"></div>
+				</div>
+              <div class="clr"></div>
+            </div>
+            <div class="clear"></div>
+          </div>
+		  			<!-- Featured Deal -->
+			<div class="DealiciousDeal">
+			 <div class="OfferImage" style="border-right:solid #B4E1E4"><a href="toronto?dealId=NjI3"><img src="uploads/deal//thumb/627.jpg" width="250" height="250"></a></div>
+			<div class="OfferTitle"><a href="toronto?dealId=NjI3">Bogo Fleece Earmuffs</a></div>
+             <div class="Offering"> $10 For 2 Bogo Fleece Earmuffs Assorted Colors From Dillyeo.com ($22 Value)</div>
+			<div>
+              <div class="OfferAddress" style="border-right:solid #B4E1E4">
+			    <div style="color:#d52c58;font-size:50px;text-align:left"><strong>$10</strong></div>
+				<center><table style="padding-top:5px;padding-bottom:10px">
+				  <tr><td style="border-right:1px solid #B4E1E4;padding-right:10px">Value<br><b><span style="font-size:18px">$22</span></b></td>
+				  <td style="padding-left:10px">Discount<br><b><span style="font-size:18px">55%</span></b></td></tr>
+				</table>
+				<a href="toronto?dealId=NjI3" style="text-decoration:none"><div class="SmallRound_sidedeal">
+				 3 Days Left				</div></a>
+				</center>
+			  </div>
+			  <div class="OfferDetails">
+                  <div class="clear"></div>
+              <p>
+	Win the war on winter with today&rsquo;s Dealicious deal: For $10 You Get&nbsp; 2 Bogo Fleece Earmuffs Assorted Colors ($22 Value).</p>
+<p>
+	
+	Dillyeo.com says: &quot;It is our goal to provide not only amazing deals, but to provide the marketplace with useful items at a great price. Through the challenging times,...<br />
+				<a href="toronto?dealId=NjI3"><strong>VIEW DEAL</strong></a>
+				<div class="clear"></div>
+				</div>
+              <div class="clr"></div>
+            </div>
+            <div class="clear"></div>
+          </div>
+		  			<!-- Featured Deal -->
+			<div class="DealiciousDeal">
+			 <div class="OfferImage" style="border-right:solid #B4E1E4"><a href="toronto?dealId=NjI1"><img src="uploads/deal//thumb/625.jpg" width="250" height="250"></a></div>
+			<div class="OfferTitle"><a href="toronto?dealId=NjI1">Oh Behave Love Shop</a></div>
+             <div class="Offering"> $30 For $100 Worth Of Adult Products and Toys at Oh Behave Love Shop</div>
+			<div>
+              <div class="OfferAddress" style="border-right:solid #B4E1E4">
+			    <div style="color:#d52c58;font-size:50px;text-align:left"><strong>$30</strong></div>
+				<center><table style="padding-top:5px;padding-bottom:10px">
+				  <tr><td style="border-right:1px solid #B4E1E4;padding-right:10px">Value<br><b><span style="font-size:18px">$100</span></b></td>
+				  <td style="padding-left:10px">Discount<br><b><span style="font-size:18px">70%</span></b></td></tr>
+				</table>
+				<a href="toronto?dealId=NjI1" style="text-decoration:none"><div class="SmallRound_sidedeal">
+				 1 Day Left				</div></a>
+				</center>
+			  </div>
+			  <div class="OfferDetails">
+                  <div class="clear"></div>
+              <p>
+	Make your valentines day a little naughty with today&rsquo;s Dealicious deal: For $30 You Get $100 Worth Of Adult Products In Store Or Online Tax Included At Oh Behave Love Shop.
+	
+	Oh Behave Love Shop says: &quot;Oh Behave is a wholly owned division of Rebel Marketing Ltd. - an established company in adult product...<br />
+				<a href="toronto?dealId=NjI1"><strong>VIEW DEAL</strong></a>
+				<div class="clear"></div>
+				</div>
+              <div class="clr"></div>
+            </div>
+            <div class="clear"></div>
+          </div>
+		  			<!-- Featured Deal -->
+			<div class="DealiciousDeal">
+			 <div class="OfferImage" style="border-right:solid #B4E1E4"><a href="toronto?dealId=NjIz"><img src="uploads/deal//thumb/623.jpg" width="250" height="250"></a></div>
+			<div class="OfferTitle"><a href="toronto?dealId=NjIz">Tea Dynasty</a></div>
+             <div class="Offering"> $15 Dollars Worth Of Artisan And Rare Loose Leaf Tea OR Any Tea Products And A 15 Minute Tea Tasting Time From Tea Dynasty ($30 Value)</div>
+			<div>
+              <div class="OfferAddress" style="border-right:solid #B4E1E4">
+			    <div style="color:#d52c58;font-size:50px;text-align:left"><strong>$15</strong></div>
+				<center><table style="padding-top:5px;padding-bottom:10px">
+				  <tr><td style="border-right:1px solid #B4E1E4;padding-right:10px">Value<br><b><span style="font-size:18px">$30</span></b></td>
+				  <td style="padding-left:10px">Discount<br><b><span style="font-size:18px">50%</span></b></td></tr>
+				</table>
+				<a href="toronto?dealId=NjIz" style="text-decoration:none"><div class="SmallRound_sidedeal">
+				 Limited Time				</div></a>
+				</center>
+			  </div>
+			  <div class="OfferDetails">
+                  <div class="clear"></div>
+              <p>
+	Boost your immune system one cup at a time with today&rsquo;s Dealicious deal: For $15 Dollars You Get $15 Worth Of Artisan And Rare Loose Leaf Tea OR Any Tea Products And A 15 Minute Tea Tasting Time From Tea Dynasty ($30 Value)
+	&nbsp;
+	
+	Tea Dynasty says: &quot;Tea Dynasty&rsquo;s close ties to many large tea...<br />
+				<a href="toronto?dealId=NjIz"><strong>VIEW DEAL</strong></a>
+				<div class="clear"></div>
+				</div>
+              <div class="clr"></div>
+            </div>
+            <div class="clear"></div>
+          </div>
+		  			<!-- Featured Deal -->
+			<div class="DealiciousDeal">
+			 <div class="OfferImage" style="border-right:solid #B4E1E4"><a href="toronto?dealId=NjEy"><img src="uploads/deal//thumb/612.jpg" width="250" height="250"></a></div>
+			<div class="OfferTitle"><a href="toronto?dealId=NjEy">Optical Depo</a></div>
+             <div class="Offering"> $19 For $225 Worth Of Designer Prescription Sunglasses & Eyeglasses at Optical Depo</div>
+			<div>
+              <div class="OfferAddress" style="border-right:solid #B4E1E4">
+			    <div style="color:#d52c58;font-size:50px;text-align:left"><strong>$19</strong></div>
+				<center><table style="padding-top:5px;padding-bottom:10px">
+				  <tr><td style="border-right:1px solid #B4E1E4;padding-right:10px">Value<br><b><span style="font-size:18px">$225</span></b></td>
+				  <td style="padding-left:10px">Discount<br><b><span style="font-size:18px">92%</span></b></td></tr>
+				</table>
+				<a href="toronto?dealId=NjEy" style="text-decoration:none"><div class="SmallRound_sidedeal">
+				 Limited Time				</div></a>
+				</center>
+			  </div>
+			  <div class="OfferDetails">
+                  <div class="clear"></div>
+              <p>
+	Get a brand new pair of eye glasses with today&rsquo;s Dealicious deal: For $19 You Get $225 Worth Of Designer Prescription Sunglasses &amp; Eyeglasses at Optical Depo.
+	&nbsp;
+	Optical Depo says: &quot;At Optical Depo we offer great deals on contact lenses, designer frames, designer sunglasses.&nbsp; Optical Depo...<br />
+				<a href="toronto?dealId=NjEy"><strong>VIEW DEAL</strong></a>
+				<div class="clear"></div>
+				</div>
+              <div class="clr"></div>
+            </div>
+            <div class="clear"></div>
+          </div>
+		  		  
+		  <!-- Side Deals -->
+		  				  <div style="width:685px">
+                    <img src="images/title-todaysdeals.gif" />
+				    <br>
+				    <table style="margin:auto"><tr><td>
+		              	                        <div class="bodySection" style="height:175px;padding:10px 0 10px 0">
+				              								<a href="toronto?deal=NjAw"><img src="uploads/deal/thumb/600.jpg" width="175" height="175" border="0" align="left" style="padding-right:10px"/></a>
+								 <a href="toronto?deal=NjAw"><div class="RoundBl_sidedeal">
+								  Today Only								 </div></a>
+								<div class="OfferTitle"><a href="toronto?deal=NjAw">Alkaline Water Tubes</a></div>
+				<div class="Offering">$19 For An Alkaline Water Tube Including Tax & Shipping From Goodbuyfirst.ca ($45 Value)</div>
+				  <div class="OfferPrice"><strong style="font-size:32px;color:#d52c58">$19</strong> <div style="display:inline;position:relative;bottom:5px;font-size:18px;color:#666666;margin-left:5px;padding-left:5px;border-left:2px solid #b4e1e4"> <del>$45</del></div><div style="display:inline;position:relative;bottom:5px;font-size:18px;margin-left:5px;padding-left:5px;border-left:2px solid #b4e1e4"> Save  $26</div> <div style="display:inline;position:relative;bottom:5px;font-size:14px;margin-left:5px;padding-left:5px;border-left:2px solid #b4e1e4"><a href="toronto?deal=NjAw"><strong>VIEW DEAL</strong></a></div> </div>
+		                  </div>
+		                </div>
+                        </tr><tr>	                        <div class="bodySection" style="height:175px;padding:10px 0 10px 0">
+				              								<a href="toronto?deal=NTk2"><img src="uploads/deal/thumb/596.jpg" width="175" height="175" border="0" align="left" style="padding-right:10px"/></a>
+								 <a href="toronto?deal=NTk2"><div class="RoundBl_sidedeal">
+								  Today Only								 </div></a>
+								<div class="OfferTitle"><a href="toronto?deal=NTk2">Solar Powered Toys</a></div>
+				<div class="Offering">$19 For A Solar Powered Toy Including Shipping From Goodbuyfirst.com($39 Value)</div>
+				  <div class="OfferPrice"><strong style="font-size:32px;color:#d52c58">$19</strong> <div style="display:inline;position:relative;bottom:5px;font-size:18px;color:#666666;margin-left:5px;padding-left:5px;border-left:2px solid #b4e1e4"> <del>$39</del></div><div style="display:inline;position:relative;bottom:5px;font-size:18px;margin-left:5px;padding-left:5px;border-left:2px solid #b4e1e4"> Save  $20</div> <div style="display:inline;position:relative;bottom:5px;font-size:14px;margin-left:5px;padding-left:5px;border-left:2px solid #b4e1e4"><a href="toronto?deal=NTk2"><strong>VIEW DEAL</strong></a></div> </div>
+		                  </div>
+		                </div>
+                        </tr><tr>	                        <div class="bodySection" style="height:175px;padding:10px 0 10px 0">
+				              								<a href="toronto?deal=NTk3"><img src="uploads/deal/thumb/597.jpg" width="175" height="175" border="0" align="left" style="padding-right:10px"/></a>
+								 <a href="toronto?deal=NTk3"><div class="RoundBl_sidedeal">
+								  Today Only								 </div></a>
+								<div class="OfferTitle"><a href="toronto?deal=NTk3">LED Water Faucet</a></div>
+				<div class="Offering">$15 For A 3 Color (red/green/blue) LED Water Faucet Including Tax And Shipping From Goodbuyfirst.com($40 Value)</div>
+				  <div class="OfferPrice"><strong style="font-size:32px;color:#d52c58">$15</strong> <div style="display:inline;position:relative;bottom:5px;font-size:18px;color:#666666;margin-left:5px;padding-left:5px;border-left:2px solid #b4e1e4"> <del>$40</del></div><div style="display:inline;position:relative;bottom:5px;font-size:18px;margin-left:5px;padding-left:5px;border-left:2px solid #b4e1e4"> Save  $25</div> <div style="display:inline;position:relative;bottom:5px;font-size:14px;margin-left:5px;padding-left:5px;border-left:2px solid #b4e1e4"><a href="toronto?deal=NTk3"><strong>VIEW DEAL</strong></a></div> </div>
+		                  </div>
+		                </div>
+                        </tr><tr>	                        <div class="bodySection" style="height:175px;padding:10px 0 10px 0">
+				              								<a href="toronto?deal=NTk1"><img src="uploads/deal/thumb/595.jpg" width="175" height="175" border="0" align="left" style="padding-right:10px"/></a>
+								 <a href="toronto?deal=NTk1"><div class="RoundBl_sidedeal">
+								  Today Only								 </div></a>
+								<div class="OfferTitle"><a href="toronto?deal=NTk1">Menu For The Week</a></div>
+				<div class="Offering">$20 For 1 Year Of Meal Planning From Menu For The Week ($48 Value)</div>
+				  <div class="OfferPrice"><strong style="font-size:32px;color:#d52c58">$20</strong> <div style="display:inline;position:relative;bottom:5px;font-size:18px;color:#666666;margin-left:5px;padding-left:5px;border-left:2px solid #b4e1e4"> <del>$48</del></div><div style="display:inline;position:relative;bottom:5px;font-size:18px;margin-left:5px;padding-left:5px;border-left:2px solid #b4e1e4"> Save  $28</div> <div style="display:inline;position:relative;bottom:5px;font-size:14px;margin-left:5px;padding-left:5px;border-left:2px solid #b4e1e4"><a href="toronto?deal=NTk1"><strong>VIEW DEAL</strong></a></div> </div>
+		                  </div>
+		                </div>
+                        </tr><tr>	                        <div class="bodySection" style="height:175px;padding:10px 0 10px 0">
+				              								<a href="toronto?deal=NjI4"><img src="uploads/deal/thumb/628.jpg" width="175" height="175" border="0" align="left" style="padding-right:10px"/></a>
+								 <a href="toronto?deal=NjI4"><div class="RoundBl_sidedeal">
+								  3 Days Left								 </div></a>
+								<div class="OfferTitle"><a href="toronto?deal=NjI4">4 Pack of Scarves</a></div>
+				<div class="Offering">$14 For A 4 Pack Of Warm Winter Scarves From Dillyeo.com ($36 Value)</div>
+				  <div class="OfferPrice"><strong style="font-size:32px;color:#d52c58">$14</strong> <div style="display:inline;position:relative;bottom:5px;font-size:18px;color:#666666;margin-left:5px;padding-left:5px;border-left:2px solid #b4e1e4"> <del>$36</del></div><div style="display:inline;position:relative;bottom:5px;font-size:18px;margin-left:5px;padding-left:5px;border-left:2px solid #b4e1e4"> Save  $22</div> <div style="display:inline;position:relative;bottom:5px;font-size:14px;margin-left:5px;padding-left:5px;border-left:2px solid #b4e1e4"><a href="toronto?deal=NjI4"><strong>VIEW DEAL</strong></a></div> </div>
+		                  </div>
+		                </div>
+                        </tr><tr>	                        <div class="bodySection" style="height:175px;padding:10px 0 10px 0">
+				              								<a href="toronto?deal=NjA4"><img src="uploads/deal/thumb/608.jpg" width="175" height="175" border="0" align="left" style="padding-right:10px"/></a>
+								 <a href="toronto?deal=NjA4"><div class="RoundBl_sidedeal">
+								  Limited Time								 </div></a>
+								<div class="OfferTitle"><a href="toronto?deal=NjA4">Rezultz Cosmetics</a></div>
+				<div class="Offering">$69 For A Full Size Night Cream, Eyes Serum/Gel and Mud Slide Facial Mask, Deluxe Samples, A $20 Gift Certificate For Future Purchases Plus A Stuffed Bear From Rezultz Cosmetics ($180 Value)</div>
+				  <div class="OfferPrice"><strong style="font-size:32px;color:#d52c58">$69</strong> <div style="display:inline;position:relative;bottom:5px;font-size:18px;color:#666666;margin-left:5px;padding-left:5px;border-left:2px solid #b4e1e4"> <del>$180</del></div><div style="display:inline;position:relative;bottom:5px;font-size:18px;margin-left:5px;padding-left:5px;border-left:2px solid #b4e1e4"> Save  $111</div> <div style="display:inline;position:relative;bottom:5px;font-size:14px;margin-left:5px;padding-left:5px;border-left:2px solid #b4e1e4"><a href="toronto?deal=NjA4"><strong>VIEW DEAL</strong></a></div> </div>
+		                  </div>
+		                </div>
+                        </tr><tr>	                        <div class="bodySection" style="height:175px;padding:10px 0 10px 0">
+				              								<a href="toronto?deal=NjA3"><img src="uploads/deal/thumb/607.jpg" width="175" height="175" border="0" align="left" style="padding-right:10px"/></a>
+								 <a href="toronto?deal=NjA3"><div class="RoundBl_sidedeal">
+								  Limited Time								 </div></a>
+								<div class="OfferTitle"><a href="toronto?deal=NjA3">iPhone Cases & Screen Protectors</a></div>
+				<div class="Offering">$25 For 2 Cases and 2 Screen Protectors For Your iPhone Taxes & Shipping Included From Casemasters.ca ($72 Value)</div>
+				  <div class="OfferPrice"><strong style="font-size:32px;color:#d52c58">$25</strong> <div style="display:inline;position:relative;bottom:5px;font-size:18px;color:#666666;margin-left:5px;padding-left:5px;border-left:2px solid #b4e1e4"> <del>$72</del></div><div style="display:inline;position:relative;bottom:5px;font-size:18px;margin-left:5px;padding-left:5px;border-left:2px solid #b4e1e4"> Save  $47</div> <div style="display:inline;position:relative;bottom:5px;font-size:14px;margin-left:5px;padding-left:5px;border-left:2px solid #b4e1e4"><a href="toronto?deal=NjA3"><strong>VIEW DEAL</strong></a></div> </div>
+		                  </div>
+		                </div>
+                        </tr><tr>	                        <div class="bodySection" style="height:175px;padding:10px 0 10px 0">
+				              								<a href="toronto?deal=NTI4"><img src="uploads/deal/thumb/528.jpg" width="175" height="175" border="0" align="left" style="padding-right:10px"/></a>
+								 <a href="toronto?deal=NTI4"><div class="RoundBl_sidedeal">
+								  Limited Time								 </div></a>
+								<div class="OfferTitle"><a href="toronto?deal=NTI4">Premier Photo Mall</a></div>
+				<div class="Offering">$12 For an 8.5x11 Hardcover Photo Book PLUS a Bonus 4x4 Nano Book From Premier Photo Mall ($50 Value)</div>
+				  <div class="OfferPrice"><strong style="font-size:32px;color:#d52c58">$12</strong> <div style="display:inline;position:relative;bottom:5px;font-size:18px;color:#666666;margin-left:5px;padding-left:5px;border-left:2px solid #b4e1e4"> <del>$50</del></div><div style="display:inline;position:relative;bottom:5px;font-size:18px;margin-left:5px;padding-left:5px;border-left:2px solid #b4e1e4"> Save  $38</div> <div style="display:inline;position:relative;bottom:5px;font-size:14px;margin-left:5px;padding-left:5px;border-left:2px solid #b4e1e4"><a href="toronto?deal=NTI4"><strong>VIEW DEAL</strong></a></div> </div>
+		                  </div>
+		                </div>
+                        </tr><tr></tr></table></div>	    </div>
+		<div class="clear"></div>
+	  <div class="HomePage_BottomRound"></div>
+	  </div>
+  </div>
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+function showRedeem(nm){
+	if(nm=='show'){
+		document.getElementById('redeem_div').style.display='block';
+		document.getElementById('showlink').name='hide';
+	}else{
+		document.getElementById('redeem_div').style.display='none';
+		document.getElementById('showlink').name='show';
+	}
+}
+function isValid(){
+	if(document.frm_redeem.redeem_code.value==''){
+		document.getElementById('reddem_error').innerHTML='Please enter redemption code.';
+		return false;
+	}
+	document.getElementById('reddem_error').innerHTML='';
+}
+//]]>
+</script>
+<div class="Right_Homepage">
+	<div class="Small_RightBox" style="display:none">
+		<div class="SmallRound_top">Feature Your
+		Business</div>
+		<div class="discussdeal">
+		<div class="businestext"><span><a href="suggestBusiness.php">Learn more</a></span> about how Dealicious can help bring tons of customers to your door
+		and increase your business.</div>
+		</div>
+		<div class="SmallRound_bottom"></div>
+	</div>
+		
+	
+	 <a href="toronto-featured-side-deals"><img src="images/holiday-guide.png" border="0"  style="margin-bottom:10px;"/></a>   
+	  
+	  <div class="Small_RightBox">
+		<div class="SmallRound_top">Categories</div>
+		<div class="discussdeal">
+			<div class="businestext">
+			  <u>
+			  <a href="toronto-side-deals" style="color:#000000;font-size:13px;font-weight:bold">See All</a><br>
+			  <a href="toronto-featured-side-deals" style="color:#000000">Featured</a><br><a href="toronto-beautyandspas-side-deals" style="color:#000000">Beauty & Spas</a><br><a href="toronto-clothingandaccessories-side-deals" style="color:#000000">Clothing & Accessories</a><br><a href="toronto-educationandnutrition-side-deals" style="color:#000000">Education & Nutrition</a><br><a href="toronto-foodanddrink-side-deals" style="color:#000000">Food & Drink</a><br><a href="toronto-healthandmedical-side-deals" style="color:#000000">Health & Medical</a><br><a href="toronto-homeproductsandservices-side-deals" style="color:#000000">Home Products & Services</a><br><a href="toronto-kids-side-deals" style="color:#000000">Kids</a><br><a href="toronto-other-side-deals" style="color:#000000">Other</a><br><a href="toronto-photographyandphotoservices-side-deals" style="color:#000000">Photography & Photo Services</a>			  </u>
+			</div>
+		</div>
+		<div class="SmallRound_bottom"></div>
+	</div>
+	
+	
+    		<div class="Small_RightBox">
+		<div class="SmallRound_top">Refer-a-Friend</div>
+		<div class="discussdeal">
+			<div class="businestext">
+				Get $5 for every friend you refer to Dealicious
+				<a href="refer-afriend.php">Read all about our referral program.</a>
+			</div>
+		</div>
+		<div class="SmallRound_bottom"></div>
+	</div>
+</div><div class="Right_Homepage">
+<div class="Small_RightBox">
+          <div class="SmallRound_top">Dealicious Guarantee</div>
+          <div class="discussdeal">
+  <div style="padding:10px 0px">
+    <div align="center"><img src="images/guarantee.png" width="150" height="150"/></div>
+  </div>
+    <div style="color:#333333;font-weight:bold;font-size:16px">Customer satisfaction is our top priority.</div>
+<a href="cms.php?id=NA==">View our refund policy</a>  
+  </div>
+          <div class="SmallRound_bottom"></div>
+    </div>
+    <div class="Small_RightBox"> <a href="giftCertificate.php" title="Get a Gift Card">
+      </a> </div>
+    <div>
+      <div class="clear"></div>
+    </div>
+</div>
+<!-- End Featured and Side Deals -->
+<div class="clear"></div>
+</div>
+<div class="clear"></div>
+<!-- End Comm100 Live Chat Button Code -->
+</div>
+<div class="clear"></div>
+ <div id="footer">
+	 	<div class="Footer">			
+			 <div class="Footer_Div">
+             	<div style="padding-bottom:8px;">Company</div>
+<ul>
+					<!--li><a href="cms.php?id=MQ==" title="About">About</a></li-->
+					<li><a href="aboutus.php" title="About Us">About Dealicious</a></li>
+                    <li><a href="contactus.php" title="Contact Us">Contact Us</a></li>
+                      <li><a href="cms.php?id=Mw==" title="Jobs">Jobs</a></li>
+                       <li><a href="cms.php?id=NA==" title="Terms, Privacy, Returns, Etc.">Terms, Privacy, Returns, Etc.</a></li>
+					    <li><a href="faq.php" title="FAQ">FAQ</a></li>
+			   </ul> 
+			 </div>
+		  <div class="Footer_Div">
+			   <div style="padding-bottom:8px;">Got a Business?</div>
+			   <ul>
+			     <li><a href="forBusinesses.php" title="For Businesses">For Businesses</a></li>
+			     <li><a href="suggestBusiness.php" title="Suggest a Business">Suggest a Business</a></li>
+			     <!--<li><a href="#" title="Developers / API"> Developers / API</a></li>-->
+			     <li><a href="affiliateProgram.php" title="Affiliate Program"> Affiliate Program</a></li>
+		       </ul>
+	      </div>
+			 <div class="Footer_Div" style="border:0px;">
+              <div style="padding-bottom:8px;">Engage</div>
+			   <ul>
+			     <li><a href="http://twitter.com/dealiciousCA" target="_blank" title="Twitter">Twitter</a></li>
+			     <li><a href="http://www.facebook.com/pages/Dealicious-Toronto/170430572969481" target="_blank" title="Facebook"> Facebook</a></li>
+			     <li><a href="RSSFeed.php"  target="_blank" title="RSS">RSS Feed</a> </li>
+			     <!--li><a href="forums.php" >Forum</a></li>
+			     <li><a href="blog.php" title="Blog"> Blog</a></li-->
+		       </ul>
+	      </div>
+          <div class="footerlogo"><img src="images/footerlogo.png"/></div>
+    <div class="Copyright">© 2010 Dealicious.ca Inc. All Rights Reserved.</div>
+			 <div class="clear"></div>
+		</div>
+        <div class="clear"></div>
+	 </div>
+	 <div class="clear"></div>
+	 </div>
+     <div class="clear"></div>
+	 <script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-18499678-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<!-- Yahoo! Web Analytics - All rights reserved -->
+<script type="text/javascript" src="https://s.yimg.com/mi/eu/ywa.js"></script>
+<script type="text/javascript">
+/*globals YWA*/
+var YWATracker = YWA.getTracker("10001119483145");
+//YWATracker.setDocumentName("");
+//YWATracker.setDocumentGroup("");
+YWATracker.submit();
+</script>
+<noscript>
+<div><img src="https://s.analytics.yahoo.com/p.pl?a=10001119483145&amp;js=no" width="1" height="1" alt=""/></div>
+</noscript>
+</body>
+</html>

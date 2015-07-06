@@ -1,0 +1,1428 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+
+
+
+
+
+
+
+
+<html>
+	<head>
+		
+		
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"/>
+<meta name="keywords" content="swarmjam, local daily deals, daily deal, daily deals, deal, deal coupon, deal coupons, deals, deals offers, discounts, gift certificates, local deal, local deals, offer, offer deals, offers, promo code, promocode, promos, promotions, saving ,specials ,voucher, bargain, bargin, certificates, coupon, coupons, saves">
+<link href="/sj/sj/cn/cssn/modules2.css" rel="stylesheet" type="text/css" />
+
+<!--[if IE 6]>
+<link href="/sj/sj/cn/cssn/ie6.css" media="screen, projection" rel="stylesheet" type="text/css" />
+<![endif]-->
+<!--[if IE 7]>
+<link href="/sj/sj/cn/cssn/ie7.css" media="screen, projection" rel="stylesheet" type="text/css" />
+<![endif]-->
+
+
+
+
+<script type="text/javascript" language="javascript" >
+<!--
+var strAction = "/waf.srv/sj/sj/cn/auction_ActionProdCat?";
+function goToCat(elem,page)
+{
+	var selIndex;
+	var selValue;
+	var strUrl;
+	selIndex=elem.selectedIndex;
+	selValue=elem.options[selIndex].value;
+	strUrl = strAction+"ONSUCCESS="+page+"&ONERR1="+page+"&ONERR2="+page+"&CATID="+selValue;
+	document.location.href=strUrl;
+}
+//-->
+</script>
+
+
+
+	<meta name="description" content="SwarmJam presents a deal each day in Toronto featuring great discounts at restaurants, spas, gyms and health clubs, wellness spas, massage therapy, outdoor activites and more.">
+	
+	
+		<title>SwarmJam - Toronto's Sweet Deals</title>
+	
+
+
+<script type="text/javascript">
+	var cx_trk = true;
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-17457542-1']);
+</script>
+
+<script language="javascript" type="text/javascript" src="/sj/sj/cn/scriptsn/gasrc.js" ></script>
+
+
+		
+	</head>
+
+	<body>
+		
+		
+			
+
+
+<div id="cx-swrm-imp-note">
+	<div id="cx-swrm-imp-box" class="cx-swrm-box cxal-center">
+	<div class="cx-imp_bar cxal-left">Join the Swarm</div>
+		<div class="cxpl-gutter">
+			<a href="#"><img class="cx-swrm-close" src="/sj/sj/cn/images/icons/close.gif" alt="close" onclick="closeBox()"/></a>
+			<img src="/sj/sj/cn/images/mascot.gif" alt=""/>
+			
+
+				
+			<form method="post" action="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionPostBidder?ONSUCCESS=subscribed.jsp&ONERR1=signup.jsp&ONERR2=errmsg.jsp&ONERR4=home.jsp&_vrfkey1=v902033"><input type="hidden" name="_keyq" value="insert"/>
+				<br/>Subscribe to receive Toronto DailyJam email notices:
+				<br/><span class="cxpl-rightms cx-button"><input type="text" name="_femail" size="30" maxlength="255"  value="Enter email address" onfocus="if(this.value=='Enter email address'){this.value='';this.style.color='#000000';}" onblur="if(this.value==''){this.value='Enter email address';this.style.color='#999999';}"/></span>
+				<input type="hidden" name="_fsignup"/>
+				<input type="hidden" name="PRODCATSELECTOR" value="10150492" />
+				<input id="cx-button-sub" type="submit" name="Submit" value="Subscribe" onclick="this.disabled=true;this.value='Submitting...'; this.form.submit();"/><br/>
+			<input type="hidden" name="_vrfkey2" value="v902033"/></form><br/><br/>
+			<p>You will receive 100 reward points for subscribing. These are credited to your account when you register. Reward points can be used for exclusive member deals.</p><br/><br/>
+			
+		</div>
+	</div>
+</div>
+
+
+
+
+<script type="text/javascript">
+<!--
+document.getElementById("cx-swrm-imp-note").style.display = "block";
+document.getElementById("cx-swrm-imp-note").style.visibility = "visible";
+//-->
+</script>
+
+
+		
+		
+
+
+
+<div id="cx-swrm-city-note">
+	<div id="cx-swrm-city-box" class="cx-swrm-box" style="background-color:#F6D25B; border: 1px solid black;">
+		<div class="cx-imp_bar cxal-left cxft-medium">Choose a city</div>
+		<a href="#"><img class="cx-swrm-close" src="/sj/sj/cn/images/icons/close.gif" alt="close" onclick="closeCityBox()"/></a>
+		<br/>
+
+<table width="100%" id="cx-swrm-city-select">
+<tr>
+<td width="45%" style="border-right:1px solid black;">
+
+
+
+
+
+
+
+	
+		<p style="font-weight:bold;font-size:150%;padding:2px;">
+			Alberta
+		</p>
+	
+	
+		
+		<p class="cxft-medium-small cxft-no-dec cx-swrm-city_hasCity " style="font-size:140%;padding:2px;">
+			<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdCat?ONSUCCESS=home.jsp&ONERR1=home.jsp&ONERR2=home.jsp&CATID=10149608" class="cxft-no-dec">Calgary</a>
+		</p>
+		
+		<p class="cxft-medium-small cxft-no-dec cx-swrm-city_hasCity " style="font-size:140%;padding:2px;">
+			<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdCat?ONSUCCESS=home.jsp&ONERR1=home.jsp&ONERR2=home.jsp&CATID=10149609" class="cxft-no-dec">Edmonton</a>
+		</p>
+		
+		<p class="cxft-medium-small cxft-no-dec cx-swrm-city_hasCity " style="font-size:140%;padding:2px;">
+			<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdCat?ONSUCCESS=home.jsp&ONERR1=home.jsp&ONERR2=home.jsp&CATID=10151404" class="cxft-no-dec">Fort McMurray</a>
+		</p>
+		
+		<p class="cxft-medium-small cxft-no-dec cx-swrm-city_hasCity " style="font-size:140%;padding:2px;">
+			<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdCat?ONSUCCESS=home.jsp&ONERR1=home.jsp&ONERR2=home.jsp&CATID=10151403" class="cxft-no-dec">Grande Prairie</a>
+		</p>
+		
+		<p class="cxft-medium-small cxft-no-dec cx-swrm-city_hasCity " style="font-size:140%;padding:2px;">
+			<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdCat?ONSUCCESS=home.jsp&ONERR1=home.jsp&ONERR2=home.jsp&CATID=10151400" class="cxft-no-dec">Lethbridge</a>
+		</p>
+		
+		<p class="cxft-medium-small cxft-no-dec cx-swrm-city_hasCity " style="font-size:140%;padding:2px;">
+			<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdCat?ONSUCCESS=home.jsp&ONERR1=home.jsp&ONERR2=home.jsp&CATID=10151401" class="cxft-no-dec">Medicine Hat</a>
+		</p>
+		
+		<p class="cxft-medium-small cxft-no-dec cx-swrm-city_hasCity " style="font-size:140%;padding:2px;">
+			<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdCat?ONSUCCESS=home.jsp&ONERR1=home.jsp&ONERR2=home.jsp&CATID=10151402" class="cxft-no-dec">Red Deer</a>
+		</p>
+		
+		<p class="cxft-medium cxlh-small">&nbsp;</p>
+
+
+
+	
+		<p style="font-weight:bold;font-size:150%;padding:2px;">
+			British Columbia
+		</p>
+	
+	
+		
+		<p class="cxft-medium-small cxft-no-dec cx-swrm-city_hasCity " style="font-size:140%;padding:2px;">
+			<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdCat?ONSUCCESS=home.jsp&ONERR1=home.jsp&ONERR2=home.jsp&CATID=10151007" class="cxft-no-dec">Kelowna</a>
+		</p>
+		
+		<p class="cxft-medium-small cxft-no-dec cx-swrm-city_hasCity " style="font-size:140%;padding:2px;">
+			<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdCat?ONSUCCESS=home.jsp&ONERR1=home.jsp&ONERR2=home.jsp&CATID=10149607" class="cxft-no-dec">Vancouver  Metro</a>
+		</p>
+		
+		<p class="cxft-medium-small cxft-no-dec cx-swrm-city_hasCity " style="font-size:140%;padding:2px;">
+			<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdCat?ONSUCCESS=home.jsp&ONERR1=home.jsp&ONERR2=home.jsp&CATID=10150504" class="cxft-no-dec">Vancouver Fraser Valley</a>
+		</p>
+		
+		<p class="cxft-medium-small cxft-no-dec cx-swrm-city_hasCity " style="font-size:140%;padding:2px;">
+			<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdCat?ONSUCCESS=home.jsp&ONERR1=home.jsp&ONERR2=home.jsp&CATID=10150509" class="cxft-no-dec">Vancouver Island</a>
+		</p>
+		
+		<p class="cxft-medium-small cxft-no-dec cx-swrm-city_hasCity " style="font-size:140%;padding:2px;">
+			<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdCat?ONSUCCESS=home.jsp&ONERR1=home.jsp&ONERR2=home.jsp&CATID=10150511" class="cxft-no-dec">Victoria</a>
+		</p>
+		
+		<p class="cxft-medium-small cxft-no-dec cx-swrm-city_hasCity " style="font-size:140%;padding:2px;">
+			<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdCat?ONSUCCESS=home.jsp&ONERR1=home.jsp&ONERR2=home.jsp&CATID=10151924" class="cxft-no-dec">Whistler</a>
+		</p>
+		
+		<p class="cxft-medium cxlh-small">&nbsp;</p>
+
+
+
+	
+		<p style="font-weight:bold;font-size:150%;padding:2px;">
+			Manitoba
+		</p>
+	
+	
+		
+		<p class="cxft-medium-small cxft-no-dec cx-swrm-city_hasCity " style="font-size:140%;padding:2px;">
+			<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdCat?ONSUCCESS=home.jsp&ONERR1=home.jsp&ONERR2=home.jsp&CATID=10150517" class="cxft-no-dec">Brandon</a>
+		</p>
+		
+		<p class="cxft-medium-small cxft-no-dec cx-swrm-city_hasCity " style="font-size:140%;padding:2px;">
+			<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdCat?ONSUCCESS=home.jsp&ONERR1=home.jsp&ONERR2=home.jsp&CATID=10149610" class="cxft-no-dec">Winnipeg</a>
+		</p>
+		
+		<p class="cxft-medium cxlh-small">&nbsp;</p>
+
+
+
+	
+		<p style="font-weight:bold;font-size:150%;padding:2px;">
+			New Brunswick
+		</p>
+	
+	
+		
+		<p class="cxft-medium-small cxft-no-dec cx-swrm-city_hasCity " style="font-size:140%;padding:2px;">
+			<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdCat?ONSUCCESS=home.jsp&ONERR1=home.jsp&ONERR2=home.jsp&CATID=10151006" class="cxft-no-dec">Fredericton</a>
+		</p>
+		
+		<p class="cxft-medium-small cxft-no-dec cx-swrm-city_hasCity " style="font-size:140%;padding:2px;">
+			<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdCat?ONSUCCESS=home.jsp&ONERR1=home.jsp&ONERR2=home.jsp&CATID=10151009" class="cxft-no-dec">Moncton</a>
+		</p>
+		
+		<p class="cxft-medium-small cxft-no-dec cx-swrm-city_hasCity " style="font-size:140%;padding:2px;">
+			<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdCat?ONSUCCESS=home.jsp&ONERR1=home.jsp&ONERR2=home.jsp&CATID=10151010" class="cxft-no-dec">Saint John</a>
+		</p>
+		
+		<p class="cxft-medium cxlh-small">&nbsp;</p>
+
+
+
+	
+		<p style="font-weight:bold;font-size:150%;padding:2px;">
+			Nova Scotia
+		</p>
+	
+	
+		
+		<p class="cxft-medium-small cxft-no-dec cx-swrm-city_hasCity " style="font-size:140%;padding:2px;">
+			<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdCat?ONSUCCESS=home.jsp&ONERR1=home.jsp&ONERR2=home.jsp&CATID=10150487" class="cxft-no-dec">Halifax</a>
+		</p>
+		
+		<p class="cxft-medium cxlh-small">&nbsp;</p>
+
+
+
+</td>
+<td width="45%">
+
+	
+		<p style="font-weight:bold;font-size:150%;padding:2px;">
+			Ontario
+		</p>
+	
+	
+		
+		<p class="cxft-medium-small cxft-no-dec cx-swrm-city_hasCity " style="font-size:140%;padding:2px;">
+			<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdCat?ONSUCCESS=home.jsp&ONERR1=home.jsp&ONERR2=home.jsp&CATID=10151005" class="cxft-no-dec">Belleville</a>
+		</p>
+		
+		<p class="cxft-medium-small cxft-no-dec cx-swrm-city_hasCity " style="font-size:140%;padding:2px;">
+			<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdCat?ONSUCCESS=home.jsp&ONERR1=home.jsp&ONERR2=home.jsp&CATID=10151011" class="cxft-no-dec">Brockville</a>
+		</p>
+		
+		<p class="cxft-medium-small cxft-no-dec cx-swrm-city_hasCity " style="font-size:140%;padding:2px;">
+			<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdCat?ONSUCCESS=home.jsp&ONERR1=home.jsp&ONERR2=home.jsp&CATID=10151421" class="cxft-no-dec">Carleton Place</a>
+		</p>
+		
+		<p class="cxft-medium-small cxft-no-dec cx-swrm-city_hasCity " style="font-size:140%;padding:2px;">
+			<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdCat?ONSUCCESS=home.jsp&ONERR1=home.jsp&ONERR2=home.jsp&CATID=10151410" class="cxft-no-dec">Durham Region</a>
+		</p>
+		
+		<p class="cxft-medium-small cxft-no-dec cx-swrm-city_hasCity " style="font-size:140%;padding:2px;">
+			<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdCat?ONSUCCESS=home.jsp&ONERR1=home.jsp&ONERR2=home.jsp&CATID=10151414" class="cxft-no-dec">Halton Region</a>
+		</p>
+		
+		<p class="cxft-medium-small cxft-no-dec cx-swrm-city_hasCity " style="font-size:140%;padding:2px;">
+			<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdCat?ONSUCCESS=home.jsp&ONERR1=home.jsp&ONERR2=home.jsp&CATID=10151415" class="cxft-no-dec">Hamilton</a>
+		</p>
+		
+		<p class="cxft-medium-small cxft-no-dec cx-swrm-city_hasCity " style="font-size:140%;padding:2px;">
+			<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdCat?ONSUCCESS=home.jsp&ONERR1=home.jsp&ONERR2=home.jsp&CATID=10151423" class="cxft-no-dec">Kemptville</a>
+		</p>
+		
+		<p class="cxft-medium-small cxft-no-dec cx-swrm-city_hasCity " style="font-size:140%;padding:2px;">
+			<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdCat?ONSUCCESS=home.jsp&ONERR1=home.jsp&ONERR2=home.jsp&CATID=10151008" class="cxft-no-dec">Kingston</a>
+		</p>
+		
+		<p class="cxft-medium-small cxft-no-dec cx-swrm-city_hasCity " style="font-size:140%;padding:2px;">
+			<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdCat?ONSUCCESS=home.jsp&ONERR1=home.jsp&ONERR2=home.jsp&CATID=10151416" class="cxft-no-dec">Niagara Region</a>
+		</p>
+		
+		<p class="cxft-medium-small cxft-no-dec cx-swrm-city_hasCity " style="font-size:140%;padding:2px;">
+			<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdCat?ONSUCCESS=home.jsp&ONERR1=home.jsp&ONERR2=home.jsp&CATID=10150489" class="cxft-no-dec">Ottawa</a>
+		</p>
+		
+		<p class="cxft-medium-small cxft-no-dec cx-swrm-city_hasCity " style="font-size:140%;padding:2px;">
+			<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdCat?ONSUCCESS=home.jsp&ONERR1=home.jsp&ONERR2=home.jsp&CATID=10151412" class="cxft-no-dec">Peel Region</a>
+		</p>
+		
+		<p class="cxft-medium-small cxft-no-dec cx-swrm-city_hasCity " style="font-size:140%;padding:2px;">
+			<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdCat?ONSUCCESS=home.jsp&ONERR1=home.jsp&ONERR2=home.jsp&CATID=10151422" class="cxft-no-dec">Perth</a>
+		</p>
+		
+		<p class="cxft-medium-small cxft-no-dec cx-swrm-city_hasCity " style="font-size:140%;padding:2px;">
+			<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdCat?ONSUCCESS=home.jsp&ONERR1=home.jsp&ONERR2=home.jsp&CATID=10151417" class="cxft-no-dec">Scarborough</a>
+		</p>
+		
+		<p class="cxft-medium-small cxft-no-dec cx-swrm-city_hasCity " style="font-size:140%;padding:2px;">
+			<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdCat?ONSUCCESS=home.jsp&ONERR1=home.jsp&ONERR2=home.jsp&CATID=10151413" class="cxft-no-dec">Simcoe Region</a>
+		</p>
+		
+		<p class="cxft-medium-small cxft-no-dec cx-swrm-city_hasCity " style="font-size:140%;padding:2px;">
+			<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdCat?ONSUCCESS=home.jsp&ONERR1=home.jsp&ONERR2=home.jsp&CATID=10151420" class="cxft-no-dec">Smiths Falls</a>
+		</p>
+		
+		<p class="cxft-medium-small cxft-no-dec cx-swrm-city_hasCity " style="font-size:140%;padding:2px;">
+			<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdCat?ONSUCCESS=home.jsp&ONERR1=home.jsp&ONERR2=home.jsp&CATID=10150492" class="cxft-no-dec">Toronto</a>
+		</p>
+		
+		<p class="cxft-medium-small cxft-no-dec cx-swrm-city_hasCity " style="font-size:140%;padding:2px;">
+			<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdCat?ONSUCCESS=home.jsp&ONERR1=home.jsp&ONERR2=home.jsp&CATID=10150515" class="cxft-no-dec">Windsor/Essex</a>
+		</p>
+		
+		<p class="cxft-medium-small cxft-no-dec cx-swrm-city_hasCity " style="font-size:140%;padding:2px;">
+			<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdCat?ONSUCCESS=home.jsp&ONERR1=home.jsp&ONERR2=home.jsp&CATID=10151411" class="cxft-no-dec">York Region</a>
+		</p>
+		
+		<p class="cxft-medium cxlh-small">&nbsp;</p>
+
+
+
+	
+		<p style="font-weight:bold;font-size:150%;padding:2px;">
+			Quebec
+		</p>
+	
+	
+		
+		<p class="cxft-medium-small cxft-no-dec cx-swrm-city_hasCity " style="font-size:140%;padding:2px;">
+			<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdCat?ONSUCCESS=home.jsp&ONERR1=home.jsp&ONERR2=home.jsp&CATID=10150488" class="cxft-no-dec">Montreal</a>
+		</p>
+		
+		<p class="cxft-medium cxlh-small">&nbsp;</p>
+
+
+
+	
+		<p style="font-weight:bold;font-size:150%;padding:2px;">
+			Saskatchewan
+		</p>
+	
+	
+		
+		<p class="cxft-medium-small cxft-no-dec cx-swrm-city_hasCity " style="font-size:140%;padding:2px;">
+			<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdCat?ONSUCCESS=home.jsp&ONERR1=home.jsp&ONERR2=home.jsp&CATID=10150490" class="cxft-no-dec">Regina</a>
+		</p>
+		
+		<p class="cxft-medium-small cxft-no-dec cx-swrm-city_hasCity " style="font-size:140%;padding:2px;">
+			<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdCat?ONSUCCESS=home.jsp&ONERR1=home.jsp&ONERR2=home.jsp&CATID=10150491" class="cxft-no-dec">Saskatoon</a>
+		</p>
+		
+		<p class="cxft-medium cxlh-small">&nbsp;</p>
+
+
+</td>
+</tr>
+</table>
+
+
+	</div>
+</div>
+
+
+<script type="text/javascript">
+<!--
+	var city_visible = 0;
+	function toggleCities(){
+		if(city_visible == 0) {
+			document.getElementById("cx-swrm-city-note").style.display = "block";
+			document.getElementById("cx-swrm-city-note").style.visibility = "visible";
+			city_visible = 1;
+		} else {
+			closeCityBox();
+		}
+	}
+
+	function closeCityBox(){
+		document.getElementById("cx-swrm-city-note").style.display = "none";
+		document.getElementById("cx-swrm-city-note").style.visibility = "hidden";
+		city_visible = 0;
+	}
+-->
+</script>
+<div id="ctyx-header-wrap">
+    <div id="ctyx-header" class="page">
+		
+			<div>
+				<img src="/sj/sj/cn/images/bows.gif" style="position: absolute; margin: 6px 0px 5px; height: 169px; left: -75px; z-index: 1;"/>
+				<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionGoToPage?ONSUCCESS=home.jsp"><img alt="SwarmJam" src="/sj/sj/cn/images/banners/_swarmjam_logo_2.png" id="ctyx-logo"/></a>
+			</div>
+		
+		
+		
+
+		
+			<div class="ctyx-login-area">
+				
+					<h3 class="cxft-large cxft-norm_weight">Please login to view your account</h3><br/>
+					<p>
+						
+						<form method="post" action="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionLogin?ONSUCCESS=swarmofferdet.jsp&ONERR1=login.jsp&ONERR2=errmsg.jsp&_vrfkey1=v556891&_EXT=_l"><input type="hidden" name="_keyq_l" value="insert"/>
+							<input type="text" name="_fusername_l" maxlength="255"  class="ctyx-login-field" value="Username" onfocus="if(this.value=='Username'){this.value='';this.style.color='#000000';}" onblur="if(this.value==''){this.value='Username';this.style.color='#999999';}"/>
+							<input type="password" name="_fpassword_l" maxlength="50"  class="ctyx-login-field" value="Password" onfocus="if(this.value=='Password'){this.value='';this.style.color='#000000';}" onblur="if(this.value==''){this.value='Password';this.style.color='#999999';}"/>
+							<input class="ctyx-login-button" type="submit" name="Login" value=""/>
+						<input type="hidden" name="_vrfkey2" value="v556891"/></form>
+						
+						<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionGoToPage?ONSUCCESS=login.jsp">Forgot Password?</a>
+					</p>
+					<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionGoToPage?ONSUCCESS=notlog.jsp" class="ctyx-register">Join the Swarm</a>
+				
+				
+			</div>
+
+			<div class="ctyx-select-city" onclick="toggleCities();">
+				<span class="ctyx-city"><acronym title="Click here to change the city">Toronto</acronym></span>
+				<br/><span class="ctyx-select-city-more">More cities</span>
+			</div>
+
+			<div class="cxpl_cl"></div>
+
+			<div id="ctyx-subscribe-area">
+			  
+				
+				<form method="post" action="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionPostBidder?ONSUCCESS=subscribed.jsp&ONERR1=signup.jsp&ONERR2=errmsg.jsp&ONERR4=home.jsp&_vrfkey1=v703340"><input type="hidden" name="_keyq" value="insert"/>
+					<div id="ctyx-subscribe-area-innerdiv"><label>Subscribe to <br />Toronto's DailyJam</label>
+					<input type="text" name="_femail" size="30" maxlength="255"  class="ctyx-subscribe-field" value="Enter Email Address" onfocus="if(this.value=='Enter Email Address'){this.value='';this.style.color='#000000';}" onblur="if(this.value==''){this.value='Enter Email Address';this.style.color='#999999';}"/>
+					<input type="hidden" name="_fsignup"/>
+					<input type="hidden" name="PRODCATSELECTOR" value="10150492" />
+					<input type="submit" class="ctyx-subscribe-button" value="Subscribe" onclick="this.disabled=true;this.value='Submitting...'; this.form.submit();"/>
+					</div>
+				<input type="hidden" name="_vrfkey2" value="v703340"/></form>
+				
+
+			  
+			</div>
+
+			
+				<div class="ctyx-lang-select">
+					<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionGoToPage?ONSUCCESS=home.jsp&_FORCELANGUAGE=DEL"><span class="ctyx-lang-select-en ctyx-lang-select-current">English</span></a>
+					<span class="ctyx-lang-select-divider">/</span>
+					<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionGoToPage?ONSUCCESS=home_frn.jsp&_FORCELANGUAGE=frn"><span class="ctyx-lang-select-fr ctyx-lang-select-alt">Français</span></a>
+				</div>
+			
+
+			<div class="cxpl_cl"></div>
+			<ul class="ctyx-nav clearfix">
+				
+					<li id="ctyx-active"><a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionGoToPage?ONSUCCESS=home.jsp">Today's DailyJam</a></li>
+				
+				 
+					<li><a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionGoToPage?ONSUCCESS=help_works.jsp">How It Works</a></li>
+				
+				
+					<li>
+						
+						
+							<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdDet?ONSUCCESS=swarmofferdet_pts.jsp&PRODID=10535571">Member Rewards</a>
+							
+						
+
+						
+					</li>
+				
+				
+					<li><a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionGoToPage?ONSUCCESS=all_deals.jsp">All Deals</a></li>
+				
+			</ul>
+		
+		<div class="cxpl_cl"></div>
+
+    </div>
+</div>
+
+
+<div id="ctyx-container" class="group" style="min-width:1100px;">
+	
+
+
+	
+	<!-- main content -->
+		
+			
+					<div class="logo2"><img alt="" src="/sj/sj/cn/images/logo-small.png" /></div>
+			
+		
+	<div id="ctyx-content" class="cxpl-float-right">
+		<div class="cxpl-topms">
+
+		<!-- M A I N   C O N T E N T -->
+		<div itemscope itemtype="http://schema.org/Product">
+
+			
+				
+
+
+		
+			
+			
+			
+			<div id="cx-swrm-main_offer">
+			
+				<div class="white-top-small"></div> 
+				<div class="white-offerTitle clearfix" ><div class="offerTitle"><span itemprop="name">$29.00 for a Hummer H1 Tour at Horseshoe Valley from Era Tours ($67.00 Value)<span></div></div>
+				<div class="white-mid-small clearfix">
+					<img src="http://www.cityxpress.com/_dbimgs/xpauction/p10534724.jpg?_RND=-111523434" border="0" alt="Today's SwarmJam Offer" class="cxpl-float-right cxpl-bottomms" style="height:345px; width:460px; padding-right: 10px;" itemprop="image" />
+					
+					<div id="cx-swrm-panel-one">
+					
+						
+							
+							<div class="cx-swrm-panel-desc">Value: $67.00<br/></div>
+							<div class="one_step">
+							
+							
+								
+									
+										
+									
+										
+									
+										 
+											 
+												
+													<div class="cx-swrm-button">
+														<a href="https://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionSelectSwarmPrice?_SSEC=1&ONSUCCESS=postswbid.jsp&ONERROR=_samepage_&ONERR2=postswbid.jsp&PRICE=29.00&PRODID=10534724">Buy $29.00</a>
+													</div>
+													<span class="wording">3 more<br/>
+													<span style="font-size:11px; font-weight:normal">Then Everybody Gets This Price!</span></span>
+													<br/><span style="font-size:11px; font-weight:normal; color:#FE9E01;">(57% Off)</span>
+												
+												
+											
+											
+										
+									
+							
+							</div>
+							
+								<div class="cx-swrm-panel-desc"><br/>7 Sold</div>
+							
+						
+					</div>
+					
+					<div id="main-offer-div-en">
+						<div class="cxpl-float-left cxpl-rightms" style="width: 189px; position: absolute; left: -95px; top: 360px;">
+							<div id="cx-swrm-share" class="cxpl-overflow-hidden-div">
+								<h3>Share Today's Deal</h3>
+
+								
+								
+								
+								
+									<div class="cx-swrm-email_select">
+										<img src="/sj/sj/cn/images/icons/email_share_icon.gif" alt="Email" onmouseover="this.style.cursor='pointer'"/>
+										<span><a href="http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.swarmjam.com%2Fwaf.srv%2Fsj%2Fsj%2Fcn%2Fauction_ActionProdDet%3FONSUCCESS%3Dswarmofferdet.jsp%26PRODID%3D10534724%26_SWCATID%3D10150492" target="_blank"><img src="/sj/sj/cn/images/icons/facebook_share_icon.gif" alt="Facebook"/></a></span>
+										<span><a href="http://twitter.com/share?text=$29.00%20for%20a%20Hummer%20H1%20Tour%20at%20Horseshoe%20Valley%20from%20Era%20Tours%20(%2467.00%20Value)&url=http%3A%2F%2Fwww.swarmjam.com%2Fwaf.srv%2Fsj%2Fsj%2Fcn%2Fauction_ActionProdDet%3FONSUCCESS%3Dswarmofferdet.jsp%26PRODID%3D10534724%26_SWCATID%3D10150492" target="_blank"><img src="/sj/sj/cn/images/icons/twitter_share_icon.gif" alt="Twitter" /></a></span>
+										<!--[if gt IE 7]>
+										<span><script type="text/javascript" src="http://apis.google.com/js/plusone.js"></script><g:plusone count="false" href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdDet?ONSUCCESS=swarmofferdet.jsp&PRODID=10534724&_SWCATID=10150492"></g:plusone></span>
+										<![endif]-->
+										<!--[if !IE]>-->
+										<span id="cxplusone" style="display:none;visibility:hidden;"><script type="text/javascript" src="http://apis.google.com/js/plusone.js"></script><g:plusone count="false" href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdDet?ONSUCCESS=swarmofferdet.jsp&PRODID=10534724&_SWCATID=10150492"></g:plusone></span>
+										<script type="text/javascript">
+											if (typeof(navigator) != 'undefined' && navigator.userAgent && !(/iPad/.test(navigator.userAgent)))
+											{
+												// its not an ipad so make span visible
+												document.getElementById("cxplusone").style.display = "inline";
+												document.getElementById("cxplusone").style.visibility = "visible";
+											}
+										</script>
+										<!--<![endif]-->
+										<h3>Login for Referral Points!</h3>
+									
+										<div class="email_holder">
+											<div class="email_popup"> 
+												<span style="color:black; font-weight:bold; font-size:120%; font-style:normal;">Email Method:</span>
+												<br/><br/>
+												<div>
+													&bull;&nbsp;<a href="mailto:?subject=A%20friend%20Recommends%20Today%27s%20SwarmJam%20Daily%20Deal&body=A%20friend%20thinks%20you%20would%20be%20interested%20in%20Toronto%27s%20DailyJam%20on%20SwarmJam%3A%0D%0A$29.00%20for%20a%20Hummer%20H1%20Tour%20at%20Horseshoe%20Valley%20from%20Era%20Tours%20(%2467.00%20Value)%20%2D%20http%3A%2F%2Fwww.swarmjam.com%2Fwaf.srv%2Fsj%2Fsj%2Fcn%2Fauction_ActionProdDet%3FONSUCCESS%3Dswarmofferdet.jsp%26PRODID%3D10534724%26_SWCATID%3D10150492%26d%3D1">Use Microsoft Outlook</a>
+													<br/>
+													&bull;&nbsp;<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdDet?ONSUCCESS=emailfriend.jsp&PRODID=10534724">Use the SwarmJam Form</a>
+												</div>
+											</div>
+											<img class="email_pointer" src="/sj/sj/cn/images/location_pointer_right.gif" alt=""/> 
+										</div>
+									</div>
+								
+							</div>
+							<div id="cx-swrm-timer">
+	
+	
+		
+			
+				<script type="text/javascript">
+				var cx_timer;
+				 var cx_errcnt=19;
+				 function doSomething() {
+				  if (document.getElementById && document.getElementById("cx-cnt-int-sec") != null)
+				  {
+					var as=document.getElementById("cx-cnt-int-sec").innerHTML;
+					as = (as*1) - 1;
+					if (as<0)
+					{
+					  as=59;
+					  var am=document.getElementById("cx-cnt-int-min").innerHTML;
+					  am = (am*1) - 1;
+					  if (am<0)
+					  {
+						am=59;
+						var ah=document.getElementById("cx-cnt-int-hou").innerHTML;
+						ah = (ah*1) - 1;
+						if (ah<0)
+						{
+						  ah=23;
+						  var ad=document.getElementById("cx-cnt-int-day").innerHTML;
+						  ad = (ad*1) - 1;
+						  if (ad<0)
+						  {
+							ad=0;
+							ah=0;
+							am=0;
+							as=0;
+							clearInterval(cx_timer);
+						  }
+						  document.getElementById("cx-cnt-int-day").innerHTML = ad;
+						}
+						document.getElementById("cx-cnt-int-hou").innerHTML = ah;
+					  }
+					  document.getElementById("cx-cnt-int-min").innerHTML = am;
+					}
+					document.getElementById("cx-cnt-int-sec").innerHTML = as;
+				  }
+				  else 
+				  {
+					cx_errcnt--;
+					if (cx_errcnt<0) clearInterval(cx_timer);
+				  }   
+				 }
+				</script>
+				<table id="cx-swrm-counter">
+					<tr><td class="cx-swrm-counter-header" colspan="7">TIME LEFT TO BUY:</td></tr>
+					<tr>
+						<th>DAYS</th>
+						<th></th>
+						<th>HRS.</th>
+						<th></th>
+						<th>MIN.</th>
+						<th></th>
+						<th>SEC.</th>
+					</tr>
+					<tr>
+						<td><span id="cx-cnt-int-day">0</span></td>
+						<td>:</td>
+						<td><span id="cx-cnt-int-hou">7</span></td>
+						<td>:</td>
+						<td><span id="cx-cnt-int-min">59</span></td>
+						<td>:</td>
+						<td><span id="cx-cnt-int-sec">50</span></td>
+					</tr>
+				</table>
+				<script type="text/javascript">
+				cx_timer = setInterval ( "doSomething()", 1000 );
+
+				</script>
+			
+			
+		
+		
+	
+	
+</div>
+						</div>
+						<div id="cx-featuring_kbyb">
+							<div class="cxft-medium cxpl-float-left" style="width:220px; padding-right: 15px;"><br/><b>Featuring:</b><br/>&bull; Experience the beautiful and rugged terrain of Horseshoe Valley <br/>&bull; Drivers deliver an expert demonstration of all the Hummer's awesome capabilities<br/>&bull; Off-road adventure for the whole family<br/>&bull; Explore the beauty of the area in all 4 seasons<br/>&bull; Hummers are equipped with Maltracks that allow them to drive through up to 4 feet of snow<br/></div><br/><div class="cxft-medium" style="max-width:230px; float:left;"><b>Know Before You Buy:</b><br/>&bull; New and existing clients<br/>&bull; One voucher per visit per person<br/>&bull; May buy up to 10 for yourself<br/>&bull; May buy up to 10 for each friend<br/>&bull; By reservation only<br/>&bull; Not valid November 17th-December 25th<br/>&bull; Era Tours reserves the right to join parities/tours<br/>&bull; 24 hour cancellation required or voucher could be forfeited<br/>&bull; Expiry Date: Nov 13 2012</div>
+							<p class="cxal-center cxpl-clear-both cx_bold cxft-medium">
+								<br/>
+								<br/>
+								<div class="cx-general-rules" ><span style="font-size:130%;text-decoration:underline;">See General Rules for all DailyJams</span>
+									<div class="cx-general-rules-holder">
+										<div class="cx-general-rules-popup">
+											<h2 class="cx_bold">General Rules for all DailyJams</h2>
+											<br/>
+											<p>There are rules or limitations that apply to all vouchers sold on SwarmJam, unless one or more of the ones listed below are over-ridden in the Know Before You Buy section above:</p>
+
+
+											
+											<p style="margin-bottom:0px; margin-top:0px;">&bull; Each voucher can only be used once and the voucher value must be used in one visit.</p>
+<p style="margin-bottom:0px; margin-top:0px;">&bull; No cash back for unused portion of voucher <em>(unless required by applicable law in your jurisdiction)</em>. </p>
+<p style="margin-bottom:0px; margin-top:0px;">&bull; Gratuities are not included in the value of this voucher; please tip on the prediscounted value of service.</p>
+<p style="margin-bottom:0px; margin-top:0px;">&bull; Applicable taxes are additional and will be charged upon redemption. </p>
+<p style="margin-bottom:0px; margin-top:0px;">&bull; Cannot be used with other discount coupons or promotional offers.</p>
+<p style="margin-bottom:0px; margin-top:0px;">&bull; Vouchers can be presented to the vendor two days after the deal has closed.</p>
+<p style="margin-bottom:0px; margin-top:0px;">&bull; Restaurants generally accept one voucher for 2-3 people; two vouchers for 4-5; and three vouchers for 6 or more.</p>
+<p style="margin-bottom:0px; margin-top:0px;">&bull; Delivery charges will apply if delivery orders are accepted by vendor.</p>
+											
+											<br/>
+											<p>The face value of the vouchers may be applied to the full value of your bill, including in the case of restaurants alcoholic beverages unless excluded in the Know Before You Buy section above.</p>
+										</div>
+									</div>
+								</div>
+							</p>
+						</div>
+					</div>
+				</div>
+				<div class="white-bot-small"></div>
+			</div>
+
+              
+
+<div id="cx-swrm-side_deals" class="cxft-medium">
+	<div id="cx-swrm-side_deals_top">
+		<h2 class="sidebar-header">Member Rewards</h2>
+	</div>
+	<div id="cx-swrm-side_deals_mid" >
+		<div style="margin:15px 7px 10px 10px">
+		<span style="float:left;">
+			<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdDet?ONSUCCESS=swarmofferdet_pts.jsp&PRODID=10535571"><img src="http://www.cityxpress.com/_dbimgs/xpauction/tp10535571.jpg" class="side-img" /></a>
+		</span>
+		<p style="padding-top:8px;">
+		<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdDet?ONSUCCESS=swarmofferdet_pts.jsp&PRODID=10535571" style="color:white;text-decoration:none;font-size:1.1em;">Bid for 1 of 15 Subway Gift Cards valued at $10.00</a>
+		</p>
+		
+			<p style="padding-top:10px; ">
+			<span style="color:#f4a61a; font-size:1.2em;">Minimum Winning Bid</span>
+				</p>
+				<p style="padding-top:5px; ">
+			<span style="color:#ffffff; font-size:1.2em;">1 Points</span>
+			</p>
+		
+		
+		</div>
+	</div>
+</div>
+
+
+
+
+<div id="cx-swrm-side_deals" class="cxft-medium">
+<div id="cx-swrm-side_deals_top">
+	<h2 class="sidebar-header">More Local Deals</h2>
+</div>
+<div id="cx-swrm-side_deals_mid">
+	<ul class="side-list">
+		<li style="padding:0px; height:10px;">&nbsp;</li>
+
+		<li>
+		
+			
+				<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdDet?ONSUCCESS=swarmofferdet.jsp&PRODID=10535137"><img src="http://www.cityxpress.com/_dbimgs/xpauction/tp10535137.jpg" class="side-img cxpl-float-left" /></a>
+			
+			 
+			<div class="side-details">
+				<div>
+				<span>HealthMedica Yorkville</span><br/>
+				$39.00 for a Glycolic Peel and a Facial ($180.00 Value)<br />
+				</div>
+				<div>
+					<strong>Discount</strong> 78%<br />
+					
+					<strong>Location</strong>
+					
+					
+					
+					
+					
+					
+						
+							Toronto
+						
+					
+					<div style="margin-top:4px;">
+							<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdDet?ONSUCCESS=swarmofferdet.jsp&PRODID=10535137" class="buy-now">BUY NOW</a>
+					</div>
+				</div>
+			
+			</div>
+		</li>
+
+
+
+		<li>
+		
+			
+				<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdDet?ONSUCCESS=swarmofferdet.jsp&PRODID=10535114"><img src="http://www.cityxpress.com/_dbimgs/xpauction/tp10535114.jpg" class="side-img cxpl-float-left" /></a>
+			
+			 
+			<div class="side-details">
+				<div>
+				<span>Perfect Painter</span><br/>
+				$29.00 for Handyman Services ($450.00 Value)<br />
+				</div>
+				<div>
+					<strong>Discount</strong> 94%<br />
+					
+					<strong>Location</strong>
+					
+					
+					
+					
+					
+					
+						
+							Mississauga
+						
+					
+					<div style="margin-top:4px;">
+							<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdDet?ONSUCCESS=swarmofferdet.jsp&PRODID=10535114" class="buy-now">BUY NOW</a>
+					</div>
+				</div>
+			
+			</div>
+		</li>
+
+
+
+		<li>
+		
+			
+				<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdDet?ONSUCCESS=swarmofferdet.jsp&PRODID=10534949"><img src="http://www.cityxpress.com/_dbimgs/xpauction/tp10534949.jpg" class="side-img cxpl-float-left" /></a>
+			
+			 
+			<div class="side-details">
+				<div>
+				<span>Cheap Tickets Canada</span><br/>
+				$59.00 for an International Cell Phone ($147.00 Value)<br />
+				</div>
+				<div>
+					<strong>Discount</strong> 60%<br />
+					
+					<strong>Location</strong>
+					
+					
+					 Online
+					
+					<div style="margin-top:4px;">
+							<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdDet?ONSUCCESS=swarmofferdet.jsp&PRODID=10534949" class="buy-now">BUY NOW</a>
+					</div>
+				</div>
+			
+			</div>
+		</li>
+
+
+
+		<li>
+		
+			
+				<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdDet?ONSUCCESS=swarmofferdet.jsp&PRODID=10534422"><img src="http://www.cityxpress.com/_dbimgs/xpauction/tp10534422.jpg" class="side-img cxpl-float-left" /></a>
+			
+			 
+			<div class="side-details">
+				<div>
+				<span>XSV 360</span><br/>
+				$24.00 for Energy Balance Necklaces ($102.00 Value)<br />
+				</div>
+				<div>
+					<strong>Discount</strong> 76%<br />
+					
+					<strong>Location</strong>
+					
+					
+					 Online
+					
+					<div style="margin-top:4px;">
+							<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdDet?ONSUCCESS=swarmofferdet.jsp&PRODID=10534422" class="buy-now">BUY NOW</a>
+					</div>
+				</div>
+			
+			</div>
+		</li>
+
+
+
+		<li>
+		
+			
+				<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdDet?ONSUCCESS=swarmofferdet.jsp&PRODID=10535681"><img src="http://www.cityxpress.com/_dbimgs/xpauction/tp10535681.jpg" class="side-img cxpl-float-left" /></a>
+			
+			 
+			<div class="side-details">
+				<div>
+				<span>Pangea Organics</span><br/>
+				$19.00 for Skin and Body Products ($40.00 Value)<br />
+				</div>
+				<div>
+					<strong>Discount</strong> 53%<br />
+					
+					<strong>Location</strong>
+					
+					
+					 Online
+					
+					<div style="margin-top:4px;">
+							<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdDet?ONSUCCESS=swarmofferdet.jsp&PRODID=10535681" class="buy-now">BUY NOW</a>
+					</div>
+				</div>
+			
+			</div>
+		</li>
+
+
+
+		<li>
+		
+			
+				<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdDet?ONSUCCESS=swarmofferdet.jsp&PRODID=10535687"><img src="http://www.cityxpress.com/_dbimgs/xpauction/tp10535687.jpg" class="side-img cxpl-float-left" /></a>
+			
+			 
+			<div class="side-details">
+				<div>
+				<span>GECOprints.com</span><br/>
+				$19.00 for Custom Photo Products ($40.00 Value)<br />
+				</div>
+				<div>
+					<strong>Discount</strong> 53%<br />
+					
+					<strong>Location</strong>
+					
+					
+					 Online
+					
+					<div style="margin-top:4px;">
+							<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdDet?ONSUCCESS=swarmofferdet.jsp&PRODID=10535687" class="buy-now">BUY NOW</a>
+					</div>
+				</div>
+			
+			</div>
+		</li>
+
+
+
+		<li>
+		
+			
+				<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdDet?ONSUCCESS=swarmofferdet.jsp&PRODID=10535563"><img src="http://www.cityxpress.com/_dbimgs/xpauction/tp10535563.jpg" class="side-img cxpl-float-left" /></a>
+			
+			 
+			<div class="side-details">
+				<div>
+				<span>Pucklife Magazine</span><br/>
+				$8.99 for a Subscription to Pucklife Magazine ($17.99 Value)<br />
+				</div>
+				<div>
+					<strong>Discount</strong> 50%<br />
+					
+					<strong>Location</strong>
+					
+					
+					 Online
+					
+					<div style="margin-top:4px;">
+							<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdDet?ONSUCCESS=swarmofferdet.jsp&PRODID=10535563" class="buy-now">BUY NOW</a>
+					</div>
+				</div>
+			
+			</div>
+		</li>
+
+
+
+		<li>
+		
+			
+				<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdDet?ONSUCCESS=swarmofferdet.jsp&PRODID=10535555"><img src="http://www.cityxpress.com/_dbimgs/xpauction/tp10535555.jpg" class="side-img cxpl-float-left" /></a>
+			
+			 
+			<div class="side-details">
+				<div>
+				<span>Gyan Yoga</span><br/>
+				$29.00 for Hot Yoga Classes ($120.00 Value)<br />
+				</div>
+				<div>
+					<strong>Discount</strong> 76%<br />
+					
+					<strong>Location</strong>
+					
+					
+					
+					
+					
+					
+						
+							Toronto
+						
+					
+					<div style="margin-top:4px;">
+							<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdDet?ONSUCCESS=swarmofferdet.jsp&PRODID=10535555" class="buy-now">BUY NOW</a>
+					</div>
+				</div>
+			
+			</div>
+		</li>
+
+
+
+		<li>
+		
+			
+				<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdDet?ONSUCCESS=swarmofferdet.jsp&PRODID=10534934"><img src="http://www.cityxpress.com/_dbimgs/xpauction/tp10534934.jpg" class="side-img cxpl-float-left" /></a>
+			
+			 
+			<div class="side-details">
+				<div>
+				<span>Zoga Fitness</span><br/>
+				$15.00 for Group Fitness Classes ($90.00 Value)<br />
+				</div>
+				<div>
+					<strong>Discount</strong> 83%<br />
+					
+					<strong>Location</strong>
+					
+					
+					
+					
+					
+					
+						
+							Whitby
+						
+					
+					<div style="margin-top:4px;">
+							<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdDet?ONSUCCESS=swarmofferdet.jsp&PRODID=10534934" class="buy-now">BUY NOW</a>
+					</div>
+				</div>
+			
+			</div>
+		</li>
+
+
+
+		<li>
+		
+			
+				<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdDet?ONSUCCESS=swarmofferdet.jsp&PRODID=10534931"><img src="http://www.cityxpress.com/_dbimgs/xpauction/tp10534931.jpg" class="side-img cxpl-float-left" /></a>
+			
+			 
+			<div class="side-details">
+				<div>
+				<span>XSV 360</span><br/>
+				$14.00 for Smart Phone Skins ($39.99 Value)<br />
+				</div>
+				<div>
+					<strong>Discount</strong> 65%<br />
+					
+					<strong>Location</strong>
+					
+					
+					 Online
+					
+					<div style="margin-top:4px;">
+							<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdDet?ONSUCCESS=swarmofferdet.jsp&PRODID=10534931" class="buy-now">BUY NOW</a>
+					</div>
+				</div>
+			
+			</div>
+		</li>
+
+
+
+		<li>
+		
+			
+				<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdDet?ONSUCCESS=swarmofferdet.jsp&PRODID=10535552"><img src="http://www.cityxpress.com/_dbimgs/xpauction/tp10535552.jpg" class="side-img cxpl-float-left" /></a>
+			
+			 
+			<div class="side-details">
+				<div>
+				<span>NuMe Style</span><br/>
+				$35.00 for Hair Care Products and Accessories ($130.00 Value)<br />
+				</div>
+				<div>
+					<strong>Discount</strong> 73%<br />
+					
+					<strong>Location</strong>
+					
+					
+					 Online
+					
+					<div style="margin-top:4px;">
+							<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdDet?ONSUCCESS=swarmofferdet.jsp&PRODID=10535552" class="buy-now">BUY NOW</a>
+					</div>
+				</div>
+			
+			</div>
+		</li>
+
+
+
+		<li>
+		
+			
+				<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdDet?ONSUCCESS=swarmofferdet.jsp&PRODID=10535543"><img src="http://www.cityxpress.com/_dbimgs/xpauction/tp10535543.jpg" class="side-img cxpl-float-left" /></a>
+			
+			 
+			<div class="side-details">
+				<div>
+				<span>ShopOnlineDeals.com</span><br/>
+				$44.00 for Personalized Family Rings ($99.00 Value)<br />
+				</div>
+				<div>
+					<strong>Discount</strong> 56%<br />
+					
+					<strong>Location</strong>
+					
+					
+					 Online
+					
+					<div style="margin-top:4px;">
+							<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdDet?ONSUCCESS=swarmofferdet.jsp&PRODID=10535543" class="buy-now">BUY NOW</a>
+					</div>
+				</div>
+			
+			</div>
+		</li>
+
+
+
+		<li>
+		
+			
+				<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdDet?ONSUCCESS=swarmofferdet.jsp&PRODID=10535570"><img src="http://www.cityxpress.com/_dbimgs/xpauction/tp10535570.jpg" class="side-img cxpl-float-left" /></a>
+			
+			 
+			<div class="side-details">
+				<div>
+				<span>Eastie Boyz Paintball</span><br/>
+				$20.00 for Paintball Packages ($100.00 Value)<br />
+				</div>
+				<div>
+					<strong>Discount</strong> 80%<br />
+					
+					<strong>Location</strong>
+					
+					
+					
+					
+					
+					
+						
+							Toronto
+						
+					
+					<div style="margin-top:4px;">
+							<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdDet?ONSUCCESS=swarmofferdet.jsp&PRODID=10535570" class="buy-now">BUY NOW</a>
+					</div>
+				</div>
+			
+			</div>
+		</li>
+
+
+
+		<li>
+		
+			
+				<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdDet?ONSUCCESS=swarmofferdet.jsp&PRODID=10534954"><img src="http://www.cityxpress.com/_dbimgs/xpauction/tp10534954.jpg" class="side-img cxpl-float-left" /></a>
+			
+			 
+			<div class="side-details">
+				<div>
+				<span>Cool Slap On</span><br/>
+				$15.00 for Slap-On Watches ($39.00 Value)<br />
+				</div>
+				<div>
+					<strong>Discount</strong> 62%<br />
+					
+					<strong>Location</strong>
+					
+					
+					 Online
+					
+					<div style="margin-top:4px;">
+							<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdDet?ONSUCCESS=swarmofferdet.jsp&PRODID=10534954" class="buy-now">BUY NOW</a>
+					</div>
+				</div>
+			
+			</div>
+		</li>
+
+	</ul>
+</div>
+
+
+</div>
+
+			  
+			
+			<div class="cxft-medium cx-swrm-box cxpl-overflow-hidden" style="width:598px; clear:left; ">
+			
+				<h1 class="cx-imp_bar">More About This Deal</h1>
+				<div class="cx-swrm-shell cxpl-float-left" style="width:310px;">
+					<div class="cxpl-gutter"><p><span itemprop="description" >Back in the late '80s, Arnold Schwarzenegger fell in love while filming one of his explosive summer blockbusters. When a convoy of armoured Humvees caught Arnie's eye, it was love at first sight. Smitten, he began to lobby manufacturers to develop a civilian version of the amazing all-terrain vehicles. Finally, in 1992, 'The Governator' got his wish when the first street-legal Hummers started rolling off assembly lines. You can experience the awesome power of the Hummer and its outrageous off-road capabilities with today's adrenaline-fuelled deal.<br/><br/>Star in your very own action-packed adventure with today's SwarmJam: $29 for a Hummer H1 tour at Horseshoe Valley with Era Tours ($67 value).<br/><br/>Get ready for the adventure of a lifetime and hop in a Hummer H1 for an exciting tour through the beautiful Horseshoe Valley region. During this one-hour tour, you'll get to witness the impressive off-road abilities of the Hummer H1 as it dominates even the most rugged terrain. These totally mean machines push the limits of physics and can even travel through up to four feet of snow. So sit back, buckle up and let the good times roll with this awe-inspiring deal from Era Tours.<br/><br/>Take an unforgettable tour with today's daily deal.  <br/> <br/></span></p>
+					</div>
+				</div>
+				<div class="cxal-center cx-swrm-nav">
+					
+						
+							<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdVend?ONSUCCESS=venddet.jsp&ONERR2=venddet.jsp&VENDID=10146879">
+								<img src="http://www.cityxpress.com/_dbimgs/xpauction/v10146879.jpg" />
+							</a>
+						
+						<h2 class="cx_bold">Era Tours</h2><br/>
+						
+						
+						
+							
+								<script type="text/javascript">
+	var google_url = "";
+	var v_address = "";
+	var v_city = "";
+	var v_state ="" ;
+</script>
+
+
+	<p>1101 Horseshoe Valley</p>
+	<script type="text/javascript">
+		v_address = "1101 Horseshoe Valley";
+		v_address = v_address.replace(/ /g, "+");
+	</script>
+
+<p>
+	
+		Barrie,
+		<script type="text/javascript"> 
+			v_city = "Barrie";
+			v_city = v_city.replace(/ /g, "+");
+		</script>
+	
+	
+		ON
+		<script type="text/javascript">
+			v_state = "ON";
+			v_state = v_state.replace(/ /g, "+");
+		</script>
+	
+	L4M 4Y8
+</p>
+<p>Telephone 705-835-2709 </p>
+
+<p><a href="mailto:insidesales@kymo.ca">insidesales@kymo.ca</a></p>
+<p><a href="http://www.eratours.ca" target="_blank">www.eratours.ca</a></p>
+
+	<script type="text/javascript">
+		google_url = "http://maps.google.com?q=" + v_address + "+" + v_city + "+" + v_state;
+		document.write("<div class=\"cxbt-arrow_small\"><a href=\"" + google_url + "\" target=\"_blank\">View Map</a></div>");
+	</script>
+
+
+							
+						
+						
+						
+						<br/><br/><br/>
+						<div class="cxbt-arrow">
+							<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdVend?ONSUCCESS=venddet.jsp&ONERR2=venddet.jsp&VENDID=10146879">
+								Vendor Profile
+							</a>
+						</div>
+					
+				</div>
+			</div>
+
+			
+			
+
+			
+		</div>
+		<!-- E N D   O F   M A I N   C O N T E N T -->
+		
+		
+
+		</div>
+
+</div>
+
+</div>
+<div id="ctyx-prefooter">
+</div>
+	<div id="ctyx-footer" class="cxpl-overflow-hidden cxft-medium">
+		<div class="cxal-center" style="width:660px;">
+			<ul class="cxpl-link">
+				<li><a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionGoToPage?ONSUCCESS=home.jsp">Home</a></li>
+				<li><a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionGoToPage?ONSUCCESS=user_account.jsp">My Account</a></li>
+				<li><a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionGoToPage?ONSUCCESS=help_about.jsp" target="_blank">About SwarmJam</a></li>
+				<li><a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionGoToPage?ONSUCCESS=help_rewards.jsp" target="_blank">About Reward Points</a></li>
+			</ul>
+			<ul class="cxpl-link">
+				<li><a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionGoToPage?ONSUCCESS=help_works.jsp" target="_blank">How it Works</a> </li>
+				<li><a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionGoToPage?ONSUCCESS=help_contactus.jsp" target="_blank">Contact Us</a></li>
+				<li><a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionGoToPage?ONSUCCESS=help_faq.jsp" target="_blank">FAQs</a> </li>
+				<li><a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionGoToPage?ONSUCCESS=privacy.jsp" target="_blank">Privacy Policy</a></li>
+			</ul>
+			<ul class="cxpl-link">
+				<li><a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionGoToPage?ONSUCCESS=home.jsp">View Today's DailyJam</a></li>
+				<li><a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionGoToPage?ONSUCCESS=terms_conditions.jsp" target="_blank">Terms and Conditions</a> </li>
+				<li><a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionGoToPage?ONSUCCESS=help_email.jsp" target="_blank">Not Receiving Your DailyJam?</a></li>
+				<li><a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionGoToPage?ONSUCCESS=vendbenefits.jsp">Feature Your Business on SwarmJam</a></li>
+			</ul>
+			<div>
+			<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionGoToPage?ONSUCCESS=m_home.jsp&ACTIONPARAM=c_mobile"><img src="/sj/sj/cn/images/icons/mb.png" alt="Visit Our Mobile Site" style="width:80px;height:80px;" /><br/>Mobile Site</a>
+			</div>
+			<br/><br/>
+			<div  style="margin:auto;">
+				<a href="http://www.cityxpress.info" target="_blank"><img src="/sj/sj/cn/images/cityxpress_logo.gif" alt="Powered By CityXpress" /></a>
+				<a href="http://www.postmedia.com/" target="_blank"><img src="/sj/sj/cn/images/postmedia_logo.gif" alt="Postmedia" /></a><br/>
+				&copy; 2010 Postmedia Network Inc., All rights reserved
+			<br/><br/>
+			</div>
+		</div>
+	</div>
+
+
+<script type="text/javascript">
+	if(cx_trk == true)
+	{
+		_gaq.push(['_trackPageview']);
+	}
+
+	(function() {
+	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+
+
+		<script language="javascript" type="text/javascript" src="/sj/sj/cn/scriptsn/numberformat154.js" ></script>
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.0/jquery.min.js"></script>
+		<script type="text/javascript">
+
+			function closeBox(){
+				document.getElementById("cx-swrm-imp-note").style.display = "none";
+				document.getElementById("cx-swrm-imp-note").style.visibility = "hidden";
+			}
+
+			function closeBoxlub(){
+				document.getElementById("cx-swrm-imp-note-lub").style.display = "none";
+				document.getElementById("cx-swrm-imp-note-lub").style.visibility = "hidden";
+			}
+		</script>
+
+		<script type="text/javascript">
+			$(document).ready(function() {
+				$(".cx-sidedeals-location-list").hover(function () {
+					$("div.cx-sidedeals-location-list-popup",this).stop(true,true).fadeIn(300);
+				})
+				.mouseleave(function () {
+					$("div.cx-sidedeals-location-list-popup",this).stop(true,true).fadeOut(100);
+				});
+			});
+
+			$(document).ready(function() {
+				$(".cx-general-rules").hover(function () {
+					$("div.cx-general-rules-popup",this).stop(true,true).fadeIn(300);
+				})
+				.mouseleave(function () {
+					$("div.cx-general-rules-popup",this).stop(true,true).fadeOut(100);
+				});
+			});
+		</script>
+
+		<script type="text/javascript">
+			$(document).ready(function() {
+				$(".cx-swrm-email_select").click(function () {
+					var flyoutE0 = $("div.email_holder",this);
+					var flyoutEl = $("div.email_popup",this);
+					var flyoutE2 = $("img.email_pointer",this);
+
+					flyoutE0.stop(true,true).delay(0).show(1);
+					flyoutEl.stop(true,true).delay(0).show(1);
+					flyoutE2.stop(true,true).delay(0).show(1);
+				})
+				.mouseleave(function () {
+					$("div.email_holder",this).stop(true,true).delay(500).hide(1);
+					$("div.email_popup",this).stop(true,true).delay(500).hide(1);
+					$("img.email_pointer",this).stop(true,true).delay(500).hide(1);
+				});
+			});
+		</script>
+
+
+
+	</body>
+</html>
+
+
+

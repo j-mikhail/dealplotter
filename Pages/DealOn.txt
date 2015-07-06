@@ -1,0 +1,235 @@
+http://www.dealon.com/san-francisco
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"> 
+<html>
+<head>
+    <title>DealOn</title> 
+    <link href="/css/dealon.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/css/deal-standard.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/css/form.css" media="screen" rel="stylesheet" type="text/css" /> 
+    <meta http-equiv="Cache-Control" content="no-cache" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="local discount, things to do, coupons, restaurants, tickets, fun events in the city" />
+<meta name="description" content="Save 50-70% at great Restaurants, Spas, and Events in your city from DealOn!" />     
+    <script type="text/javascript" src="/js/jquery/jquery.current.js"></script>
+<script type="text/javascript" src="/js/system.js"></script>	<meta name="google-site-verification" content="uZS7UzrtBTo4VQaUgx-0jJ8-tU98gnJ2COoZN3Fs7vQ" />
+     
+</head>
+<body 	bgcolor='#c3dbcd'>
+		<div class="page-wrapper-coupon">
+		<div id="header" class="notopbar">
+			
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-7579498-17']);
+  _gaq.push(['_setDomainName', 'none']);
+  _gaq.push(['_setAllowLinker', true]);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script><p style="font-weight: bold; font-size: 14px">DealOn.com friends, we're sorry to tell you that we're no longer featuring local offers on DealOn.com. Click <a style="font-weight: bold;font-size: 14px" href="/closing">here</a> for more details.</p>
+<a href="/" title="DealOn!"><img class="logo" src="/images/logo.png" alt="DealOn!" title="DealOn!" /></a>
+<div class="floated" style="margin: 8px 0 0 30px; font-size:12px; font-weight: bold">
+	<div style="vertical-align: middle;">Now a<img style="vertical-align: middle" src="/images/RL-logo-gel.png" width="90px" height="32px" />company. <a href="/news">Read More &#62;</a></div>
+</div>	
+
+<div class="location-wrapper">
+	<div class="location">
+		<h2><span>in</span> San Francisco</h2>
+		
+<select name="city_id" id="city_id">
+    <optgroup label="">
+    <option value="albuquerque" label="Albuquerque">Albuquerque</option>
+    <option value="atlanta" label="Atlanta">Atlanta</option>
+    <option value="austin" label="Austin">Austin</option>
+    <option value="baltimore" label="Baltimore">Baltimore</option>
+    <option value="birmingham" label="Birmingham">Birmingham</option>
+    <option value="boise" label="Boise">Boise</option>
+    <option value="boston" label="Boston">Boston</option>
+    <option value="charlotte" label="Charlotte">Charlotte</option>
+    <option value="chicago" label="Chicago">Chicago</option>
+    <option value="cincinnati" label="Cincinnati">Cincinnati</option>
+    <option value="cleveland" label="Cleveland">Cleveland</option>
+    <option value="columbus" label="Columbus">Columbus</option>
+    <option value="dallas" label="Dallas">Dallas</option>
+    <option value="denver" label="Denver">Denver</option>
+    <option value="detroit" label="Detroit">Detroit</option>
+    <option value="fort-worth" label="Fort Worth">Fort Worth</option>
+    <option value="honolulu" label="Honolulu">Honolulu</option>
+    <option value="houston" label="Houston">Houston</option>
+    <option value="indianapolis" label="Indianapolis">Indianapolis</option>
+    <option value="jacksonville" label="Jacksonville">Jacksonville</option>
+    <option value="kansas-city" label="Kansas City">Kansas City</option>
+    <option value="knoxville" label="Knoxville">Knoxville</option>
+    <option value="las-vegas" label="Las Vegas">Las Vegas</option>
+    <option value="lincoln" label="Lincoln">Lincoln</option>
+    <option value="little-rock" label="Little Rock">Little Rock</option>
+    <option value="los-angeles" label="Los Angeles">Los Angeles</option>
+    <option value="louisville" label="Louisville">Louisville</option>
+    <option value="memphis" label="Memphis">Memphis</option>
+    <option value="miami" label="Miami">Miami</option>
+    <option value="milwaukee" label="Milwaukee">Milwaukee</option>
+    <option value="minneapolis" label="Minneapolis">Minneapolis</option>
+    <option value="nashville" label="Nashville">Nashville</option>
+    <option value="new-orleans" label="New Orleans">New Orleans</option>
+    <option value="new-york" label="New York">New York</option>
+    <option value="northern-nj" label="Northern NJ">Northern NJ</option>
+    <option value="oklahoma-city" label="Oklahoma City">Oklahoma City</option>
+    <option value="omaha" label="Omaha">Omaha</option>
+    <option value="orange-county" label="Orange County">Orange County</option>
+    <option value="orlando" label="Orlando">Orlando</option>
+    <option value="philadelphia" label="Philadelphia">Philadelphia</option>
+    <option value="phoenix" label="Phoenix">Phoenix</option>
+    <option value="pittsburgh" label="Pittsburgh">Pittsburgh</option>
+    <option value="portlandme" label="Portland, ME">Portland, ME</option>
+    <option value="portland" label="Portland, OR">Portland, OR</option>
+    <option value="raleigh" label="Raleigh">Raleigh</option>
+    <option value="sacramento" label="Sacramento">Sacramento</option>
+    <option value="salt-lake" label="Salt Lake City">Salt Lake City</option>
+    <option value="san-antonio" label="San Antonio">San Antonio</option>
+    <option value="san-diego" label="San Diego">San Diego</option>
+    <option value="san-francisco" label="San Francisco" selected="selected">San Francisco</option>
+    <option value="san-jose" label="San Jose">San Jose</option>
+    <option value="seattle" label="Seattle">Seattle</option>
+    <option value="spokane" label="Spokane">Spokane</option>
+    <option value="st-louis" label="St. Louis">St. Louis</option>
+    <option value="tampa" label="Tampa">Tampa</option>
+    <option value="tucson" label="Tucson">Tucson</option>
+    <option value="washington-dc" label="Washington D.C.">Washington D.C.</option>
+    </optgroup>
+    <optgroup label="Coming Soon...">
+    <option value="burlington" label="Burlington">Burlington</option>
+    </optgroup>
+</select>
+<script type="text/javascript" language="javascript">
+<!--
+$(document).ready(function(){
+    $("#city_id").change(function () {
+        //Set new default city in cookie
+        var exdate=new Date();
+        var expiredays=365*5;
+        exdate.setDate(exdate.getDate()+expiredays);
+        document.cookie='__defcity'+ "=" +escape($("#city_id").val())+
+                        ((expiredays==null) ? "" : ";expires="+exdate.toGMTString())+";path=/";
+
+        //redirect
+        document.location="/" + $("#city_id").val() + "/deal/today";
+    });
+});
+//-->
+</script>
+		<div class="clear"></div>
+	</div>		
+</div>
+
+
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({appId: '197032268909', status: true, cookie: true,
+             xfbml: true});
+  };
+  (function() {
+    var e = document.createElement('script'); e.async = true;
+    e.src = document.location.protocol +
+      '//connect.facebook.net/en_US/all.js';
+    document.getElementById('fb-root').appendChild(e);
+  }());
+</script>
+
+
+			<div class="clear"></div>
+			<div class="login-buttons">
+        		<a href="https://www.facebook.com/dialog/oauth?client_id=197032268909&redirect_uri=http://www.dealon.com/login/loginfb" class="floated" style="padding-top: 2px;"><img src="/images/f-connect-but.gif" /></a> 
+
+				<div class="login-button-wrapper"><div class="login-button-left"><div class="login-button-right"><div class="login-button">
+					<a href="/san-francisco/registration">Join Now</a>
+				</div></div></div></div>
+
+				<div class="login-button-wrapper"><div class="login-button-left"><div class="login-button-right"><div class="login-button">
+					<a href="/login">Sign In</a>
+				</div></div></div></div>
+			</div>
+
+<div class="top-links">
+	<a href="/san-francisco/deal/today">Today's Deal</a>
+			
+	<a href="/san-francisco/deal/more-deals">More Deals</a>
+			<!-- 
+	<a href="/featureyourbusiness">Feature Your Business</a>
+-->
+</div>
+			<div class="clear"></div>
+		</div>
+		<div id="content-wrapper">
+						<div id="content">
+				<div class="clear"></div>
+    			                
+            				<div class="clear"></div>
+				<div class="page-title">
+	<h1>Closing</h1>
+</div>
+<div  class="panel-left-bg">
+	<div class="panel-left-news">
+		<table width="100%">
+			<tr>
+				<td style="vertical-align:top">
+					<p>Dear friends of DealOn.com,</p>
+
+                    <p>We're sorry to tell you that as of Tuesday, Dec. 20, 2011, DealOn.com is no longer featuring local offers on our Website, or delivering local offers via email. We want to thank you for support. We have enjoyed bringing you great offers from the best local merchants.</p>
+                    
+                    <p>Any certificates you purchased previously will be honored through their expiration date.</p>
+                    
+                    <p>If you have any questions, you can reach us at <a href="mailto:contact@dealon.com">contact@dealon.com</a>.</p>
+                    
+                    <p>Thanks,</p>
+                    
+                    <p>The DealOn.com Team</p>
+				</td>				
+			</tr>
+		</table>
+	</div>	
+</div>
+				<div class="clear"></div>
+			</div>
+		</div>
+		<div id="footer">
+			<div class="foot-column">
+	    <p>
+      &copy; 2011 DealOn, LLC. All Rights Reserved.<br>
+              <a style="display: none" href="/sitemap.xml">Sitemap</a>
+          </p>
+</div>
+
+<div class="foot-column">
+    <h2>Explore DealOn</h2>
+    
+    <ul class="floated">
+            <li><a href="/san-francisco/deal/today">Today's Deal</a></li>
+            <li><a href="/san-francisco/deal/more-deals">More Deals</a></li>
+      <li><a href="/faq">FAQ</a></li>
+    </ul>
+    
+    <ul class="floated">
+	      <!-- <li><a href="/aboutus">About Us</a></li> -->
+	      <li><a href="/news">News</a></li>
+      <!-- <li><a href="/contact">Contact Us</a></li>  -->
+      <li><a href="/terms">Terms of Use</a></li>
+      <li><a href="/privacy">Privacy Policy</a></li>         
+    </ul>
+    
+    <ul class="floated">
+      <!-- <li><a href="/featureyourbusiness">Feature Your Business</a></li>  -->
+      <!-- <li><a href="/affiliates">Affiliate Program</a></li>  -->
+      <li><a href="/san-francisco/registration">Create an Account</a></li>
+      <li><a href="/login">Sign In</a></li>
+    </ul>
+</div>			<div class="clear"></div>
+		</div>
+	</div>
+	</body>
+</html>

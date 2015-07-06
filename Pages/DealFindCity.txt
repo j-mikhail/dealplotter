@@ -1,0 +1,218 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>Dealfind.com Deal of The Day, Local Daily Deals</title>
+<meta name="description" content="Get 50 to 90 percent off the best stuff your city has to offer. Save on restaurants, spas, shopping, salons and more. Hot deals in your city."/>
+<link rel="stylesheet" href="http://a1.dealfindcdn.com/September-20th-2011/css/subscribe.css" type="text/css"/>
+<script type="text/javascript" src="http://a1.dealfindcdn.com/September-20th-2011/!/third-party/js/jquery.tools.min.js"></script>
+<script type="text/javascript" src="http://a1.dealfindcdn.com/September-20th-2011/!/third-party/js/jquery.session.js"></script>
+
+<script type="text/javascript">
+	var block_tag = null; //used in blockClick()
+	
+	function city_name()
+	{
+		var default_city_name = 'Select';
+		var js_city_name;
+		if($.session("sess_city_name"))
+		{
+			js_city_name = $.session("sess_city_name");
+		}
+		else
+		{	
+			js_city_name = default_city_name;
+		}
+		return js_city_name;
+	}
+	function set_city(id)
+	{
+		var default_city_name = '';
+		// on select 
+		if($.session("sess_city_name"))
+		{
+			if($.session("sess_city_name") == "Select")
+			{
+				$('#'+id).hide();
+				$('#intro_logo').removeAttr("href");
+			}
+			else
+			{
+				$('#'+id).attr('href', $.session("sess_city_name"));
+				$("#intro_logo").attr('href', $.session("sess_city_name"));
+				$('#'+id).show();
+			}
+		}
+		else
+		{	
+			// on first page load
+			if(default_city_name == "")
+			{
+				$('#'+id).hide();
+				$('#intro_logo').removeAttr("href");
+			}
+			else
+			{
+				$('#'+id).attr('href', default_city_name);
+				$("#intro_logo").attr('href',default_city_name);
+				$('#'+id).show();
+			}
+		}
+	}
+	$(document).ready(function() 
+	{
+		$('.step1').show();
+		$('.step2').hide();
+		$('.error1').hide();
+		var val = $("#selectcity").val();
+		if(val == "Select")
+			$('#cityname').hide();
+		$('#selectcity').change(function()
+		{
+			var val = $("#selectcity").val();
+			// SET CITY AUTOMATIC TEXT TO HEADER 
+			var city_name =  ($("#selectcity [value= "+val+"]").text());
+			$.session("sess_city_name",val);
+			set_city('skip_this');
+			//alert(city_name);
+			if(val == "Select")
+			{
+				$('#cityname').hide();
+			}
+			else
+			{
+				$("#cityname").html('<span class="intext">in</span>'+city_name);
+				$('#cityname').show();
+			}
+		});
+		var city_name1 = city_name();
+		if(city_name1 =="Select")
+		{
+			$('#cityname').hide();
+		}
+		set_city('skip_this');
+	});
+	function step(hide, show)
+	{
+		var city_name1 = city_name();
+		if(city_name1 == "Select")
+		{
+			$('.error1').show();
+			return false;
+		}
+		else
+		{
+			$('.step'+hide).hide();
+			$('.step'+show).show();
+			$('.error').hide();
+			$('.error1').hide();
+			if(show == 2 )
+			{
+				$('#email').focus();
+			}
+		}
+	}
+	function IsValidEmail(email)
+	{
+		var filter = /^([\w-\.]+)@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.)|(([\w\-]+\.)+))([a-zA-Z]{2,4}|[0-9]{1,3})(\]?)$/;
+		return filter.test(email);
+	}
+	function validate()
+	{
+		if(!$('#email').val())
+		{ 
+			$('.error').show();
+			$('#email').focus();
+		}
+		else if($('#email').val())
+		{
+			if (!IsValidEmail($('#email').val()))
+			{
+				$('.error').show();
+				$('#email').focus();
+				$('#continue2').attr('href', "#");
+				return false;
+			}
+			else
+			{
+				//
+				if(blockClick()){				
+					$('.error').hide();
+					document.frm_subscribe.submit();
+				}
+			}
+		}
+	}
+	
+	/* limits the amount of click a user can click a submit button 
+	*  return true if the user can proceed
+	*  return false if the user is blocked
+	* 
+	*  this function also exists in main.js
+	*/
+	function blockClick(){	
+		var wait = 10000; //block clicking for a set time - in milliseonds
+		var d = new Date();	
+		
+		if(block_tag == null || d.getTime() > block_tag){
+			block_tag = d.getTime()+wait;
+			//console.log('true');
+			return true;
+		}
+		//console.log('false');
+		return false;
+	}
+</script>
+</head>
+<body>
+
+<div class="intro_container bg_container2">
+
+	<a href="http://www.dealfind.com/" class="intro_logo" id="intro_logo">&nbsp;</a>
+	<div class="intro_title">
+		<span class="intro_text_size1">Your Guide to Daily Deals </span>
+		<span class="intro_text_size2" id="cityname"><span class="intext">in</span>Select</span>
+		<span class="intro_text_size3">at 50% - 90% OFF</span>	</div>
+
+	<div class="intro_yellowbox">
+		<img src="http://a1.dealfindcdn.com/September-20th-2011/i/pagenumber1.png" class="intro_pagenumber step1" width="54" height="54" alt=""/>
+		<img src="http://a1.dealfindcdn.com/September-20th-2011/i/pagenumber2.png" class="intro_pagenumber step2" width="54" height="54" alt=""/> 
+		<span class="intro_boxtitle step1">Choose your city: </span> 
+		<form name="frm_subscribe" action="" method="post">
+			<span class="intro_boxtitle step2">Enter your email:</span> 
+			<div class="intro_spacer "></div>
+			<input name="email" type="text" class="step2" id="email"/> 
+			<select name="selectcity" class="step1" id="selectcity" autocomplete="off">
+			<option value="Select"> - Select your city - </option>
+			<option value="abbotsford">Abbotsford</option><option value="atlanta">Atlanta</option><option value="austin">Austin</option><option value="baltimore">Baltimore</option><option value="barrie">Barrie</option><option value="boston">Boston</option><option value="brampton">Brampton</option><option value="calgary">Calgary</option><option value="charlotte">Charlotte</option><option value="chicago">Chicago</option><option value="cleveland">Cleveland</option><option value="dallas">Dallas</option><option value="denver">Denver</option><option value="detroit">Detroit</option><option value="durham">Durham Region</option><option value="edmonton">Edmonton</option><option value="fort-lauderdale">Fort Lauderdale</option><option value="halifax">Halifax</option><option value="hamilton">Hamilton</option><option value="houston">Houston</option><option value="indianapolis">Indianapolis</option><option value="kansas">Kansas</option><option value="kelowna">Kelowna</option><option value="kingston">Kingston</option><option value="kitchener-waterloo">Kitchener - Waterloo</option><option value="las-vegas">Las Vegas</option><option value="london">London</option><option value="los-angeles">Los Angeles</option><option value="miami">Miami</option><option value="milwaukee">Milwaukee</option><option value="minneapolis">Minneapolis</option><option value="mississauga">Mississauga</option><option value="montreal">Montreal</option><option value="nashville">Nashville</option><option value="new-orleans">New Orleans</option><option value="new-york-city">New York City</option><option value="norfolk">Norfolk</option><option value="oakville-burlington">Oakville - Burlington</option><option value="orange-county">Orange County</option><option value="orlando">Orlando</option><option value="ottawa">Ottawa</option><option value="philadelphia">Philadelphia</option><option value="phoenix">Phoenix</option><option value="pittsburgh">Pittsburgh</option><option value="portland">Portland</option><option value="quebec-city">Quebec City</option><option value="raleigh">Raleigh</option><option value="regina">Regina</option><option value="richmond">Richmond</option><option value="sacramento">Sacramento</option><option value="st-louis">Saint Louis</option><option value="salt-lake-city">Salt Lake City</option><option value="san-antonio">San Antonio</option><option value="san-diego">San Diego</option><option value="san-francisco">San Francisco</option><option value="san-jose">San Jose</option><option value="saskatoon">Saskatoon</option><option value="seattle">Seattle</option><option value="st-catharines-niagara">St. Catharines - Niagara</option><option value="st-johns">St. John&#039;s</option><option value="sudbury">Sudbury - North Bay</option><option value="surrey">Surrey</option><option value="tampa">Tampa</option><option value="toronto">Toronto</option><option value="vancouver">Vancouver</option><option value="victoria">Victoria</option><option value="washington-dc">Washington DC</option><option value="windsor">Windsor</option><option value="winnipeg">Winnipeg</option><option value="york-region">York Region</option>
+			</select>
+			<div class="intro_spacer"></div>
+			<div class="intro_text step2">Don't worry, your email is safe with us.</div>
+			<div class="intro_text_red step1 error1">* Please select your city.</div>
+			<div class="intro_text_red step2 error">* Please enter a valid email address.</div>
+			
+			<div class="intro_btn ">
+			<a href="#" class="step1" onClick="javascript:step(1,2);return false;" id="continue1"><img src="http://a1.dealfindcdn.com/September-20th-2011/i/intro_btn1.png" border="0" width="149" height="62" alt=""/></a>
+			<a href="#" class="step2" id="continue2" onclick="javascript:validate();return false;"><img src="http://a1.dealfindcdn.com/September-20th-2011/i/intro_btn2.png" border="0" width="149" height="62" alt=""/></a>			</div>
+		
+			<a href="#" class="intro_back step2" onClick="javascript:step(2,1);return false;">Back</a>
+			<a href="#" class="intro_link1b" id="skip_this">Skip this and show me today's deal</a>
+			<a href="/privacy-policy.php" class="intro_link2">Privacy Policy</a>	
+		</form>
+	</div>
+</div>
+	<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(["_setAccount", "UA-15981997-1"]);
+  _gaq.push(["_trackPageview"]);
+
+  (function() {
+    var ga = document.createElement("script"); ga.type = "text/javascript"; ga.async = true;
+    ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";
+    var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</body>
+</html>

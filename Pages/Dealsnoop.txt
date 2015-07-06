@@ -1,0 +1,2301 @@
+http://www.dealsnoop.com/treats/?dsdeal=49
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html lang="en" dir="ltr" xmlns="http://www.w3.org/1999/xhtml"
+
+      xmlns:og="http://ogp.me/ns#"
+
+      xmlns:fb="http://www.facebook.com/2008/fbml">
+
+  <head>
+
+    <title>Dealsnoop.com - Toronto (GTA)'s Featured Deal</title>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+    <meta http-equiv="X-UA-Compatible" content="IE=8" />
+
+    
+
+    <meta property="og:title" content="$200 Worth of Tattoo Services for only $99!"/>
+
+    <meta property="og:type" content="website"/>
+
+    <meta property="og:url" content="http://www.dealsnoop.com/treats/?dsdeal=49"/>
+
+    <meta property="og:image" content="http://www.dealsnoop.com/images/dealpics/CALI-001.jpg"/>
+
+    <meta property="og:site_name" content="Dealsnoop"/>
+
+    <meta property="fb:admins" content="641295081"/>
+
+    <meta property="og:description"
+
+          content="$200 Worth of Tattoo Services for only $99!"/>
+
+
+
+    
+
+    <link rel="icon" href="/images/favicon.ico" type="image/x-icon" />
+
+    <link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon" />
+
+      
+
+    <script type="text/javascript" 
+
+            src="../javascript/jquery-1.4.2.min.js"></script>
+
+    <script type="text/javascript" 
+
+            src="../javascript/jquery.tools.min.js"></script>                
+
+    <script type="text/javascript" 
+
+            src="../javascript/jquery.validate.min.js"></script>
+
+            
+
+    <!-- twitter -->
+
+    <script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+
+    <!-- facebook -->
+
+    <script type="text/javascript" src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script>
+
+    
+
+    <script type="text/javascript" src="https://cdns.gigya.com/js/socialize.js?apiKey=2_h8jIYbpP1rtUsJCJTcnHLhl04AaXT6iZhxr72IgrxuVvvy5Xq5qf8mw0std3Qz7Z"></script>
+
+    
+
+    <script type="text/javascript">
+
+    var conf =
+
+    {
+
+        APIKey: '2_h8jIYbpP1rtUsJCJTcnHLhl04AaXT6iZhxr72IgrxuVvvy5Xq5qf8mw0std3Qz7Z'
+
+    };
+
+    </script>
+
+    
+
+    <link rel="stylesheet" type="text/css" href="../css/main.css" />
+
+    <link rel="stylesheet" type="text/css" href="../css/overlays.css" />
+
+    <link rel="stylesheet" type="text/css" href="css/page.css" />
+
+    
+
+  </head>
+
+  <body>
+
+<div id="top-panel">
+
+  <div id="top-panel-container">
+
+
+
+
+    <div id="top-panel-sub">
+
+      <form id="top-panel-subform" method="post" action="../subscribe/index.php">
+
+        <fieldset>
+
+          <label for="top_panel_email">Subscribe Today!</label>
+
+          <input type="text" id="top_panel_email" class="fieldhint formfield email required" 
+
+                 name="top_panel_email" maxlength="100" 
+
+                 value="Enter Your Email" />
+
+          
+
+          <input type="submit" id="top-panel-submit" name="top-panel-submit" value="" />
+
+          
+
+        </fieldset>
+
+      </form>
+
+    </div>
+
+    
+
+      
+
+  </div>
+
+</div>
+
+
+
+<div id="top-pulldown">
+
+  <div id="top-pulldown-container">
+
+    <div id="top-myaccount-pulldown">
+
+      <ul>
+
+        <li onclick="location.href='../myaccount/#profile';">Profile</li>
+
+        <li onclick="location.href='../myaccount/#subscriptions';">Subscriptions</li>
+
+        <li onclick="location.href='../myaccount/#purchases';">Purchases</li>
+
+        <li onclick="location.href='../myaccount/#referrals';">Referrals</li>
+
+        <li onclick="location.href='../myaccount/#credit';">Credit Cards</li>
+
+      </ul>
+
+    </div>
+
+  </div>
+
+</div>
+
+
+
+<div id="header">
+
+  <a href="../">
+
+    <img id="header-logo" src="/images/logos/ds-logo.png" 
+
+         alt="&copy; 2011 Dealsnoop.com" title="&copy; 2011 Dealsnoop.com" />
+
+  </a>
+
+
+
+  <div id="header-welcome"></div>
+
+  
+
+  <div id="header-city">
+
+    <h1>Toronto (GTA)</h1>
+
+    <a id="change-city">change city</a>
+
+  </div>
+
+
+
+  <div id="header-signin">
+
+
+
+
+    <div id="signin-hello-section-noauth">
+
+      <a class="signin-hello" href="#">&nbsp;</a>
+
+    </div>
+
+
+    
+
+    <div id="header-signin-bar">
+
+      <div id="header-signin-left">
+
+      </div>
+
+      
+
+      <div id="header-signin-mid">
+
+
+        <a class="link-overlay" rel="#signin-overlay" href="#signin">
+
+          Sign in&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|</a>
+
+        <a class="link-overlay" rel="#signup-overlay" href="#create">
+
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Create your account</a>
+
+
+      </div>
+
+      
+
+      <div id="header-signin-right">
+
+      </div>
+
+    </div>
+
+  </div>
+
+
+
+
+  
+
+  <div id="top-panel-social" style="left:378px; ">
+
+    <a class="social-links" rel="external" href="http://twitter.com/dealsnoop">
+
+      <img src="/images/toppanel/follow-us-twitter.png" 
+
+           alt="dealsnoop on twitter!" /></a>
+
+    <a class="social-links" rel="external" href="http://www.facebook.com/HelloDealSnoop">
+
+      <img src="/images/toppanel/follow-us-facebook.png" 
+
+           alt="dealsnoop on facebook!" /></a>
+
+    <div id="top-panel-sociallabel">FOLLOW US!</div>
+
+  </div>
+
+  
+
+  <a class="load1-overlay" rel="#forgot-overlay" href="#"></a>
+
+  <a class="load2-overlay" rel="#verify-overlay" href="#"></a>
+
+  <a class="load3-overlay" rel="#signin-overlay" href="#"></a>
+
+  <a class="load4-overlay" rel="#newsub-overlay" href="#"></a>
+
+</div>
+
+
+
+<div id="city-rollover">
+
+  <div id="city-rollover-container">
+
+    <div style="width: 100%; overflow: hidden;">
+
+      <h2><b>DEALSNOOP CANADA</b></h2>
+
+      <div class="city-paw"></div>
+
+      <h2 class="blue">Treats Fetched</h2>
+
+    </div>
+
+    
+
+    <ul><li class="divider"></li><li class="link"><div class="city-paw-none"></div><a href="../treats/?dscity=Calgary">Calgary</a></li><li class="divider"></li><li class="link"><div class="city-paw-none"></div><a href="../treats/?dscity=London">London</a></li><li class="divider"></li><li class="link"><div class="city-paw-none"></div><a href="../treats/?dscity=Ottawa">Ottawa</a></li><li class="divider"></li></ul><ul class="last"><li class="divider"></li><li class="link"><div class="city-paw"></div><a href="../treats/?dscity=Toronto+%28GTA%29">Toronto (GTA)</a></li><li class="divider"></li><li class="link"><div class="city-paw-none"></div><a href="../treats/?dscity=Vancouver">Vancouver</a></li><li class="divider"></li><li class="link"><div class="city-paw-none"></div><a href="../treats/?dscity=Winnipeg">Winnipeg</a></li><li class="divider"></li></ul>
+    
+
+  </div>
+
+</div>
+
+
+
+<div id="signup-overlay" class="main-overlay">
+
+  <div class="main-overlay-header-long">
+
+    <h1>Welcome!</h1>
+
+    <h3>To register, please fill in the following:</h3>
+
+  </div>
+
+  
+
+  <div class="main-signup-left">
+
+    <form id="main-signup-form" method="post" 
+
+          action="../includes/overlays/process-signup.php">
+
+      <fieldset>
+
+        <div class="form-row-contain">
+
+          <div class="form-block">
+
+              <label for="signup_fname">First Name</label>
+
+              <input type="text" id="signup_fname" class="formfield required" 
+
+                     name="signup_fname" maxlength="25" />
+
+          </div>                   
+
+          
+
+          <div class="form-block-zero">
+
+              <label for="signup_lname">Last Name</label>
+
+              <input type="text" id="signup_lname" class="formfield required" 
+
+                     name="signup_lname" maxlength="25" />
+
+          </div>
+
+        </div>
+
+        
+
+        <div class="form-row-contain">
+
+          <div class="form-block">
+
+              <label for="signup_email">Email</label>
+
+              <input type="text" id="signup_email" class="formfield email required" 
+
+                     name="signup_email" maxlength="100" />
+
+          </div>
+
+          
+
+          <div class="form-block-zero">
+
+              <label for="signup_email_confirm">Confirm Email</label>
+
+              <input type="text" id="signup_email_confirm" class="formfield email required confirm-email" 
+
+                     name="signup_email_confirm" maxlength="100" />
+
+          </div>
+
+        </div>
+
+        
+
+        <div class="form-row-contain">  
+
+          <div class="form-block">
+
+              <label for="signup_pass">Password</label>
+
+              <input type="password" id="signup_pass" class="formfield required" 
+
+                     name="signup_pass" maxlength="25" />
+
+          </div>
+
+          
+
+          <div class="form-block-zero">
+
+              <label for="signup_pass_confirm">Confirm Password</label>
+
+              <input type="password" id="signup_pass_confirm" class="formfield required confirm-pass" 
+
+                     name="signup_pass_confirm" maxlength="25" />
+
+          </div>
+
+        </div>
+
+        
+
+        <div class="form-row-contain">
+
+          <div class="form-block" style="width: 233px;">
+
+              <input type="checkbox" id="signup_privacy" name="signup_privacy" 
+
+                     class="required" />
+
+              <label style="display: inline;" for="signup_privacy" id="signup-privacy-label">
+
+                I agree to the 
+
+                <a rel="external" href="../fyi/terms.php">Terms and Conditions</a>
+
+                 and <a rel="external" href="../fyi/privacy.php">Privacy Policy</a>
+
+              </label>
+
+          </div>
+
+          
+
+          <div class="form-block-zero">
+
+              <label for="signup_city">Subscribe to an Area Closest to You</label>
+
+              
+
+                            
+
+              <select id="signup_city" name="signup_city" class="formfield required">
+
+              <option value="1">Toronto (GTA)</option><option value="2">Ottawa</option><option value="3">Winnipeg</option><option value="4">Calgary</option><option value="5">Vancouver</option><option value="6">London</option>
+              </select>
+
+          </div>
+
+        </div>
+
+        
+
+        
+        
+
+        <input type="hidden" name="curpage_uri" value="www.dealsnoop.com/treats/" />
+
+        <input type="submit" id="main-signup-submit" name="main_signup_submit" value="" />
+
+        
+
+      </fieldset>
+
+    </form>  
+
+  </div>   
+
+  
+
+  <div class="main-signup-right">
+
+    <div class="main-signin-topright">
+
+      <h3>Login with your Social Network ID</h3>
+
+      <div id="signupDiv"></div>
+
+    </div>
+
+    <div class="main-signup-botright">
+
+      <h2>Already a member?</h2>
+
+      <a class="link-overlay" rel="#signin-overlay" href="#signin">Sign in here!</a>
+
+    </div>
+
+  </div>
+
+</div>
+
+
+
+<script type="text/javascript">
+
+$(document).ready(function() {
+
+  $("#main-signup-form").validate({
+
+   rules: {
+
+     signup_fname: {
+
+       minlength: 2
+
+     },
+
+     signup_pass: {
+
+       minlength: 6
+
+     }
+
+   },
+
+   messages: {
+
+     signup_fname: {
+
+       minlength: jQuery.format("Minimum {0} characters required")
+
+     },
+
+     signup_pass: {
+
+       minlength: jQuery.format("Minimum {0} characters required")
+
+     }
+
+   }
+
+  });
+
+  
+
+  jQuery.validator.addMethod("confirm-email", function() { 
+
+    return $("#signup_email").val() == $("#signup_email_confirm").val(); }, "Emails do not match");
+
+  jQuery.validator.addMethod("confirm-pass", function() { 
+
+    return $("#signup_pass").val() == $("#signup_pass_confirm").val(); }, "Passwords do not match");
+
+    
+
+});
+
+
+
+$("#signup_fname").focus(function() {
+
+  $("#signup_fname").keypress(function(e) {     
+
+    if(e.keyCode == 13) {         
+
+    $("#main-signup-form").submit();     
+
+    } 
+
+  });
+
+});
+
+
+
+$("#signup_lname").focus(function() {
+
+  $("#signup_lname").keypress(function(e) {     
+
+    if(e.keyCode == 13) {         
+
+    $("#main-signup-form").submit();   
+
+    } 
+
+  });
+
+});
+
+
+
+$("#signup_email").focus(function() {
+
+  $("#signup_email").keypress(function(e) {     
+
+    if(e.keyCode == 13) {         
+
+    $("#main-signup-form").submit();     
+
+    } 
+
+  });
+
+});
+
+
+
+$("#signup_email_confirm").focus(function() {
+
+  $("#signup_email_confirm").keypress(function(e) {     
+
+    if(e.keyCode == 13) {         
+
+    $("#main-signup-form").submit();   
+
+    } 
+
+  });
+
+});
+
+
+
+$("#signup_pass").focus(function() {
+
+  $("#signup_pass").keypress(function(e) {     
+
+    if(e.keyCode == 13) {         
+
+    $("#main-signup-form").submit();     
+
+    } 
+
+  });
+
+});
+
+
+
+$("#signup_pass_confirm").focus(function() {
+
+  $("#signup_pass_confirm").keypress(function(e) {     
+
+    if(e.keyCode == 13) {         
+
+    $("#main-signup-form").submit();   
+
+    } 
+
+  });
+
+});
+
+
+
+$("#signup_privacy").focus(function() {
+
+  $("#signup_privacy").keypress(function(e) {     
+
+    if(e.keyCode == 13) {         
+
+    $("#main-signup-form").submit();     
+
+    } 
+
+  });
+
+});
+
+
+
+$("#signup_city").focus(function() {
+
+  $("#signup_city").keypress(function(e) {     
+
+    if(e.keyCode == 13) {         
+
+    $("#main-signup-form").submit();   
+
+    } 
+
+  });
+
+});
+
+
+
+var signupParams =
+
+{
+
+    width: 170,
+
+    height: 150,
+
+    containerID: "signupDiv",  
+
+    UIConfig: '<config><body><controls><snbuttons buttonsize="31"></snbuttons></controls></body></config>',
+
+    showTermsLink: true,
+
+    enabledProviders: 'facebook, google, twitter', 
+
+    redirectURL: "http://www.dealsnoop.com/includes/overlays/social-logon.php",
+
+    sessionExpiration: 0,
+
+    buttonsStyle: 'fullLogo',
+
+    lastLoginIndication: 'welcome',
+
+    lastLoginButtonSize: 25,
+
+    showTooltips: true,
+
+    cid: 'Social Login'
+
+}
+
+gigya.services.socialize.showLoginUI(conf, signupParams);
+
+</script>
+
+<div id="newsub-overlay" class="main-overlay">
+
+  <div class="main-overlay-header">
+
+    <h1>Welcome to Dealsnoop!</h1>  
+
+    <h3>Subscribe Today to get the best deals in your area!</h3>
+
+  </div>
+
+  
+
+  <div class="main-signin-left">
+
+    
+
+    <form id="main-newsub-form" method="post" 
+
+          action="../includes/overlays/process-newsub.php">
+
+      <fieldset>
+
+        <ul>
+
+          <li>
+
+            <label for="newsub_email">Email</label>
+
+            <input type="text" id="newsub_email" class="formfield email required" 
+
+                   name="newsub_email" maxlength="100" />
+
+          </li>
+
+          <li>
+
+            <label for="newsub_city">Subscribe to an Area Closest to You</label>
+
+              
+
+                          
+
+            <select id="newsub_city" name="newsub_city" class="formfield required">
+
+            <option value="1">Toronto (GTA)</option><option value="2">Ottawa</option><option value="3">Winnipeg</option><option value="4">Calgary</option><option value="5">Vancouver</option><option value="6">London</option>
+            </select>
+
+          </li>     
+
+        </ul>
+
+        
+
+        
+        
+
+        <input type="hidden" name="curpage_uri" value="www.dealsnoop.com/treats/" />
+
+        <input type="submit" id="main-newsub-submit" name="main-newsub-submit" value="" />
+
+        
+
+      </fieldset>
+
+    </form>  
+
+  </div>
+
+  
+
+  <div class="main-signin-right">
+
+    <div class="main-signin-topright">
+
+      <h3>Login with your Social Network ID</h3>
+
+      <div id="newsubDiv"></div>
+
+    </div>
+
+    <div class="main-signin-botright">
+
+      <h2>Already a member?</h2>
+
+      <a class="link-overlay" rel="#signin-overlay" href="#signin">Sign in here!</a>
+
+    </div>  
+
+  </div>
+
+</div>
+
+
+
+<script type="text/javascript">
+
+$(document).ready(function() {
+
+  $("#main-newsub-form").validate();
+
+});
+
+
+
+$("#newsub_email").focus(function() {
+
+  $("#newsub_email").keypress(function(e) {     
+
+    if(e.keyCode == 13) {         
+
+    $("#main-newsub-form").submit();   
+
+    } 
+
+  });
+
+});
+
+
+
+var newsubParams =
+
+{
+
+    width: 170,
+
+    height: 150,
+
+    containerID: "newsubDiv",  
+
+    UIConfig: '<config><body><controls><snbuttons buttonsize="31"></snbuttons></controls></body></config>',
+
+    showTermsLink: true,
+
+    enabledProviders: 'facebook, google, twitter', 
+
+    redirectURL: "http://www.dealsnoop.com/includes/overlays/social-logon.php",
+
+    sessionExpiration: 0,
+
+    buttonsStyle: 'fullLogo',
+
+    lastLoginIndication: 'welcome',
+
+    lastLoginButtonSize: 25,
+
+    showTooltips: true,
+
+    cid: 'Social Login'
+
+}
+
+gigya.services.socialize.showLoginUI(conf, newsubParams);       
+
+</script>  
+
+
+<div id="signin-overlay" class="main-overlay">
+
+  <div class="main-overlay-header">
+
+    <h1>Welcome to Dealsnoop!</h1>  
+
+    <h3>Please Sign In</h3>
+
+  </div>
+
+  
+
+  <div class="main-signin-left">
+
+    
+
+    <form id="main-signin-form" method="post" 
+
+          action="../includes/overlays/process-signin.php">
+
+      <fieldset>
+
+        <div class="pink">
+
+        
+        </div>
+
+        
+
+        <ul>
+
+          <li>
+
+            <label for="email">Email</label>
+
+            <input type="text" id="email" class="formfield email required" 
+
+                   name="email" maxlength="100" />
+
+          </li>
+
+          <li>
+
+            <label for="password">Password</label>
+
+            <input type="password" id="password" class="formfield required" 
+
+                   style="margin: 0;"
+
+                   name="password" maxlength="25" />
+
+            <a style="margin-left: 1px;" class="pink" href="?forgot=true">Forgot your password?</a>
+
+          </li>     
+
+          <!--
+
+          <li>
+
+            <input type="checkbox" id="signin_remember" name="signin_remember" />
+
+            <label style="display: inline; cursor: pointer;" for="signin_remember">Remember me</label>
+
+          </li>
+
+          -->
+
+        </ul>
+
+        
+
+        
+        
+
+        <input type="hidden" name="curpage_uri" value="www.dealsnoop.com/treats/" />
+
+        <input type="submit" id="main-signin-submit" name="main-signin-submit" value="" />
+
+        
+
+      </fieldset>
+
+    </form>  
+
+  </div>
+
+  
+
+  <div class="main-signin-right">
+
+    <div class="main-signin-topright">
+
+      <h3>Login with your Social Network ID</h3>
+
+      <div id="loginDiv"></div>
+
+    </div>
+
+    <div class="main-signin-botright">
+
+      <h2>Don't have</h2>
+
+      <h2>an account?</h2>
+
+      <a class="link-overlay" rel="#signup-overlay" href="#create">Register &amp; Save Now!</a>
+
+    </div>  
+
+  </div>
+
+</div>
+
+
+
+<script type="text/javascript">
+
+$(document).ready(function() {
+
+  $("#main-signin-form").validate();
+
+});
+
+
+
+$("#password").focus(function() {
+
+  $("#password").keypress(function(e) {     
+
+    if(e.keyCode == 13) {         
+
+    $("#main-signin-form").submit();     
+
+    } 
+
+  });
+
+});
+
+
+
+$("#email").focus(function() {
+
+  $("#email").keypress(function(e) {     
+
+    if(e.keyCode == 13) {         
+
+    $("#main-signin-form").submit();   
+
+    } 
+
+  });
+
+});
+
+
+
+var loginParams =
+
+{
+
+    width: 170,
+
+    height: 150,
+
+    containerID: "loginDiv",  
+
+    UIConfig: '<config><body><controls><snbuttons buttonsize="31"></snbuttons></controls></body></config>',
+
+    showTermsLink: true,
+
+    enabledProviders: 'facebook, google, twitter', 
+
+    redirectURL: "http://www.dealsnoop.com/includes/overlays/social-logon.php",
+
+    sessionExpiration: 0,
+
+    buttonsStyle: 'fullLogo',
+
+    lastLoginIndication: 'welcome',
+
+    lastLoginButtonSize: 25,
+
+    showTooltips: true,
+
+    cid: 'Social Login'
+
+}
+
+gigya.services.socialize.showLoginUI(conf, loginParams);       
+
+</script>  <div id="forgot-overlay" class="main-overlay">
+  <div class="main-overlay-header">
+    <h1>Forgot Your Password?</h1>
+    <h3>Please enter your email and we'll straighten things out!</h3>  
+  </div>
+  
+  <div class="main-overlay-body" style="padding-top: 10px;">
+    <form id="main-forgot-form" method="post" 
+          action="../includes/overlays/process-forgot.php">
+      <fieldset>
+        
+        <label for="forgot_email">Email</label>
+        <input type="text" id="forgot_email" class="formfield email required" 
+               name="forgot_email" maxlength="100" />
+        
+        <input type="submit" id="main-forgot-submit" name="main-forgot-submit" value="" />
+        
+      </fieldset>
+    </form>    
+  </div>
+</div>
+
+<script type="text/javascript">
+$(document).ready(function() {
+  $("#main-forgot-form").validate();
+});
+
+$("#forgot_email").focus(function() {
+  $(this).keypress(function(e) {     
+    if(e.keyCode == 13) {         
+    $("#main-forgot-form").submit();     
+    } 
+  });
+});
+</script>
+<div id="verify-overlay" class="main-overlay">
+  <div class="main-overlay-header">
+    <h1>Please Verify Your Email</h1>
+    <h3>Make sure to add us to your safe sender's list!</h3>  
+  </div>
+  
+  <div class="main-overlay-body" style="padding-top: 30px;">
+    <h3>A confirmation message has been sent to your email.</h3>
+    <h3>Click the link to activate your DealSnoop account.</h3>
+    <h2 class="pink" style="margin-top: 10px;">Thank You!</h2>  
+  </div>  
+</div>
+
+
+
+<script type="text/javascript">
+
+$(function() {
+
+	$("a.link-overlay[rel]").overlay({effect: 'apple', mask: {opacity: 0}, fixed: false});
+
+});
+
+
+
+$("#top_panel_email").focus(function() {
+
+  $(this).removeClass("fieldhint");
+
+  $(this).val("");
+
+});
+
+
+
+$(".formfield").focus(function() {
+
+  $(this).addClass("field-focus")
+
+});
+
+$(".formfield").blur(function() {
+
+  $(this).removeClass("field-focus")
+
+});
+
+
+
+$("#top-panel-myaccount").click(function() {
+
+  $("#top-pulldown").slideDown("fast");
+
+});
+
+
+
+$("#signin-hello-section").click(function() {
+
+  $("#top-pulldown").slideDown("fast");
+
+});
+
+
+
+$("#change-city").click(function() {
+
+  $("#city-rollover").slideDown("fast");
+
+});
+
+
+
+$("#signout-button").click(function() {
+
+  gigya.services.socialize.logout(conf, {callback:userLogout});  
+
+});
+
+
+
+function userLogout(response) {
+
+  if ( response.errorCode == 0 ) {                    
+
+    window.location = "http://www.dealsnoop.com/procedures/logout.php";     
+
+  }     
+
+  else {     
+
+    alert('Error :' + response.errorMessage);     
+
+  } 
+
+}
+
+
+
+var inside_account = false;
+
+var inside_city = false;
+
+  
+
+$(document).ready(function() {   
+
+  $("#top-myaccount-pulldown").hover(function(){
+
+    inside_account=true;}, function(){
+
+    inside_account=false;});
+
+  $("body").mouseup(function(){
+
+    if(!inside_account) 
+
+      $("#top-pulldown").slideUp("fast");
+
+  });
+
+  
+
+  $("#city-rollover-container").hover(function(){
+
+    inside_city=true;}, function(){
+
+    inside_city=false;});
+
+  $("body").mouseup(function(){
+
+    if(!inside_city) 
+
+      $("#city-rollover").slideUp("fast");
+
+  });
+
+}); 
+
+
+
+</script>
+
+
+
+<script type="text/javascript">$('a.load4-overlay[rel]').overlay({mask: {color: '#000000', opacity: 0.85}, effect: 'apple', fixed: false, load: true});</script>
+
+
+
+<div id="page">
+
+
+
+<div id="navigation">
+  <ul>
+    <li>
+      <a id="nav-daily" 
+         class="nav-button" 
+         href="../treats"></a>
+    </li>
+    <li>
+      <a id="nav-recent" 
+         class="nav-button" 
+         href="../recent"></a>
+    </li>
+    <li>
+      <a id="nav-works" 
+         class="nav-button" 
+         href="../howitworks"></a>
+    </li>
+    <li>
+      <a id="nav-blog"
+         class="nav-button" 
+         href="../blog"></a>
+    </li>
+    <li>
+      <a id="nav-feature" 
+         class="nav-button" 
+         href="../feature"></a>
+    </li>
+    <li>
+      <a id="nav-earn" 
+         class="nav-button" 
+         href="../earnbucks"></a>
+    </li>
+  </ul>
+</div>
+<div id="banner-offer" >
+  <h1 >$99 for $200 Value Towards Tattoo Services at Cali Ink Tattoos</h1>
+</div>
+
+
+
+
+
+
+
+
+<div id="content-split">
+
+
+
+<div id="sidebar">
+    <div id="more-active-deals">
+    <div id="more-deals-header">
+      MORE ACTIVE DEALS
+    </div>
+    
+    <div class="more-deals-link"
+         onclick="location.href='../treats/?dsdeal=42';"> 
+      <div class="sidedeal-title">Draw for two $100 Cadillac Fairview Gift Cards</div>
+      <div class="sidedeal-panel">
+        <div class="sidedeal-price">
+          $0        </div>
+        <div class="sidedeal-value">
+          $100 Value
+        </div>
+      </div>
+      <img src="..//images/dealpics/CFGC-001.jpg" alt="" />
+    </div>
+    
+    <hr />
+    <div class="more-deals-link"
+         onclick="location.href='../treats/?dsdeal=48';"> 
+      <div class="sidedeal-title">$15 for $30 Voucher at California Fades Hair Design and Cut</div>
+      <div class="sidedeal-panel">
+        <div class="sidedeal-price">
+          $15        </div>
+        <div class="sidedeal-value">
+          $30 Value
+        </div>
+      </div>
+      <img src="..//images/dealpics/CALF-001.jpg" alt="" />
+    </div>
+    
+    <hr />
+  </div>
+   
+  <!--
+  <img id="side-banner-mma" src="/images/sidebar/mma-banner.jpg" 
+       style="display: block; width: 237px; margin: 0 auto 0;"
+       alt="&copy; 2011 Dealsnoop.com" title="&copy; 2011 Dealsnoop.com" />
+  
+  <hr />
+  -->
+  
+  <img id="side-banner-fb" src="/images/sidebar/fb-like-banner.jpg" 
+       style="display: block; width: 237px; margin: 0 auto 0;"
+       alt="&copy; 2011 Dealsnoop.com" title="&copy; 2011 Dealsnoop.com" />
+  
+  <div id="sidebar-fb">
+    <iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2F%23%21%2FHelloDealSnoop&amp;width=237&amp;colorscheme=light&amp;show_faces=true&amp;stream=false&amp;header=false&amp;height=325" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:237px; height:323px;" allowTransparency="true"></iframe>
+    <!--<fb:like-box href="http://www.facebook.com/hellodealsnoop" width="225" height="310" show_faces="true" stream="false" header="false"></fb:like-box>-->
+  </div>
+  
+  <hr />
+      
+  <img id="pawmise-title" src="/images/logos/pawmise.png" 
+     alt="&copy; 2011 Dealsnoop.com" title="&copy; 2011 Dealsnoop.com" />
+  
+  <div id="sidebar-pawmise">
+    The Dealsnoop team is committed to running a responsible, honest and
+    transparent business. If for any reason you are not completely satisfied
+    with your Dealsnoop.com purchase, we will issue a full refund within 30
+    days. That's our official "pawmise" to everyone!<br /><br />
+
+    If you can help make Dealsnoop.com even better, please send suggestions to
+    <a href="mailto:info@dealsnoop.com">info@dealsnoop.com</a>.         
+  </div>
+</div>
+
+  
+
+  <div id="content-split-left">
+
+    
+
+    <div id="treat-top">
+
+      <div id="treat-picture-frame">
+
+        <img src="/images/dealpics/CALI-001.jpg" 
+
+             alt="" />
+
+      </div>
+
+      
+
+      <form id="deal-panel" action="../checkout/index.php"
+
+            method="get">
+
+        <fieldset>
+
+          <div id="deal-panel-top">
+
+            <div id="treat-deal-value">
+
+              <h4>value</h4>
+
+              <p class="deal-values">$200</p>
+
+            </div>
+
+            
+
+            <div id="treat-deal-discount">
+
+              <h4>discount</h4>
+
+              <p class="deal-values">51%</p>
+
+            </div>
+
+            
+
+            <div id="treat-deal-savings">
+
+              <h4>savings</h4>
+
+              <p class="deal-values">$101</p>
+
+            </div>
+
+          </div>
+
+          
+
+          <div id="deal-timer-section">
+
+            <h3>Remaining Time To Save</h3>
+
+            <div id="deal-timer">
+
+              <div id="deal-timer-days">
+
+                <p class="timer-title">DAYS</p>
+
+                <p id="dtdays" class="timer-digits">00:</p>
+
+              </div>
+
+              
+
+              <div id="deal-timer-hours">
+
+                <p class="timer-title">HOURS</p>
+
+                <p id="dthrs" class="timer-digits">00:</p>
+
+              </div>
+
+              
+
+              <div id="deal-timer-mins">
+
+                <p class="timer-title">MIN.</p>
+
+                <p id="dtmins" class="timer-digits">00:</p>
+
+              </div>
+
+              
+
+              <div id="deal-timer-secs">
+
+                <p class="timer-title">SEC.</p>
+
+                <p id="dtsecs" class="timer-digits">00.0</p>
+
+              </div>                    
+
+            </div>
+
+          </div>
+
+          
+
+          <div id="deal-price">
+
+            
+              <div id="deal-yours-for">
+
+                Yours<br />for only
+
+              </div>
+
+            
+            <h1>$99</h1>
+
+          </div>
+
+          
+
+          <input type="hidden" id="deal-expyear" value="2011" />
+
+          <input type="hidden" id="deal-expmonth" value="7" />
+
+          <input type="hidden" id="deal-expday" value="30" />
+
+          <input type="hidden" id="deal-exphour" value="23" />
+
+          <input type="hidden" id="deal-expmin" value="59" />
+
+          <input type="hidden" id="deal-expsec" value="09" />
+
+          <input type="hidden" id="googlemap" value="830 Rowntree Dairy Rd, Woodbridge, ON, L4L 5V8" />
+
+          
+
+          <input type="hidden" id="deal_id" name="deal_id" value="49" />
+
+          
+
+          <div id="buy-sprite">
+
+            
+            <input type="submit" id="buy-sprite-submit" 
+
+                   name="buy-sprite-submit" 
+
+                   
+                   value="" />  
+
+            
+          </div>
+
+          
+
+        </fieldset>  
+
+      </form> 
+
+    </div>
+
+
+
+    <div id="get-social">
+
+      
+
+      
+      <img id="get-social-logo" src="/images/offers/get-social.png" alt="Get Social!" />
+
+      
+    
+
+    
+      <a id="get-social-refer" class="link-overlay" rel="#refer-overlay" href="#refer"></a>
+
+    
+      
+
+      <div id="get-social-twitter">
+
+        <a href="http://twitter.com/share" class="twitter-share-button">Tweet</a>
+
+      </div>
+
+       
+
+      <div id="get-social-fb">
+
+        <fb:like href="http://www.dealsnoop.com/treats/?dsdeal=49" layout="button_count" ></fb:like>
+
+      </div>
+
+      
+
+      <div id="purchase-counter">
+
+        <div id="no-limits">1 bought</div>
+      </div>     
+
+    </div> 
+
+    
+
+    <div id="treat-middle">
+
+      <div id="deal-address-map">
+
+        <div class="deal-column-header">
+
+          <div class="deal-column-header-left">
+
+          </div>
+
+          <div class="deal-column-header-mid">
+
+            Featured <b>Company</b>
+          </div>
+
+          <div class="deal-column-header-right">
+
+          </div>
+
+        </div>
+
+        
+
+        <div id="deal-address">
+
+          <p><a class="caps" rel="external" 
+
+                href="http://www.dealsnoop.com/treats/?dsdeal=49">Cali Ink</a></p>
+
+          <p>CALI INK Tattoo Parlour - 830 Rowntree Dairy Rd</p>
+
+          <p>Unit 23</p>
+
+          <p>Woodbridge, ON L4L 5V8</p>
+
+          <p>416-271-4738</p>
+
+          <p><a rel="external" 
+
+                href="http://www.dealsnoop.com/treats/?dsdeal=49">Website</a>&nbsp;&nbsp;
+
+             <!--<a href="#treat-middle">Map it</a>--></p>
+
+        </div>
+
+        
+
+        <div id="deal-map"></div>      
+
+      </div>
+
+      
+
+      <div id="deal-highlights">
+
+        <div class="deal-column-header">
+
+          <div class="deal-column-header-left">
+
+          </div>
+
+          <div class="deal-column-header-mid">
+
+            Snooped <b>Highlights</b>
+
+          </div>
+
+          <div class="deal-column-header-right">
+
+          </div>
+
+        </div>
+
+        
+
+        <ul id="deal-highlights-list">
+
+          <li>Choose your own designs or let one of the professional tattoo artists create a masterpiece for you.  Voucher can be used on any size tattoo with minimum purchase value of the voucher.</li>
+        </ul>
+
+      </div>
+
+      
+
+      <div id="deal-fine-print">
+
+        <div class="deal-column-header">
+
+          <div class="deal-column-header-left">
+
+          </div>
+
+          <div class="deal-column-header-mid">
+
+            Fine Print <b>Details</b>
+
+          </div>
+
+          <div class="deal-column-header-right">
+
+          </div>
+
+        </div>
+
+        
+
+        <ul id="deal-fp-description">
+
+          <li>1 year expiry</li><li>Please book an appointment in advance</li><li>Purchase value must be $200 or higher</li><li>1 voucher per person</li><li>Cannot be combined with any other offer</li><li>Voucher reedemable after August 31, 2011</li>
+        </ul>
+
+      </div>
+
+      
+
+    </div>
+
+
+
+    <div id="backtotop"><a class="backtotop" href="#page">Back to Top</a></div>
+
+    
+
+    <ul id="treat-tabs">
+
+    	<li><a class="treat-tabs-head" href="#about-deal"><b>About</b>&nbsp;This
+
+       Deal</a></li>
+
+    	<li><a class="treat-tabs-head" href="#discussion"><b>Discussion</b> Room</a></li>
+
+    </ul>
+
+    
+
+    <div id="treat-panes">
+
+      <div class="treat-pane-contain">
+
+        <div id="treat-about">
+
+          <h3>Cali Ink</h3>
+
+          <p id="about-this-deal">Cali Ink Tattoos</p>
+
+
+
+          
+          
+
+          
+          
+
+          
+
+        </div>
+
+      </div>
+
+      
+
+      <div class="treat-pane-contain">
+
+        <div id="commentsDiv"></div>
+
+      </div>
+
+    </div>
+
+    
+
+  </div>	
+
+</div>
+
+<div id="content-split-bottom"></div>
+
+<script type="text/javascript" src="/javascript/ds_countdown.js"></script> 
+
+<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+
+
+
+
+<div id="refer-overlay" class="main-overlay">
+
+  <div class="main-overlay-header">
+
+    <h1>Please Sign In to Start Referring Friends</h1>  
+
+    <h3>You must be signed in to share your Dealsnoop Agent Referral link</h3>
+
+  </div>
+
+  
+
+  <div class="main-signin-left">
+
+    
+
+    <form id="main-refer-form" method="post" 
+
+          action="../includes/overlays/process-signin.php">
+
+      <fieldset>
+
+        <ul>
+
+          <li>
+
+            <label for="refer-email">Email</label>
+
+            <input type="text" id="refer-email" class="formfield email required" 
+
+                   name="email" maxlength="100" />
+
+          </li>
+
+          <li>
+
+            <label for="refer-password">Password</label>
+
+            <input type="password" id="refer-password" class="formfield required" 
+
+                   style="margin: 0;"
+
+                   name="password" maxlength="25" />
+
+            <a style="margin-left: 1px;" class="pink" href="?forgot=true">Forgot your password?</a>
+
+          </li>     
+
+          <!--
+
+          <li>
+
+            <input type="checkbox" id="signin_remember" name="signin_remember" />
+
+            <label style="display: inline; cursor: pointer;" for="signin_remember">Remember me</label>
+
+          </li>
+
+          -->
+
+        </ul>
+
+        
+
+        
+        
+
+        <input type="hidden" name="curpage_uri" value="www.dealsnoop.com/treats/" />
+
+        <input type="submit" id="main-refer-submit" name="main-signin-submit" value="" />
+
+        
+
+      </fieldset>
+
+    </form>  
+
+  </div>
+
+  
+
+  <div class="main-signin-right">
+
+    <div class="main-signin-topright">
+
+      <h3>Login with your Social Network ID</h3>
+
+      <div id="referDiv"></div>
+
+    </div>
+
+    <div class="main-signin-botright">
+
+      <h2>Don't have</h2>
+
+      <h2>an account?</h2>
+
+      <a class="link-overlay" rel="#signup-overlay" href="#create">Register &amp; Save Now!</a>
+
+    </div>  
+
+  </div>
+
+</div>
+
+
+
+<script type="text/javascript">
+
+$(document).ready(function() {
+
+  $("#main-refer-form").validate();
+
+});
+
+
+
+$("#refer-password").focus(function() {
+
+  $("#refer-password").keypress(function(e) {     
+
+    if(e.keyCode == 13) {         
+
+    $("#main-refer-form").submit();     
+
+    } 
+
+  });
+
+});
+
+
+
+$("#refer-email").focus(function() {
+
+  $("#refer-email").keypress(function(e) {     
+
+    if(e.keyCode == 13) {         
+
+    $("#main-refer-form").submit();   
+
+    } 
+
+  });
+
+});    
+
+
+
+var referParams =
+
+{
+
+    width: 170,
+
+    height: 150,
+
+    containerID: "referDiv",  
+
+    UIConfig: '<config><body><controls><snbuttons buttonsize="31"></snbuttons></controls></body></config>',
+
+    showTermsLink: true,
+
+    enabledProviders: 'facebook, google, twitter', 
+
+    redirectURL: "http://www.dealsnoop.com/includes/overlays/social-logon.php",
+
+    sessionExpiration: 0,
+
+    buttonsStyle: 'fullLogo',
+
+    lastLoginIndication: 'welcome',
+
+    lastLoginButtonSize: 25,
+
+    showTooltips: true,
+
+    cid: 'Social Login'
+
+}
+
+gigya.services.socialize.showLoginUI(conf, referParams);   
+
+</script>  
+
+
+<div id="footer">
+  <div id="footer-dealsnoop" class="column">
+    <h3>Dealsnoop</h3>
+    <hr />
+    <ul>
+      <li class="link">
+        <a href="../fyi/about.php">
+          <img class="footer-arrow" 
+               src="/images/footer/footer-arrow.png" alt="" />
+        About</a>
+      </li>
+      <li class="divider"></li>
+      <li class="link">
+        <a href="../fyi/contact.php">
+          <img class="footer-arrow" 
+               src="/images/footer/footer-arrow.png" alt="" />
+        Contact Us</a>
+      </li>
+      <li class="divider"></li>
+      <li class="link">
+        <a href="../fyi/pawmise.php">
+          <img class="footer-arrow" 
+               src="/images/footer/footer-arrow.png" alt="" />
+        Our Pawmise</a>
+      </li>
+      <li class="divider"></li>
+      <li class="link">
+        <a href="../fyi/terms.php">
+          <img class="footer-arrow" 
+               src="/images/footer/footer-arrow.png" alt="" />
+        Terms and Conditions</a>
+      </li>
+      <li class="divider"></li>
+      <li class="link">
+        <a href="../fyi/privacy.php">
+          <img class="footer-arrow" 
+               src="/images/footer/footer-arrow.png" alt="" />
+        Privacy Policy</a>
+      </li>
+      <li class="divider"></li>
+      <li class="link">
+        <a href="../fyi/jobs.php">
+          <img class="footer-arrow" 
+               src="/images/footer/footer-arrow.png" alt="" />
+        Join the Team</a>
+      </li>
+      <li class="divider"></li>
+    </ul>
+  </div>
+  <div id="footer-learn" class="column">
+    <h3>Learn More</h3>
+    <hr />
+    <ul>
+      <li class="link">
+        <a href="../howitworks">
+          <img class="footer-arrow" 
+               src="/images/footer/footer-arrow.png" alt="" />
+        How it Works</a>
+      </li>
+      <li class="divider"></li>
+      <li class="link">
+        <a href="../fyi/faq.php">
+          <img class="footer-arrow" 
+               src="/images/footer/footer-arrow.png" alt="" />
+        FAQ's</a>
+      </li>
+      <li class="divider"></li>
+      <li class="link">
+        <a href="../earnbucks">
+          <img class="footer-arrow" 
+               src="/images/footer/footer-arrow.png" alt="" />
+        Dealsnoop Buck$</a>
+      </li>
+      <li class="divider"></li>
+      <li class="link">
+        <a href="../fyi/press.php">
+          <img class="footer-arrow" 
+               src="/images/footer/footer-arrow.png" alt="" />
+        Press</a>
+      </li>
+      <li class="divider"></li>
+      <li class="link">
+        <a href="../donate">
+          <img class="footer-arrow" 
+               src="/images/footer/footer-arrow.png" alt="" />
+        Donate</a>
+      </li>
+      <li class="divider"></li>
+    </ul>
+  </div>
+  <div id="footer-merchants" class="column">
+    <h3>Merchants</h3>
+    <hr />
+    <ul>
+      <li class="link">
+        <a href="../feature">
+          <img class="footer-arrow" 
+               src="/images/footer/footer-arrow.png" alt="" />
+        Feature Your Business</a>
+      </li>
+      <li class="divider"></li>
+      <li class="link">
+        <a href="../fyi/affiliate.php">
+          <img class="footer-arrow" 
+               src="/images/footer/footer-arrow.png" alt="" />
+        Affiliate Program</a>
+      </li>
+      <li class="divider"></li>
+      <li class="link">
+        <a href="../fyi/refer-merchant.php">
+          <img class="footer-arrow" 
+               src="/images/footer/footer-arrow.png" alt="" />
+        Refer a Merchant</a>
+      </li>
+      <li class="divider"></li>
+    </ul>
+  </div>
+  <div id="footer-follow" class="column">
+    <h3>Follow Us</h3>
+    <hr />
+    <ul>
+      <li class="link">
+        <a rel="external" href="http://www.facebook.com/HelloDealSnoop">
+          <img class="footer-arrow" 
+               src="/images/footer/footer-arrow.png" alt="" />
+        Facebook</a>
+      </li>
+      <li class="divider"></li>
+      <li class="link">
+        <a rel="external" href="http://twitter.com/dealsnoop">
+          <img class="footer-arrow" 
+               src="/images/footer/footer-arrow.png" alt="" />
+        Twitter</a>
+      </li>
+      <li class="divider"></li>
+      <li class="link">
+        <a href="../subscribe">
+          <img class="footer-arrow" 
+               src="/images/footer/footer-arrow.png" alt="" />
+        Email Notifications</a>
+      </li>
+      <li class="divider"></li>
+    </ul>
+  </div>
+  <div id="footer-credits">
+    <div class="section-full">
+    <a rel="external" href="http://www.paypal.com">
+      <img id="footer-paypal" src="/images/footer/footer-paypal.png" alt="" /></a>
+    </div>
+    
+    <div class="section-full">
+      <div id="footer-entrust">
+        <script type="text/javascript" src="https://seal.entrust.net/seal.js?domain=www.dealsnoop.com&amp;img=7"></script>
+        <a rel="external" href="http://www.entrust.net">SSL</a>
+        <script type="text/javascript">goEntrust();</script>
+        <!--
+        <a rel="external" href="#">
+          <img id="footer-entrust" src="/images/footer/footer-entrust.jpg" alt="" /></a>
+        -->
+      </div>
+    </div>
+    
+    <p>&copy; 2011 Tensight Inc.  All Rights Reserved.</p>    
+  </div>
+</div>
+
+
+
+</div>
+
+
+
+<script type="text/javascript">
+
+$(document).ready(function() {
+
+  $("#non-active-signup").validate();
+
+  setmap();
+
+});
+
+                                         
+$("#toggle-more").click(function() {
+
+  $(".hide-li").slideToggle("fast");
+
+  //$("#toggle-less").slideToggle("fast");
+
+  $(this).slideToggle("fast");
+
+});
+
+
+
+$("#toggle-less").click(function() {
+
+  $(".hide-li").slideToggle("fast");
+
+  $("#toggle-more").slideToggle("fast");
+
+  //$(this).slideToggle("fast");
+
+});
+
+
+
+$(".formfield").focus(function() {
+
+  $(this).addClass("field-focus");
+
+});
+
+$(".formfield").blur(function() {
+
+  $(this).removeClass("field-focus");
+
+});
+
+
+
+var geocoder;
+
+var map;
+
+
+
+function setmap() {
+
+  geocoder = new google.maps.Geocoder();
+
+  var latlng = new google.maps.LatLng(-34.397, 150.644);
+
+  var myOptions = {
+
+    zoom: 12,
+
+    center: latlng,
+
+    mapTypeId: google.maps.MapTypeId.ROADMAP
+
+  }
+
+  map = new google.maps.Map(document.getElementById("deal-map"), myOptions);
+
+
+
+  var address = document.getElementById("googlemap").value;
+
+  geocoder.geocode( { 'address': address}, function(results, status) {
+
+    if (status == google.maps.GeocoderStatus.OK) {
+
+      map.setCenter(results[0].geometry.location);
+
+      var marker = new google.maps.Marker({
+
+          map: map, 
+
+          position: results[0].geometry.location
+
+      });
+
+    } else {
+
+      //alert("Geocode was not successful for the following reason: " + status);
+
+    }
+
+  });
+
+}
+
+          
+
+var aboutdeal = ($("#about-this-deal").html()).replace(/<\/?[^>]+(>|$)/g, " ");
+
+var dealtitle = $("#share-deal-title").val();
+
+var linkback = $("#share-linkback").val();
+
+var dealimage = $("#share-image").val();
+
+var dealid = $("#deal_id").val();
+
+var act = new gigya.services.socialize.UserAction();
+
+
+
+act.setUserMessage("This is an Amazing Deal! " + linkback);
+
+
+
+act.setTitle(dealtitle);
+
+act.setDescription(aboutdeal);
+
+
+
+act.setLinkBack(linkback);
+
+act.addActionLink("See the Deal!", linkback);
+
+
+
+var image = 
+
+{
+
+  type: 'image',
+
+  src: dealimage,
+
+  href: linkback
+
+}
+
+act.addMediaItem(image);
+
+
+
+
+
+$(function() {
+
+	$("ul#treat-tabs").tabs("div#treat-panes div.treat-pane-contain", 
+
+    { history: true, effect: 'slide' });
+
+});
+
+</script> 
+
+
+<script type="text/javascript">
+$(function() {  
+  $('a[rel*=external]').click( function() {  
+    window.open(this.href);  
+    return false;  
+  });  
+}); 
+</script>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-20811264-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+  </body>
+</html>

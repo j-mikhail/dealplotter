@@ -1,0 +1,456 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+xmlns:og="http://opengraphprotocol.org/schema/"
+xmlns:fb="http://www.facebook.com/2008/fbml"
+xml:lang="en-us" lang="en-us">
+<head>
+<meta http-equiv="Content-Language" content="en-us"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+
+<meta property="fb:admins" content="638879171,529743358" />
+
+<title>99$ for 6 weeks of swing danse classes for two partners at Swing Danse Montreal (value of 220$)</title>
+<meta name="description" content="Learning swing dance starts here! I Love Montreal present's you one of the most recognized swing dancer of his generation, Frederic Barbe. (Yes! He’s from Montreal!)  And, he’s offering you a 6-week session of swing dance classes at his school: Swing Dance Montreal." />
+<meta property="og:title" content="6 weeks of swing danse classes for two partners at Swing Danse Montreal" />
+<meta property="og:description" content="Learning swing dance starts here! I Love Montreal present's you one of the most recognized swing dancer of his generation, Frederic Barbe. (Yes! He’s from Montreal!)  And, he’s offering you a 6-week session of swing dance classes at his school: Swing Dance Montreal." />
+<meta property="og:image" content="http://www.ilovemtl.ca/app/dfile/image/110x80/1/5a57ebdf978a90b86fa71f670fbe5df85fd7ef2e.jpg" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.ilovemtl.ca/en/deal/swing-danse-montreal-automne-2011" />
+
+<script type="text/javascript" src="/assets/js/jquery/jquery.js?_=1310661899"></script>
+<script type="text/javascript" src="/assets/js/jquery/jquery-ui.js?_=1310661896"></script>
+<script type="text/javascript" src="/assets/js/utils/utils.js?_=1311258299"></script>
+<script type="text/javascript" src="/assets/js/app/init.js?_=1313676971"></script>
+<script type="text/javascript" src="/assets/js/app/auth.js?_=1310910176"></script>
+<script type="text/javascript" src="/assets/js/app/front_end/app.js?_=1311164146"></script>
+<script type="text/javascript">
+app.lang = 'en';
+</script>
+
+
+<link href="/assets/css/default.css?_=1310661850" type="text/css" rel="stylesheet" />
+<link href="/assets/css/main.css?_=1313776128" type="text/css" rel="stylesheet" />
+<link href="/assets/css/print.css?_=1310661853" type="text/css" rel="stylesheet" media="print"  />
+<link href="http://www.ilovemtl.ca/en/app/dfile/css_browser/file.css" type="text/css" rel="stylesheet" />
+
+
+<link rel="shortcut icon" href="/favicon.ico?_=2" />
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-18580904-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+<script type="text/javascript" src="/assets/js/app/font/cufon.js?_=1310661893"></script>
+<script type="text/javascript" src="/assets/js/app/font/avenir-65m_500.font.js?_=1310661893"></script>
+</head>
+<body class="lang-en">
+<div id="fb-root"></div>
+<script src="http://connect.facebook.net/en_US/all.js"></script>
+<script type="text/javascript">
+	FB.init({ appId:'191666170858090', cookie:true, status:true, xfbml:true });
+</script>
+
+<img id="bg-body" src="/assets/images/unsorted/bodys/montreal.jpg?_=1313604487" />
+<script type="text/javascript">
+	if(! ($.browser.msie&&$.browser.version<8)) document.write('<div id="overlay-body"></div>');
+</script>
+
+<div id="main-header"><div class="main-header-container">
+    <div class="main-header-logotype">
+        <a href="http://www.ilovemtl.ca/en">
+        	<img src="/assets/images/logotypes/front_end/montreal-header1-en.gif?_=1313629960" 
+            alt="Get the best daily deals for Montreal" align="absmiddle" />
+        </a>
+    </div>
+    <div class="main-header-switchcity">
+        <a href="" style="position:relative;z-index:1;" id="switch_city_btn"><img src="/assets/images/lang/en/front_end/switch-city-btn.gif?_=1313774470" align="absmiddle" /></a>
+        <div class="main-header-switchcity-c" id="switch_city_content" style="display:none;">
+            <div class="sc-t"></div>
+            <div class="sc-c"><div class="sc-m">
+                <div class="sc-city"><a href="http://www.ilovemtl.ca/en/?sid=43fcc0321fc7488d202799b0884f3dd6" class="active">MONTREAL</a></div><div class="sc-sep-v"></div><div class="sc-city"><a href="http://www.jaimeqc.ca/en/?sid=43fcc0321fc7488d202799b0884f3dd6" class="">QUEBEC</a></div>            <div class="clear"></div>
+            </div></div>
+            <div class="sc-b"></div>
+        
+        </div>
+    
+    </div>
+    <script type="text/javascript">
+    $("#switch_city_btn").bind("click",function(e)
+    {
+        e.preventDefault();
+        $("#switch_city_content").toggle(150);
+        
+    });
+    </script>
+    
+    <div class="main-header-user">
+		        	<div style="padding-top:40px;font-size:14px;font-weight:bold;line-height:16px;">
+            	<img src="/assets/images/icons/front_end/lock-login.gif?_=1310661863" align="absmiddle" /><a href="http://www.ilovemtl.ca/en/account/signin" class="u c-color1" style="margin-left:5px;">Sign in to your account</a>
+            </div>
+        	</div>
+    <div class="clear"></div>
+    
+</div></div>
+<div id="container">
+<div class="h-20"></div>
+
+<div id="subscribe-headerbox">
+	<div class="subscribe-title">Subscribe now and get everyday the best deals in Montreal</div>
+    <div class="subscribe-formwrapper" style="width:502px;">
+    	<div class="subscribe-form float-left">
+        	<div class="subscribe-inputs" style="width:224px;">
+				<form action="javascript:auth.request.submit('subscribe');" name="form_subscribe">
+                	<input type="text" name="data[user_email]" value="" class="email clickclear" autocomplete="off" title="Enter your email" />
+                	<input type="submit" name="submit" value="Subscribe" class="submit" />
+                    <input type="hidden" value="5" name="list_id" />
+                    <input type="hidden" value="ws:header" name="subsource" />                   
+			        <input type="hidden" name="unset[action]" value="http://www.ilovemtl.ca/en/app/account/subscribe" />        
+                </form>
+			</div>
+        </div>
+        <div class="subscribe-form float-left" style="width:14px;margin:10px 20px 0 20px;height:20px;line-height:20px;color:#fff;">or</div>
+    	<div class="subscribe-form float-left" style="width:150px;">
+           <a href="http://www.ilovemtl.ca/en/app/account/signin" class="fb-login-btn" rel="ws:fb:signup_header"><img src="/assets/images/lang/en/fb_connect.gif?_=1310661870" alt="Login with Facebook on I Love Montreal" align="absmiddle" /></a>
+        </div>
+        <div class="clear"></div>
+    </div>
+</div>
+
+<div class="h-20"></div>
+<div id="header">
+
+<div id="header-menubar">
+<div id="header-overbar"></div>
+<ul id="header-menu">
+	<li class=" b"><a href="http://www.ilovemtl.ca/en"><span>Today's deal<b></b></span></a></li>
+    <li class=" b"><a href="http://www.ilovemtl.ca/en/deal"><span>Past deals</span></a></li>
+    <li class=" b"><a href="http://www.ilovemtl.ca/en/escape"><span>Escape packages</span></a></li>
+    <li class="menu-sep">&nbsp;</li>
+    <li class="grey"><a href="http://www.ilovemtl.ca/en/pages/howto"><span>How it works?</span></a></li>
+    <li class="grey"><a href="http://www.ilovemtl.ca/en/pages/get-featured"><span>Get featured</span></a></li>
+    <li class="grey"><a href="http://www.ilovemtl.ca/fr/deal/swing-danse-montreal-automne-2011">Français</a></li>
+</ul>
+	
+<div id="social-links">
+<table cellpadding="0" cellspacing="0">
+<tr>
+<td><span style="margin-right:5px;">Follow us:</span></td>
+<td style="padding-right:5px;"><a href="http://twitter.com/ilovemtl8" target="_blank"><img src="/assets/images/icons/front_end/social/header-twitter.png?_=1310661865" align="absmiddle" alt="Twitter" /></a></td>
+<td><a href="http://www.facebook.com/ilovemtl8" target="_blank"><img src="/assets/images/icons/front_end/social/header-facebook.png?_=1310661864" align="absmiddle" alt="Twitter" /></a></td>
+</tr>
+</table>
+    
+</div>
+
+</div>
+
+
+</div>
+<!-- /HEADER -->
+
+
+<div class="inner-content">
+ 
+<!-- Main content -->
+<div class="w-600 float-right">
+
+<div class="promo-title">
+	        <span class="c-color6">Today's deal:</span>
+        99$ for 6 weeks of swing danse classes for two partners at Swing Danse Montreal (value of 220$)</div>
+
+<div id="gallery">
+<div id="gallery-large"><img src="http://www.ilovemtl.ca/app/dfile/image/600x290/1/ee8596aca49230c7fbc457b0ae49b4165262b683.jpg" /></div>
+
+
+</div>
+<div class="h-10 clear"></div>
+
+
+<div class="b" style="background:url(/assets/images/icons/front_end/social/share.gif?_=1310661865) no-repeat 10px center #EB156A;padding:10px 0px 8px 31px;color:#fff;font-size:16px;line-height:16px;">
+Share this deal</div>
+<div style="padding:10px;border:1px solid #fce9f1;border-top:0;background:#fcf7f9;">
+<table cellpadding="0" cellspacing="0">
+<tr>
+	<td style="padding-top:3px;"><fb:like href="http%3A%2F%2Fwww.ilovemtl.ca%2Fen%2Fdeal%2Fswing-danse-montreal-automne-2011" send="true" width="185" layout="button_count" show_faces="false" action="recommend" font=""></fb:like></td>
+    <td width="10"> </td>
+	<td><a href="http://twitter.com/share" class="twitter-share-button" data-count="none" data-lang="en" data-url="http://www.ilovemtl.ca/en/deal/swing-danse-montreal-automne-2011" data-text="">Twitter</a></td>
+    <td width="10"> </td>
+	<td><a href="" class="fs-9 addthis_button" addthis:url="http://www.ilovemtl.ca/en/deal/swing-danse-montreal-automne-2011">+ other options</a></td>
+</tr>
+</table>
+<div class="h-10"></div>
+<div class="b"><strong class='c-color6'>Get yours free!</strong> Buy, share, and if three friends buy, yours is free!</div>
+</div>
+
+
+<div class="h-20"></div>
+
+
+<div class="w-290 float-left" style="margin-right:20px;">
+    <div class="b" style="margin-bottom:10px;font-size:16px;line-height:16px;background:#f0f0f0;padding:8px 0px 6px 10px;">What you get</div>
+    <div style="line-height:1.45em;"><ul>
+<li>One session of 6 weeks of swing danse classes for 2 persons at Swing Danse Montreal</li>
+<li>Choice between 1920's Blues/Charleston classes or Lindy Hop classes</li>
+<li>Renowned and rewarded teacher</li>
+<li><span id="result_box" class="short_text" lang="en"><span class="hps">Several</span> <span class="hps">time slots</span> <span class="hps">for each course</span></span></li>
+<li>Practice and progress with your partner</li>
+<li>Located in the heart of downtown</li>
+</ul></div>
+</div>
+<div class="w-290 float-left">
+    <div class="b" style="margin-bottom:10px;font-size:16px;line-height:16px;background:#f0f0f0;padding:8px 0px 6px 10px;">Fine print</div>
+    <div style="line-height:1.45em;"><ul>
+<li>1 coupon per person. May buy multiple to offer as gifts</li>
+<li>Taxes are included.</li>
+<li>2 options: Lindy Hop session from September 6th to October 11th, 2011 or Blues/Charleston 20's from October 18th to November 22nd, 2011.</li>
+<li>Available classes: Tuesday 7pm or 8h35pm; Wednesday 8h35pm.</li>
+</ul>    <div style="padding-left:25px;font-size:11px;">
+    <a href="javascript:ltb.open('conditions');">See the details that apply to all offers</a>
+    </div>
+    	<div class="h-10"></div>
+    <div align="center">
+    <a href="http://www.ilovemtl.ca/en/deal/swing-danse-montreal-automne-2011/discuss"><img src="/assets/images/lang/en/front_end/questionaboutdeal.gif?_=1310661873" alt="" align="absmiddle" /></a>
+    </div>
+	    </div>
+</div>
+<div class="h-20 clear"></div>
+<div>
+    <div class="b" style="margin-bottom:10px;font-size:16px;line-height:16px;background:#f0f0f0;padding:8px 0px 6px 10px;">About this deal</div>
+    <div style="line-height:1.45em;"><p>Learning swing dance starts here! I Love Montreal has a great opportunity to present to you one of the most recognized swing dancer of his generation, Frederic Barbe. (Yes! He&rsquo;s from Montreal!)&nbsp; And, he&rsquo;s offering you a 6-week session of swing dance classes at his school: Swing Danse Montreal.<br /><br />Come dance to the great blues and charleston classics of the 1920's or learn few moves and how to dance lindy hop!<br /><br />The swing itself is, nowadays, a mosaic of dance styles and is still characterized by boundless energy and a touch of madness. You and your partner will learn the basics of swing through the teaching of Frederic and his partners.<br /><br />Frederic has a place on the international scene by winning with its partners several international competitions. He also managed to convey his passion in events throughout Canada and the United States.<br /><br />Teaching is a passion for Frederic. He taught at several Montreal swing schools before founding his own school: Swing Dance Montreal. He&rsquo;s considered by his colleagues and partners as an outstanding teacher. In addition to his love for dance, what Frederic loves above all is to share his passion and inspire those around him.<br /><br />In Montreal, you can&rsquo;t find more swing than Swing Dance Montreal!</p></div>
+</div>
+<div class="h-20 clear"></div>
+
+
+<div>
+    <div class="b" style="margin-bottom:10px;font-size:16px;line-height:16px;background:#f0f0f0;padding:8px 0px 6px 10px;">Location</div>
+    
+<div class="float-left w-200" style="border:1px solid #ccc;margin-right:20px;">
+							<a href="http://maps.google.com/maps?f=q&source=s_q&hl=en&q=9+Rue+Sainte-Catherine+Est+Montr%C3%A9al%2C+QC++H2X+1K4&ie=UTF8&z=16&iwloc=A" class="open-map"><img src="http://www.ilovemtl.ca/en/app/dfile/map/200x125/45.5101622/-73.563709/map.gif"  /></a>
+						</div><div class="fs-12 float-left w-280"><div class="location"><a href="http://maps.google.com/maps?f=q&source=s_q&hl=en&q=9+Rue+Sainte-Catherine+Est+Montr%C3%A9al%2C+QC++H2X+1K4&ie=UTF8&z=16&iwloc=A" class="location-name unone b open-map">Swing Danse Montreal</a><div class="location-addr">9 Rue Sainte-Catherine Est<br />
+Suite 101<br />
+Montréal, QC H2X 1K4<br />
+<br />
+(514) 418-4811<br />
+<a href="http://www.swingdancemontreal.com" target="_blank">www.swingdancemontreal.com</a><br /></div><a href="http://maps.google.com/maps?f=d&source=s_q&hl=en&q=9+Rue+Sainte-Catherine+Est+Montr%C3%A9al%2C+QC++H2X+1K4&ie=UTF8&z=16&iwloc=A" class="open-map block">Find directions on the map</a></div></div>
+    <div class="clear"></div>
+</div>
+
+<div class="h-20 clear"></div>
+
+<!--
+<div>
+    <div class="b" style="margin-bottom:10px;font-size:16px;line-height:16px;background:#f0f0f0;padding:8px 0px 6px 10px;">How it works</div>
+    <div class="deal-faq">
+        <div class="fs-14 b">• How can I purchase this deal?</div>
+        <div class="h-5"></div>
+        <div class="fs-12" style="line-height:18px;padding-left:10px;">
+               
+        </div>
+    </div>
+    <div class="h-10"></div>
+    <div class="deal-faq">
+        <div class="fs-14 b">• How can I pay? Does the payment is secure?</div>
+        <div class="h-5"></div>
+        <div class="fs-12" style="line-height:18px;padding-left:10px;">
+                </div>
+    </div>
+    <div class="h-10"></div>
+    <div class="deal-faq">
+        <div class="fs-14 b">• How do I receive my voucher?</div>
+        <div class="h-5"></div>
+        <div class="fs-12" style="line-height:18px;padding-left:10px;">
+                
+        </div>
+    </div>
+	<div class="h-10"></div>
+    <div class="deal-faq">
+        <div class="fs-14 b">• How do I redeem my voucher(s) that I bought?</div>
+        <div class="h-5"></div>
+        <div class="fs-12" style="line-height:18px;padding-left:10px;">
+                
+        </div>
+    </div>
+</div>
+
+<div class="clear"></div>
+-->
+
+</div>
+<!-- /Main content -->
+
+<!-- Sidebar -->
+<div class="w-300 float-left">
+	
+	<div id="promo-sidebar">
+    <div id="price-placeholder">
+		            <div id="promo-price"><span>99$</span></div>
+            <div id="promo-buybtn"><a href="http://www.ilovemtl.ca/en/checkout/deal/247be78262" rel="nofollow"><img src="/assets/images/lang/en/front_end/buynow.png?_=1310661870" align="absmiddle" /></a></div>
+            </div>
+    <div class="price-details ta-center fs-16" style="height:55px;">
+        <table cellpadding="0" cellspacing="0" width="298" height="50">
+        	<tr>
+            	<td width="148" align="center">Value 220$</td>
+                <td width="1"><img src="/assets/images/bgs/front_end/values-sep.png?_=1310661858" align="absmiddle" /></td>
+                <td width="149" align="center">Save 55%</td>
+            </tr>
+        </table>
+    </div>
+        <div class="price-details" style="font-size:16px;">
+    	<span class="b">Time left</span>
+        <span id="countdown" class="b"></span>
+    </div>
+        
+  	    <div class="price-details">
+           <span class="nb-sold">22 bought</span>
+    </div>
+        
+    </div>    
+    
+    
+   
+
+<div class="fs-13 b i">Have access to a ton of freebies<br />and contests by joining us on Facebook!</div>
+<div class="h-5"></div>
+<iframe scrolling="no" frameborder="0" style="border: medium none; overflow: hidden; width: 300px; height: 260px;background:#fff;" src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Filovemtl8&amp;width=300&amp;colorscheme=light&amp;connections=10&amp;stream=false&amp;header=false&amp;height=260"></iframe>
+
+<div class="h-20"></div>
+    
+</div>
+<!-- /Sidebar -->
+
+<div class="clear"></div>
+
+</div>
+
+<script type="text/javascript" src="/assets/js/jquery/jquery.countdown/jquery.countdown.js?_=1310661898"></script>
+
+<script type="text/javascript">
+var endtime = new Date(2011,7,23, 23, 59, 59);
+$('#countdown').countdown({until: endtime,format:"HMS",timezone:-4});
+
+
+$.bind.load(function()
+{
+	$.eGalleryImg = $("#gallery-large");
+	$.eGalleryPreload = $('<div style="left:-100000px;top:-10000px;height:1px;width:1px;overflow:hidden;position:absolute;"></div>').appendTo("body");
+	$.eGalleryThumbsC = $("#gallery-thumbs-wrapper");
+	$.eGalleryThumbs = $("#gallery-thumbs a")
+	.bind("click",function(e)
+	{
+		e.preventDefault();
+		$.eGalleryThumbs.removeClass("active");
+		var src = $(this).addClass("active").attr("href");
+		$.eGalleryImg.html('<img src="'+src+'" />');
+	})
+	.each(function()
+	{
+		$.eGalleryPreload.append('<img src="'+$(this).attr("href")+'" />');
+	})
+	.eq(0).addClass("active").end();
+	//.eq(":last").css({margin:0}).end();
+	
+	$("#gallery").hover(function()
+	{
+		$.eGalleryThumbsC.stop().animate({marginBottom:0},500);
+	},
+	function()
+	{
+		$.eGalleryThumbsC.stop().animate({marginBottom:'-60px'},500);
+	}).trigger("mouseout");
+});
+
+
+$(".open-map").bind("click",function(e)
+{
+	e.preventDefault();
+	ov.open('<iframe src="'+$(this).attr("href")+'" frameborder=0/>','ggmap');
+});;
+
+
+var ov_mult = 
+{
+	init:function(e)
+	{
+		ov_mult.c = $("#promo-multiple");
+		if(ov_mult.c.lenght==0) return;
+		
+		$(".buy-multiple").bind("click",function(e)
+		{
+			e.preventDefault();
+			var o = $(this).find("img").offset();
+			var w = $(this).find("img").width();
+			$("#promo-multiple-content").css({left:(o.left+w-10)+'px',top:o.top+'px'});
+			ov_mult.c.show();
+			ov_mult.c.find(".item-name:first").focus();
+		});
+		
+		//ov_mult.c.bind("click",ov_mult.close);
+		$("#promo-multiple-bg").bind("click",ov_mult.close);
+		
+	}
+	,close:function(e)
+	{
+		if(e&&e.preventDefault)e.preventDefault();
+		ov_mult.c.hide();
+	}
+	
+};
+
+$.bind.load(ov_mult.init);
+</script>
+<script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
+<script src="http://static.ak.fbcdn.net/connect.php/js/FB.Share" type="text/javascript"></script>
+
+</div><!-- /container -->
+
+<div id="footer">
+<div id="footer-overbar"></div>
+<div id="footer-content">
+    <div class="level-1">
+        <a href="http://www.ilovemtl.ca/en">Today's deal</a>
+        <span>|</span>
+    	<a href="http://www.ilovemtl.ca/en/escapes">Escape packages</a>
+        <span>|</span>
+        <a href="http://www.ilovemtl.ca/en/pages/howto">How it works?</a>
+        <span>|</span>
+        <a href="http://www.ilovemtl.ca/en/pages/contact">Contact</a>
+        <span>|</span>
+        <a href="http://www.ilovemtl.ca/en/pages/privacy-policy">Privacy policy</a>
+        <span>|</span>
+        <a href="http://www.ilovemtl.ca/en/pages/terms-of-use">Terms of use</a>
+        <span>|</span>
+        <a href="http://www.ilovemtl.ca/fr/deal/swing-danse-montreal-automne-2011">Français</a>    </div>
+    <div class="level-2">
+        I Love Montreal is part of Adwire Media inc. All rights reserved.    </div>
+</div>
+
+
+</div><!-- /footer-->
+
+<a href="http://www.ilovemtl.ca/en/pages/contact" style="position:fixed;right:0;bottom:50px;z-index:10;" id="help-tab"><img src="/assets/images/lang/en/front_end/needhelp.png?_=1310661872" /></a>
+
+
+
+
+<script type="text/javascript">
+var addthis_config =
+{
+	 username : "lrhache"
+	,ui_language:'en'
+	,ui_use_addressbook :true 
+	,url : ""
+};
+</script>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=lrhache"></script>
+
+<div style="position:absolute;top:-10000px;left:-10000px;">
+</div>
+</body>
+</html>

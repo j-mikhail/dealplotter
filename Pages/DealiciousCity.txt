@@ -1,0 +1,133 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html xmlns:fb="https://www.facebook.com/2008/fbml">
+<head>
+<title>Deal of the Day and Daily Deals by Dealicious.ca</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8"/>
+<meta property="fb:admins" content="100000363977254"/>
+<meta property="fb:app_id" content="160606717286879"/>
+<link href="css/reset_fonts_grid.css?v=2" rel="stylesheet" type="text/css">
+<link href="css/layout.css?v=2" rel="stylesheet" type="text/css">
+<link href="css/top_slider.css" rel="stylesheet" type="text/css">
+<link href="css/Thickbox.css" rel="stylesheet" type="text/css">
+<script language="javascript" type="text/javascript" src="includes/js/jquery.js"></script>
+<script type="text/javascript" src="includes/js/common.js"></script>
+<script type="text/javascript" src="includes/js/noDeal.js"></script>
+<script type="text/javascript" src="includes/js/emailSubscribe.js"></script>
+<script type="text/javascript" src="includes/js/util-functions.js"></script>
+<script type="text/javascript" src="includes/js/clear-default-text.js"></script>
+<script type="text/javascript" language="javascript" src="includes/js/subscribedailyEmail.js"></script>
+<script type="text/javascript" language="javascript" src="includes/js/giveAsGift.js"></script>
+<script type="text/javascript" src="includes/js/Thickbox.js"></script>
+<script src="includes/js/AC_OETags.js" language="javascript"></script>    <!--CONTEST DEP-->
+    <script src="includes/js/pageear.js" type="text/javascript"></script> <!--CONTEST DEP-->
+<script language="javascript" type="text/javascript">
+//<![CDATA[
+$(document).ready(function(){
+	$("#moreCities,#hideCity,#dailyAlerts,#hideSubscribe").click(function(){var a=$("#subscribeBox").css("display");if(a="block"){$("#subscribeBox").slideUp();};$("#cityBox").slideToggle();});
+	$("#dailyAlerts,#hideSubscribe").click(function(){var a=$("#subscribeForm").css("display");if(a="block"){$("#subscribeForm").slideUp();};$("#scribeForm").slideToggle();});
+});
+//]]>
+</script>
+<script type="text/JavaScript">
+//<![CDATA[
+function MenuOnmouseover(Id){
+	if(Id==1){
+	 document.getElementById('tab1_data').style.display='block';
+	 document.getElementById('tab1').style.background='url(../images/active_tab.jpg)';
+	 document.getElementById('tab2').style.background='url(../images/inactive_tab.jpg)';
+	 document.getElementById('tab1').style.color='black';
+	 document.getElementById('tab2').style.color='black';
+	 document.getElementById('tab2_data').style.display='none';
+	}if(Id==2){
+	 document.getElementById('tab2_data').style.display='block';
+	 document.getElementById('tab1').style.background='url(../images/inactive_tab.jpg)';
+	 document.getElementById('tab2').style.background='url(../images/active_tab.jpg)';
+	 document.getElementById('tab2').style.color='black';
+	 document.getElementById('tab1').style.color='black';
+	 document.getElementById('tab1_data').style.display='none';
+	}
+}
+//]]>
+</script>
+</head>
+<body>
+<!-- Choose City Intro Page (Step 1) -->
+    <div align="center">
+	<div class="IntroStep">
+	<div class="IntroStepBeta">
+	<div class="IntroStepInner">
+	<img src="images/step1circle.png" alt="Step 1">
+	<br><br>
+	<h1>Select your City</h1><br>
+	<form method="post" action="/">
+	<select name="MyCity" id="MyCity" class="IntroMyCity">
+		  <option  value=""></option>
+	  <option class="IntroMyCityOptions" value="abbotsford">Abbotsford</option><option class="IntroMyCityOptions" value="atlanta">Atlanta</option><option class="IntroMyCityOptions" value="austin">Austin</option><option class="IntroMyCityOptions" value="baltimore">Baltimore</option><option class="IntroMyCityOptions" value="barrie">Barrie</option><option class="IntroMyCityOptions" value="boston">Boston</option><option class="IntroMyCityOptions" value="brampton">Brampton</option><option class="IntroMyCityOptions" value="calgary">Calgary</option><option class="IntroMyCityOptions" value="charlotte">Charlotte</option><option class="IntroMyCityOptions" value="chicago">Chicago</option><option class="IntroMyCityOptions" value="cleveland">Cleveland</option><option class="IntroMyCityOptions" value="dallas">Dallas</option><option class="IntroMyCityOptions" value="denver">Denver</option><option class="IntroMyCityOptions" value="detroit">Detroit</option><option class="IntroMyCityOptions" value="durham">Durham</option><option class="IntroMyCityOptions" value="edmonton">Edmonton</option><option class="IntroMyCityOptions" value="fortlauderdale">Fort Lauderdale</option><option class="IntroMyCityOptions" value="halifax">Halifax</option><option class="IntroMyCityOptions" value="hamilton">Hamilton</option><option class="IntroMyCityOptions" value="houston">Houston</option><option class="IntroMyCityOptions" value="indianapolis">Indianapolis</option><option class="IntroMyCityOptions" value="kansas">Kansas</option><option class="IntroMyCityOptions" value="kelowna">Kelowna</option><option class="IntroMyCityOptions" value="kingston">Kingston</option><option class="IntroMyCityOptions" value="kitchenerwaterloo">Kitchener/Waterloo</option><option class="IntroMyCityOptions" value="lasvegas">Las Vegas</option><option class="IntroMyCityOptions" value="london">London</option><option class="IntroMyCityOptions" value="losangeles">Los Angeles</option><option class="IntroMyCityOptions" value="miami">Miami</option><option class="IntroMyCityOptions" value="milwaukee">Milwaukee</option><option class="IntroMyCityOptions" value="minneapolis">Minneapolis</option><option class="IntroMyCityOptions" value="mississauga">Mississauga</option><option class="IntroMyCityOptions" value="montreal">Montreal</option><option class="IntroMyCityOptions" value="nashville">Nashville</option><option class="IntroMyCityOptions" value="neworleans">New Orleans</option><option class="IntroMyCityOptions" value="newyork">New York</option><option class="IntroMyCityOptions" value="norfolk">Norfolk</option><option class="IntroMyCityOptions" value="oakville">Oakville</option><option class="IntroMyCityOptions" value="orlando">Orlando</option><option class="IntroMyCityOptions" value="ottawa">Ottawa</option><option class="IntroMyCityOptions" value="philadelphia">Philadelphia</option><option class="IntroMyCityOptions" value="phoenix">Phoenix</option><option class="IntroMyCityOptions" value="pittsburgh">Pittsburgh</option><option class="IntroMyCityOptions" value="portland">Portland</option><option class="IntroMyCityOptions" value="quebeccity">Quebec City</option><option class="IntroMyCityOptions" value="raleigh">Raleigh</option><option class="IntroMyCityOptions" value="regina">Regina</option><option class="IntroMyCityOptions" value="richmond">Richmond</option><option class="IntroMyCityOptions" value="sacramento">Sacramento</option><option class="IntroMyCityOptions" value="saltlakecity">Salt Lake City</option><option class="IntroMyCityOptions" value="sanantonio">San Antonio</option><option class="IntroMyCityOptions" value="sandiego">San Diego</option><option class="IntroMyCityOptions" value="sanfrancisco">San Francisco</option><option class="IntroMyCityOptions" value="sanjose">San Jose</option><option class="IntroMyCityOptions" value="saskatoon">Saskatoon</option><option class="IntroMyCityOptions" value="seattle">Seattle</option><option class="IntroMyCityOptions" value="stcatharinesniagara">St. Catharines/Niagara</option><option class="IntroMyCityOptions" value="stjohns">St. John's</option><option class="IntroMyCityOptions" value="stlouis">St. Louis</option><option class="IntroMyCityOptions" value="sudbury">Sudbury</option><option class="IntroMyCityOptions" value="surrey">Surrey</option><option class="IntroMyCityOptions" value="tampa">Tampa</option><option class="IntroMyCityOptions" value="toronto">Toronto</option><option class="IntroMyCityOptions" value="vancouver">Vancouver</option><option class="IntroMyCityOptions" value="victoria">Victoria</option><option class="IntroMyCityOptions" value="washington">Washington</option><option class="IntroMyCityOptions" value="windsor">Windsor</option><option class="IntroMyCityOptions" value="winnipeg">Winnipeg</option><option class="IntroMyCityOptions" selected="selected" value="yorkregion">York Region</option>	</select>
+	<br><br>
+	<input type="image" src="images/bt_submit.png" name="submit" alt="Submit" value="Submit">
+	</form>
+	</div>
+	<div style="padding-top:51px;padding-left:45px;">
+	  <a class="thickbox PrivacyPolicy" href="#TB_inline?height=500&amp;width=942&amp;inlineId=PrivacyBox" id="Privacy" name="Privacy">Privacy Policy</a>
+	</div>
+	</div>
+	<div style="padding-top:145px;padding-left:200px;">
+	  <span class="InYour">in your city!</span>
+	</div>
+	</div>
+	</div>
+	<div style="display:none;" id="PrivacyBox" name="PrivacyBox">
+	  <a onClick="javascript:tb_remove();" style="cursor:pointer;"><img src="images/SubscribeX.png" style="float:right;" alt="Close"></a>
+	  <br>
+	  <img src="images/logo.png" alt="Dealicious" width="443" height="135">
+	  <br><br>
+	  <center><u><h1>Privacy Policy</h1></u></center><br>
+	  <b>1. Information Automatically Logged</b><br>
+	  <p>We automatically track and collect the following categories of information when you visit our Site: (1) IP addresses; (2) domain servers; (3) types of computers accessing the Site; and (4) types of web browsers used to access the Site (collectively "Traffic Data"). Traffic Data is anonymous information that does not personally identify you but is helpful for marketing purposes or for improving your experience on the Site.</p><br>
+	  <b>2. Cookies</b><br>
+	  <p>We also use "cookies" to customize content specific to your interests, to ensure that you do not see the same advertisement repeatedly, and to store your password so you do not have to re-enter it each time you visit the Site.</p><br>
+	  <b>3. Advertisers</b><br>
+	  <p>We may use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by the ad company, and we do not have access to this information. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.</p><br>
+	  <b>4. Forms</b><br>
+	  <p>Our site's registration form requires users to give us contact information (like their name, email, and postal address). Contact information from the registration forms is used to send information about our company, and to send promotional material from some of our partners to our customers. The customer's contact information is also used to get in touch with the customer when necessary. Users may opt-out of receiving future mailings. Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site showing them content that we think they might be interested in, and displaying the content according to their preferences.</p><br>
+	  <p>Our site may, in some cases, use a contact form for customers to request information, products, and services. We collect contact information (like their email address). Contact information from the forms is used to send promotional material in conjunction with a non-affiliated partner or sponsor to our customers. The customer's contact information is also used to get in touch with the visitor when necessary. Users may opt-out of receiving future mailings.</p><br>
+	  <b>5. Surveys, Contests & VIP Forms with Partners and Sponsors</b><br>
+	  <p>Our site may request registration from users via surveys, contests and/or VIP Forms. Participation in these surveys, contests and/or VIP Forms is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested will include contact information and supplementary information on your professional interests, opinions and preferences (e.g. practices, opinions on industry issues, feedback on the Dealicious.ca web site).</p><br>
+	  <p>We share Demographic Data with advertisers and other third parties only on an aggregate (i.e., non-personally-identifiable) basis. We share this information with partners and/or sponsors and will use the contact information to notify winners and send periodical email announcements in order to administer the co-branded products or services offered. Those partners and/or sponsors have all agreed to uphold the same standards of security and confidentiality that we have promised to you in this Privacy Policy.</p><br>
+      <b>6. Our Disclosure of Your Information</b><br>
+	  <p>Unfortunately, due to the existing regulatory environment, we cannot ensure that all of your private communications and other personally identifiable information will never be disclosed in ways not otherwise described in this Privacy Policy.</p><br>
+	  <p>By way of example (without limiting the foregoing), we may be forced to disclose information to the government or third parties under certain circumstances, or third parties may unlawfully intercept or access transmissions or private communications. We can (and you authorize us to) disclose any information about you to law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate, in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose us to legal liability.</p><br>
+	  <b>7. Lost or Stolen Information</b><br>
+	  <p>You must promptly notify us if your personnal information is misused, or used without permission. In such an event, we will remove your full information from our server and update our records accordingly.</p><br>
+	  <b>8. "Send a friend" and "Text message a friend" services</b><br>
+	  <p>Dealicious.ca offers a service whereby you can e-mail or text message site content (for example, a particular restaurant information) to a friend or colleague. This will involve entering the e-mail address or mobile number of your friend. We do not use the e-mail addresses or mobile numbers you enter for any purpose other than to send your e-mail or text message. We do not store, rent or sell these mobile numbers or email addresses.</p><br>
+	  <b>9. Updates and Changes to Policy</b><br>
+	  <p>We reserve the right, at any time and without notice, to add to, change, update, or modify this Privacy Policy, simply by posting such change, update, or modification on the Site and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the Site.</p>
+    </div>
+	 <script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-18499678-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<!-- Yahoo! Web Analytics - All rights reserved -->
+<script type="text/javascript" src="https://s.yimg.com/mi/eu/ywa.js"></script>
+<script type="text/javascript">
+/*globals YWA*/
+var YWATracker = YWA.getTracker("10001119483145");
+//YWATracker.setDocumentName("");
+//YWATracker.setDocumentGroup("");
+YWATracker.submit();
+</script>
+<noscript>
+<div><img src="https://s.analytics.yahoo.com/p.pl?a=10001119483145&amp;js=no" width="1" height="1" alt=""/></div>
+</noscript>
+	</body>
+</html>

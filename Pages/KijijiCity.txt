@@ -1,0 +1,1164 @@
+
+<!DOCTYPE html>
+<html xmlns:fb="http://www.facebook.com/2008/fbml">
+<head id="ctl00_ctl00_Head1">
+    <script type="text/javascript">
+        if (window.location.hostname.toLowerCase().indexOf("kijijideals.ca") >= 0)
+            document.domain = "kijijideals.ca";
+
+        var site_Brand = "Kijiji Daily Deals";
+        var site_BrandL = "kijijideals";
+        var url_CacheHttp = "http://www.kijijideals.ca";
+        var url_Http = "http://www2.kijijideals.ca";
+        var url_Https = "https://www2.kijijideals.ca";
+        var site_CookieDomain = ".kijijideals.ca";
+        var site_EmailListPrefix = "KijijiDeals";
+    </script>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta http-equiv="pics-label" content="(pics-1.1 &quot;http://www.icra.org/ratingsv02.html&quot; comment &quot;ICRAonline EN v2.0&quot; l gen true for &quot;http://www.kijijideals.ca/&quot; r (nz 1 vz 1 lz 1 oz 1 cb 1) &quot;http://www.rsac.org/ratingsv01.html&quot; l gen true for &quot;http://www.kijijideals.ca/&quot; r (n 0 s 0 v 0 l 0))" /><meta name="description" content="Kijiji Daily Deals bring you one new local deal each day. Save up to 75% off events, gift certificates, entertainment, restaurants, and more." /><meta name="keywords" content="" /><title>
+	Kijiji Daily Deals - Amazing Daily Toronto Entertainment &amp; Restaurant Deals &raquo; $59 for Full Car Detailing Package from Bizzy Boy Auto Detailers ($145 Value)
+</title><link rel="stylesheet" media="screen" type="text/css" href="/css/teamsave.css" /><link rel="shortcut icon" href="/favicon.ico" /><link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    
+    <script type="text/javascript" src="/scripts/jquery-1.4.1.min.js"></script>
+    <script type="text/javascript" src="/scripts/jquery-ui-1.7.2.custom.min.js"></script>
+    <script type="text/javascript" src="/scripts/jquery.scrollTo-1.4.2-min.js"></script>
+    <script type="text/javascript" src="/scripts/jquery.countdown.min.js"></script>
+    <script type="text/javascript" src="/scripts/facebox.js"></script>
+    <script type="text/javascript" src="/scripts/common.js"></script>
+    <script type="text/javascript" src="/kijijideals/function.js"></script>
+
+    
+    <script type="text/javascript" src="/scripts/deal.js"></script>
+    <meta property="og:title" content="Four Wheel Clean" />
+    <meta property="og:site_name" content="Kijiji Daily Deals" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="http://www.kijijideals.ca/deals/toronto/bizzy-boy-auto-detailing-full-car-detailing-package" />
+    <meta property="og:image" content="http://www.kijijideals.ca/assets/deals/toronto/bizzy-boy-auto-detailing-full-car-detailing-package/dealimage.jpg" />
+
+
+    <link rel="stylesheet" media="screen" type="text/css" href="/kijijideals/layout.css" />
+<!--[if IE]><link rel="stylesheet" type="text/css" href="/kijijideals/ie.css"><![endif]-->
+    <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-11681763-107']);
+        _gaq.push(['_setDomainName', '.kijijideals.ca']);
+        _gaq.push(['_setAllowHash', false]);
+        _gaq.push(['_trackPageview']);
+
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+
+</head>
+<body>
+
+<div class="containAll">
+  <div class="contentAll">
+    <div id="layout">
+      <!--layout starts-->
+      <div id="header_outer">
+        <!--header_outer starts-->
+        
+            <div id="choose_city" style="display:none">
+            <!--choose city starts-->
+                <div class="inner ">
+                <!--top section starts-->
+                    <div class="top_section">
+                        <div class="top">
+                            <p class="cancel"><a href="#" id="close_section" class="close">Cancel</a></p>
+                            <p class="title">Choose your city</p>
+                        </div>
+                        <div class="list">
+                        <!--list section starts-->
+                                <ul class="col">
+                                      <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/abitibi/" onclick="setCookie('TS', 'SetMarket', 'abitibi', true)"><span>Abitibi-Témiscamingue</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/annapolis/" onclick="setCookie('TS', 'SetMarket', 'annapolis', true)"><span>Annapolis Valley</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/baiecomeau/" onclick="setCookie('TS', 'SetMarket', 'baiecomeau', true)"><span>Baie-Comeau</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/banff/" onclick="setCookie('TS', 'SetMarket', 'banff', true)"><span>Banff / Canmore</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/barrie/" onclick="setCookie('TS', 'SetMarket', 'barrie', true)"><span>Barrie</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/bathurst/" onclick="setCookie('TS', 'SetMarket', 'bathurst', true)"><span>Bathurst</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/belleville/" onclick="setCookie('TS', 'SetMarket', 'belleville', true)"><span>Belleville Area</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/brandon/" onclick="setCookie('TS', 'SetMarket', 'brandon', true)"><span>Brandon Area</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/brantford/" onclick="setCookie('TS', 'SetMarket', 'brantford', true)"><span>Brantford</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/bridgewater/" onclick="setCookie('TS', 'SetMarket', 'bridgewater', true)"><span>Bridgewater</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/brockville/" onclick="setCookie('TS', 'SetMarket', 'brockville', true)"><span>Brockville</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/calgary/" onclick="setCookie('TS', 'SetMarket', 'calgary', true)"><span>Calgary</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/canada/" onclick="setCookie('TS', 'SetMarket', 'canada', true)"><span>Canada</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/capebreton/" onclick="setCookie('TS', 'SetMarket', 'capebreton', true)"><span>Cape Breton</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/chatham-kent/" onclick="setCookie('TS', 'SetMarket', 'chatham-kent', true)"><span>Chatham-Kent</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/chaudiere/" onclick="setCookie('TS', 'SetMarket', 'chaudiere', true)"><span>Chaudière / Appalaches</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/cornerbrook/" onclick="setCookie('TS', 'SetMarket', 'cornerbrook', true)"><span>Corner Brook</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/cornwall/" onclick="setCookie('TS', 'SetMarket', 'cornwall', true)"><span>Cornwall</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/cranbrook/" onclick="setCookie('TS', 'SetMarket', 'cranbrook', true)"><span>Cranbrook</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/drummondville/" onclick="setCookie('TS', 'SetMarket', 'drummondville', true)"><span>Drummondville Area</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/edmonton/" onclick="setCookie('TS', 'SetMarket', 'edmonton', true)"><span>Edmonton Area</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/edmundston/" onclick="setCookie('TS', 'SetMarket', 'edmundston', true)"><span>Edmundston</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/flinflon/" onclick="setCookie('TS', 'SetMarket', 'flinflon', true)"><span>Flin Flon</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/fortmcmurray/" onclick="setCookie('TS', 'SetMarket', 'fortmcmurray', true)"><span>Fort McMurray</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/fraservalley/" onclick="setCookie('TS', 'SetMarket', 'fraservalley', true)"><span>Fraser Valley</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/fredericton/" onclick="setCookie('TS', 'SetMarket', 'fredericton', true)"><span>Fredericton</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/gander/" onclick="setCookie('TS', 'SetMarket', 'gander', true)"><span>Gander</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/gaspesie/" onclick="setCookie('TS', 'SetMarket', 'gaspesie', true)"><span>Gaspé</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/granby/" onclick="setCookie('TS', 'SetMarket', 'granby', true)"><span>Granby</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/grandeprairie/" onclick="setCookie('TS', 'SetMarket', 'grandeprairie', true)"><span>Grande Prairie</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/guelph/" onclick="setCookie('TS', 'SetMarket', 'guelph', true)"><span>Guelph</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/halifax/" onclick="setCookie('TS', 'SetMarket', 'halifax', true)"><span>Halifax</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/halton/" onclick="setCookie('TS', 'SetMarket', 'halton', true)"><span>Halton Region</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/hamilton/" onclick="setCookie('TS', 'SetMarket', 'hamilton', true)"><span>Hamilton</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/kamloops/" onclick="setCookie('TS', 'SetMarket', 'kamloops', true)"><span>Kamloops</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/kapuskasing/" onclick="setCookie('TS', 'SetMarket', 'kapuskasing', true)"><span>Kapuskasing</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/kelowna/" onclick="setCookie('TS', 'SetMarket', 'kelowna', true)"><span>Kelowna</span></a></li>
+                                            </ul><ul class="col">  <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/kenora/" onclick="setCookie('TS', 'SetMarket', 'kenora', true)"><span>Kenora</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/kingston/" onclick="setCookie('TS', 'SetMarket', 'kingston', true)"><span>Kingston Area</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/kitchener/" onclick="setCookie('TS', 'SetMarket', 'kitchener', true)"><span>Kitchener Area</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/laronge/" onclick="setCookie('TS', 'SetMarket', 'laronge', true)"><span>La Ronge</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/labrador/" onclick="setCookie('TS', 'SetMarket', 'labrador', true)"><span>Labrador</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/leamington/" onclick="setCookie('TS', 'SetMarket', 'leamington', true)"><span>Leamington</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/lethbridge/" onclick="setCookie('TS', 'SetMarket', 'lethbridge', true)"><span>Lethbridge</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/lloydminster/" onclick="setCookie('TS', 'SetMarket', 'lloydminster', true)"><span>Lloydminster</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/london/" onclick="setCookie('TS', 'SetMarket', 'london', true)"><span>London</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/meadowlake/" onclick="setCookie('TS', 'SetMarket', 'meadowlake', true)"><span>Meadow Lake</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/medicinehat/" onclick="setCookie('TS', 'SetMarket', 'medicinehat', true)"><span>Medicine Hat</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/miramichi/" onclick="setCookie('TS', 'SetMarket', 'miramichi', true)"><span>Miramichi</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/moncton/" onclick="setCookie('TS', 'SetMarket', 'moncton', true)"><span>Moncton</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/montreal/" onclick="setCookie('TS', 'SetMarket', 'montreal', true)"><span>Montreal</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/muskoka/" onclick="setCookie('TS', 'SetMarket', 'muskoka', true)"><span>Muskoka</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/nanaimo/" onclick="setCookie('TS', 'SetMarket', 'nanaimo', true)"><span>Nanaimo</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/nelson/" onclick="setCookie('TS', 'SetMarket', 'nelson', true)"><span>Nelson</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/newglasgow/" onclick="setCookie('TS', 'SetMarket', 'newglasgow', true)"><span>New Glasgow</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/nipawin/" onclick="setCookie('TS', 'SetMarket', 'nipawin', true)"><span>Nipawin</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/norfolk/" onclick="setCookie('TS', 'SetMarket', 'norfolk', true)"><span>Norfolk County</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/northbay/" onclick="setCookie('TS', 'SetMarket', 'northbay', true)"><span>North Bay</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/nwt/" onclick="setCookie('TS', 'SetMarket', 'nwt', true)"><span>Northwest Territories</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/nunavut/" onclick="setCookie('TS', 'SetMarket', 'nunavut', true)"><span>Nunavut</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/ottawa/" onclick="setCookie('TS', 'SetMarket', 'ottawa', true)"><span>Ottawa / Gatineau Area</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/owensound/" onclick="setCookie('TS', 'SetMarket', 'owensound', true)"><span>Owen Sound</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/peterborough/" onclick="setCookie('TS', 'SetMarket', 'peterborough', true)"><span>Peterborough Area</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/princealbert/" onclick="setCookie('TS', 'SetMarket', 'princealbert', true)"><span>Prince Albert</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/pei/" onclick="setCookie('TS', 'SetMarket', 'pei', true)"><span>Prince Edward Island</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/princegeorge/" onclick="setCookie('TS', 'SetMarket', 'princegeorge', true)"><span>Prince George</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/quebec/" onclick="setCookie('TS', 'SetMarket', 'quebec', true)"><span>Québec City</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/reddeer/" onclick="setCookie('TS', 'SetMarket', 'reddeer', true)"><span>Red Deer</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/regina/" onclick="setCookie('TS', 'SetMarket', 'regina', true)"><span>Regina Area</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/renfrew/" onclick="setCookie('TS', 'SetMarket', 'renfrew', true)"><span>Renfrew County Area</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/rimouski/" onclick="setCookie('TS', 'SetMarket', 'rimouski', true)"><span>Rimouski</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/saguenay/" onclick="setCookie('TS', 'SetMarket', 'saguenay', true)"><span>Saguenay / Lac St. Jean Area</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/saintjohn/" onclick="setCookie('TS', 'SetMarket', 'saintjohn', true)"><span>Saint John</span></a></li>
+                                            </ul><ul class="col">  <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/saint-hyacinthe/" onclick="setCookie('TS', 'SetMarket', 'saint-hyacinthe', true)"><span>Saint-Hyacinthe</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/saint-jean-sur-richelieu/" onclick="setCookie('TS', 'SetMarket', 'saint-jean-sur-richelieu', true)"><span>Saint-Jean-sur-Richelieu</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/sarnia/" onclick="setCookie('TS', 'SetMarket', 'sarnia', true)"><span>Sarnia Area</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/saskatoon/" onclick="setCookie('TS', 'SetMarket', 'saskatoon', true)"><span>Saskatoon</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/saultstemarie/" onclick="setCookie('TS', 'SetMarket', 'saultstemarie', true)"><span>Sault Ste. Marie</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/septiles/" onclick="setCookie('TS', 'SetMarket', 'septiles', true)"><span>Sept-Îles</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/sherbrooke/" onclick="setCookie('TS', 'SetMarket', 'sherbrooke', true)"><span>Sherbrooke</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/stcatharines/" onclick="setCookie('TS', 'SetMarket', 'stcatharines', true)"><span>St. Catharines / Niagara</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/stjohns/" onclick="setCookie('TS', 'SetMarket', 'stjohns', true)"><span>St. John's</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/sudbury/" onclick="setCookie('TS', 'SetMarket', 'sudbury', true)"><span>Sudbury</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/swiftcurrent/" onclick="setCookie('TS', 'SetMarket', 'swiftcurrent', true)"><span>Swift Current</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/thompson/" onclick="setCookie('TS', 'SetMarket', 'thompson', true)"><span>Thompson</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/thunderbay/" onclick="setCookie('TS', 'SetMarket', 'thunderbay', true)"><span>Thunder Bay</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/timmins/" onclick="setCookie('TS', 'SetMarket', 'timmins', true)"><span>Timmins</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/toronto/" onclick="setCookie('TS', 'SetMarket', 'toronto', true)"><span>Toronto</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/troisrivieres/" onclick="setCookie('TS', 'SetMarket', 'troisrivieres', true)"><span>Trois-Rivières Area</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/truro/" onclick="setCookie('TS', 'SetMarket', 'truro', true)"><span>Truro</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/vancouver/" onclick="setCookie('TS', 'SetMarket', 'vancouver', true)"><span>Vancouver</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/vernon/" onclick="setCookie('TS', 'SetMarket', 'vernon', true)"><span>Vernon</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/victoria/" onclick="setCookie('TS', 'SetMarket', 'victoria', true)"><span>Victoria</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/whistler/" onclick="setCookie('TS', 'SetMarket', 'whistler', true)"><span>Whistler</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/windsor/" onclick="setCookie('TS', 'SetMarket', 'windsor', true)"><span>Windsor Region</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/winnipeg/" onclick="setCookie('TS', 'SetMarket', 'winnipeg', true)"><span>Winnipeg</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/woodstock/" onclick="setCookie('TS', 'SetMarket', 'woodstock', true)"><span>Woodstock</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/yarmouth/" onclick="setCookie('TS', 'SetMarket', 'yarmouth', true)"><span>Yarmouth</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/york-region/" onclick="setCookie('TS', 'SetMarket', 'york-region', true)"><span>York Region</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/yukon/" onclick="setCookie('TS', 'SetMarket', 'yukon', true)"><span>Yukon</span></a></li>
+                                            
+                            </ul>	
+                        <!--list section ends-->
+                        </div>
+                    </div>
+                <!--top section ends-->
+                </div>
+            <!--choose city ends-->
+            </div>
+        
+
+            <div id="header_inner">
+            <!--header_inner starts-->
+            
+                <div class="headContainer">
+                    <!--logo starts-->
+                    <h1 id="logo"><a href="http://www.kijijideals.ca"><img src="/images/logo.png" alt="Kijiji Daily Deals" class="png" /></a></h1>
+                    <!--logo ends-->
+
+                    <div class="right_section">
+                    <!--right section starts-->
+
+                        <div id="topnav">
+                            <ul class="links"> 
+                            
+                                <li>You're Shopping in <strong>Toronto</strong></li>
+                            
+                                <li class="parent"><a href="#" id="see_more_cities">See More Cities</a></li>
+                            
+                                <li class="last"><a href="http://www.kijijideals.ca/contact">Contact&nbsp;Us</a></li>
+                            </ul>
+                        </div>
+                        
+                        <div id="subscribeform">
+                        <!--form section starts-->
+                            <form action='http://www2.kijijideals.ca/jsapi/subscribe' method='post' onsubmit="return validateEmail(this);">
+                            
+                                <input name="list" type="hidden" value="KijijiDeals Toronto" />
+                                <input name="market" type="hidden" value="toronto" />
+                                <input name="campaign" type="hidden" value="KijijiDeals Toronto" />
+                            
+                            <input name='source' type='hidden' value='HeaderSubscribe' />
+                            <fieldset>
+                              <label>
+                                <input type="submit" class="subscribe" value="subscribe" />
+                              </label>
+                              <div class="input_text">
+                                <label>
+                                  <input name="email" type="text" class="text" title='you@domain.com' />
+                                </label>
+                              </div>
+                              <p>Kijiji Daily Deals Email: </p>
+                            </fieldset>
+                          </form>
+                        <!--form section ends-->
+                        </div>
+                        <p class="clearfix"></p>
+                        
+                        <div id="langnav">
+                            <ul class="links">
+                                <li><a href="javascript:changeLang('en_US')">English</a></li>
+                                <li class=""><a href="javascript:changeLang('fr_CA')">Fran&ccedil;ais</a></li>
+                            </ul>
+                        </div>
+                        
+                        
+                    <!--right section ends-->
+                    </div>
+
+                </div>
+
+            <!--header_inner ends-->			
+            </div>
+
+            <div class="menuContainer ">
+                <!--menu starts-->
+                <div class="inner ">
+                  <ul class="nav">
+                    <li class="todaysdeal active"><a href="http://www.kijijideals.ca/"><span>Today's Deal</span></a></li>
+                    <li><a href="http://www.kijijideals.ca/howitworks"><span>How it Works</span></a></li>
+                    <!--<li><a href="#"><span>Invite a friend!</span></a></li>-->
+                  </ul>
+                  <div class="fbsignin link">
+                    <!--sign in starts-->
+                    <script type="text/javascript">
+                        if (document.location.protocol == "https:")
+                            document.write('<iframe frameborder="0" width="245" height="50" marginheight="0" marginwidth="0" scrolling="no" src="https://www2.kijijideals.ca/account/signiniframe' + window.location.search + '" allowtransparency="true"></iframe>');
+                        else
+                            document.write('<iframe frameborder="0" width="245" height="50" marginheight="0" marginwidth="0" scrolling="no" src="http://www2.kijijideals.ca/account/signiniframe' + window.location.search + '" allowtransparency="true"></iframe>');
+                    </script>
+                    <noscript>
+                        <iframe frameborder="0" width="205" height="34" marginheight="0" marginwidth="0" scrolling="no" src="/account/signiniframe" allowtransparency="true"></iframe>
+                    </noscript>
+                    <!--sign in ends-->
+                  </div>
+                </div>
+                <!--menu ends-->
+            </div>
+        
+        <!--header_outer ends-->
+        </div>
+        
+        <div id="body_container_outer">
+            <div id="body_container_inner">
+                <div id="body_container_main">
+    
+                    <div class="contentContainer ">
+                    
+                        <div id="noticebar" class="noticeContainer clearfix" style="display: none;">
+                        <!-- NOTICE CONTAINER -->
+                            <div class="closebutton"><a href="#" onclick="hideNotice();">close &nbsp;X</a></div>
+                            <h2><img id="noticeicon" src="/images/icons/Checkmark-(24x24).gif" width="24" height="24" alt="checkmark" /><span id="noticemsg">&nbsp;</span></h2>
+                        <!-- NOTICE CONTAINER END -->
+                        </div>
+                        
+                        <div class="contentTop">
+                            
+
+                            
+    
+
+                        <div class="contentMain top_section">
+                        <!--main container starts-->
+                        
+                            <h1 id="toDeal"><a href="http://www.kijijideals.ca/deals/toronto/bizzy-boy-auto-detailing-full-car-detailing-package"><span>Today's Deal:</span> $59 for Full Car Detailing Package from Bizzy Boy Auto Detailers ($145 Value)</a></h1>
+                            
+                            <div class="img_section">
+                              <img src="/assets/deals/toronto/bizzy-boy-auto-detailing-full-car-detailing-package/dealimage.jpg" alt="$59 for Full Car Detailing Package from Bizzy Boy Auto Detailers ($145 Value)" width="515" height="311" />
+                            </div>
+                            
+
+                        </div>
+                        <div class="contentSide top_section">
+                        <!--side container starts-->
+
+                            <div class="amount_box">
+                            <!--amount_box starts-->
+                    
+                                <table cellpadding="0" cellspacing="0">
+                                    <tr>
+                                        <th>value</th>
+                                        <th>Discount</th>
+                                        <th>Savings</th>
+                                    </tr>
+                                    <tr>
+                                        <td class="value">$145</td>
+                                        <td class="discount">59%</td>
+                                        <td class="save">$86</td>
+                                    </tr>
+                                </table>
+                        
+                            <!--amount_box ends-->
+                            </div>		      
+                                                            
+                            <div class="buy_box clearfix">
+                            <!--buy_box starts-->
+                    
+                                <div class="price">
+                                    <span>$59</span>						
+                                </div>
+                        
+                        
+                            
+                                <div class="buyNowButton">
+                                    <a rel="multidealpop" class="mdbuynow" href="https://www2.kijijideals.ca/deals/toronto/bizzy-boy-auto-detailing-full-car-detailing-package/buy" alt="Buy Now">Buy Now!</a>
+                                    
+                                </div>
+                        
+                            <!--buy_box ends-->
+                            </div>	
+                            
+                            <div class="buyGiftButton">
+                                <a rel="multidealpop" class="mdbuyasgift" href="https://www2.kijijideals.ca/deals/toronto/bizzy-boy-auto-detailing-full-car-detailing-package/buy#gift" alt="Buy as a gift">Buy as a gift!</a>
+                            </div>
+                       
+
+                        
+                        
+
+                            <div class="countdown_box">
+                            <!--countdown_box starts-->
+                    
+                                <h4>Time Left</h4>
+                                <p class="tcountdown"></p>
+                        
+                            <!--countdown_box ends-->
+                            </div>
+                 
+                            <div class="share_this_box">
+                            <!--share this starts-->
+
+                                <h4>Share This Deal</h4>
+                                <ul class="social">
+                                  <li> <a href="http://www2.kijijideals.ca/deals/toronto/bizzy-boy-auto-detailing-full-car-detailing-package/shareemail" rel="nofollow"><img src="/kijijideals/social_mail.gif" alt="mail" /></a></li>
+                                  <li> <a href="http://www2.kijijideals.ca/deals/toronto/bizzy-boy-auto-detailing-full-car-detailing-package/sharefacebook?fromdeal=1" rel="nofollow" target="_blank"><img src="/kijijideals/social_facebook.gif" alt="facebook" /></a></li>
+                                  <li> <a href="http://www2.kijijideals.ca/deals/toronto/bizzy-boy-auto-detailing-full-car-detailing-package/sharetwitter?fromdeal=1" rel="nofollow" target="_blank"><img src="/kijijideals/social_twitter.gif" alt="twitter" /></a></li>
+                                </ul>
+                                
+                                <p class="like"><fb:like href="http://www.kijijideals.ca/deals/toronto/" layout="button_count"></fb:like></p>
+                                
+                              <!--share this ends-->
+                            </div>
+
+                        <!--side container ends-->
+                        </div>
+                        
+                    
+                        <div id="detailsContainer" style="display:none;">
+                        <!--details container start-->
+                        
+                            <div class="contentMain">
+                            <!--main container starts-->
+                            
+                                <h3>Keep in mind</h3>
+                                <p>Expires 1 year from date of issue.<br />Limit 1 per person (may buy unlimited as gifts); Taxes are not included; May redeem 1 voucher per person, per visit; Must book in advance; Non-transferable; Must present voucher upon arrival; No cash/credit value.<br />
+                                <a href="/faq">Read the general deal FAQ</a> for more details</p><br /><br />
+                                
+                                
+                                <h3>About this deal </h3>
+                                  <p>Between commuting to work, running errands, visiting friends and driving the kids around, it’s estimated the average person spends up to 2 hours a day in their vehicle. That’s roughly 5 ½ years spent in a car over a lifetime. Make it time well spent and ride in clean comfort with Bizzy Boy Auto Detailers. For $59 for Full Car Detailing Package from Bizzy Boy Auto Detailers ($145 Value).<br /><br />Full car detailing includes:<br /><br />- Full exterior hand wash<br />- Interior shampoo<br />- Deodorizing of full vehicle<br />- Vacuum thoroughly of vehicle including trunk space<br />- Full wheels cleaning with dressing of tires and rim cleaning<br />- Cleaning of all windows inside out<br />- Full engine shampoo<br />- Trims cleaned and shined<br /><br />You spend a lot of time in your car. Make it time well spent in a ride that's clean and comfortable. Let Bizzy Boy Auto Detailers be the last stop for all your detail needs.</p>
+                                  
+
+                                <br />	
+                                
+                            <!--main container ends-->
+                            </div>
+
+                            <div class="contentSide">
+                            <!--side container starts-->   
+
+                                <div class="features_box">
+                                <!--features starts-->
+                 
+                                    <h3>Features</h3>
+                                    <ul>
+                                    <li>Full exterior hand wash
+<li>Interior shampoo
+<li>Deodorizing of full vehicle
+<li>Vacuum thoroughly of vehicle including trunk space
+<li>Full wheels cleaning with dressing of tires and rim cleaning
+<li>Cleaning of all windows inside out
+<li>Full engine shampoo
+<li>Trims cleaned and shined 
+                                    
+                                    </ul>
+    
+                                <!--features ends-->
+                                </div>
+
+                                <div class="location_box">
+                                <!--location starts-->
+    
+                                    <h3>Location</h3>
+                                    <p>Bizzy Boy Auto Detailers<br />
+416-696-8050</p>
+                                    
+                                        <div style="padding-top: 5px; "><p style="font-size: 11px; font-weight: normal; ">47 Ingram Drive, Toronto, ON
+                                        
+                                        <ul id="smallBlueButton" >
+                                        <li><a href="http://maps.google.com/?q=47 Ingram Drive, Toronto, ON" style="font: 14px/30px Arial, Helvetica, sans-serif;" alt="map it">Map it!<span></span></a></li>
+                                        </ul>
+                                        
+                                        </p></div>
+                
+                                    
+                        
+                                <!--location ends-->
+                                </div>
+
+                            <!--side container ends-->
+                            </div>
+            
+                        <!--details container ends-->
+                        </div>
+
+
+                        
+                        
+                        <div id="showDetailsButton" class="detailsButton">
+                            <a href="#"> &#x25BC; Show Details &#x25BC; </a>
+                        </div>	
+                        <div id="hideDetailsButton" class="detailsButton" style="display:none;">
+                            <a href="#"> &#x25B2; Hide Details &#x25B2; </a>
+                        </div>
+
+                        <!-- DEAL BOXES START -->
+                        <div class="dealBoxes clearfix">
+                
+                        
+
+                            <div class="dealBox dbl clearfix">
+                                <div class="dealHeading">
+                                    <strong>Toronto:</strong> <a href="http://www.kijijideals.ca/deals/toronto/luxor-linens-twin-full-egyptian-cotton-duvet-covers">$129 for San’T Agnello Hotel Collection King Egyptian Cotton Duvet Cover Set ($395 Value) or $119 for Twin, Full or Queen Duvet Cover Set ($368 Value) from Luxor Linens</a>
+                                </div>
+                                <div class="dealInfo">
+                                    <a href="http://www.kijijideals.ca/deals/toronto/luxor-linens-twin-full-egyptian-cotton-duvet-covers"><img src="/assets/deals/canada/luxor-linens-twin-full-egyptian-cotton-duvet-covers/dealimage.jpg" width="167" height="100" alt="$129 for San’T Agnello Hotel Collection King Egyptian Cotton Duvet Cover Set ($395 Value) or $119 for Twin, Full or Queen Duvet Cover Set ($368 Value) from Luxor Linens" /></a>
+                            
+                                    <div class="amount_box">
+                                    <!--amount_box starts-->
+                    
+                                        <table cellpadding="0" cellspacing="0">
+                                            <tr>
+                                                <th>value</th>
+                                                <th>Discount</th>
+                                                <th>Savings</th>
+                                            </tr>
+                                            <tr>
+                                                <td class="value">$395</td>
+                                                <td class="discount">67%</td>
+                                                <td class="save">$266</td>
+                                            </tr>
+                                            <tr>
+                                                <td colspan="3" class="time"><label>Time Left</label> <span class="tcountdown_1"></span></td>
+                                            </tr>
+                                        </table>
+                        
+                                    <!--amount_box ends-->
+                                    </div>
+                                    <div class="buy_box clearfix">
+                                    <!--buy_box starts-->
+                    
+                                        <div class="price">
+                                            <span>$129</span>						
+                                        </div>
+                        
+                                        <div class="buyNowButton">
+                                            <a rel="multidealpop" href="http://www.kijijideals.ca/deals/toronto/luxor-linens-twin-full-egyptian-cotton-duvet-covers" alt="View Deal">View Deal</a>
+                                        </div>
+                        
+                                    <!--buy_box ends-->
+                                    </div>
+                        
+                                </div>
+                            </div>
+                            
+                            <script type="text/javascript">
+                            $(document).ready(function() {
+                                setCountdown("Wed, 26 Oct 2011 04:59:59 GMT", '.tcountdown_1');
+                            });
+                            </script>
+                            
+                        
+
+                            <div class="dealBox dbc clearfix">
+                                <div class="dealHeading">
+                                    <strong>Toronto:</strong> <a href="http://www.kijijideals.ca/deals/toronto/freen-organic-natural-body-lotion-or-moisturizer-toronto">$9 for any Organic/Natural Body Lotion or Moisturizer from Freen ($19 Value)</a>
+                                </div>
+                                <div class="dealInfo">
+                                    <a href="http://www.kijijideals.ca/deals/toronto/freen-organic-natural-body-lotion-or-moisturizer-toronto"><img src="/assets/deals/toronto/freen-organic-natural-body-lotion-or-moisturizer-toronto/dealimage.jpg" width="167" height="100" alt="$9 for any Organic/Natural Body Lotion or Moisturizer from Freen ($19 Value)" /></a>
+                            
+                                    <div class="amount_box">
+                                    <!--amount_box starts-->
+                    
+                                        <table cellpadding="0" cellspacing="0">
+                                            <tr>
+                                                <th>value</th>
+                                                <th>Discount</th>
+                                                <th>Savings</th>
+                                            </tr>
+                                            <tr>
+                                                <td class="value">$19</td>
+                                                <td class="discount">53%</td>
+                                                <td class="save">$10</td>
+                                            </tr>
+                                            <tr>
+                                                <td colspan="3" class="time"><label>Time Left</label> <span class="tcountdown_2"></span></td>
+                                            </tr>
+                                        </table>
+                        
+                                    <!--amount_box ends-->
+                                    </div>
+                                    <div class="buy_box clearfix">
+                                    <!--buy_box starts-->
+                    
+                                        <div class="price">
+                                            <span>$9</span>						
+                                        </div>
+                        
+                                        <div class="buyNowButton">
+                                            <a rel="multidealpop" href="http://www.kijijideals.ca/deals/toronto/freen-organic-natural-body-lotion-or-moisturizer-toronto" alt="View Deal">View Deal</a>
+                                        </div>
+                        
+                                    <!--buy_box ends-->
+                                    </div>
+                        
+                                </div>
+                            </div>
+                            
+                            <script type="text/javascript">
+                            $(document).ready(function() {
+                                setCountdown("Sun, 23 Oct 2011 03:59:59 GMT", '.tcountdown_2');
+                            });
+                            </script>
+                            
+                        
+
+                            <div class="dealBox dbr clearfix">
+                                <div class="dealHeading">
+                                    <strong>Toronto:</strong> <a href="http://www.kijijideals.ca/deals/toronto/got-matcha-premium-tea-organic-tea-package-with-lifetime-membership-with-discounts">$35 for a Premium Organic Tea Package &amp; Lifetime Membership with Lifetime Discounts from GotMatcha.com ($195 Value)</a>
+                                </div>
+                                <div class="dealInfo">
+                                    <a href="http://www.kijijideals.ca/deals/toronto/got-matcha-premium-tea-organic-tea-package-with-lifetime-membership-with-discounts"><img src="/assets/deals/canada/got-matcha-premium-tea-organic-tea-package-with-lifetime-membership-with-discounts/dealimage.jpg" width="167" height="100" alt="$35 for a Premium Organic Tea Package &amp; Lifetime Membership with Lifetime Discounts from GotMatcha.com ($195 Value)" /></a>
+                            
+                                    <div class="amount_box">
+                                    <!--amount_box starts-->
+                    
+                                        <table cellpadding="0" cellspacing="0">
+                                            <tr>
+                                                <th>value</th>
+                                                <th>Discount</th>
+                                                <th>Savings</th>
+                                            </tr>
+                                            <tr>
+                                                <td class="value">$195</td>
+                                                <td class="discount">82%</td>
+                                                <td class="save">$160</td>
+                                            </tr>
+                                            <tr>
+                                                <td colspan="3" class="time"><label>Time Left</label> <span class="tcountdown_3"></span></td>
+                                            </tr>
+                                        </table>
+                        
+                                    <!--amount_box ends-->
+                                    </div>
+                                    <div class="buy_box clearfix">
+                                    <!--buy_box starts-->
+                    
+                                        <div class="price">
+                                            <span>$35</span>						
+                                        </div>
+                        
+                                        <div class="buyNowButton">
+                                            <a rel="multidealpop" href="http://www.kijijideals.ca/deals/toronto/got-matcha-premium-tea-organic-tea-package-with-lifetime-membership-with-discounts" alt="View Deal">View Deal</a>
+                                        </div>
+                        
+                                    <!--buy_box ends-->
+                                    </div>
+                        
+                                </div>
+                            </div>
+                            
+                            <script type="text/javascript">
+                            $(document).ready(function() {
+                                setCountdown("Mon, 24 Oct 2011 04:59:59 GMT", '.tcountdown_3');
+                            });
+                            </script>
+                            
+                        
+
+                            <div class="dealBox dbl clearfix">
+                                <div class="dealHeading">
+                                    <strong>Toronto:</strong> <a href="http://www.kijijideals.ca/deals/toronto/the-old-mill-and-spa-date-night-escape-or-romantic-getwaway">$199 for Date Night Escape ($490 Value) OR $269 Romantic Getaway ($550 Value) from The Old Mill Inn &amp; Spa</a>
+                                </div>
+                                <div class="dealInfo">
+                                    <a href="http://www.kijijideals.ca/deals/toronto/the-old-mill-and-spa-date-night-escape-or-romantic-getwaway"><img src="/assets/deals/toronto/the-old-mill-and-spa-date-night-escape-or-romantic-getwaway/dealimage.jpg" width="167" height="100" alt="$199 for Date Night Escape ($490 Value) OR $269 Romantic Getaway ($550 Value) from The Old Mill Inn &amp; Spa" /></a>
+                            
+                                    <div class="amount_box">
+                                    <!--amount_box starts-->
+                    
+                                        <table cellpadding="0" cellspacing="0">
+                                            <tr>
+                                                <th>value</th>
+                                                <th>Discount</th>
+                                                <th>Savings</th>
+                                            </tr>
+                                            <tr>
+                                                <td class="value">$490</td>
+                                                <td class="discount">59%</td>
+                                                <td class="save">$291</td>
+                                            </tr>
+                                            <tr>
+                                                <td colspan="3" class="time"><label>Time Left</label> <span class="tcountdown_4"></span></td>
+                                            </tr>
+                                        </table>
+                        
+                                    <!--amount_box ends-->
+                                    </div>
+                                    <div class="buy_box clearfix">
+                                    <!--buy_box starts-->
+                    
+                                        <div class="price">
+                                            <span>$199</span>						
+                                        </div>
+                        
+                                        <div class="buyNowButton">
+                                            <a rel="multidealpop" href="http://www.kijijideals.ca/deals/toronto/the-old-mill-and-spa-date-night-escape-or-romantic-getwaway" alt="View Deal">View Deal</a>
+                                        </div>
+                        
+                                    <!--buy_box ends-->
+                                    </div>
+                        
+                                </div>
+                            </div>
+                            
+                            <script type="text/javascript">
+                            $(document).ready(function() {
+                                setCountdown("Sat, 22 Oct 2011 03:59:59 GMT", '.tcountdown_4');
+                            });
+                            </script>
+                            
+                        
+
+                            <div class="dealBox dbc clearfix">
+                                <div class="dealHeading">
+                                    <strong>Toronto:</strong> <a href="http://www.kijijideals.ca/deals/toronto/luxor-linens-twin-full-premium-synthetic-comforter-or-choose-queen-king-size">$129 for a Full/Queen or King San&#39;T Agnello Hotel Collection Baffle Box Comforter ($385 Value) or $119 for a Twin ($345 Value) from Luxor Linens </a>
+                                </div>
+                                <div class="dealInfo">
+                                    <a href="http://www.kijijideals.ca/deals/toronto/luxor-linens-twin-full-premium-synthetic-comforter-or-choose-queen-king-size"><img src="/assets/deals/canada/luxor-linens-twin-full-premium-synthetic-comforter-or-choose-queen-king-size/dealimage.jpg" width="167" height="100" alt="$129 for a Full/Queen or King San&#39;T Agnello Hotel Collection Baffle Box Comforter ($385 Value) or $119 for a Twin ($345 Value) from Luxor Linens " /></a>
+                            
+                                    <div class="amount_box">
+                                    <!--amount_box starts-->
+                    
+                                        <table cellpadding="0" cellspacing="0">
+                                            <tr>
+                                                <th>value</th>
+                                                <th>Discount</th>
+                                                <th>Savings</th>
+                                            </tr>
+                                            <tr>
+                                                <td class="value">$385</td>
+                                                <td class="discount">66%</td>
+                                                <td class="save">$256</td>
+                                            </tr>
+                                            <tr>
+                                                <td colspan="3" class="time"><label>Time Left</label> <span class="tcountdown_5"></span></td>
+                                            </tr>
+                                        </table>
+                        
+                                    <!--amount_box ends-->
+                                    </div>
+                                    <div class="buy_box clearfix">
+                                    <!--buy_box starts-->
+                    
+                                        <div class="price">
+                                            <span>$129</span>						
+                                        </div>
+                        
+                                        <div class="buyNowButton">
+                                            <a rel="multidealpop" href="http://www.kijijideals.ca/deals/toronto/luxor-linens-twin-full-premium-synthetic-comforter-or-choose-queen-king-size" alt="View Deal">View Deal</a>
+                                        </div>
+                        
+                                    <!--buy_box ends-->
+                                    </div>
+                        
+                                </div>
+                            </div>
+                            
+                            <script type="text/javascript">
+                            $(document).ready(function() {
+                                setCountdown("Mon, 24 Oct 2011 04:59:59 GMT", '.tcountdown_5');
+                            });
+                            </script>
+                            
+                        
+
+                            <div class="dealBox dbr clearfix">
+                                <div class="dealHeading">
+                                    <strong>Toronto:</strong> <a href="http://www.kijijideals.ca/deals/toronto/luxor-linens-egyptian-cotton-twin-full-bed-sheet-set-includes-2-pillow-cases-bed-sheet-and-flat-sheet">$129 for Luxurious San’T Agnello Hotel Collection Egyptian Cotton Queen/King Bed Sheet Set ($389 Value) or $119 for Twin/Full Sheet Set ($349.50 Value) from Luxor Linens </a>
+                                </div>
+                                <div class="dealInfo">
+                                    <a href="http://www.kijijideals.ca/deals/toronto/luxor-linens-egyptian-cotton-twin-full-bed-sheet-set-includes-2-pillow-cases-bed-sheet-and-flat-sheet"><img src="/assets/deals/canada/luxor-linens-egyptian-cotton-twin-full-bed-sheet-set-includes-2-pillow-cases-bed-sheet-and-flat-sheet/dealimage.jpg" width="167" height="100" alt="$129 for Luxurious San’T Agnello Hotel Collection Egyptian Cotton Queen/King Bed Sheet Set ($389 Value) or $119 for Twin/Full Sheet Set ($349.50 Value) from Luxor Linens " /></a>
+                            
+                                    <div class="amount_box">
+                                    <!--amount_box starts-->
+                    
+                                        <table cellpadding="0" cellspacing="0">
+                                            <tr>
+                                                <th>value</th>
+                                                <th>Discount</th>
+                                                <th>Savings</th>
+                                            </tr>
+                                            <tr>
+                                                <td class="value">$389</td>
+                                                <td class="discount">67%</td>
+                                                <td class="save">$260</td>
+                                            </tr>
+                                            <tr>
+                                                <td colspan="3" class="time"><label>Time Left</label> <span class="tcountdown_6"></span></td>
+                                            </tr>
+                                        </table>
+                        
+                                    <!--amount_box ends-->
+                                    </div>
+                                    <div class="buy_box clearfix">
+                                    <!--buy_box starts-->
+                    
+                                        <div class="price">
+                                            <span>$129</span>						
+                                        </div>
+                        
+                                        <div class="buyNowButton">
+                                            <a rel="multidealpop" href="http://www.kijijideals.ca/deals/toronto/luxor-linens-egyptian-cotton-twin-full-bed-sheet-set-includes-2-pillow-cases-bed-sheet-and-flat-sheet" alt="View Deal">View Deal</a>
+                                        </div>
+                        
+                                    <!--buy_box ends-->
+                                    </div>
+                        
+                                </div>
+                            </div>
+                            
+                            <script type="text/javascript">
+                            $(document).ready(function() {
+                                setCountdown("Sat, 22 Oct 2011 04:59:59 GMT", '.tcountdown_6');
+                            });
+                            </script>
+                            
+                        
+
+                            <div class="dealBox dbl clearfix">
+                                <div class="dealHeading">
+                                    <strong>York Region:</strong> <a href="http://www.kijijideals.ca/deals/york-region/color-works-autobody-reparis">$49 for $200 towards Auto Body Repairs at Colorworks Express Autobody Centers</a>
+                                </div>
+                                <div class="dealInfo">
+                                    <a href="http://www.kijijideals.ca/deals/york-region/color-works-autobody-reparis"><img src="/assets/deals/york-region/color-works-autobody-reparis/dealimage.jpg" width="167" height="100" alt="$49 for $200 towards Auto Body Repairs at Colorworks Express Autobody Centers" /></a>
+                            
+                                    <div class="amount_box">
+                                    <!--amount_box starts-->
+                    
+                                        <table cellpadding="0" cellspacing="0">
+                                            <tr>
+                                                <th>value</th>
+                                                <th>Discount</th>
+                                                <th>Savings</th>
+                                            </tr>
+                                            <tr>
+                                                <td class="value">$200</td>
+                                                <td class="discount">76%</td>
+                                                <td class="save">$151</td>
+                                            </tr>
+                                            <tr>
+                                                <td colspan="3" class="time"><label>Time Left</label> <span class="tcountdown_7"></span></td>
+                                            </tr>
+                                        </table>
+                        
+                                    <!--amount_box ends-->
+                                    </div>
+                                    <div class="buy_box clearfix">
+                                    <!--buy_box starts-->
+                    
+                                        <div class="price">
+                                            <span>$49</span>						
+                                        </div>
+                        
+                                        <div class="buyNowButton">
+                                            <a rel="multidealpop" href="http://www.kijijideals.ca/deals/york-region/color-works-autobody-reparis" alt="View Deal">View Deal</a>
+                                        </div>
+                        
+                                    <!--buy_box ends-->
+                                    </div>
+                        
+                                </div>
+                            </div>
+                            
+                            <script type="text/javascript">
+                            $(document).ready(function() {
+                                setCountdown("Mon, 24 Oct 2011 03:59:59 GMT", '.tcountdown_7');
+                            });
+                            </script>
+                            
+                        
+
+                            <div class="dealBox dbc clearfix">
+                                <div class="dealHeading">
+                                    <strong>York Region:</strong> <a href="http://www.kijijideals.ca/deals/york-region/aic-wireless-htc-sensation-on-3-year-contract">$19 for an HTC Sensation on a 3 Year Contract from AIC Wireless on Bell&#39;s Network— Choose Your Rate Plan and Free Shipping AIC Wireless ($249 Value)</a>
+                                </div>
+                                <div class="dealInfo">
+                                    <a href="http://www.kijijideals.ca/deals/york-region/aic-wireless-htc-sensation-on-3-year-contract"><img src="/assets/deals/york-region/aic-wireless-htc-sensation-on-3-year-contract/dealimage.jpg" width="167" height="100" alt="$19 for an HTC Sensation on a 3 Year Contract from AIC Wireless on Bell&#39;s Network— Choose Your Rate Plan and Free Shipping AIC Wireless ($249 Value)" /></a>
+                            
+                                    <div class="amount_box">
+                                    <!--amount_box starts-->
+                    
+                                        <table cellpadding="0" cellspacing="0">
+                                            <tr>
+                                                <th>value</th>
+                                                <th>Discount</th>
+                                                <th>Savings</th>
+                                            </tr>
+                                            <tr>
+                                                <td class="value">$249</td>
+                                                <td class="discount">92%</td>
+                                                <td class="save">$230</td>
+                                            </tr>
+                                            <tr>
+                                                <td colspan="3" class="time"><label>Time Left</label> <span class="tcountdown_8"></span></td>
+                                            </tr>
+                                        </table>
+                        
+                                    <!--amount_box ends-->
+                                    </div>
+                                    <div class="buy_box clearfix">
+                                    <!--buy_box starts-->
+                    
+                                        <div class="price">
+                                            <span>$19</span>						
+                                        </div>
+                        
+                                        <div class="buyNowButton">
+                                            <a rel="multidealpop" href="http://www.kijijideals.ca/deals/york-region/aic-wireless-htc-sensation-on-3-year-contract" alt="View Deal">View Deal</a>
+                                        </div>
+                        
+                                    <!--buy_box ends-->
+                                    </div>
+                        
+                                </div>
+                            </div>
+                            
+                            <script type="text/javascript">
+                            $(document).ready(function() {
+                                setCountdown("Sun, 23 Oct 2011 03:59:59 GMT", '.tcountdown_8');
+                            });
+                            </script>
+                            
+                        
+
+                            <div class="dealBox dbr clearfix">
+                                <div class="dealHeading">
+                                    <strong>York Region:</strong> <a href="http://www.kijijideals.ca/deals/york-region/cyber-golf-lessons-5-60-minute-professional-golf-lessons-plus-swing-analysis-software-york">$29 for Five 60-Minute Professional Golf Lessons, plus Swing Analysis Software from Cyber Golf Lessons at Markham Golf Dome ($164 Value)</a>
+                                </div>
+                                <div class="dealInfo">
+                                    <a href="http://www.kijijideals.ca/deals/york-region/cyber-golf-lessons-5-60-minute-professional-golf-lessons-plus-swing-analysis-software-york"><img src="/assets/deals/york-region/cyber-golf-lessons-5-60-minute-professional-golf-lessons-plus-swing-analysis-software-york/dealimage.jpg" width="167" height="100" alt="$29 for Five 60-Minute Professional Golf Lessons, plus Swing Analysis Software from Cyber Golf Lessons at Markham Golf Dome ($164 Value)" /></a>
+                            
+                                    <div class="amount_box">
+                                    <!--amount_box starts-->
+                    
+                                        <table cellpadding="0" cellspacing="0">
+                                            <tr>
+                                                <th>value</th>
+                                                <th>Discount</th>
+                                                <th>Savings</th>
+                                            </tr>
+                                            <tr>
+                                                <td class="value">$164</td>
+                                                <td class="discount">82%</td>
+                                                <td class="save">$135</td>
+                                            </tr>
+                                            <tr>
+                                                <td colspan="3" class="time"><label>Time Left</label> <span class="tcountdown_9"></span></td>
+                                            </tr>
+                                        </table>
+                        
+                                    <!--amount_box ends-->
+                                    </div>
+                                    <div class="buy_box clearfix">
+                                    <!--buy_box starts-->
+                    
+                                        <div class="price">
+                                            <span>$29</span>						
+                                        </div>
+                        
+                                        <div class="buyNowButton">
+                                            <a rel="multidealpop" href="http://www.kijijideals.ca/deals/york-region/cyber-golf-lessons-5-60-minute-professional-golf-lessons-plus-swing-analysis-software-york" alt="View Deal">View Deal</a>
+                                        </div>
+                        
+                                    <!--buy_box ends-->
+                                    </div>
+                        
+                                </div>
+                            </div>
+                            
+                            <script type="text/javascript">
+                            $(document).ready(function() {
+                                setCountdown("Sat, 22 Oct 2011 03:59:59 GMT", '.tcountdown_9');
+                            });
+                            </script>
+                            
+                        
+                        
+                        </div>
+                        <!-- DEAL BOXES END -->
+                        
+                        <!-- MULTIDEAL POPUP START -->
+                        
+                        <!-- MULTIDEAL POPUP END -->
+
+
+
+                        </div>
+      
+                    <!--containerContainer ends-->
+                    </div>					
+
+                    <div class="footerAll clearfix">
+                      <!--footer starts-->
+                      <div class="footerContainer clearfix">
+                        <div class="footer_links clearfix">
+                          <!--footer links starts-->
+                          <div class="col1">
+                            <h5>Learn More</h5>
+                            <ul>
+                              <li><a href="http://www.kijijideals.ca/faq">FAQ</a></li>
+                              <li><a href="http://www.kijijideals.ca/howitworks">How it Works</a></li>
+                              <li><a href="http://www.kijijideals.ca/contact">Contact / Feedback</a></li>
+                              <!--<li><a href="#">Refer a Friend</a></li>-->
+                            </ul>
+                          </div>
+                          <div class="col2">
+                            <h5>Company</h5>
+                            <ul>
+                              <li><a href="http://help.kijiji.net/ca/knowledgebase.php?article=78" target="_blank">About Us</a></li>
+                              <li><a href="http://www.kijijideals.ca/terms">Terms</a></li>
+                              <li><a href="http://www.kijiji.ca/p-Privacy" target="_blank">Privacy</a></li>
+                            </ul>
+                          </div>
+                          <div class="col3">
+                            <h5>Business</h5>
+                            <ul>
+                              <li><a href="http://www.kijijideals.ca/suggest">Suggest a Business</a></li>
+                              <li><a href="http://www.kijijideals.ca/business">Get Your Business Featured</a></li>
+                            </ul>
+                          </div>
+                          <div class="col4">
+                          
+                            <h5>Follow Us</h5>
+                            <ul>
+                            <li><a href="http://www.facebook.com/pages/Kijiji-Daily-Deals-Toronto/134145699974315" target="_blank" title="Facebook">Facebook</a></li><li><a href="http://twitter.com/KijijiDealsTO" target="_blank" title="Twitter">Twitter</a></li>
+                                        <li><a href="http://www.kijijideals.ca/toronto/subscribe" target="_blank">Get Daily Deal Alert emails!</a></li>
+                            
+        
+                            </ul>
+                          </div>
+                          <!--footer links ends-->
+                        </div>
+                        
+                        
+                        <div class="footer_teamsave">
+                            <a href="http://www.teamsave.com/platform" target="_blank"><img src="/images/icons/poweredby_teamsave.png" width="121" height="45" alt="Powered by TeamSave.com Publisher Platform" title="Powered by TeamSave.com Publisher Platform" border="0" /></a>
+                        </div>
+                        
+
+                        <div class="footer_copyright">
+                        <p>&copy; 2010-11 Kijiji Daily Deals. All rights reserved. </p>
+                        </div>
+                      </div>
+                      <!--footer ends-->
+                    </div>
+                    
+                <!--body container ends-->
+                </div>
+            </div>
+        </div>
+
+    <!--layout ends-->
+    </div>
+  </div>
+</div>
+
+    
+    
+
+    <img src="http://www2.kijijideals.ca/deals/toronto/bizzy-boy-auto-detailing-full-car-detailing-package/viewcounter" alt="View Counter" width="1" height="1" />
+    <script type="text/javascript">
+        var stime = serverTime();
+        
+        function setCountdown(endtime, countdowndiv) {
+            var locallayout = '{d<}{dn}d {d>}{hn}h {mn}m {sn}s';
+            if (getCookie("TS", "Lang") == "fr_CA")
+                locallayout = '{d<}{dn}j {d>}{hn}h {mn}m {sn}s';
+
+            var dealEndDate = new Date(endtime);
+            $(countdowndiv).countdown({
+                until: dealEndDate,
+                serverSync: function() { return stime; },
+                compact: true,
+                layout: locallayout
+            });
+        }
+
+        if ( window.location.pathname.lastIndexOf('/') != window.location.pathname.length - 1 && 
+            window.location.pathname.substring( window.location.pathname.lastIndexOf('/') + 1,
+            window.location.pathname.lastIndexOf('/') + 2 ) != '?' )
+        {
+            $("#detailsContainer").toggle();
+            $("#hideDetailsButton").toggle();
+            $("#showDetailsButton").toggle();
+        }
+ 
+        
+
+        $(document).ready(function() {
+            
+            
+
+            setCountdown("Mon, 24 Oct 2011 03:59:59 GMT", '.tcountdown');
+
+            $("#CompanyInfo").find('a').click(function () {
+                recordOutboundLink(this, 'Outbound Links', $("#CompanyInfo").find('a').attr("href"));
+                return false;
+            });
+
+            
+        
+        });
+
+        
+
+        setCookie("TS","Market", "toronto", true);
+        setCookie("TS","MarketName", "Toronto", true);
+        setCookie("TS","FacebookPage", "http://www.facebook.com/pages/Kijiji-Daily-Deals-Toronto/134145699974315", true);
+        setCookie("TS","TwitterPage", "http://twitter.com/KijijiDealsTO", true);
+        
+        accordionDetails();
+
+        _gaq.push( ["_setCustomVar", 1, "Market", "Toronto", 3] );
+
+        if (getQS("eadd") != null) {
+            _gaq.push(['_trackEvent', 'EmailSubscribe', getQS("eadd"), getQS("ecampaign"), 117]);
+            setCookie("TS", "NewUser", "2", true);
+        }
+
+        if (getQS("creq") != null)
+            _gaq.push(['_trackEvent', 'ContactForm', getQS("creq")]);
+
+    </script>
+    
+
+
+
+    <script type="text/javascript" src="/scripts/pagescript.js"></script>
+
+    <div id="fb-root"></div>
+    <script>
+        function FBSignin() {
+            FB.getLoginStatus(function (response) {
+                if (response.session) {
+                    window.location.href = 'http://www2.kijijideals.ca/account/signinfb?returnurl=' + window.location.href;
+                }
+            });
+        }
+
+        function FBSignout(url) {
+            FB.getLoginStatus(function (response) {
+                if (response.session) {
+                    FB.logout(function (response) { window.location.href = 'http://www2.kijijideals.ca/account/signout' + (url ? '?returnurl=' + escape(url) : '') });
+                } else {
+                    window.location.href = 'http://www2.kijijideals.ca/account/signout' + (url ? '?returnurl=' + escape(url) : '');
+                }
+            });
+        }
+
+        window.fbAsyncInit = function () {
+            FB.init({ appId: '71957639a6cc425c5b8b1fa8b48e9c59', status: true, cookie: true, xfbml: true });
+            FB.Event.subscribe('auth.sessionChange', function (response) {
+                if (response.session) {
+                    FBSignin();
+                } else {
+                    FBSignout(window.location.href);
+                }
+            });
+            FB.Event.subscribe('xfbml.render', function () {
+                FB.getLoginStatus(function (response) {
+                    if (response.session && document.getElementById('fbfaces') != null) {
+                        document.getElementById('fbfaces').style.display = 'none';
+                    }
+                });
+            });
+        };
+        (function () {
+            var e = document.createElement('script'); e.async = true;
+            e.src = document.location.protocol +
+          '//connect.facebook.net/en_US/all.js';
+            document.getElementById('fb-root').appendChild(e);
+        } ());
+
+    </script>
+
+    <script type="text/javascript">
+var _sf_async_config={uid:4395,domain:"kijijideals.ca"};
+(function(){
+  function loadChartbeat() {
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement('script');
+    e.setAttribute('language', 'javascript');
+    e.setAttribute('type', 'text/javascript');
+    e.setAttribute('src',
+       (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
+       "js/chartbeat.js");
+    document.body.appendChild(e);
+  }
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != 'function') ?
+     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+
+</script>
+    
+
+
+</body>
+</html>

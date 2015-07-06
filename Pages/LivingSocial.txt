@@ -1,0 +1,1541 @@
+http://www.livingsocial.com/cities/94
+
+<!DOCTYPE html>
+  <!--[if lt IE 7 ]> <html class="ie ie6" lang="en" xmlns:fb="http://www.facebook.com/2008/fbml"> <![endif]-->
+  <!--[if IE 7 ]>    <html class="ie ie7" lang="en" xmlns:fb="http://www.facebook.com/2008/fbml"> <![endif]-->
+  <!--[if IE 8 ]>    <html class="ie ie8" lang="en" xmlns:fb="http://www.facebook.com/2008/fbml"> <![endif]-->
+  <!--[if (gte IE 9)|!(IE)]><!--><html lang="en" xmlns:fb="http://www.facebook.com/2008/fbml"><!--<![endif]-->
+  <head>
+    <meta charset="utf-8">
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>The Best Daily Deals in Ann Arbor - Jacques Dessange Salon and Spa - Hour-Long Massage ($37); Highlights + Cut ($95)</title>
+    <base target="_top">
+
+    <meta content="noodp,noydir" name="robots" />
+    <meta content="Glamour is no stranger to Ann Arbor. Where else in Michigan can you find a bevy of lawyers, professors, doctors, luxury lofts, and outdoor cafes? The spirit of Paris's fifth arrondissement is alive and well here on So..." name="description" />
+    <meta name="keywords" content="LivingSocial, daily deal">
+    <meta content="The Best Daily Deals in Ann Arbor - Jacques Dessange Salon and Spa - Hour-Long Massage ($37); Highlights + Cut ($95) - LivingSocial" name="title" />
+    
+    <link href="http://livingsocial.com/cities/94/deals/160443-hour-long-massage-37-highlights-+-cut-95" rel="canonical" />
+    <meta content="text/html; charset=utf-8" http-equiv="Content-type" />
+    <link href="/deals/images/mobile/apple-touch-icon.png" rel="apple-touch-icon" />
+
+    <link href="http://www.livingsocial.com/cities/94-ann-arbor.atom" rel="alternate" title="LivingSocial - Ann Arbor" type="application/atom+xml" />
+
+    <link href="http://a0.ak.lscdn.net/deals/system/stylesheets/bingy-ad08eaf7fe269853d92bfbe091425019.css" media="screen" rel="stylesheet" type="text/css" />
+
+    
+      <!--[if IE]><link href="http://a1.ak.lscdn.net/deals/system/stylesheets/bingy_ie-e68c84035e87c6b916de87b5cc5737a7.css" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
+      <!--[if lt IE 7 ]><link href="http://a1.ak.lscdn.net/deals/system/stylesheets/bingy_ie6-15808eb3a475e79ed7ba25101ebc2985.css" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
+    
+
+    
+  <link rel="image_src" href="http://a0.ak.lscdn.net/imgs/fed8c609-beb7-4e4f-a144-660e4d383b27/200_q60_.jpg" />
+
+<meta property="og:title" content="Hour-Long Massage ($37); Highlights + Cut ($95)"/>
+<meta property="og:site_name" content="LivingSocial"/>
+<meta property="og:url" content="http://share.livingsocial.com/deals/160443-hour-long-massage-37-highlights-+-cut-95"/>
+<meta property="fb:app_id" content="48187595837"/>
+<meta property="og:image" content="http://a0.ak.lscdn.net/imgs/fed8c609-beb7-4e4f-a144-660e4d383b27/200_q60_.jpg"/>
+<meta property="og:locale" content="en_US"/>
+
+    
+    
+    <div id="fb-root"></div>
+<script>
+  _ls = [];
+  FBAppKey = '423d17f114134aa521904f85f1146174';
+</script>
+
+
+<script src="http://a3.ak.lscdn.net/deals/system/javascripts/stached-60e0d0302ff6d4bfad4fc189075968c8.js" type="text/javascript"></script>
+<script type="text/javascript" charset="utf-8">
+  if (!dls) {  var dls = { global: {} };  }
+  dls.tld = "livingsocial.com";
+  dls.isSSL = ("https:" == document.location.protocol);
+  dls.fbKey = '423d17f114134aa521904f85f1146174';
+  dls.isHomePage = true;
+  dls.isWapo = false;
+
+  dls.viewer = {};
+  Stached.on("render:me", function(evt) {
+    evt.view.fetch(function(values) {
+      dls.viewer = {
+        loggedIn      : true,
+        email         : values.me.email,
+        isFBConnected : values.me.isfb().call(values),
+        preferredCity : values.me.city_id
+      };
+    });
+  });
+
+  dls._logout = function() {
+    document.cookie = "viewer=; expires=0; path=/; domain=" + dls.tld;
+    document.cookie = "ls_fb_connected=; expires=0; path=/; domain=" + dls.tld;
+    document.cookie = "ls_deals_st=; expires=0; path=/; domain=" + dls.tld;
+  }
+  dls.preferredCity = {"image":"http://a3.ak.lscdn.net/imgs/d6f490d9-c914-425a-a37a-49f06918033a/original_q60.jpg","name":"Ann Arbor","id":94,"thumb":"http://a3.ak.lscdn.net/imgs/d6f490d9-c914-425a-a37a-49f06918033a/100.jpg"};
+  dls.i18n = {currency: {"precision":2,"delimiter":",","escapes_currency_unit_override":false,"unit":"$","format":"%u%n","separator":"."} };
+  
+</script>
+
+    
+  </head>
+
+  <body>
+      
+    <script type="text/html" id="tmpl_global_terms">
+      <div class="modal global-terms">
+        <h2>Other conditions apply</h2>
+        <div class="modal-body">
+          <p style="margin-bottom: 10px">Except where noted in the fine print:</p>
+          <p>
+            • Cannot be combined with any other offer or promotion<br/>
+• Tax and gratuity are not included<br/>
+• LivingSocial Terms and Conditions - <a href='http://livingsocial.com/terms'>livingsocial.com/terms</a>
+          </p>
+        </div>
+      </div>
+    </script>
+  
+
+    <div class="fader">&nbsp;</div>
+<div id="background">
+  <div class="fader">&nbsp;</div>
+  <img alt="100" data-large-src="http://a3.ak.lscdn.net/imgs/d6f490d9-c914-425a-a37a-49f06918033a/original_q60.jpg" src="http://a3.ak.lscdn.net/imgs/d6f490d9-c914-425a-a37a-49f06918033a/100.jpg" /></div>
+
+    
+
+    <div id="masthead">
+  <div class="nest">
+    <div id="new-badge">
+  
+<span id="target-0140d3e1f66f8665">
+    <ul class="actions">
+      
+
+
+     <li><a href="/login">Log in</a></li>
+      <li><a href="/signup">Sign up</a></li>
+    </ul>
+  </span>
+<script id="template-0140d3e1f66f8665" type="text/mustache">
+  {{#me.loggedIn}}
+  <ul class="actions">
+    
+
+
+   
+
+    <li class="my-account">
+      <a href="/vouchers">my vouchers</a>
+    </li>
+
+    <li class="user{{#me.isfb}} fb-badge{{/me.isfb}}">
+      <div class="user-content">
+        <a href="/purchases" class="user-name" id="my-account-handle">
+          {{#me.isfb}}
+            <span class="thumb">
+              <img alt="Facebook" class="facebook-logo" src="http://a1.ak.lscdn.net/deals/images/refresh/facebook.gif" />
+            </span>
+          {{/me.isfb}}
+          <span class="name" {{#me.isfb}}id="facebook_display_name"{{/me.isfb}}>{{ me.display_name }}&nbsp;</span>
+          <span class="arrow">&nbsp;</span>
+        </a>
+      </div>
+    </li>
+  </ul>
+
+  <ul id="my-account" class="my-account" style="display:none">
+    <li class="carrot">&nbsp;</li>
+    <li class="my-vouchers first">
+      <a href="/vouchers">my vouchers</a>
+    </li>
+    <li class="deal-bucks">
+      <a href="/deal_bucks">deal bucks</a>
+    </li>
+    <li class="purchase-history">
+      <a href="/purchases">purchase history</a>
+    </li>
+    <li class="subscriptions">
+      <a href="/deals/people/subscriptions">subscriptions</a>
+    </li>
+    <li class="account-settings">
+      <a href="/deals/people/settings">my account</a>
+    </li>
+    <li class="log-out last">
+      {{#me.isfb}}
+        <a href="#" onclick="return dls.fbConnect.logout();">sign out</a>
+      {{/me.isfb}}
+      {{^me.isfb}}
+        <a href="#" onclick="return dls.logout();">sign out</a>
+      {{/me.isfb}}
+    </li>
+  </ul>
+  {{/me.loggedIn}}
+  {{^me.loggedIn}}
+    <ul class="actions">
+      
+
+
+     <li><a href="/login">Log in</a></li>
+      <li><a href="/signup">Sign up</a></li>
+    </ul>
+  {{/me.loggedIn}}
+  </script>
+
+<script>
+(function() {
+  Stached.expireCheck();
+    // {"name":"me","when":{"cookie":"viewer"},"hide":true}
+  
+  var options = {"name":"me","hide":true};
+  var frame   = ["0140d3e1f66f8665", {"me":[{"url":"/me/info.json","when":{"cookie":"viewer"},"cache":"page"},{"object":{"loggedIn":false}},{"object":"Me"},{"object":"FbMe"}]}, options];
+  var when    = {"cookie":"viewer"};
+
+  if (when && typeof(when) == 'object' && when.cookie && document.cookie.match(when.cookie) && Cache.Cookie.Helpers.readFor(when.cookie)) {
+    Stached.render.call(frame);
+  }
+  else {
+    Stached.render.call(frame);
+  }
+})();
+</script>
+
+</div>
+
+<form action="/deals/people/logout" id="sign-out-form" method="post" style="display:none"></form>
+  </div>
+</div>
+
+
+
+    <div id="page" class="container_16 clearfix external www external-www deals deals-show daily-deal">
+      
+
+      <div id="page-wrapper">
+        <div class="grid_4 nav">
+          <h1 id="brand">
+  <a href="http://livingsocial.com/" class="ir livingsocial-logo ">LivingSocial</a></h1>
+
+<div id="left-navigation">
+  
+    
+      <h2>
+        <a href="http://livingsocial.com/" class="market">Ann Arbor</a>
+      </h2>
+    
+
+    <ul>
+      
+        <li class="daily-deal selected">
+          <a href="http://livingsocial.com/cities/94-ann-arbor">today's deal</a>
+        </li>
+      
+
+      
+        <li class="families">
+          <a href="http://livingsocial.com/cities/94-ann-arbor/families">families</a>
+        </li>
+      
+
+      
+
+      
+        <li class="escapes">
+          <a href="http://livingsocial.com/escapes">escapes</a>
+        </li>
+      
+
+      
+
+      
+
+      
+
+      <li class="how-it-works border">
+        <a href="/deals/how_it_works">how it works</a>
+      </li>
+
+      <li class="more-cities">
+        <a href="/cities/94-ann-arbor/more_deals">more cities</a>
+      </li>
+
+    </ul>
+  
+</div>
+
+        </div> 
+        
+        <div class="grid_12">
+          
+          <div id="main">
+
+  
+  <script>
+  __flash = [];
+  __flash.push(['show', '#flash', 'bingy']);
+</script>
+<div id="flash">
+
+</div>
+
+
+
+  
+
+  
+
+  
+
+  
+
+  <script>
+  Me.deal_subscribable = function() {
+    return function() {
+      return true;
+           };
+  }
+  Me.subscribed = function() {
+    
+    return function() {
+      var deal_subscribable = Me.deal_subscribable(),
+          preferred_city_id = Cache.Cookie.Helpers.readFor("preferred_city_id"),
+          subs = decodeURIComponent(Cache.Cookie.Helpers.readFor('ls_subs')); 
+
+      try { subs = JSON.parse(subs); } catch(e) { subs = {}; }
+      
+      var city_id_from_deal = 94;
+      var me_sub = !!(this.me && this.me.subs && this.me.subs[city_id_from_deal] && this.me.subs[city_id_from_deal] & 1);
+      var cookie_sub = !!(subs && subs[city_id_from_deal] & 1);
+      return (deal_subscribable && (me_sub || cookie_sub));
+    }
+  }
+  var stached_render_subscribe = 0;
+  Stached.on("render:subscribe", function(evt) { ++stached_render_subscribe; });
+</script>
+<div id="market-subscription" class="title header daily">
+  <h1>today's deal</h1>
+
+<span id="target-a3c8ae6e24a689fa">
+</span>
+<script id="template-a3c8ae6e24a689fa" type="text/mustache">
+  {{#me.deal_subscribable}}
+    {{^me.subscribed}}
+    <a href="#" class="subscribe" id="market-subscription-handle">subscribe</a>    {{/me.subscribed}}
+  {{/me.deal_subscribable}}
+</script>
+
+<script>
+(function() {
+  Stached.expireCheck();
+    // {"name":"subscribe","hide":true}
+  
+  var options = {"name":"subscribe","hide":true};
+  var frame   = ["a3c8ae6e24a689fa", {"me":[{"url":"/me/info.json","when":{"cookie":"viewer"},"cache":"page"},{"object":{"loggedIn":false}},{"object":"Me"},{"object":"FbMe"}]}, options];
+  var when    = null;
+
+  if (when && typeof(when) == 'object' && when.cookie && document.cookie.match(when.cookie) && Cache.Cookie.Helpers.readFor(when.cookie)) {
+    Stached.render.call(frame);
+  }
+  else {
+    Stached.render.call(frame);
+  }
+})();
+</script>
+
+  <div id="subscribe" style="display: none;">&nbsp;</div>
+</div>
+
+
+
+
+
+  
+  
+    
+<div class="panel rc-lr">
+  
+  <div class="panel-body">
+    
+    <div class="panel-innards clearfix">
+      
+      <div class="grid_5 alpha portrait" style="background: #efefef url(http://a0.ak.lscdn.net/imgs/fed8c609-beb7-4e4f-a144-660e4d383b27/280_q60_.jpg) no-repeat top left">
+  &nbsp;
+</div>
+
+
+
+      <div class="grid_7 omega content">
+  <div class="deal-title">
+    <h1>Dessange Salon and Spa</h1>
+    <p>Hour-Long Massage ($37); Color, Highlights, and Haircut ($95)</p>
+  </div>
+
+  <div id="deal-buy-box">
+    <script>
+  
+  (function rbopizza() {
+    var ck = document.cookie,
+        ss = window.location.search,
+        pp = window.location.pathname,
+        hh = window.location.host;
+    function block() {
+      return (
+        !ck.match(/seen-roadblock=/) &&
+        !ck.match(/skip-roadblock=/) &&
+        !ck.match(/ls-deals-su-st=/) &&
+        !ck.match(/ls-deals-hide-fte=/) &&
+        !ck.match(/viewer=(.+)/) &&
+        !ck.match(/ls-deals-st=(.+)/) &&
+        !ck.match(/preferred_city_id=(.+)/) &&
+        !pp.match(/deals\/32115/) &&
+        !pp.match(/deals\/57725/) &&
+        !pp.match(/deals\/redcross/) &&
+        !hh.match(/merchant/) &&
+        !hh.match(/washingtonpost/)
+      );
+    }
+    try { var rpi = ss.match(/rpi=(\d+)/)[1]; } catch(e) {}
+    if ( block() && (!ck.match(/ref_code=/) && !ss.match(/ref=/) && !ss.match(/ref_code=/)) || (rpi > 0) ) {
+      window.location = "http://subscribe.livingsocial.com/cities/94?ref=&skippable=1"; 
+    }
+  })();
+
+  
+  (function refcookies() {
+    var ck = document.cookie,
+        ss = window.location.search,
+        pp = window.location.pathname,
+        hh = window.location.host;
+    function param_from_list(list) {
+      if (!ss) { return null; }
+      var kv = ss.split('&'),
+          params = {};
+      for (var i = 0, len = kv.length; i < len; ++i) {
+        var pair = kv[i].split('='); params[pair[0]] = pair[1];
+      }
+      for (var i = 0, len = list.length; i < len; ++i) {
+        var val = params[list[i]];
+        if (val) { return val; }
+      }
+      return null;
+    }
+    var rui = param_from_list(["rui"]),
+        rpi = param_from_list(["rpi"]),
+        ref = param_from_list(["ref_code","ref","ref2","cm","a2u"]),
+        aff = param_from_list(["aff_id"]),
+        off = param_from_list(["offer_id"]),
+        set_cookie = Cache.Cookie.Helpers.storeFor;
+
+    if (rui) { set_cookie('rui_cookie', encodeURIComponent(rui), 10080); }
+    if (rpi) { set_cookie('rpi_cookie', encodeURIComponent(rpi), 10080); }
+    if (ref) { set_cookie('ref_code',   encodeURIComponent(ref), 10080); }
+    if (aff) { set_cookie('aff_id',     encodeURIComponent(aff), 10080); }
+    if (off) { set_cookie('offer_id',   encodeURIComponent(off), 10080); }
+
+  })();
+</script>
+
+
+<script>
+  Number.prototype.formatted = function(delimiter, separator) { //
+    if (!separator) { separator = "."; }
+    var number = this + '', delimiter = delimiter || ',';
+    var split = number.split('.');
+    split[0] = split[0].replace( /(\d)(?=(\d\d\d)+(?!\d))/g, '$1' + delimiter );
+    return split.join(separator);
+  };
+
+  Deal = {
+    number_delimiter: ",",
+    currency_delimiter: ",",
+    number_separator: ".",
+    currency_separator: ".",
+    with_deal_bucks: function() {
+      return function() {
+        return (this.me && this.me.credits > 0) && (this.deal && !this.deal.ineligible_for_dealbucks && this.deal.marked_as_live);
+      }
+    },
+    computed_price: function() {
+      return function() {
+        if (this.deal.with_deal_bucks().call(this)) {
+          var total = this.deal.price - this.me.credits;
+          return total > 0 ? total : 0;
+        }
+        else {
+          return this.deal.price;
+        }
+      }
+    },
+    display_currency: function() {
+            return "$";
+    },
+    display_price: function() {
+      return function() {
+        var price = this.deal.computed_price().call(this);
+        var output = "free";
+        if (price > 0) {
+          var formatted_price = new Number(price);
+          var currency = this.deal.display_currency.call(this);
+          output = "<sup>" + currency + "</sup>" + formatted_price.formatted(Deal.currency_delimiter, Deal.currency_separator);
+        }
+        return output;
+      }
+    },
+    price_class: function() {
+      return function() {
+        var price    = this.deal.computed_price().call(this);
+        var priceStr = new String(price);
+        var currencySym = this.deal.display_currency();
+        var klassStr = [];
+
+        klassStr.push("sym-" + currencySym.length);
+        klassStr.push("digits-" + priceStr.length);
+        if (this.deal.with_deal_bucks().call(this)) {
+          klassStr.push("with-deal-bucks");
+        }
+        if (price == 0) { klassStr.push('free'); }
+
+        return klassStr.join(" ");
+      }
+    },
+    buy_button_selection: function() {
+      return function() {
+        var deal = this.deal, viewer = this.me;
+        if (!deal.marked_as_live) {
+          if (false) { return ["buy-now-soldout", "sold out!"]; }
+          else { return ["buy-now-over", "deal over"]; }
+        }
+        else if (viewer.purchases_for(deal.id)) {
+          return ["buy-now-purchased", "buy more!"];
+        }
+        else if (deal.adventures) {
+          return ["buy-now-purchased", "book now"];
+        }
+        else {
+          return ["buy-now-active", "buy now!"];
+        }
+      }
+    },
+    buy_box_css: function() {
+      var buy_button_selection = this.buy_button_selection();
+      return function() {
+        return buy_button_selection.call(this)[0];
+      }
+    },
+    buy_box_text: function() {
+      var buy_button_selection = this.buy_button_selection();
+      return function() {
+        return buy_button_selection.call(this)[1];
+      }
+    },
+    purchase_path: function() {
+      return function() {
+        var path = "/deals/160443-hour-long-massage-37-highlights-+-cut-95/purchases/new";
+        var id = 94;
+        path += "?preferred_city=" + id;
+        return path;
+      }
+    },
+    has_purchased: function() {
+      return function() {
+        return !!(this.me && this.deal && this.me.purchases_for(this.deal.id));
+      }
+    },
+    purchased_count: function() {
+      return function() {
+        var count = 0;
+        if (this.me && this.deal) {
+          var purchases = this.me.purchases_for(this.deal.id);
+          for (var i = 0, len = purchases.length; i < len; ++i) {
+            count += purchases[i][1];
+          }
+        }
+        var formatted_count = new Number(count);
+        return count.formatted(Deal.number_delimiter, Deal.number_separator);
+      }
+    },
+    purchased_count_text: function() {
+      return function() {
+        var text = "are yours!";
+        var count = this.deal.purchased_count().call(this);
+        return text.replace(/10001/, count);
+      }
+    },
+    list_style_for_deal_percentage_sold: function() {
+      return function() {
+        
+          var styles = [];
+          if (Deal.has_purchased().call(this)) { styles.push("width: 75px;") }
+          if (Deal.hide_discount) { styles.push("border-right: 0px;") }
+          if (styles.length > 0) { return 'style="' + styles.join('') + '"'; }
+        
+        return "";
+      }
+    },
+    purchase: function() {
+      if (this.me && this.deal) {
+        var purchases = this.me.purchases_for(this.deal.id);
+        if (purchases) {
+          var best = 0, bi = 0;
+          for (var i = 0, len = purchases.length; i < len; ++i) {
+            var ref_count = purchases[i][2];
+            if (ref_count > best) {
+              best = ref_count;
+              bi = i;
+            }
+          }
+          return purchases[bi];
+        }
+      }
+      return null;
+    },
+    purchase_id: function() {
+      return function() {
+        var purchase = this.deal.purchase.call(this);
+        return purchase ? purchase[0] : null
+      }
+    },
+    pie_fill: function() {
+      return function() {
+        var purchase = this.deal.purchase.call(this);
+        return purchase ? purchase[2] : 0
+      }
+    },
+    got_deal_free: "you got this deal for free!",
+    want_for_free: "want this deal for free?",
+    promo_pie_text: [
+      "If three of your friends buy this deal, you get the deal for free! Just have them use the link below when they purchase.",
+      "One down, two to go! Make sure your friends follow this link to buy the deal and you'll get one for free!",
+      "Almost there! Get one more friend to buy today's deal, and you'll get one for free!",
+      "Congratulations! Three of your friends bought today's deal using your link so you got one for free!"
+    ],
+    pie_fill_promo_title: function() {
+      return function() {
+        var fill = this.deal.pie_fill().call(this);
+        return fill == 3 ? Deal.got_deal_free : Deal.want_for_free;
+      }
+    },
+    pie_slice_promo_text: function() {
+      return function() {
+        var fill = this.deal.pie_fill().call(this);
+        return Deal.promo_pie_text[fill];
+      }
+    },
+    pie_fill_below_3: function() {
+      return function() {
+        var fill = this.deal.pie_fill().call(this);
+        return (fill < 3);
+      }
+    },
+    pie_share_tracking: function() {
+      return function() {
+        var purchase_id = this.deal.purchase_id().call(this);
+        if (purchase_id) {
+          return "?rpi=" + purchase_id + "&ref=personalized-link-box-" + purchase_id + "&rui=" + this.me.id();
+        }
+        return "";
+      }
+    },
+    email_url: function() {
+      return function() {
+        var url = "http://www.livingsocial.com/deals/160443",
+            surl = "//www.addthis.com/bookmark.php?pub=livingsocial&v=250&source=tbx-250&tt=0&s=email&lng=en&title=The+Best+Daily+Deals+in+Ann+Arbor%3A+Hour-Long+Massage+%28%2437%29%3B+Highlights+%2B+Cut+%28%2495%29",
+            uid = this.me.id(),
+            pid = this.deal.purchase_id().call(this),
+            opts = [];
+
+        if (uid) { opts.push("rui=" + uid); }
+        if (pid) {
+          opts.push("ref=deals-show-email-" + pid);
+          opts.push("rpi=" + pid);
+        }
+        else {
+          opts.push("ref=deals-show-email");
+        }
+        if (opts.length >0) { url += "?" + opts.join("&"); }
+
+        surl += "&url=" + encodeURIComponent(url);
+        return surl;
+      }
+    }
+  }
+</script>
+
+
+<span id="target-7f412c19744698e0">
+<div class="deal-buy-box ">
+  <div class="deal-price ">
+    <sup class="dollar_sign">$</sup>37
+    </div>
+    <div class="button-container">
+      <a class="button buy-now" href="/deals/160443-hour-long-massage-37-highlights-+-cut-95/purchases/new"><span>buy now!</span></a>
+      
+  </div>
+</div>
+</span>
+<script id="template-7f412c19744698e0" type="text/mustache">
+<div class="deal-buy-box {{{deal.buy_box_css}}}">
+  <div class="deal-price {{{deal.price_class}}}">
+    {{{deal.display_price}}}
+    {{#deal.with_deal_bucks}}
+      <span class="with-deal-bucks-content">with my deal bucks!</span>
+    {{/deal.with_deal_bucks}}
+    </div>
+    <div class="button-container">
+    {{#deal.marked_as_live}}
+      <a class="button buy-now" href="{{deal.purchase_path}}"><span>{{deal.buy_box_text}}</span></a>
+      
+    {{/deal.marked_as_live}}
+    {{^deal.marked_as_live}}
+      <span class="button buy-sold-out">{{deal.buy_box_text}}</span>
+    {{/deal.marked_as_live}}
+  </div>
+</div>
+</script>
+
+<script>
+(function() {
+  Stached.expireCheck();
+    // {"name":"deal_box","hide":false}
+  
+  var options = {"name":"deal_box","hide":false};
+  var frame   = ["7f412c19744698e0", {"deal":[{"object":{"price":37.0,"adventures":false,"buy_box_text":"buy now!","id":160443,"display_price":"\u003Csup class=\"dollar_sign\"\u003E$\u003C/sup\u003E37","marked_as_live":true,"purchase_path":"/deals/160443-hour-long-massage-37-highlights-+-cut-95/purchases/new","hide_discount":false,"city_id":94,"ineligible_for_dealbucks":false}},{"object":"Deal"}],"me":[{"url":"/me/info.json","when":{"cookie":"viewer"},"cache":"page"},{"object":{"loggedIn":false}},{"object":"Me"},{"object":"FbMe"}]}, options];
+  var when    = null;
+
+  if (when && typeof(when) == 'object' && when.cookie && document.cookie.match(when.cookie) && Cache.Cookie.Helpers.readFor(when.cookie)) {
+    Stached.render.call(frame);
+  }
+  else {
+    Stached.render.call(frame);
+  }
+})();
+</script>
+
+
+<span id="target-32996f2049a34854">
+<ul class="clearfix deal-info ">
+  <li >
+  
+    <div class="value" id="percentage">
+      51%
+    </div>
+    <div class="label">
+      savings    </div>
+  
+  </li>
+  <li class="purchased">
+    <div class="value">
+  302    </div>
+    <div class="label">
+      purchased    </div>
+  </li>
+  <li class="last">
+    
+    <div class="value">
+      
+        2 days
+      
+    </div>
+    <div class="label">
+      remaining    </div>
+  </li>
+</ul>
+</span>
+<script id="template-32996f2049a34854" type="text/mustache">
+<ul class="clearfix deal-info {{#deal.has_purchased}}deal-info-purchased{{/deal.has_purchased}}">
+  <li {{{deal.list_style_for_deal_percentage_sold}}}>
+  
+    <div class="value" id="percentage">
+      51%
+    </div>
+    <div class="label">
+      savings    </div>
+  
+  </li>
+  <li class="purchased"{{#deal.has_purchased}} style="width: 111px"{{/deal.has_purchased}}>
+    <div class="value">
+  302    </div>
+    <div class="label">
+      purchased    </div>
+  </li>
+  {{#deal.has_purchased}}
+  <li class="yours">
+    <div class="value">
+      {{deal.purchased_count}}
+    </div>
+    <div class="label">
+      {{deal.purchased_count_text}}
+    </div>
+  </li>
+  {{/deal.has_purchased}}
+  <li class="last">
+    
+    <div class="value">
+      
+        2 days
+      
+    </div>
+    <div class="label">
+      remaining    </div>
+  </li>
+</ul>
+</script>
+
+<script>
+(function() {
+  Stached.expireCheck();
+    // {"hide":false}
+  
+  var options = {"hide":false};
+  var frame   = ["32996f2049a34854", {"deal":[{"object":{"price":37.0,"adventures":false,"buy_box_text":"buy now!","id":160443,"display_price":"\u003Csup class=\"dollar_sign\"\u003E$\u003C/sup\u003E37","marked_as_live":true,"purchase_path":"/deals/160443-hour-long-massage-37-highlights-+-cut-95/purchases/new","hide_discount":false,"city_id":94,"ineligible_for_dealbucks":false}},{"object":"Deal"}],"me":[{"url":"/me/info.json","when":{"cookie":"viewer"},"cache":"page"},{"object":{"loggedIn":false}},{"object":"Me"},{"object":"FbMe"}]}, options];
+  var when    = null;
+
+  if (when && typeof(when) == 'object' && when.cookie && document.cookie.match(when.cookie) && Cache.Cookie.Helpers.readFor(when.cookie)) {
+    Stached.render.call(frame);
+  }
+  else {
+    Stached.render.call(frame);
+  }
+})();
+</script>
+
+<div class="clear"></div>
+
+  <div class="send-as-gift">
+    <a href="/deals/160443-hour-long-massage-37-highlights-+-cut-95/purchases/new?gift=1&amp;preferred_city=94"><span>surprise and delight a friend!</span> send this as a gift &raquo;</a>
+  </div>
+
+<script>
+  Stached.on('render:deal_share', function(evt) {
+    var view = evt.view;
+    view.fetch(function(ctx) {
+      var fbref = [], twref = []
+          uid = ctx.me.id(),
+          pid = ctx.deal.purchase_id().call(ctx);
+      if (uid) { fbref.push('rui:' + uid); twref.push('rui=' + uid); }
+      if (pid) { fbref.push('rpi:' + pid); twref.push('rpi=' + pid); }
+      fbref.push('ref:dsfbl');
+      _ls.push(['fb_like', 'fblike', {href: 'http://share.livingsocial.com/deals/160443-hour-long-massage-37-highlights-+-cut-95', width:'75px', ref: fbref.join('+')}]);
+      _ls.push(['fb_send', 'fbsend', {href: 'http://share.livingsocial.com/deals/160443-hour-long-massage-37-highlights-+-cut-95', width:'65px', ref: fbref.join('+')}]);
+
+      twref.push('ref=ds-tw');
+      var options = {
+        ref: twref,
+        url: "http://share.livingsocial.com/deals/160443-hour-long-massage-37-highlights-+-cut-95",
+        counturl: encodeURIComponent("http://www.livingsocial.com/deals/160443-hour-long-massage-37-highlights-+-cut-95"),
+        text: encodeURIComponent("Hour-Long Massage ($37); Highlights + Cut ($95)"),
+        count: "none",
+        via: 'LivingSocial',
+        lang: "en",
+        width: '60px'
+      };
+
+      _ls.push(['retweet', 'tweetit', options]);
+    });
+  });
+</script>
+
+<span id="target-c7fa1f9b1bb6bd1a">
+  <div class="deal-description">
+    
+      <div id="sfwt_short_1"><p>Glamour is no stranger to Ann Arbor. Where else in Michigan can you find a bevy of lawyers, professors, doctors, luxury lofts, and outdoor cafes? The spirit of Paris's fifth <em>arrondissement</em> is alive and well here on South Fifth Avenue. At <a href="http://www.facebook.com/pages/DESSANGE-Paris-USA/236543086377447" target="_blank">Dessange Salon and Spa</a>, you'll pay just $37 to... <a class="sfwt" href="#" onclick="$('#sfwt_short_1').hide(); $('#sfwt_full_1').show();; return false;">(show more)</a></p></div><div id="sfwt_full_1" style="display: none"><p>Glamour is no stranger to Ann Arbor. Where else in Michigan can you find a bevy of lawyers, professors, doctors, luxury lofts, and outdoor cafes? The spirit of Paris's fifth <em>arrondissement</em> is alive and well here on South Fifth Avenue. At <a href="http://www.facebook.com/pages/DESSANGE-Paris-USA/236543086377447" target="_blank">Dessange Salon and Spa</a>, you'll pay just $37 to enjoy an hour-long Swedish Massage and sauna treatment -- a $75 value. Or enjoy the fabulous life of the jet set with a new 'do for winter. Buy a color treatment, highlights, and a haircut for $95 (a $190 value). This French franchise  has 1,000 high-end salons worldwide. And while we're still waiting for Carla Bruni to make a cameo at the Fleetwood Diner, Dessange is proud to give you another reason to enjoy the French <em>joie de vivre</em> a little closer to home.</p> <a class="sfwt" href="#" onclick="$('#sfwt_short_1').show(); $('#sfwt_full_1').hide();; return false;">(show less)</a></div>
+  </div>
+
+</span>
+<script id="template-c7fa1f9b1bb6bd1a" type="text/mustache">
+{{#deal.has_purchased}}
+  <div class="pie-fill pie-fill-{{deal.pie_fill}}">
+    <h3>{{deal.pie_fill_promo_title}}</h3>
+    <div class="coly" style="width:130px;margin-right:20px">
+      <div class="weebles">&nbsp;</div>
+    </div>
+    <div class="coly" style="width:225px">
+      <p>{{deal.pie_slice_promo_text}}</p>
+      {{#deal.pie_fill_below_3}}
+      <div class="pie-referral">
+        <p><strong>your personal link</strong></p>
+        <div class="coly" style="width:144px">
+          <input id="copy-link" class="ls-text" onclick="select()" value="http://share.livingsocial.com/deals/160443{{deal.pie_share_tracking}}" />
+        </div>
+        <div class="coly" style="width:55px;padding-top:2px">
+          <a href="#" class="button medium third" id="copy-link-button"><span>copy</span></a>        </div>
+        <div class="clear"></div>
+      </div>
+      {{/deal.pie_fill_below_3}}
+    </div>
+    <div class="clear"></div>
+  </div>
+{{/deal.has_purchased}}
+{{^deal.has_purchased}}
+  <div class="deal-description">
+    
+      <div id="sfwt_short_1"><p>Glamour is no stranger to Ann Arbor. Where else in Michigan can you find a bevy of lawyers, professors, doctors, luxury lofts, and outdoor cafes? The spirit of Paris's fifth <em>arrondissement</em> is alive and well here on South Fifth Avenue. At <a href="http://www.facebook.com/pages/DESSANGE-Paris-USA/236543086377447" target="_blank">Dessange Salon and Spa</a>, you'll pay just $37 to... <a class="sfwt" href="#" onclick="$('#sfwt_short_1').hide(); $('#sfwt_full_1').show();; return false;">(show more)</a></p></div><div id="sfwt_full_1" style="display: none"><p>Glamour is no stranger to Ann Arbor. Where else in Michigan can you find a bevy of lawyers, professors, doctors, luxury lofts, and outdoor cafes? The spirit of Paris's fifth <em>arrondissement</em> is alive and well here on South Fifth Avenue. At <a href="http://www.facebook.com/pages/DESSANGE-Paris-USA/236543086377447" target="_blank">Dessange Salon and Spa</a>, you'll pay just $37 to enjoy an hour-long Swedish Massage and sauna treatment -- a $75 value. Or enjoy the fabulous life of the jet set with a new 'do for winter. Buy a color treatment, highlights, and a haircut for $95 (a $190 value). This French franchise  has 1,000 high-end salons worldwide. And while we're still waiting for Carla Bruni to make a cameo at the Fleetwood Diner, Dessange is proud to give you another reason to enjoy the French <em>joie de vivre</em> a little closer to home.</p> <a class="sfwt" href="#" onclick="$('#sfwt_short_1').show(); $('#sfwt_full_1').hide();; return false;">(show less)</a></div>
+  </div>
+{{/deal.has_purchased}}
+
+</script>
+
+<script>
+(function() {
+  Stached.expireCheck();
+    // {"name":"deal_share","hide":false}
+  
+  var options = {"name":"deal_share","hide":false};
+  var frame   = ["c7fa1f9b1bb6bd1a", {"deal":[{"object":{"price":37.0,"adventures":false,"buy_box_text":"buy now!","id":160443,"display_price":"\u003Csup class=\"dollar_sign\"\u003E$\u003C/sup\u003E37","marked_as_live":true,"purchase_path":"/deals/160443-hour-long-massage-37-highlights-+-cut-95/purchases/new","hide_discount":false,"city_id":94,"ineligible_for_dealbucks":false}},{"object":"Deal"}],"me":[{"url":"/me/info.json","when":{"cookie":"viewer"},"cache":"page"},{"object":{"loggedIn":false}},{"object":"Me"},{"object":"FbMe"}]}, options];
+  var when    = null;
+
+  if (when && typeof(when) == 'object' && when.cookie && document.cookie.match(when.cookie) && Cache.Cookie.Helpers.readFor(when.cookie)) {
+    Stached.render.call(frame);
+  }
+  else {
+    Stached.render.call(frame);
+  }
+})();
+</script>
+
+
+
+<div class="clear"></div>
+
+
+
+<div class="social_share" style="border: none; margin-top: 10px;">
+  <ul class="clearfix" style="border-bottom: 1px solid #dedede; margin-bottom: 5px; padding-bottom: 13px;">
+    <li class="first" style="border-right: none;"><strong>Share now:</strong></li>
+
+    
+      <li style="padding-right: 0;">
+      
+<span id="target-d8b2db29d7a5d7a1">
+        <a title="Share by Email" style="width:35px;" class="social-share-email" href="" target="_blank">email</a>
+      </span>
+<script id="template-d8b2db29d7a5d7a1" type="text/mustache">
+        <a title="Share by Email" style="width:35px;" class="social-share-email" href="{{{deal.email_url}}}" target="_blank">email</a>
+      </script>
+
+<script>
+(function() {
+  Stached.expireCheck();
+    // {"hide":true}
+  
+  var options = {"hide":true};
+  var frame   = ["d8b2db29d7a5d7a1", {"deal":[{"object":{"price":37.0,"adventures":false,"buy_box_text":"buy now!","id":160443,"display_price":"\u003Csup class=\"dollar_sign\"\u003E$\u003C/sup\u003E37","marked_as_live":true,"purchase_path":"/deals/160443-hour-long-massage-37-highlights-+-cut-95/purchases/new","hide_discount":false,"city_id":94,"ineligible_for_dealbucks":false}},{"object":"Deal"}],"me":[{"url":"/me/info.json","when":{"cookie":"viewer"},"cache":"page"},{"object":{"loggedIn":false}},{"object":"Me"},{"object":"FbMe"}]}, options];
+  var when    = null;
+
+  if (when && typeof(when) == 'object' && when.cookie && document.cookie.match(when.cookie) && Cache.Cookie.Helpers.readFor(when.cookie)) {
+    Stached.render.call(frame);
+  }
+  else {
+    Stached.render.call(frame);
+  }
+})();
+</script>
+
+      </li>
+    
+
+    <li><span id="tweetit"></span></li>
+    <li style="width:60px"><a style="width:60px" id="fbsend"></a></li>
+    <li class="last" style="width:80px"><a style="width:80px" id="fblike"></a></li>
+  </ul>
+  
+  <p style="position: relative;"><span style="position: absolute; top: -16px; left: 10px; background-color: #fff; padding: 0 10px;">or</span><strong>Want it for free?</strong> <a href="/deals/160443-hour-long-massage-37-highlights-+-cut-95/purchases/new?preferred_city=94"><b>Buy first</b></a>, then share a special link. If three friends buy, yours is free!</p>
+  
+  <div class="clear"></div>
+</div>
+
+  </div>
+</div>
+<div class="clear"></div>
+
+      <div class="deal-details">
+  
+  
+    
+
+    <div class="grid_5 alpha location">
+      <h2>Location</h2>
+
+      <ul class="addresses">
+        
+          <li class="address">
+            <span class="street_1">205 South 5th Avenue</span><br/>
+
+
+
+Ann Arbor, MI 48104<br />
+
+
+  <span class="phone">734-996-5585 |</span>
+
+
+<span class="directions"><a href="http://maps.google.com/maps?q=42.2803758, -83.7460764" target="_blank">get directions</a></span>          </li>
+        
+      </ul>
+
+      
+    </div>
+
+  <div class="grid_7 omega">
+    
+
+  <div class="fine-print">
+    <h2>The Fine Print</h2>
+    
+      <p>
+                  Limit one per person, additional as gifts • Limit one per person per visit • Appointments are required and subject to availability • Merchant cancellation/re-scheduling policy of 24 hours applies; voucher subject to forfeiture • All services must be used by same customer; cannot be shared • Entire value must be used in a single visit
+        
+          • <a href="#" onclick="dls.finePrint.showGlobalTerms(); return false;">Other conditions apply</a>
+        • PAID VALUE EXPIRES ON November 17, 2016 • PROMOTIONAL VALUE EXPIRES ON May 20, 2012
+      </p>
+    
+  </div>
+  
+  <script type="text/javascript" charset="utf-8">
+    dls.finePrint = {
+      showGlobalTerms: function(a) {
+        $.facebox(jtmpl('tmpl_global_terms',{}));
+      }
+    }
+  </script>
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+    
+    </div>
+  </div>
+  <div class="panel-footer">&nbsp;</div>
+</div>
+
+  
+
+  
+
+  
+  
+  
+    
+      
+  
+<div class="panel gutter nearby-deals-mod">
+  
+  <div class="panel-body">
+    
+    <div class="panel-innards clearfix">
+      
+    <div class="nearby-deals inline">
+      <h2>Nearby Deals <a href="/cities/94-ann-arbor/more_deals" class="secondary">view more</a></h2>
+      <ul>
+        <li >
+  
+  
+  
+
+  <a href="/cities/94/deals/169693-20-to-spend-on-food-and-drink" onClick="_gaq.push(['_trackEvent', 'nearby deals - Nearby Deals', '0 of 22', 'clicked deal image'])">
+    <span style="background-image: url(http://a2.ak.lscdn.net/imgs/724f2bd6-2e67-4e5e-9553-42364dd29a4c/85_q60_.jpg);" class="img">&nbsp;</span>
+  </a>
+
+  <h3><a href="/cities/94/deals/169693-20-to-spend-on-food-and-drink" onclick="_gaq.push(['_trackEvent', 'nearby deals - Nearby Deals', '0 of 22', 'clicked deal merchant'])">Miki Japanese Restaurant</a></h3>
+
+  <p class="title"><a href="/cities/94/deals/169693-20-to-spend-on-food-and-drink" onclick="_gaq.push(['_trackEvent', 'nearby deals - Nearby Deals', '0 of 22', 'clicked deal title'])">$20 to Spend on Food and Drink</a></p>
+
+  <p class="city"><a href="/cities/94/deals/169693-20-to-spend-on-food-and-drink" onclick="_gaq.push(['_trackEvent', 'nearby deals - Nearby Deals', '0 of 22', 'clicked deal location'])">Ann Arbor</a></p>
+
+  <a class="price" href="/cities/94/deals/169693-20-to-spend-on-food-and-drink" onClick="_gaq.push(['_trackEvent', 'nearby deals - Nearby Deals', '0 of 22', 'clicked deal price'])">
+    <del>$20</del> <sup class="dollar_sign">$</sup>10
+  </a>
+  <a href="/cities/94/deals/169693-20-to-spend-on-food-and-drink" class="button small third" onclick="_gaq.push(['_trackEvent', 'nearby deals - Nearby Deals', '0 of 22', 'clicked view button'])">view</a>
+</li>
+<li class='last'>
+  
+  
+  
+
+  <a href="/cities/94/deals/169793-19-to-spend-on-food-and-drink" onClick="_gaq.push(['_trackEvent', 'nearby deals - Nearby Deals', '1 of 22', 'clicked deal image'])">
+    <span style="background-image: url(http://a2.ak.lscdn.net/imgs/0a75cd7a-79ef-4cf1-98f8-5adcf7923df8/85_q60_.jpg);" class="img">&nbsp;</span>
+  </a>
+
+  <h3><a href="/cities/94/deals/169793-19-to-spend-on-food-and-drink" onclick="_gaq.push(['_trackEvent', 'nearby deals - Nearby Deals', '1 of 22', 'clicked deal merchant'])">Silvio's Organic Ristorante and Pi...</a></h3>
+
+  <p class="title"><a href="/cities/94/deals/169793-19-to-spend-on-food-and-drink" onclick="_gaq.push(['_trackEvent', 'nearby deals - Nearby Deals', '1 of 22', 'clicked deal title'])">$19 to Spend on Food and Drink</a></p>
+
+  <p class="city"><a href="/cities/94/deals/169793-19-to-spend-on-food-and-drink" onclick="_gaq.push(['_trackEvent', 'nearby deals - Nearby Deals', '1 of 22', 'clicked deal location'])">Ann Arbor</a></p>
+
+  <a class="price" href="/cities/94/deals/169793-19-to-spend-on-food-and-drink" onClick="_gaq.push(['_trackEvent', 'nearby deals - Nearby Deals', '1 of 22', 'clicked deal price'])">
+    <del>$19</del> <sup class="dollar_sign">$</sup>8
+  </a>
+  <a href="/cities/94/deals/169793-19-to-spend-on-food-and-drink" class="button small third" onclick="_gaq.push(['_trackEvent', 'nearby deals - Nearby Deals', '1 of 22', 'clicked view button'])">view</a>
+</li>
+<li >
+  
+  
+  
+
+  <a href="/cities/14/deals/173075-hour-long-boudoir-photo-session-and-an-11x14-print" onClick="_gaq.push(['_trackEvent', 'nearby deals - Nearby Deals', '2 of 22', 'clicked deal image'])">
+    <span style="background-image: url(http://a2.ak.lscdn.net/imgs/7d8fd761-f6e1-4ffc-b3e9-c2e9206d1ef3/85_q60_.jpg);" class="img">&nbsp;</span>
+  </a>
+
+  <h3><a href="/cities/14/deals/173075-hour-long-boudoir-photo-session-and-an-11x14-print" onclick="_gaq.push(['_trackEvent', 'nearby deals - Nearby Deals', '2 of 22', 'clicked deal merchant'])">Eclipse Studios</a></h3>
+
+  <p class="title"><a href="/cities/14/deals/173075-hour-long-boudoir-photo-session-and-an-11x14-print" onclick="_gaq.push(['_trackEvent', 'nearby deals - Nearby Deals', '2 of 22', 'clicked deal title'])">Hour-Long Boudoir Photo Session and an 11x14 Print</a></p>
+
+  <p class="city"><a href="/cities/14/deals/173075-hour-long-boudoir-photo-session-and-an-11x14-print" onclick="_gaq.push(['_trackEvent', 'nearby deals - Nearby Deals', '2 of 22', 'clicked deal location'])">Detroit</a></p>
+
+  <a class="price" href="/cities/14/deals/173075-hour-long-boudoir-photo-session-and-an-11x14-print" onClick="_gaq.push(['_trackEvent', 'nearby deals - Nearby Deals', '2 of 22', 'clicked deal price'])">
+    <del>$350</del> <sup class="dollar_sign">$</sup>129
+  </a>
+  <a href="/cities/14/deals/173075-hour-long-boudoir-photo-session-and-an-11x14-print" class="button small third" onclick="_gaq.push(['_trackEvent', 'nearby deals - Nearby Deals', '2 of 22', 'clicked view button'])">view</a>
+</li>
+<li class='last'>
+  
+  
+  
+
+  <a href="/cities/14/deals/173655-two-theatre-tickets" onClick="_gaq.push(['_trackEvent', 'nearby deals - Nearby Deals', '3 of 22', 'clicked deal image'])">
+    <span style="background-image: url(http://a2.ak.lscdn.net/imgs/d9042a41-3029-4879-96b2-c8975ab08759/85_q60_.jpg);" class="img">&nbsp;</span>
+  </a>
+
+  <h3><a href="/cities/14/deals/173655-two-theatre-tickets" onclick="_gaq.push(['_trackEvent', 'nearby deals - Nearby Deals', '3 of 22', 'clicked deal merchant'])">The Hilberry Theatre</a></h3>
+
+  <p class="title"><a href="/cities/14/deals/173655-two-theatre-tickets" onclick="_gaq.push(['_trackEvent', 'nearby deals - Nearby Deals', '3 of 22', 'clicked deal title'])">Two Theatre Tickets</a></p>
+
+  <p class="city"><a href="/cities/14/deals/173655-two-theatre-tickets" onclick="_gaq.push(['_trackEvent', 'nearby deals - Nearby Deals', '3 of 22', 'clicked deal location'])">Detroit</a></p>
+
+  <a class="price" href="/cities/14/deals/173655-two-theatre-tickets" onClick="_gaq.push(['_trackEvent', 'nearby deals - Nearby Deals', '3 of 22', 'clicked deal price'])">
+    <del>$60</del> <sup class="dollar_sign">$</sup>30
+  </a>
+  <a href="/cities/14/deals/173655-two-theatre-tickets" class="button small third" onclick="_gaq.push(['_trackEvent', 'nearby deals - Nearby Deals', '3 of 22', 'clicked view button'])">view</a>
+</li>
+
+      </ul>
+    </div>
+    <div class="clear"></div>
+  
+    </div>
+  </div>
+  <div class="panel-footer">&nbsp;</div>
+</div>
+
+
+    
+  
+    
+      
+  
+<div class="panel gutter nearby-deals-mod">
+  
+  <div class="panel-body">
+    
+    <div class="panel-innards clearfix">
+      
+    <div class="nearby-deals inline">
+      <h2>families <a href="/cities/94-ann-arbor/more_deals" class="secondary">view more</a></h2>
+      <ul>
+        <li >
+  
+  
+  
+
+  <a href="/cities/14/deals/177970-two-music-classes" onClick="_gaq.push(['_trackEvent', 'nearby deals - families', '0 of 22', 'clicked deal image'])">
+    <span style="background-image: url(http://a1.ak.lscdn.net/imgs/c5fe6cd8-5ff2-487d-a2cd-985f8cd8c342/85_q60_.jpg);" class="img">&nbsp;</span>
+  </a>
+
+  <h3><a href="/cities/14/deals/177970-two-music-classes" onclick="_gaq.push(['_trackEvent', 'nearby deals - families', '0 of 22', 'clicked deal merchant'])">Grosse Pointe Music Academy</a></h3>
+
+  <p class="title"><a href="/cities/14/deals/177970-two-music-classes" onclick="_gaq.push(['_trackEvent', 'nearby deals - families', '0 of 22', 'clicked deal title'])">Two Music Classes</a></p>
+
+  <p class="city"><a href="/cities/14/deals/177970-two-music-classes" onclick="_gaq.push(['_trackEvent', 'nearby deals - families', '0 of 22', 'clicked deal location'])">Detroit <span>Families</span></a></p>
+
+  <a class="price" href="/cities/14/deals/177970-two-music-classes" onClick="_gaq.push(['_trackEvent', 'nearby deals - families', '0 of 22', 'clicked deal price'])">
+    <del>$52</del> <sup class="dollar_sign">$</sup>26
+  </a>
+  <a href="/cities/14/deals/177970-two-music-classes" class="button small third" onclick="_gaq.push(['_trackEvent', 'nearby deals - families', '0 of 22', 'clicked view button'])">view</a>
+</li>
+<li class='last'>
+  
+  
+  
+
+  <a href="/cities/853/deals/120863-skating-for-4-people-+-skate-rental-+-pizza-+-soda" onClick="_gaq.push(['_trackEvent', 'nearby deals - families', '1 of 22', 'clicked deal image'])">
+    <span style="background-image: url(http://a0.ak.lscdn.net/imgs/056d071c-e8cc-4b3a-8fc9-ea3c69518fe4/85_q60_.jpg);" class="img">&nbsp;</span>
+  </a>
+
+  <h3><a href="/cities/853/deals/120863-skating-for-4-people-+-skate-rental-+-pizza-+-soda" onclick="_gaq.push(['_trackEvent', 'nearby deals - families', '1 of 22', 'clicked deal merchant'])">Skatin' Station II</a></h3>
+
+  <p class="title"><a href="/cities/853/deals/120863-skating-for-4-people-+-skate-rental-+-pizza-+-soda" onclick="_gaq.push(['_trackEvent', 'nearby deals - families', '1 of 22', 'clicked deal title'])">Skating for 4 People + Skate Rental + Pizza + Soda</a></p>
+
+  <p class="city"><a href="/cities/853/deals/120863-skating-for-4-people-+-skate-rental-+-pizza-+-soda" onclick="_gaq.push(['_trackEvent', 'nearby deals - families', '1 of 22', 'clicked deal location'])">Detroit - Northwest Suburbs <span>Families</span></a></p>
+
+  <a class="price" href="/cities/853/deals/120863-skating-for-4-people-+-skate-rental-+-pizza-+-soda" onClick="_gaq.push(['_trackEvent', 'nearby deals - families', '1 of 22', 'clicked deal price'])">
+    <del>$67</del> <sup class="dollar_sign">$</sup>33
+  </a>
+  <a href="/cities/853/deals/120863-skating-for-4-people-+-skate-rental-+-pizza-+-soda" class="button small third" onclick="_gaq.push(['_trackEvent', 'nearby deals - families', '1 of 22', 'clicked view button'])">view</a>
+</li>
+<li >
+  
+  
+  
+
+  <a href="/cities/853/deals/129711-month-of-recital-classes-25-5-classes-40" onClick="_gaq.push(['_trackEvent', 'nearby deals - families', '2 of 22', 'clicked deal image'])">
+    <span style="background-image: url(http://a2.ak.lscdn.net/imgs/01512308-57cc-44dd-b3a3-6f083ceb7c4c/85_q60_.jpg);" class="img">&nbsp;</span>
+  </a>
+
+  <h3><a href="/cities/853/deals/129711-month-of-recital-classes-25-5-classes-40" onclick="_gaq.push(['_trackEvent', 'nearby deals - families', '2 of 22', 'clicked deal merchant'])">Legacy Dance Studio and The Studio...</a></h3>
+
+  <p class="title"><a href="/cities/853/deals/129711-month-of-recital-classes-25-5-classes-40" onclick="_gaq.push(['_trackEvent', 'nearby deals - families', '2 of 22', 'clicked deal title'])">Month of Recital Classes ($25); 5 Classes ($40)</a></p>
+
+  <p class="city"><a href="/cities/853/deals/129711-month-of-recital-classes-25-5-classes-40" onclick="_gaq.push(['_trackEvent', 'nearby deals - families', '2 of 22', 'clicked deal location'])">Detroit - Northwest Suburbs <span>Families</span></a></p>
+
+  <a class="price" href="/cities/853/deals/129711-month-of-recital-classes-25-5-classes-40" onClick="_gaq.push(['_trackEvent', 'nearby deals - families', '2 of 22', 'clicked deal price'])">
+    <del>$50</del> <sup class="dollar_sign">$</sup>25
+  </a>
+  <a href="/cities/853/deals/129711-month-of-recital-classes-25-5-classes-40" class="button small third" onclick="_gaq.push(['_trackEvent', 'nearby deals - families', '2 of 22', 'clicked view button'])">view</a>
+</li>
+<li class='last'>
+  
+  
+  
+
+  <a href="/cities/94/deals/182236-six-months-of-online-learning-program" onClick="_gaq.push(['_trackEvent', 'nearby deals - families', '3 of 22', 'clicked deal image'])">
+    <span style="background-image: url(http://a3.ak.lscdn.net/imgs/6d2050a1-d89a-4756-927a-56b847629868/85_q60_.jpg);" class="img">&nbsp;</span>
+  </a>
+
+  <h3><a href="/cities/94/deals/182236-six-months-of-online-learning-program" onclick="_gaq.push(['_trackEvent', 'nearby deals - families', '3 of 22', 'clicked deal merchant'])">Kaplan Test Prep</a></h3>
+
+  <p class="title"><a href="/cities/94/deals/182236-six-months-of-online-learning-program" onclick="_gaq.push(['_trackEvent', 'nearby deals - families', '3 of 22', 'clicked deal title'])">Six Months of Online Learning Program</a></p>
+
+  <p class="city"><a href="/cities/94/deals/182236-six-months-of-online-learning-program" onclick="_gaq.push(['_trackEvent', 'nearby deals - families', '3 of 22', 'clicked deal location'])">Ann Arbor <span>Families</span></a></p>
+
+  <a class="price" href="/cities/94/deals/182236-six-months-of-online-learning-program" onClick="_gaq.push(['_trackEvent', 'nearby deals - families', '3 of 22', 'clicked deal price'])">
+    <del>$174</del> <sup class="dollar_sign">$</sup>87
+  </a>
+  <a href="/cities/94/deals/182236-six-months-of-online-learning-program" class="button small third" onclick="_gaq.push(['_trackEvent', 'nearby deals - families', '3 of 22', 'clicked view button'])">view</a>
+</li>
+
+      </ul>
+    </div>
+    <div class="clear"></div>
+  
+    </div>
+  </div>
+  <div class="panel-footer">&nbsp;</div>
+</div>
+
+
+    
+  
+
+
+
+  <div class="clear"></div>
+
+  
+  
+      
+<div class="panel gutter escapes">
+  
+  <div class="panel-body">
+    
+    <div class="panel-innards clearfix">
+            <div class="hd panel-header">
+        <h2><a href="/escapes">Escapes</a></h2>
+      </div>
+      <div class="bd clearfix">
+        <ul>
+                      <li>
+              
+              <a href="/deals/109923-michigan-country-inn">
+                <img src="http://a3.ak.lscdn.net/imgs/27023070-c8a7-4227-ae89-de6c4fa4e4a7/280_q60_.jpg" style="height: 72px; width: 208px; display: block;"/>
+                <div class="info">
+                  <h2>Michigan Country Inn</h2>
+                </div>
+              </a>
+            </li>
+                      <li>
+              
+              <a href="/deals/183596-overnight-stay-in-a-chagrin-valley-manor">
+                <img src="http://a0.ak.lscdn.net/imgs/f5f35c73-bdac-4563-9cb5-4d0c9a9d902a/280_q60_.jpg" style="height: 72px; width: 208px; display: block;"/>
+                <div class="info">
+                  <h2>Overnight Stay in a ...</h2>
+                </div>
+              </a>
+            </li>
+                      <li class="last">
+              
+              <a href="/deals/185192-instant-escape-magnificent-mile">
+                <img src="http://a3.ak.lscdn.net/imgs/f935f544-2caa-4e75-988e-25f609072302/280_q60_.jpg" style="height: 72px; width: 208px; display: block;"/>
+                <div class="info">
+                  <h2>Instant Escape: Magn...</h2>
+                </div>
+              </a>
+            </li>
+                  </ul>
+      </div>
+    
+    </div>
+  </div>
+  <div class="panel-footer">&nbsp;</div>
+</div>
+  
+
+  
+      
+<div class="panel gutter dark-panel articles">
+  
+  <div class="panel-body">
+    
+    <div class="panel-innards clearfix">
+      
+      <div class="grid_12 alpha">
+        
+
+<style type="text/css">
+ #do365 .image-wrapper { background-image: url(http://a3.ak.lscdn.net/imgs/6a31401d-db65-46bb-aa65-d4aeff9d128e/150.png); overflow: hidden;}
+ #do365 .other_image_wrapper .other_0 { background-image: url(http://a4.ak.lscdn.net/imgs/72ce5397-823a-4733-b326-80acfda7eb51/75.png); float: left; }
+ #do365 .description {clear: both; padding-top:5px; }
+ #do365 .description p {margin: 10px 0 10px 2px;}
+ #do365 .single {overflow: hidden;}
+ #do365 .other_image_wrapper .other_1 { background-image: url(http://a5.ak.lscdn.net/imgs/ec43554d-52dc-41d4-a083-7abbc5b871b4/75.png); float: left; }
+ #do365 .description {clear: both; padding-top:5px; }
+ #do365 .description p {margin: 10px 0 10px 2px;}
+ #do365 .single {overflow: hidden;}
+ #do365 .other_image_wrapper .other_2 { background-image: url(http://a1.ak.lscdn.net/imgs/210040b4-a3c0-4899-b108-6fded635683e/75.png); float: left; }
+ #do365 .description {clear: both; padding-top:5px; }
+ #do365 .description p {margin: 10px 0 10px 2px;}
+ #do365 .single {overflow: hidden;}
+</style>
+
+<div id="do365">
+  <a href="/cities/94-ann-arbor/articles"><h2 class="hdr-deal-gutter rockwell hdr-365 hdr-ann-arbor"><span>365 things to do in Ann Arbor</span></h2></a>
+
+  <div class="left">
+    <div class="single">
+            <div class="caption-wrapper">
+        <div class="image-wrapper">
+          <div class="num_box big_num_box"><sup>#</sup>
+            <span>172</span>
+          </div>
+        </div>
+        <span class="photo-credit">photo by <a href="http://satchelsbbq.com/" target="_blank">Satchel's BBQ</a></span>
+        <div class="description">
+          <p><a href="http://satchelsbbq.com/" target="_blank">Satchel's BBQ</a><br/>
+          Neighborhood: Ann Arbor</p>
+        </div>
+      </div>
+      <div class="content-wrapper">
+        <h3 class="title"><a href="/cities/94-ann-arbor/articles/66774-best-place-to-get-smother-some-brisket-in-bbq">Best place to get smother some brisket in BBQ?</a></h3>
+        <div class="description">
+          <p>Like any authentic BBQ joint, <a href="http://satchelsbbq.com/" target="_blank">Satchel's BBQ</a> isn't noticed for the restaurant's facade, but rather the woodpile and two giant smokers out front. We dare you to roll by one day with the windows down and try to resist stopping in to try something amazing off of Satchel's menu. Don't forget the side of mac n' cheese.</p>          <div style="margin-top:5px">
+            <fb:like href="http://livingsocial.com/cities/94-ann-arbor/articles/66774-best-place-to-get-smother-some-brisket-in-bbq?ref=og-mod" width="370px" layout="standard" show_faces="true" colorscheme="dark"></fb:like>          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="right">
+    
+     <div class="other_image_wrapper">
+      <a href="/cities/94-ann-arbor/articles/64890-best-place-to-catch-a-live-rock-show">        <div class="other365 other_0">
+           <div class="num_box"><sup>#</sup>171</div>
+        </div>
+      </a>    </div>
+    
+     <div class="other_image_wrapper">
+      <a href="/cities/94-ann-arbor/articles/64912-best-indian-buffet">        <div class="other365 other_1">
+           <div class="num_box"><sup>#</sup>170</div>
+        </div>
+      </a>    </div>
+    
+     <div class="other_image_wrapper">
+      <a href="/cities/94-ann-arbor/articles/63539-best-hookah-bar-and-cafe">        <div class="other365 other_2">
+           <div class="num_box"><sup>#</sup>169</div>
+        </div>
+      </a>    </div>
+    
+    <a href="/cities/94-ann-arbor/articles">See all 171</a>
+  </div>
+</div>
+      </div>
+      <div class="clear"></div>
+    
+    </div>
+  </div>
+  <div class="panel-footer">&nbsp;</div>
+</div>
+
+  
+
+
+
+  <div class="clear"></div>
+
+  <div class="mod promos clearfix">
+  <ul>
+    
+    <li class="promo">
+      <a href="/getfeatured" class="promo-merchant" target="_blank">Feature Your Business <span>[ Learn More ]</span></a>
+    </li>
+    
+    <li class="promo">
+      <a href="/mobile" class="promo-iphone">Deals on Your Mobile Phone <span>[ Free Download ]</span></a>
+    </li>
+    <li class="promo last">
+      
+        <a href="/cities" class="promo-more-cities">Looking for Another City? <span>[ See All Cities ]</span></a>
+      
+    </li>
+  </ul>
+</div>
+
+
+
+
+</div>
+          <div class="panel dark-panel" id="footer">
+    <ul>
+      <li><a href="/about">about</a></li>
+      <li><a href="/jobs">jobs</a></li>
+      <li><a href="/press">press</a></li>
+      <li><a href="/getfeatured" target="_blank">businesses</a></li>
+      <li><a href="/affiliates">affiliates</a></li>
+      <li><a href="http://help.livingsocial.com" target="_new">help</a></li>
+      <li><a href="/terms">terms</a></li>
+      <li class="last"><a href="/privacy_policy">privacy policy</a></li>
+    </ul>
+
+    <ul>
+      <li class="last"><a href="/gift-cards">gift cards</a></li>
+    </ul>
+
+    <p>&copy; 2011, LivingSocial, LivingSocial LTD UK, LivingSocial Canada Enterprise Inc. All Rights Reserved.</p>
+
+    <ul class="follow-us">
+      <li><a href="http://twitter.com/livingsocial" class="twitter png_bg" target="_blank">twitter</a></li>
+      <li class="last"><a href="http://www.facebook.com/livingsocial" class="facebook png_bg" target="_blank">facebook</a></li>
+    </ul>
+</div>
+        </div> 
+      </div> 
+    </div> 
+
+    
+
+
+
+
+
+    
+
+
+
+    <script src="http://a3.ak.lscdn.net/deals/system/javascripts/bingy-ff399edc42e1ac8a11d1b2f194bc9d21.js" type="text/javascript"></script>
+    
+  <script type="text/javascript" charset="utf-8">
+    ;(function() {
+      function enableSubscribe() {
+        $(function() {
+          function onDropDown(cb) {
+            $('#subscribe').load('/cities/94/newsletter_subscription/viewer_subscriptions',
+              { vertical : 'daily' }, cb);
+            $('#subscribe').css({zoom:1});
+          };
+          $("#market-subscription-handle").headerDropDown({dropDownArea:"#subscribe",onDropDown: onDropDown});
+        });
+      }
+      if (stached_render_subscribe > 0) {
+        enableSubscribe();
+      }
+      else {
+        Stached.on("render:subscribe", enableSubscribe);
+      }
+    })();
+  </script>
+ <script type="text/javascript" charset="utf-8">
+      $(document).ready(function() {
+        var addlAddresses   = $('#addl-addresses'),
+            moreLink        = $('#show-more-addresses'),
+            moreLinkText    = moreLink.text();
+
+        moreLink.bind('click', function(event) {
+          if (addlAddresses.is(':visible')) {
+            $(this).text(moreLinkText);
+            addlAddresses.hide();
+          } else {
+          $(this).text("Show less");
+            addlAddresses.show();
+          }
+          event.preventDefault();
+        });
+
+        
+          $('#countdown').counter([["02","d"],["12","h"],["47","m"],["42","s"]]);
+        
+
+        var copyLink = $('#copy-link');
+        var copyLinkButton = $('#copy-link-button');
+        if (copyLink.length > 0) {
+          var clip = new ZeroClipboard.Client();
+          clip.setText('');
+          clip.setHandCursor(true);
+          clip.addEventListener('complete', function(client, text) {
+            copyLink.css({'backgroundColor':'#FFF'});
+            copyLinkButton.html('<span>copied</span>');
+          } );
+          clip.addEventListener('mouseDown', function(client) {
+            copyLink.css({backgroundColor:'#005270'});
+            clip.setText(copyLink.val());
+          } );
+          clip.glue('copy-link-button');
+        }
+      });
+    </script>
+  
+    
+    <script>
+  $(document).bind("deals.loadPersonalInfo", FbMe.updateControlBar);
+  dls.fbConnect.init(dls.fbKey, { ssl: dls.isSSL });
+  
+  appendAsynchScript('connect.facebook.net/en_US/all.js');
+  dls.runner();
+</script>
+<script type="text/html" id="tmpl_session_expired">
+  <div class="modal session-expired">
+    <h2>Not logged in.</h2>
+    <div class="modal-body">
+      <p>Please log in to continue.</p>
+    </div>
+  </div>
+</script>
+    
+    <script type="text/javascript">
+    var _gaq = _gaq || [];
+      _gaq.push(["_setAccount","UA-3767395-1"]);
+_gaq.push(["_setDomainName",".livingsocial.com"]);
+_gaq.push(["_setAllowLinker",true]);
+_gaq.push(["_setAllowHash",false]);
+_gaq.push(["_trackPageview","/Deals/deals/show"]);
+_gaq.push(["_trackPageLoadTime"]);
+    (function() {
+      var ga = document.createElement('script');
+      ga.type = 'text/javascript';
+      ga.async = true;
+      ga.src = ('https:'   == document.location.protocol ? 'https://ssl'   : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(ga, s);
+    })();
+    </script>
+    
+
+<div id='affiliate_pixels'>
+  <iframe src='http://pixels.livingsocial.com/conversion' width='1' height='1' style='visibility: hidden;' frameborder='0'></iframe>
+  
+</div>
+    
+  </body>
+</html>

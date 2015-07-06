@@ -1,0 +1,2293 @@
+
+
+
+
+
+
+
+
+
+ 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml">
+	<head profile="http://gmpg.org/xfn/11">
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+		
+
+
+
+
+
+
+
+
+
+   	
+
+
+	
+	
+	
+		<title>Deal of the Day: 68% off a Colour, Wash, Master Stylist Cut and Style at Rain FX</title>
+        <meta property="og:site_name" content="Deal of the Day" />
+        
+        <meta property="og:title" content="68% off a Colour, Wash, Master Stylist Cut and Style at Rain FX"/>
+        
+        <meta property="og:image" content="http://product-images.imshopping.com/nimblebuy/rain-fx-salon-spa-262111-regular.jpg"/>
+        <meta property="og:url" content="http://dealoftheday.redflagdeals.com/deal/toronto/rain-fx-salon-spa" />
+        
+       		<meta property="fb:app_id" content="144018185676605" />
+       		
+        
+        	<meta name="description" content="Group buy offer: 68% off a Colour, Wash, Master Stylist Cut and Style at Rain FX" />
+        	<meta name="keywords" content="Rain FX Salon &amp; Spa, group deal, group buy, Toronto" />
+        
+	
+	
+	
+	
+	
+	
+
+
+	
+		<link rel="shortcut icon" href="/getGBMerchantImage?redownloadtoken=53788&amp;type=ico&amp;logo=favicon.ico" type="image/x-icon" />
+   		<link rel="icon" href="/getGBMerchantImage?redownloadtoken=53788&amp;type=ico&amp;logo=favicon.ico" type="image/x-icon" />
+	
+	
+
+		<!--[if IE 6]>
+<script type="text/javascript" src="/include.js?files=DD_belatedPNG_0.0.7a-min.js&amp;redownloadtoken=53788"></script>
+<script defer type="text/javascript">
+  DD_belatedPNG.fix('.pngImages');
+</script>
+<![endif]-->
+
+		
+		
+			
+				
+			
+			
+			
+		
+		
+		
+			
+				<link rel="stylesheet" type="text/css" href="/include.css?files=default-wl.list;classicDetailsGroupBuy.list&ignoreCommerce=&amp;redownloadtoken=53788"/>
+			
+			
+		
+		
+			
+				
+				
+					 
+				
+			
+			<link rel="stylesheet" type="text/css" href="http://product-images.imshopping.com/css/common-dealoftheday.redflagdeals.com.css"/>
+			
+				<link rel="stylesheet" type="text/css" href="http://product-images.imshopping.com/css/deal_details_content_css-dealoftheday.redflagdeals.com.css"/>
+			
+		
+		<script type="text/javascript">	
+	var WARNING_TITLE = "Warning";
+	function getMicrositeUrlPrefix() {
+		var url = "";
+		return url;
+	}
+	var MICROSITE_URL_PREFIX = "";
+	var ACTIVE_WHITE_LABEL_MERCHANT_ID = null;
+	var MICROSITE_URL_PREFIX = getMicrositeUrlPrefix();
+	
+		ACTIVE_WHITE_LABEL_MERCHANT_ID = 192;
+		
+	var jqueryJsHost = (("https:" == document.location.protocol) ? "https://" : "http://"); 
+	loadJS(jqueryJsHost + 'ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js');
+	loadJS(jqueryJsHost + 'ajax.googleapis.com/ajax/libs/jqueryui/1.7.2/jquery-ui.min.js'); //TODO: update to v1.8.6 and fix issues with dialogs(centered) and test other components
+	function loadJS(src){
+		document.write("<script type='text/javascript' src='"+src+"'><\/script>");
+	}
+</script>
+
+		<script type="text/javascript">
+			if ('detailsGroupBuy' != '') {
+				loadJS('/include.js?files=default.list;detailsGroupBuy.list&amp;redownloadtoken=53788');
+			} else {
+				loadJS('/include.js?files=default.list&amp;redownloadtoken=53788');
+			}
+		</script>
+		
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript"><!--
+	var fbookApiKey = "218963300946";
+	
+		fbookApiKey = "144018185676605";
+	 
+	var fb_session_key = ""; var fb_reg_uin = "";
+	var myId = 0; var fbLoginInProgress = false;
+	window.fbAsyncInit = function() {
+	    FB.init({appId: fbookApiKey, status: true, cookie: true, xfbml: true });
+		FB.getLoginStatus(function(response) {
+			  if (response.session) { myId = response.session.uid; fb_session_key = response.session.session_key; }
+		});
+	};
+	if($.browser.msie) { // preload for IE
+		var div = document.createElement('div'); div.id="fb-root";
+		loadJS(document.location.protocol + '//connect.facebook.net/en_US/all.js');
+	} 
+	$(document).ready(function(){
+		if(!$.browser.msie) { // preload for not IE
+			(function() { jQuery.getScript( document.location.protocol + '//connect.facebook.net/en_US/all.js'); }());
+		}
+	});
+ --></script>
+ 	
+  
+		
+			
+				
+					
+				
+				
+			
+				
+				<style>
+					.pageBodyElement {
+					
+						background-color: #f29090;
+						
+					
+						background-image: url("/getGBMerchantImage?imgId=3652&type=background");
+						background-repeat: 
+						
+							
+							 repeat-x  
+						;
+					
+					}
+				</style>
+			
+		
+	</head>
+	<body class="pageBodyElement" id="mainContainer">
+		<div id="fb-root"></div>
+		
+
+
+
+
+
+
+
+
+
+	
+		
+
+
+
+
+
+
+
+
+
+
+			
+		
+
+
+
+
+
+
+
+
+
+<input type="hidden" id="activeTabId" value="todaysDealtab"/>
+
+		
+			
+			
+				
+				
+					
+						
+						<div class="ui-helper-clearfix dotdHeaderWrapper">
+<div class="dotdHeaderLeft ui-helper-clearfix" id="top">
+<div class="dotdHeaderRight ui-helper-clearfix">
+<div class="dotdHeader ui-helper-clearfix">
+
+<div class="dotdLogoSection">	
+			<div id="headerMerchantLogoName" ><h1 id="headerMerchantName" onclick="gotoGbMerchantHomePage()">Deal of The Day</h1></div>
+Presented by 
+<a href="http://www.redflagdeals.com/" class="link" rel="nofollow"><img src="https://s3.amazonaws.com/product-images.imshopping.com/nimblebuy/9f1493341d83f6f79875794fbdfb81db" alt="RedFlagDeals.com" class="rfdLogo pngImages "/></a>
+</div>
+<div class="ui-helper-clearfix" id="dotdHeaderCategoriesWrapper">
+<div class="currentCategoryBlock" id="selectedCityName">Toronto</div>
+<div id="categoryHeaderArea"></div>
+</div>
+
+<script type="text/javascript">
+var url = location.href;
+var nomatch = 'white-shirts-1';
+
+if (!url.match(nomatch)) {
+	var pieces = url.match(/\/deal\/ottawagatineau\/white-shirts-2[^\?]*(\?(.*))*/);
+	if (pieces) {
+		var qsa = (pieces[2]) ? '?' + pieces[2] : '';
+		var newurl = '/deal/ottawagatineau/white-shirts-1/' + qsa;
+		window.location = newurl;
+	}
+}
+
+</script>
+<script type="text/javascript">
+
+    /*
+    function renderCategoryMenuCallbackFunc() {
+	city = $('.selectedCategoryNameArea');	
+    }
+    */
+/* By Sam - move Francais link from city display */
+
+$(document).ready(function() {
+        //will place city selection here after fix
+	var city = $('#selectedCityName');
+	var helpLink = $('#helpLink');
+        if ((cityname = city.text().match('Montreal-Rive-Sud|Montreal|Quebec City|Ottawa-Gatineau|Laval')) != null) {
+            var citynamesfr = {
+		'Montreal-Rive-Sud'        : 'montreal-rivesud',
+                'Montreal'        : 'montreal',
+                'Quebec City'    : 'ville-de-quebec',
+                'Ottawa-Gatineau'        : 'ottawagatineau',
+                'Laval'        : 'laval-et-laurentides'
+		
+
+            };
+        
+            helpLink.after('<a href="http://promodujour.lespac.com/deal/' + citynamesfr[cityname] + '/' + '" class="link languageLink">Français</a>');
+        }
+
+
+	
+
+if (city.text().indexOf('Hamilton') != -1 ) {
+		$('#hamilton_banner').show();
+	}
+  
+});
+</script>
+
+
+
+
+
+<div class="headerLinksArea ui-helper-clearfix">
+<span class="link" onclick="Auth.showAuthorizationPopup(); return;">Login</span>
+
+<span style="display: none;"><a class="link headerMenuLink" href="#">My Account </a></span>
+<span onclick="window.location.href=MICROSITE_URL_PREFIX + '/intro?force=true';" class="link">
+<img src="https://s3.amazonaws.com/product-images.imshopping.com/nimblebuy/50fad48aae98ec71553f5887d2e59157" alt="Alert Me Icon" class="alertMeIcon pngImages " />
+Alert Me
+</span>
+
+<span class="link" onclick="Dialogs.showWLHowIsWorksDialog('665'); return false;">How It Works </span>
+<a class="link" id="helpLink" href="http://support.redflagdeals.com/dealoftheday/">Help</a>
+
+
+<div class="userName" title=""></div>
+
+
+</div>
+
+
+</div>
+</div>
+</div>
+
+<div id="mothersday_banner">
+Can't decide what to get mom? Try something new by gifting her this incredible deal!
+</div>
+<div id="hamilton_banner">
+<font size="1">Congratulations to Julie from Hamilton – Proud winner of the $500 credit contest!
+</font>
+</div>
+
+</div>
+					
+					
+				
+			
+		
+		<div id="contentWrapper" class="ui-helper-clearfix">
+			
+				
+					
+					
+						
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+<div class="subHeaderTabs ui-helper-clearfix">
+
+	
+	
+	
+		
+			
+				<ul id="mainTabsList" class="ui-helper-clearfix" style="float:left;">
+	<li id="todaysDealtab">
+		<span id="todaysDealText" class="tab">
+			<a href="/deal/toronto/" >Today's Deal</a>
+		</span>
+	</li>
+	<li id="moreDealsTab" class="none_If_one_deal">
+		<span id="moreDealsText" class="tab">
+			<a href="/deal/toronto/groupBuysList.action">Recent Deals</a>
+		</span>
+	</li>
+</ul>
+<script type="text/javascript">
+	function addClass(element, value) {
+		if(!element.className) {
+			element.className = value;
+		} else {
+			newClassName = element.className;
+			newClassName+= " ";
+			newClassName+= value;
+			element.className = newClassName;
+		}
+	}
+	var activeTabId = document.getElementById('activeTabId').value; 
+	if (activeTabId.length > 0) {
+		addClass(document.getElementById(activeTabId), 'activeMainTabItem');
+	}
+</script>
+			
+			
+		
+	
+
+	<div class="ui-helper-clearfix mainTabsSubLine"></div>
+</div>
+
+					
+				
+			
+			<div id="main" class="ui-helper-clearfix ui-corner-all content_blocks_background main_border">				
+				<div class="ui-helper-clearfix ui-corner-all mainInnerBox">
+					
+						
+
+
+
+
+
+
+
+
+
+<div id="DailyAlertsContent" style="display: none;" class="ui-helper-clearfix"></div>	
+					
+					
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+		
+	
+
+
+
+
+
+
+
+
+
+	
+
+
+
+<div id="content" class="ui-helper-clearfix detailsContent">
+	
+		
+		
+			
+
+
+
+
+
+
+
+
+	
+
+
+<h1><span id="todaysDealsText">Today's Deal:</span> 68% off a Colour, Wash, Master Stylist Cut and Style at Rain FX</h1>
+
+
+
+
+
+
+
+
+
+
+<div class="dealInnerContent ui-helper-clearfix ui-corner-all border_side_background inner_content_border">
+	
+	
+
+
+
+
+
+
+
+
+
+
+	<div class="statusLabelWrapper">
+		
+			
+			
+			
+			
+			
+				<div class="gbStatus" id="ddpTheDealIsOnLabel"></div>
+			
+		
+	</div>
+	
+	
+	<div class="detailsRightColumn">
+			
+			<div class="dealInfoBar dealBaseInfo content_blocks_background inner_content_blocks_border">
+				<div class="ui-helper-clearfix">
+					
+
+
+
+
+
+
+
+
+
+
+	<div class="timeLeftSection"  id="ddpOfferTimeLeftBox">
+		
+			
+			
+				<span class="timeLeftDealText">Time left:</span>
+				<span id="dealTimeLeftArea" class="timeLeftDealValue">
+					
+					5h:36m:37s
+				</span>
+			
+		
+	</div>
+
+					<h3 class="buySectionTitle">Join the Group Buy</h3>
+				</div>
+				<div class="ui-helper-clearfix">
+					
+
+
+
+
+
+
+
+
+
+<div class="detailsPageDealInfoPrice">
+	
+		<span class="ddpCurrentPriceBox"><span class="wrappedCurrencySign">$</span><span class="wrappedPriceValue">39</span></span>
+	
+	
+</div>
+					
+					
+
+
+
+
+
+
+
+
+
+
+	
+		
+		
+		
+			
+			
+		
+	
+	
+		
+			<div class="buyThisBtn buyButton " onClick="GoogleAnalyticsGoals.trackBuy_step2();findWLUrlToBuy('/buy?gbId=120651&cId=1062');">Buy Now!</div>
+		
+		 
+	
+
+
+					
+
+
+
+
+
+
+
+
+
+
+	<div class="giftTheDealBlock">
+		<div class="giveGiftLink">
+			<span class="ddpGiftLinkSuffix">
+				OR 
+			</span>
+			
+				
+					<a class="giftTheDealBtn link"  onClick="GoogleAnalyticsGoals.trackBuy_step2();findWLUrlToBuy('/buy?gbId=120651&gift=true&cId=1062');">Gift this Deal!</a>
+				
+				
+			
+		</div>
+	</div>
+
+					
+					
+
+
+
+
+
+
+
+
+
+
+					
+				</div>
+				
+
+
+
+
+
+
+
+
+<div class="ui-helper-clearfix dealStatusArea" id="dealStatusArea">
+	
+		
+			<div class="okIcon okIconDealIsOn"></div>
+			<div class="dealIsOnText dealIsOnAndShowTippedText">
+				The deal is on!
+			</div>
+			
+				<div class="dealStatusHelpText">
+					Deal tipped
+					2 days ago
+					with 
+					5 
+					buyers
+				</div>
+			
+		
+		
+		
+	
+		
+</div>	
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+
+<div id="discountsSection" class="ui-helper-clearfix">
+	
+		<div class="discountBlock ui-corner-all firstDiscountBlock ddpOrigPriceBox">	
+			<div class="origPriceTitle">Value</div>
+			<span class="origPriceValue">$120</span>
+		</div>
+	
+	
+		<div class="discountBlock ui-corner-all ddpDiscountValueBox">	
+			<div class="discountTitle">Discount</div>
+			<span class="discountValue">68%</span>
+		</div>
+	
+	
+		
+		
+			
+			<div class="discountBlock ui-corner-all" id="peoplePurchasedBlock">
+				<div class="peoplePurchasedTitle">Purchased</div>
+				<span class="peoplePurchasedValue">51</span>
+			</div>
+				
+			<div class="discountBlock ui-corner-all" id="savingsBlock" >
+				<div class="peoplePurchasedTitle">Savings</div>
+				<span class="peoplePurchasedValue">$81</span>
+			</div>		
+		
+	
+</div>
+			</div>
+			
+
+
+
+
+
+
+
+
+<script type="text/javascript"> 
+	tweetmeme_style = 'compact';
+	
+	tweetmeme_service = 'bit.ly';				
+	tweetmeme_url = 'http://dealoftheday.redflagdeals.com/deal/toronto/rain-fx-salon-spa?noRedirection=true&refsrc=5';
+	
+	
+				
+					
+</script>
+<div class="dealInfoBar content_blocks_background inner_content_blocks_border ui-helper-clearfix" id="shareDealSection">
+	<div class="shareDealTitle">Share:</div>
+	<ul class="shareIcons">
+
+
+
+ 
+		<li class="buzzShareItem buzzShareItemIsHidden">
+			
+			
+				
+				
+					
+				
+			
+			
+				
+				
+					
+				
+			
+			
+			<a title="Post to Google Buzz" class="google-buzz-button" 
+				href="http://www.google.com/buzz/post"
+				data-message="68% off a Colour, Wash, Master Stylist Cut and Style at Rain FX" 
+				data-button-style="small-button" 
+				data-url="http://dealoftheday.redflagdeals.com/deal/toronto/rain-fx-salon-spa?type=buzz&raf_c=?type=buzz&tlCharityId=" 
+				data-imageurl="http://product-images.imshopping.com/nimblebuy/rain-fx-salon-spa-262111-regular.jpg" 
+				onclick="trackShareGB('120651', 'BUZZ');"></a>
+			
+		</li>
+		<li class="emailShareItem">	
+			<a href='mailto:?Subject=Check%20out%20this%20Group%20Offer&body=68%25%20off%20a%20Colour%2C%20Wash%2C%20Master%20Stylist%20Cut%20and%20Style%20at%20Rain%20FX%20http%3A%2F%2Fdealoftheday.redflagdeals.com%2Fdeal%2Ftoronto%2Frain-fx-salon-spa%3Futm_medium%3Demail%26utm_source%3Demail%26utm_campaign%3Demail-promo' onclick="GoogleAnalyticsGoals.trackShare('EMAIL');trackShareGB('120651', 'EMAIL');" class="mediumEmailIcon"></a>
+		</li>
+	    
+			<li id="fbLikeButton" class="fbLikeButton">
+		      
+			 
+			 
+			 	
+			 		<fb:like class="shareOnFB" href="http://dealoftheday.redflagdeals.com/deal/toronto/rain-fx-salon-spa?isSecret=no" layout="button_count" action="recommend" font="arial"></fb:like>
+			 	
+			 	
+			 
+			 
+			
+			</li>
+			<li id="fbSendButton" class="fbSendButton">
+			 
+			 	
+			 		<fb:send class="shareOnFB" href="http://dealoftheday.redflagdeals.com/deal/toronto/rain-fx-salon-spa?isSecret=no" layout="button_count" action="recommend" font="arial"></fb:send>
+			 	
+			 	
+			 
+			</li>
+			<li id="fbShareButton" class="fbShareButton">
+				<a name="fb_share" id="fb_share120651" type="icon_link" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdealoftheday.redflagdeals.com%2Fdeal%2Ftoronto%2Frain-fx-salon-spa%3Futm_medium%3Dfacebook%26utm_source%3Dfacebook.com%26utm_campaign%3Dfacebook-promo%26d%3D1310509342743%3Fhost%3Ddealoftheday.redflagdeals.com&src=sp" share_url="http://dealoftheday.redflagdeals.com/deal/toronto/rain-fx-salon-spa?utm_medium=facebook&utm_source=facebook.com&utm_campaign=facebook-promo&d=1310509342743?host=dealoftheday.redflagdeals.com" style="display: none;"></a>
+				<a name="120651" class="smallFbookIcon shareOnFB" href="#"></a>
+				
+			</li>
+	       
+		<li class="retweetSection twitterButtonSection twitterButtonSectionIsHidden">
+			
+					
+				
+				   
+                             <a href="http://twitter.com/share?text=68%25%20off%20a%20Colour%2C%20Wash%2C%20Master%20Stylist%20Cut%20and%20Style%20at%20Rain%20FX" class="twitter-share-button"
+                                 data-count="none"
+                                 data-url="http://dealoftheday.redflagdeals.com/deal/toronto/rain-fx-salon-spa"
+                                 data-counturl="http://dealoftheday.redflagdeals.com/deal/toronto/rain-fx-salon-spa" >retweet</a>
+                            
+					
+			
+		</li>
+	</ul>
+</div>
+		
+	</div>
+	
+
+
+
+
+
+
+
+
+
+<div id="nimbleProductSection" class="detailsLeftColumn content_blocks_background inner_content_blocks_border">
+	
+		
+		
+			
+				
+					<img class="nimbleBigPhoto" src="http://product-images.imshopping.com/nimblebuy/rain-fx-salon-spa-262111-regular.jpg" alt="68% off a Colour, Wash, Master Stylist Cut and Style at Rain FX" />
+				
+			
+		
+		
+		
+</div>
+</div>
+<div class="detailsRightColumn nimbleExtraInfoCol">
+	
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+	<div id="rafSection" class="ui-helper-clearfix">
+	<h2 class="highlight">Share deals, save money, make money!</h2>
+	<div class="helpText">
+		<p>Get your unique sharing link and share the deal with your friends. When you refer a new buyer using your link, you get <span class="amount">$5</span> credit towards future Deal of the Day purchases! There is no limit on the amount of money you can make.<br />
+		<a class="link" href="http://dealoftheday.redflagdeals.com/marketingLandingPage.action">Get started here!</a>
+		</p>
+	</div>
+	<img src="https://s3.amazonaws.com/product-images.imshopping.com/nimblebuy/8979b84047b859821a4ad5a226f4ee9" />
+</div>
+
+<!-- TRACKING PIXEL FOR INDIVIDUAL DEAL PAGES ONLY 
+<img src="http://leadback.advertising.com/adcedge/lb?site=695501&srvc=1&betr=redflagdealsvisit_cs=1&betq=12613=431380" width = "1" height = "1" border = "0"> 
+ END TRACKING PIXEL -->
+
+	
+	
+		
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+	<div class="ui-helper-clearfix gbFbLikeBox" style="display: none;">
+		<div class="ui-helper-clearfix gbFbLikeBoxTitle">
+			<h2 class="highlight">Facebook Community</h2>
+		</div>
+	</div>
+
+
+	
+	
+
+
+
+
+
+
+
+
+
+
+	<div class="ui-helper-clearfix" id="sideDealsWidgetSection">
+		<div class="ui-helper-clearfix" id="sideDealsWidgetSectionTitle">
+			<h2 class="highlight">Another great deal</h2>
+		</div>
+		<div class="ui-helper-clearfix" id="SideDealsWidgetSectionContent">
+			<style type="text/css">
+	#sideDealsSection {
+		border: 10px solid #3d8db1;
+		margin: 10px 0;
+		overflow: hidden;
+		padding: 10px;
+		zoom: 1;
+	}
+	#sideDealsSection h2 {
+		margin:0px;
+		padding: 0px 0 5px 0;
+		color: #949694;
+		border-bottom:1px dashed #B9B9B9;
+	}
+	#sideDealsSection h3 {
+		line-height: 23px;
+		margin: 0 0 15px;
+		font-size: 19px;
+		font-weight: bold;
+		color: #3d8db1;
+	}
+	#sideDealsSection p {
+		margin: 8px 0 0px 0;
+		line-height: 17px;
+	}
+	#sideDealsSection .sidedeal_thumb {
+		float: left;
+		margin-right: 22px;
+		width: 200px;
+		height: 103px;
+	}
+	#sideDealsSection a {
+		border: none;
+	}
+	#sideDealsSection .dealInfo {
+		overflow: hidden;
+		width: 116px;
+		margin-left: 10px;
+		zoom: 1;
+	}
+	#sideDealsSection .dealInfo .price {
+		background: url('https://s3.amazonaws.com/product-images.imshopping.com/nimblebuy/531966dce8e961deed214ffbb3a517dd') repeat-x left top;
+		border-radius: 5px;
+		color: #959595;
+		font-size: 22px;
+		font-weight: bold;
+		padding: 5px;
+		text-align: center;
+		-moz-border-radius: 5px;
+		-webkit-border-radius: 5px;
+	}
+	
+	#sideDealsSection .dealInfo .optionTitle {
+		color: #6b7b32;
+		font-size: 11px;
+		font-weight: bold;
+	}
+	#sideDealsSection .dealInfo .value {
+		background: url('https://s3.amazonaws.com/product-images.imshopping.com/nimblebuy/5487f6f1f2fb0adf82afedbd43b180') repeat-x left top;
+		border-radius: 5px;
+		color: #959595;
+		font-size: 16px;
+		font-weight: bold;
+		padding: 5px;
+		text-align: center;
+		-moz-border-radius: 5px;
+		-webkit-border-radius: 5px;
+
+	}
+.offer83312 div.dealInfo div.value { visibility:hidden; }
+</style>
+
+<div id="sideDealsSection" class="offer120691">
+
+	<h3><a href="http://dealoftheday.redflagdeals.com/deal/toronto/zen-spa-hot-stone-massage-july">$69 for Two 1-Hour Hot Stone Massages at Zen Spa worth $230</a></h3>
+	<a href="http://dealoftheday.redflagdeals.com/deal/toronto/zen-spa-hot-stone-massage-july"><img src="http://product-images.imshopping.com/nimblebuy/zen-spa-hot-stone-massage-july-262281-original.jpg" alt="$69 for Two 1-Hour Hot Stone Massages at Zen Spa worth $230" class="sidedeal_thumb" /></a>
+	<div class="dealInfo ui-helper-clearfix">
+		<div class="price">
+			$69
+		</div>
+		<div class="value">
+			$230 value
+		</div>
+		<a href="http://dealoftheday.redflagdeals.com/deal/toronto/zen-spa-hot-stone-massage-july"><img src="https://s3.amazonaws.com/product-images.imshopping.com/nimblebuy/8926f4c2ec2ccac7b2f8d177ba98049" alt="View Deal" id="sidedeal_viewdeal" /></a>
+	</div>
+
+</div> 
+
+<div id="sideDealsSection" class="offer120771">
+
+	<h3><a href="http://dealoftheday.redflagdeals.com/deal/toronto/arc-wellness-centre-hyperpigmentation">86% off Hyperpigmentation Removal Treatment from ARC Wellness Centre</a></h3>
+	<a href="http://dealoftheday.redflagdeals.com/deal/toronto/arc-wellness-centre-hyperpigmentation"><img src="http://product-images.imshopping.com/nimblebuy/arc-wellness-centre-hyperpigmentation-264621-original.jpg" alt="86% off Hyperpigmentation Removal Treatment from ARC Wellness Centre" class="sidedeal_thumb" /></a>
+	<div class="dealInfo ui-helper-clearfix">
+		<div class="price">
+			$49
+		</div>
+		<div class="value">
+			$350 value
+		</div>
+		<a href="http://dealoftheday.redflagdeals.com/deal/toronto/arc-wellness-centre-hyperpigmentation"><img src="https://s3.amazonaws.com/product-images.imshopping.com/nimblebuy/8926f4c2ec2ccac7b2f8d177ba98049" alt="View Deal" id="sidedeal_viewdeal" /></a>
+	</div>
+
+</div> 
+
+		</div>
+	</div>
+
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+	<div id="dealTalkSection" class="ui-helper-clearfix">
+		<div class="ui-helper-clearfix prodDealTalkTitle">
+			<h2 class="highlight">
+				<span class="ui-helper-clearfix joinDiscussionsBlock">
+				    
+					    
+					    
+					        <a href="/discussions.action?gbId=120651" class="joinDiscussionsLink link">Join the discussion</a>
+					        
+					            <span class="commentsCount">(3 comments)</span>
+					        
+					    
+				    
+				</span>
+				
+				<span class="communityTalkText">Ask A Question</span>
+			</h2>
+			
+				
+				<div class="ui-helper-clearfix dealCommentContainer">
+						
+						<div class="ui-helper-clearfix comment">
+							
+								
+									<span class="detailsCommentTxt"> 
+										Hello Galaxco: This deal is valid for new customers only.
+									</span>	
+									<div class="ui-helper-clearfix postUserName">
+										<span class="postedDate">Wayne_RFD_Staff</span>
+									</div>
+								
+								
+								  
+						</div>
+						
+						<div class="ui-helper-clearfix comment">
+							
+								
+									<span class="detailsCommentTxt"> 
+										The package includes coloring, so if I want to touch up on my roots, or change to a lighter color (my natural hair color is black), will it also be covered as part of the package?
+									</span>	
+									<div class="ui-helper-clearfix postUserName">
+										<span class="postedDate">Rinalinali</span>
+									</div>
+								
+								
+								  
+						</div>
+						
+						<div class="ui-helper-clearfix comment lastComment">
+							
+								
+									<span class="detailsCommentTxt"> 
+										Is this deal valid only for new, or also for existing clients?
+									</span>	
+									<div class="ui-helper-clearfix postUserName">
+										<span class="postedDate">Galaxco</span>
+									</div>
+								
+								
+								  
+						</div>
+					
+					</div>
+				
+				
+			
+		</div>
+	</div>
+	
+	
+	
+</div>
+
+<div class="dealFullInfo">
+	
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+<div class="ui-helper-clearfix productDescription">
+	
+
+
+
+
+
+
+
+
+
+
+<div class="productDescSection prodDescriptionTitle"><h2 class="highlight">Deal Description</h2></div>
+<div class="productDescSection prodDescriptionText"><span class="text">Look your best this summer with the help of the cutting-edge team at Rain FX Salon &amp; Spa. Today&rsquo;s deal allows you to receive a full hair colour, wash, cut and style from one of their master stylists worth $120 for only $39. Use your voucher to touch up your signature cut or consult with one of their master stylists to create a new look and update your style. Complete your transformation by covering unwanted greys or trying out a new hair colour. Invite your friends to join you and leave feeling like a brand new person thanks to the master stylists at Rain FX Salon &amp; Spa.</span></div>
+	
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+	<div class="productDescSection prodDetailsTitle"><h2 class="highlight">Details:</h2></div>
+	<div class="productDescSection prodDetailsText"><span class="text"><ul>
+	<li>
+		Services use professional salon products such as Paul Mitchell, Matrix, Redken and Schwarzkopf</li>
+	<li>
+		Limit of 1 voucher per person and additional vouchers may be <a href="https://dealoftheday.redflagdeals.com/buy?gift=true&amp;gbId=120651" target="_self">purchased as gifts</a></li>
+	<li>
+		Offer includes: a colour, wash, cut, and style from a master stylist</li>
+	<li>
+		If hair is longer than shoulder-length, an additional $10 fee applies</li>
+	<li>
+		Appointments mandatory. Please call (905) 856-3044 to book your appointment and mention the voucher</li>
+	<li>
+		Offer valid for new customers only</li>
+	<li>
+		Voucher expires January 9, 2012 (6 months)</li>
+	<li>
+		<a href="http://dealoftheday.redflagdeals.com/pages/globalterms" target="_blank">See the details that apply to all offers</a></li>
+</ul></span></div>
+
+	
+		
+			
+			
+				
+				
+				
+
+
+
+
+
+
+
+
+
+	
+	
+		
+		
+	
+
+
+
+	
+		<div class="productDescSection merchantDescTitle"><h2 class="highlight">About Rain FX Salon &amp; Spa</h2></div>
+	
+	
+		<span class="text merchantDescText"><a href="http://www.rainfxsalon.ca/" target="_blank">Rain FX Salon &amp; Spa</a> is dedicated to providing their customers with total quality care. All of their salon professionals receive extensive on-going training to stay at the forefront of their industry. The salon offers a full range of hair services, including cuts, colours, up do&rsquo;s, highlights and perms. There are also luxurious aesthetic services available, such as manicures, pedicures, facials, waxing and eyelash extensions. All of their services are performed with the use of professional salon products, such as Paul Mitchell, Matrix, Redken and Schwarzkopf to leave you looking and feeling great!</span>
+	
+
+
+				
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<div class="ui-corner-all googleMapSection ui-helper-clearfix">
+			<div class="companyInfoSection googleMapAdrressArea">
+				<div id="merchantAddress_192">
+					<b>Rain FX Salon & Spa</b><br/>
+					
+						<a class="link" href="http://www.rainfxsalon.ca/" target="_blank" rel="nofollow">Click here for more details.</a><br/>
+					
+					Location:
+					 
+						<div class="locationAddress googleMapAddress" >
+							
+							<span class="formattedAddress">8655 Weston Road, Unit 3, Woodbridge, ON, L4L 9R6</span>
+							
+								<br/><span style="font-weight: bold;">Phone: 905-856-3044</span>
+							
+							
+								<a href="http://dealoftheday.redflagdeals.com/getDealDirections.action?userZipCode=&address=8655+Weston+Road%2C+Unit+3%2C+Woodbridge%2C+ON%2C+L4L+9R6" target="_blank" class="link directionsLink">Get Directions</a>
+							 
+						</div> 
+					
+				</div>
+			</div>
+			<div class="googleMapArea">
+				<div id="map_canvas_192" class="map_canvas" style="width: 305px; height: 295px"></div>
+			</div>
+		</div>
+	
+
+			
+		
+	
+</div>
+
+	
+	
+</div>
+		
+	
+</div>	
+				</div>	
+			</div>
+		</div>
+		
+			
+			
+				
+					
+						<div id="dotdFooter">
+<ul class="dotdFooterList ui-helper-clearfix">
+<li class="dotdMobileAppBlock">
+<a href="http://www.redflagdeals.com/mobile/?utm_campaign=RFDMobile&utm_source=dealoftheday&utm_medium=footer" class="link" rel="nofollow" target="_blank"><img src="https://s3.amazonaws.com/product-images.imshopping.com/nimblebuy/bb3e95c9b25d4c485aa6f654fe4cdf" alt="download our free mobile app" /></a>
+</li>
+<li class="dotdBusinessBlock">
+<a href="http://dotd.redflagdeals.com/business/?utm_campaign=promote_business_en&utm_source=dealoftheday&utm_medium=footer" class="link dotdFooterSignUpLink" class="link" rel="nofollow" target="_blank"><img src="https://s3.amazonaws.com/product-images.imshopping.com/nimblebuy/59614d97cf7c9dbc52cd69c816f504e" alt="Promote your business
+on Deal of the Day!" />
+</a>
+</li>
+<li class="dotdSatisfactionBlock">
+<img src="https://s3.amazonaws.com/product-images.imshopping.com/nimblebuy/91953230312aacf12485155c3884aec7" alt="Satisfaction 100% Guaranteed" />
+</li>
+</ul>
+
+
+    <!-- UNIFIED YPG-STYLE FOOTER (Feb 2, 2010) -->
+    <div id="rfd_footer">
+        <div id="footer_bar">
+            <a href="http://www.redflagdeals.com/" id="footer_logo"><img title="RedFlagDeals.com" alt="RedFlagDeals.com" src="https://s3.amazonaws.com/product-images.imshopping.com/nimblebuy/4f171e6147afce4e08e3226e640f03e" /></a>
+        </div>
+    
+        <div id="footer_content">
+            <div class="footer_links">
+                <h2>Advertisers</h2>
+                <ul>
+                    <li><a target="_blank" title="Red Flag Deals Deals Adverstising" href="http://dotd.redflagdeals.com/business/">Advertise with us</a></li>
+                    <li><a target="_blank" title="Red Flag Deals Media Kit" href="http://www.redflagdeals.com/deals/main.php/info/advertise">Media kit</a></li>
+                    <li><a target="_blank" title="Deal of the Day Promote your Business" href="http://dotd.redflagdeals.com/business/">Promote your business</a></li>
+                </ul>
+            </div>
+    
+            <div class="footer_links">
+                <h2>About us</h2>
+                <ul>
+                    <li><a target="_blank" title="Red Flag Deals Contact Info" href="http://www.redflagdeals.com/deals/main.php/info/contact">Contact us</a></li>
+                    <li><a target="_blank" title="Red Flag Deals Jobs" href="http://jobs.ypg.com/search/red-flag-deals">Careers</a></li>
+                    <li><a target="_blank" title="Red Flag Deals Twitter Page" href="http://twitter.com/RedFlagDeals">Follow us on Twitter</a></li>
+                    <li><a target="_blank" title="Red Flag Deals Facebook Fan Page" href="http://www.facebook.com/RedFlagDeals">Facebook Fan Page</a></li>
+                    <li><a target="_blank" title="Deal of the Day Terms and Conditions" href="http://dealoftheday.redflagdeals.com/GroupBuyTerms">Terms and conditions</a></li>
+                    <li><a target="_blank" title="Deal of the Day Privacy Policy" href="http://dealoftheday.redflagdeals.com/GroupBuyPrivacyPolicy">Privacy policy</a></li>
+                </ul>
+            </div>
+        
+            <div class="footer_links">
+                <h2>Quick links</h2>
+                <ul>
+                    <li><a target="_blank" title="Deal of the day advertising" href="http://www.redflagdeals.com/deals/main.php/alldeals/">Deals</a></li>
+                    <li><a target="_blank" title="Redflagdeals Coupons" href="http://coupons.redflagdeals.com/">Coupons</a></li>
+                    <li><a target="_blank" title="Redflagdeals Financial" href="http://www.redflagdeals.com/deals/main.php/creditstore/">Financial</a></li>
+                    <li><a target="_blank" title="Redflagdeals Forums" href="http://forums.redflagdeals.com/">Forums</a></li>
+                    <li><a target="_blank" title="Scarlett Lounge" href="http://scarlett.redflagdeals.com/">Scarlett Lounge</a></li>
+                    <li><a target="_blank" title="Today's Deal of the Day" href="http://dealoftheday.redflagdeals.com/intro">Today's deal</a></li>
+                </ul>
+            </div>
+        
+            <div class="footer_links">
+                <h2>Mobile, tools and more</h2>
+                <ul>
+                    <li><a target="_blank" title="RedFlagDeals.com for mobile" href="http://www.redflagdeals.com/mobile/">RedFlagDeals.com for mobile</a></li>
+                    <li><a target="_blank" title="RSS feeds" href="http://feeds.redflagdeals.com/redflagdeals/latestdealsrss/">RSS feeds</a></li>
+                </ul>
+            </div>
+        
+            <div class="footer_links">
+                <h2>Our partners</h2>
+                <ul>
+                    <li><a target="_blank" title="Autotrader.ca - New & Used Cars website" href="http://www.autotrader.ca/">AutoTRADER.ca</a></li>
+                    <li><a target="_blank" title="Find a Person Website" href="http://www.canada411.ca/">Canada411.ca</a></li>
+                    <li><a target="_blank" title="Canada Plus" href="http://www.canadaplus.ca/">CanadaPlus.ca</a></li>
+                    <li><a target="_blank" title="Car Magazine Website" href="http://www.canadiandriver.ca/">Canadiandriver.ca</a></li>
+                    <li><a target="_blank" title="Redflagdeals.com" href="http://redflagdeals.com/">Redflagdeals.com</a></li>
+                    <li><a target="_blank" title="HomeTRADER.ca - Real Estate Website" href="http://www.hometrader.ca/">HomeTRADER.ca</a></li>
+                </ul>
+                <ul>
+                    <li><a target="_blank" title="Real Estate Website" href="http://www.lespac.com/">LesPAC (Fran&ccedil;ais)</a></li>
+                    <li><a target="_blank" title="Comparison Shopping Website" href="http://www.pricecanada.com/">PriceCanada.com</a></li>
+                    <li><a target="_blank" title="Buy Sell Classifieds" href="http://buysell.com">BuySell.com</a></li>
+                    <li><a target="_blank" title="Restaurant Reviews Website" href="http://www.restaurantica.com/">Restaurantica</a></li>
+                    <li><a target="_blank" title="Canadian Businesses Website" href="http://www.yellowpages.ca/">YellowPages.ca</a></li>
+                </ul>
+            </div>
+
+        </div>
+   </div>
+
+
+<div class="ui-helper-clearfix copyrightBlock">
+Copyright &copy; 2000 - 2011
+ RedFlagDeals.com. All rights reserved. 
+	(<a href="http://dealoftheday.redflagdeals.com/GroupBuyTerms">Terms of Use</a>, <a href="http://dealoftheday.redflagdeals.com/GroupBuyPrivacyPolicy">Privacy Policy</a>)<a id="dbox" href="#" onclick="jQuery('#dialogBox1').dialog('open'); return false" class="link" style="color:#fff">Popup</a>
+<a href="http://ypg.com/" class="link ypgFooterLogo" rel="nofollow"><img border="0" alt="Yellow Pages Group" src="https://s3.amazonaws.com/product-images.imshopping.com/nimblebuy/7849e45821c4dc5dab629a3a60e1df" /></a>
+
+<strong>Yellow Pages Group</strong> and <strong>the Walking fingers design logo</strong> are trademarks of <strong>Yellow Pages Group Co.</strong> in Canada.
+
+</div>
+
+</div>
+
+
+<!-- Dialog Box 1 -->
+<div id="popup_cheezz" title="Koodo and RedFlagDeals - LG Optimus One Phone Contest Winners!" class="ui-dialog-content">
+
+</div>
+<!-- END Dialog Box 1 -->
+
+
+<script type="text/javascript">
+<!--
+jQuery(document).ready(function() {
+jQuery(".gbItem:first").addClass("gbFirstItem");
+jQuery("#cardType").append("<span id='veriSignSecureIcon' style='display:inline;margin:0;padding:0;'><a href='https://trustsealinfo.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=dealoftheday.redflagdeals.com&amp;lang=en' target='_blank' style='margin:0px; padding:0px;'><img style='margin:0px; padding:0px;' src='https://s3.amazonaws.com/product-images.imshopping.com/nimblebuy/33f6d3d34c4dc3c52447e3ab57155c53'  style='border:none;'/></a></span>");
+
+jQuery(".prodDetailsTitle, .prodDetailsText").insertBefore(".prodDescriptionTitle");
+//jQuery(".creditCardIcons").attr("src", "https://s3.amazonaws.com/product-images.imshopping.com/nimblebuy/b77176292711ee2ecb640d7ac5b51fd");
+var box = jQuery('.gbFbLikeBox').clone();
+jQuery('.gbFbLikeBox').remove();
+jQuery('#dealTalkSection').after(box);
+
+// Move SideDeals to the top
+jQuery('#sideDealsWidgetSection').insertBefore("#rafSection");
+
+// Dialog popup code
+jQuery("#popup_cheezz").dialog({
+      autoOpen: false, resizable: false, width: 450, modal: true
+});
+
+
+// Dialog popup code
+jQuery("#popup_cheezz").dialog({
+      autoOpen: false, resizable: false, modal: true
+});
+
+//Remove select location option for ocean grill deal
+jQuery("option[id=14622]").remove().css('display','none');
+
+
+//PRODUCT CONFIRMATION PAGE Non-BTR Contests
+if (jQuery("#gbTypeProduct").size() > 0){
+processProductConfirmationPage();
+}
+
+});
+function processProductConfirmationPage(){
+jQuery(".printableArea, #shareContainer").hide();
+jQuery(".totalRow").addClass("productTotalRow");
+var productTitle = jQuery(".productDesc").html();
+// EDIT THE FOLLOWING LINE, change HTML for new title
+//var printableAreaTitle = "<center><h1 id='productConfirmationTitle'>Success! You are now entered into the contest!</h1></center>";
+var printableAreaTitle2 = "<center><h1 id='productConfirmationTitle'>Redirecting...</h1></center>";
+// EDIT THE FOLLOWING LINE, change SRC for new image
+var productImage = "<a href='http://dealoftheday.redflagdeals.com/marketingLandingPage.action' target='_blank'><img src='https://s3.amazonaws.com/product-images.imshopping.com/nimblebuy/b2206faf6b1e' /></a>";
+//var printableAreaContent = printableAreaTitle + productImage ;
+var printableAreaContent2 = printableAreaTitle2;
+
+jQuery(".messageArea .printableArea").addClass("productConfirmationPrintArea").html(printableAreaContent2).show();
+}
+//END NON- BTR PRODUCT CONFIRMATION PAGE
+
+<!-- Redirects for Contests -->
+
+// Hamilton re-direct
+ function processHamiltonRedirectPage(){
+ window.location.replace("http://dealoftheday.redflagdeals.com/pages/hamitonconfirm"); 
+
+}
+
+// Edmonton re-direct
+ function processEdmontonRedirectPage(){
+ window.location.replace("http://dealoftheday.redflagdeals.com/pages/edmonconfirm"); 
+
+}
+
+
+// BTR Toronto re-direct
+ function btrRedirectToronto(){
+ window.location.replace("http://dealoftheday.redflagdeals.com/pages/btwtor"); 
+
+}
+
+
+// BTR Montreal re-direct
+ function btrRedirectMontreal(){
+ window.location.replace("http://dealoftheday.redflagdeals.com/pages/btwmtlen"); 
+
+}
+
+
+
+// BTR Quebec City re-direct
+ function btrRedirectQuebecCity(){
+ window.location.replace("http://dealoftheday.redflagdeals.com/pages/btwqcen"); 
+
+}
+
+
+// BTR Edmonton re-direct
+ function btrRedirectEdmonton(){
+ window.location.replace("http://dealoftheday.redflagdeals.com/pages/btredm"); 
+
+}
+
+
+// BTR Ottawa re-direct
+ function btrRedirectOttawa(){
+ window.location.replace("http://dealoftheday.redflagdeals.com/pages/btwottaen"); 
+
+}
+
+
+
+// BTR Calgary re-direct
+ function btrRedirectCalgary(){
+ window.location.replace("http://dealoftheday.redflagdeals.com/pages/btwcal"); 
+
+}
+
+
+// BTR Vancouver re-direct
+ function btrRedirectVancouver(){
+ window.location.replace("http://dealoftheday.redflagdeals.com/pages/btwvan");  
+
+}
+
+
+
+
+-->
+</script> 
+					
+					
+				
+				
+
+
+
+
+
+
+
+
+
+
+
+
+	<div style="display: none;">
+		<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-220893-20']);
+  _gaq.push(['_trackPageview']);
+
+  _gaq.push(['_addTrans',
+    '',           // order ID - required
+    '',  // affiliation or store name
+    '',          // total - required
+    '',           // tax
+    '',              // shipping
+    '',       // city
+    '',     // state or province
+    ''             // country
+  ]);
+
+   // add item might be called for every item in the shopping cart
+   // where your ecommerce engine loops through each item in the cart and
+   // prints out _addItem for each
+  _gaq.push(['_addItem',
+    '',           // order ID - required
+    '',           // SKU/code - required
+    "Rain FX Salon & Spa",        // product name
+    '',   // category or variation
+    '39.0',          // unit price - required
+    ''               // quantity - required
+  ]);
+  _gaq.push(['_trackTrans']); //submits transaction to the Analytics servers
+
+
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+	</div>
+
+
+
+<div id="currentDateContainer" style="display: none;">12</div>
+<div id="currentMonthContainer" style="display: none;">July</div>
+<div id="currentMonthDigitContainer" style="display: none;">7</div>
+				
+
+
+
+
+
+
+
+
+
+<div id="headerMenu" class="ui-corner-all">
+	
+		<a href="/myGroupBuyRequests.action">My Purchases</a><br/>
+		<a href="/mySettings">My Profile</a><br/>
+		
+			<a href="/myGifts">My Gifts</a>
+		
+		
+	
+		
+		
+		
+		
+	
+</div>
+			
+		
+		
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+		
+	
+
+
+
+
+
+
+
+
+
+
+
+<div style="display:none">
+	<span id="timeDays">d</span>
+	<span id="timeHours">h</span>
+	<span id="timeMinutes">m</span>
+	<span id="timeSeconds">s</span>
+	<span id="moreCommentLinks">more</span>
+	<span id="lessCommentLinks">less</span>
+</div>
+
+
+
+
+
+
+
+
+
+
+<div id="alertWhenLivePopup" style="display: none;">
+	<label>
+		Input your email:
+		<input id="alertWhenLiveInput" type="text" /><br />
+	</label>
+	<div class="alertMeButtonsContainer">
+		<button type="button" class="ncSecondaryButton" id="alertMePopUpOkButton" value="OK">OK</button>
+		<button type="button" class="ncSecondaryButton" id="alertMePopUpCancelButton" value="Cancel">Cancel</button>
+	</div>
+	
+	<input type="hidden" id="alertMePopUpTitle" value="Alert me when live" />
+</div>
+
+
+
+
+
+
+
+
+
+
+<div style="display: none;" id="amwlSubscribedMessageContent">
+	<div class="subscribedDialogTitle">Welcome to <span id="subscribedDialogTitleMerchantName">Deal of the Day</span></div>
+	<div class="amwlSubscribedMessageText">	
+		We got you signed up to receive an alert when this Red Flag Deal goes live.<span id="merchantNameText">Deal of the Day</span> site.
+	</div>
+	<div class="buttonsSection ui-helper-clearfix" id="subscribedMessageButtonBox">
+		<div class="ncSmallSecondaryButton" id="subscribedMessageBtn" onclick="Dialogs.closeDialog();">Ok</div>
+	</div>	
+</div>	
+
+
+
+
+
+
+
+
+
+
+	
+
+<script type="text/javascript">
+	$(document).ready(function(){
+		
+			
+				DetailsGroupBuy.loadFBCommunityBox('132519833451641', 'en_US', '390', '310');
+			
+			
+		
+
+		
+			
+		
+		var currentBuyersCount = 0;
+		
+			currentBuyersCount = 51;
+		
+		initDealProgresBar("5", currentBuyersCount);
+		shareOnTwitter();
+		shareOnFB();
+		initBuzzButton();
+		
+		$("iframe #tweetmeme_button .retweet").css("height","17px");
+		
+		
+		
+			
+				
+				
+					DetailsGroupBuy.initDealTimeAnimation(new DealTimeClass(null, '5', '36', '37'), '120651');
+				
+			
+		
+		DetailsGroupBuy.initSideDealTimeAnimation();
+		DetailsGroupBuy.DEAL_IS_ON_TEXT = "The deal is on!";
+		
+		
+			var addresses = new Array();
+			var addressesMarkers = new Array();
+			var directions = new Array();
+			
+				addresses.push("8655 Weston Road, Unit 3, Woodbridge, ON, L4L 9R6");
+				directions.push("http://dealoftheday.redflagdeals.com/getDealDirections.action?userZipCode=&address=8655+Weston+Road%2C+Unit+3%2C+Woodbridge%2C+ON%2C+L4L+9R6");
+			
+			
+				addressesMarkers.push("http://product-images.imshopping.com/nimblebuy/c66dc4d0a26fdf8737688799e79743ca");
+			
+			$.each($(".map_canvas"), function(i, item) {
+				var merchantId = item.id.replace("map_canvas_", "");
+				GoogleMap.initializeGoogleMapV3(merchantId, "", addresses, directions, addressesMarkers);
+			});
+		
+		
+		
+			$.getScript("http://platform.twitter.com/widgets.js", function(){
+				$(".twitterButtonSection").removeClass("twitterButtonSectionIsHidden");
+			});
+		
+	});
+	
+		
+		function findWLUrlToBuy(url) { 
+			var ahahUrl  = "/getBuyUrlWithKey.action";
+			var params = {url:url, userId:''};
+			$.postAJAST(ahahUrl, params, function (data) {
+				if (typeof buy_custom_tracking != 'undefined' && buy_custom_tracking != null){
+					buy_custom_tracking(function(){window.location=data;});
+            	} else {
+					window.location=data;
+            	}
+			});
+		}
+	
+
+	
+
+	
+	
+	
+
+	$(".detailsCommentTxt").expander({
+		slicePoint: 140, 
+		widow: 2,
+		expandEffect: 'fadeIn',
+		expandPrefix: "... ",
+		expandText:  Utils.getProperty("moreCommentLinks"),
+		userCollapseText: Utils.getProperty("lessCommentLinks")
+	});
+
+	
+		loadJS("http://maps.google.com/maps/api/js?sensor=false");
+	
+</script>
+		
+
+
+
+
+
+
+
+
+<script type="text/javascript" >
+	$(document).ready(function(){
+		$(".headerMenuLink").click(function(e) {
+			var x = $(this).offset().left + "px";
+			var y = ($(this).offset().top + 15) + "px";
+			$("#headerMenu").css("left", x).css("top", y).slideToggle("fast"); 
+			e.stopImmediatePropagation();
+		});
+		$("body").click(function(e){
+			if ($("#headerMenu").height() > 0) $("#headerMenu").hide();
+			e.stopImmediatePropagation();
+		});
+		
+			$("#feedBackLink").click(function(){ Dialogs.showFeedBackDialog();});
+			$("#howItWorksLink").click(function(e){ Dialogs.showHowItWorksDialog(e);});
+		
+		
+		initMerchantCategoryMenu();
+	});
+	
+	function initMerchantCategoryMenu() {
+		if (typeof MerchantCategoryMenu == 'undefined') {
+			var t = setTimeout("initMerchantCategoryMenu", 1000);
+			return;
+		}
+		MerchantCategoryMenu.selectedCategoryId = '1062';
+
+		
+			MerchantCategoryMenu.selectedCategoryId = '1062';
+		
+		
+		 
+			
+				MerchantCategoryMenu.loadCategoryMenu("categoryHeaderArea");
+			
+			
+				MerchantCategoryMenu.loadCategoryMenu("categorySubHeaderArea");
+			
+		
+		MerchantCategoryMenu.wrapMerchantCategories();
+	}
+</script>
+
+
+	<script type="text/javascript" >
+		 
+	</script>
+
+		
+
+
+
+
+
+
+
+
+<script type="text/javascript">	
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); 
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	
+	var userDefined= 
+			            
+			             null 
+			        ;
+	var googleAnalyticsAccount = null;
+	
+		googleAnalyticsAccount = "UA-12608031-1";
+	
+	if (null != googleAnalyticsAccount) {
+		try {
+			var pageTracker = _gat._getTracker(googleAnalyticsAccount);
+			var activeWhiteLabelMerchantHost = "dealoftheday.redflagdeals.com";
+			if (userDefined!=null) { pageTracker._setVar(userDefined); }
+			pageTracker._trackPageview();
+			if (activeWhiteLabelMerchantHost) {
+				var merchantGaTrackingCode = "";
+				if (merchantGaTrackingCode) {
+					var pageTrackerFromMerchant = _gat._getTracker(merchantGaTrackingCode);
+					pageTrackerFromMerchant._trackPageview();
+				}
+			}
+		} catch (e) {}
+	}
+</script>
+		
+			
+
+
+
+
+
+
+
+
+
+
+
+	<div class="categoryListV2 showHideDropdown">
+			<div class="categoryListArrowImageV2"></div>
+			<span class="closeCategoryListButtonV2"></span>
+		   	<div class="categoryListBoxV2 ui-helper-clearfix">
+		   	
+			
+			
+				<div id="categoryItemWrapper3622" class="categoryItemWrapperV2 ">	
+					<a href="#" onClick="selectCategory(3622, 'brampton', ''); return false;" class="categoryItemV2  ">
+						<span class="categoryNameV2">Brampton</span> 
+						
+							<span class="liveDealsCountV2">
+								<span class="liveDealsCountStartV2">(</span>0<span class="liveDealsCountEndV2">)</span>
+								<span class="liveDealsTextV2">live deals</span>
+							</span>
+						
+						
+						
+						
+					</a>
+				</div>
+			
+				<div id="categoryItemWrapper3602" class="categoryItemWrapperV2 ">	
+					<a href="#" onClick="selectCategory(3602, 'burlington', ''); return false;" class="categoryItemV2  ">
+						<span class="categoryNameV2">Burlington</span> 
+						
+							<span class="liveDealsCountV2">
+								<span class="liveDealsCountStartV2">(</span>0<span class="liveDealsCountEndV2">)</span>
+								<span class="liveDealsTextV2">live deals</span>
+							</span>
+						
+						
+						
+						
+					</a>
+				</div>
+			
+				<div id="categoryItemWrapper1152" class="categoryItemWrapperV2 ">	
+					<a href="#" onClick="selectCategory(1152, 'calgary', ''); return false;" class="categoryItemV2  ">
+						<span class="categoryNameV2">Calgary</span> 
+						
+						
+							<span class="liveDealsCountV2">
+								<span class="liveDealsCountStartV2">(</span>1<span class="liveDealsCountEndV2">)</span>
+								<span class="liveDealsTextV2">live deal</span>
+							</span>
+						
+						
+						
+					</a>
+				</div>
+			
+				<div id="categoryItemWrapper7782" class="categoryItemWrapperV2 categoryDropDownLastColumnV2">	
+					<a href="#" onClick="selectCategory(7782, 'cambridge', ''); return false;" class="categoryItemV2  ">
+						<span class="categoryNameV2">Cambridge</span> 
+						
+							<span class="liveDealsCountV2">
+								<span class="liveDealsCountStartV2">(</span>0<span class="liveDealsCountEndV2">)</span>
+								<span class="liveDealsTextV2">live deals</span>
+							</span>
+						
+						
+						
+						
+					</a>
+				</div>
+			
+				<div id="categoryItemWrapper1172" class="categoryItemWrapperV2 ">	
+					<a href="#" onClick="selectCategory(1172, 'edmonton', ''); return false;" class="categoryItemV2  ">
+						<span class="categoryNameV2">Edmonton</span> 
+						
+						
+							<span class="liveDealsCountV2">
+								<span class="liveDealsCountStartV2">(</span>1<span class="liveDealsCountEndV2">)</span>
+								<span class="liveDealsTextV2">live deal</span>
+							</span>
+						
+						
+						
+					</a>
+				</div>
+			
+				<div id="categoryItemWrapper7792" class="categoryItemWrapperV2 ">	
+					<a href="#" onClick="selectCategory(7792, 'halifax', ''); return false;" class="categoryItemV2  ">
+						<span class="categoryNameV2">Halifax</span> 
+						
+							<span class="liveDealsCountV2">
+								<span class="liveDealsCountStartV2">(</span>0<span class="liveDealsCountEndV2">)</span>
+								<span class="liveDealsTextV2">live deals</span>
+							</span>
+						
+						
+						
+						
+					</a>
+				</div>
+			
+				<div id="categoryItemWrapper1142" class="categoryItemWrapperV2 ">	
+					<a href="#" onClick="selectCategory(1142, 'hamilton', ''); return false;" class="categoryItemV2  ">
+						<span class="categoryNameV2">Hamilton</span> 
+						
+						
+							<span class="liveDealsCountV2">
+								<span class="liveDealsCountStartV2">(</span>1<span class="liveDealsCountEndV2">)</span>
+								<span class="liveDealsTextV2">live deal</span>
+							</span>
+						
+						
+						
+					</a>
+				</div>
+			
+				<div id="categoryItemWrapper7772" class="categoryItemWrapperV2 categoryDropDownLastColumnV2">	
+					<a href="#" onClick="selectCategory(7772, 'kitchenerwaterloo', ''); return false;" class="categoryItemV2  ">
+						<span class="categoryNameV2">Kitchener/Waterloo</span> 
+						
+							<span class="liveDealsCountV2">
+								<span class="liveDealsCountStartV2">(</span>0<span class="liveDealsCountEndV2">)</span>
+								<span class="liveDealsTextV2">live deals</span>
+							</span>
+						
+						
+						
+						
+					</a>
+				</div>
+			
+				<div id="categoryItemWrapper9631" class="categoryItemWrapperV2 ">	
+					<a href="#" onClick="selectCategory(9631, 'laval', ''); return false;" class="categoryItemV2  ">
+						<span class="categoryNameV2">Laval</span> 
+						
+							<span class="liveDealsCountV2">
+								<span class="liveDealsCountStartV2">(</span>0<span class="liveDealsCountEndV2">)</span>
+								<span class="liveDealsTextV2">live deals</span>
+							</span>
+						
+						
+						
+						
+					</a>
+				</div>
+			
+				<div id="categoryItemWrapper7752" class="categoryItemWrapperV2 ">	
+					<a href="#" onClick="selectCategory(7752, 'london', ''); return false;" class="categoryItemV2  ">
+						<span class="categoryNameV2">London</span> 
+						
+							<span class="liveDealsCountV2">
+								<span class="liveDealsCountStartV2">(</span>0<span class="liveDealsCountEndV2">)</span>
+								<span class="liveDealsTextV2">live deals</span>
+							</span>
+						
+						
+						
+						
+					</a>
+				</div>
+			
+				<div id="categoryItemWrapper3632" class="categoryItemWrapperV2 ">	
+					<a href="#" onClick="selectCategory(3632, 'mississauga', ''); return false;" class="categoryItemV2  ">
+						<span class="categoryNameV2">Mississauga</span> 
+						
+							<span class="liveDealsCountV2">
+								<span class="liveDealsCountStartV2">(</span>0<span class="liveDealsCountEndV2">)</span>
+								<span class="liveDealsTextV2">live deals</span>
+							</span>
+						
+						
+						
+						
+					</a>
+				</div>
+			
+				<div id="categoryItemWrapper1132" class="categoryItemWrapperV2 categoryDropDownLastColumnV2">	
+					<a href="#" onClick="selectCategory(1132, 'montreal', ''); return false;" class="categoryItemV2  ">
+						<span class="categoryNameV2">Montreal</span> 
+						
+						
+						
+							<span class="liveDealsCountV2">
+								<span class="liveDealsCountStartV2">(</span>3<span class="liveDealsCountEndV2">)</span> 
+								<span class="liveDealsTextV2">live deals</span>
+							</span>
+						
+						
+					</a>
+				</div>
+			
+				<div id="categoryItemWrapper8382" class="categoryItemWrapperV2 ">	
+					<a href="#" onClick="selectCategory(8382, 'montreal-rivesud', ''); return false;" class="categoryItemV2  ">
+						<span class="categoryNameV2">Montreal-Rive-Sud</span> 
+						
+							<span class="liveDealsCountV2">
+								<span class="liveDealsCountStartV2">(</span>0<span class="liveDealsCountEndV2">)</span>
+								<span class="liveDealsTextV2">live deals</span>
+							</span>
+						
+						
+						
+						
+					</a>
+				</div>
+			
+				<div id="categoryItemWrapper3612" class="categoryItemWrapperV2 ">	
+					<a href="#" onClick="selectCategory(3612, 'oakville', ''); return false;" class="categoryItemV2  ">
+						<span class="categoryNameV2">Oakville</span> 
+						
+							<span class="liveDealsCountV2">
+								<span class="liveDealsCountStartV2">(</span>0<span class="liveDealsCountEndV2">)</span>
+								<span class="liveDealsTextV2">live deals</span>
+							</span>
+						
+						
+						
+						
+					</a>
+				</div>
+			
+				<div id="categoryItemWrapper7742" class="categoryItemWrapperV2 ">	
+					<a href="#" onClick="selectCategory(7742, 'oshawawhitby', ''); return false;" class="categoryItemV2  ">
+						<span class="categoryNameV2">Oshawa/Whitby</span> 
+						
+							<span class="liveDealsCountV2">
+								<span class="liveDealsCountStartV2">(</span>0<span class="liveDealsCountEndV2">)</span>
+								<span class="liveDealsTextV2">live deals</span>
+							</span>
+						
+						
+						
+						
+					</a>
+				</div>
+			
+				<div id="categoryItemWrapper1072" class="categoryItemWrapperV2 categoryDropDownLastColumnV2">	
+					<a href="#" onClick="selectCategory(1072, 'ottawagatineau', ''); return false;" class="categoryItemV2  ">
+						<span class="categoryNameV2">Ottawa-Gatineau</span> 
+						
+						
+							<span class="liveDealsCountV2">
+								<span class="liveDealsCountStartV2">(</span>1<span class="liveDealsCountEndV2">)</span>
+								<span class="liveDealsTextV2">live deal</span>
+							</span>
+						
+						
+						
+					</a>
+				</div>
+			
+				<div id="categoryItemWrapper1182" class="categoryItemWrapperV2 ">	
+					<a href="#" onClick="selectCategory(1182, 'quebec-city', ''); return false;" class="categoryItemV2  ">
+						<span class="categoryNameV2">Quebec City</span> 
+						
+						
+							<span class="liveDealsCountV2">
+								<span class="liveDealsCountStartV2">(</span>1<span class="liveDealsCountEndV2">)</span>
+								<span class="liveDealsTextV2">live deal</span>
+							</span>
+						
+						
+						
+					</a>
+				</div>
+			
+				<div id="categoryItemWrapper1062" class="categoryItemWrapperV2 ">	
+					<a href="#" onClick="selectCategory(1062, 'toronto', ''); return false;" class="categoryItemV2  ">
+						<span class="categoryNameV2">Toronto</span> 
+						
+						
+						
+							<span class="liveDealsCountV2">
+								<span class="liveDealsCountStartV2">(</span>3<span class="liveDealsCountEndV2">)</span> 
+								<span class="liveDealsTextV2">live deals</span>
+							</span>
+						
+						
+					</a>
+				</div>
+			
+				<div id="categoryItemWrapper1122" class="categoryItemWrapperV2 ">	
+					<a href="#" onClick="selectCategory(1122, 'vancouver', ''); return false;" class="categoryItemV2  ">
+						<span class="categoryNameV2">Vancouver</span> 
+						
+						
+							<span class="liveDealsCountV2">
+								<span class="liveDealsCountStartV2">(</span>1<span class="liveDealsCountEndV2">)</span>
+								<span class="liveDealsTextV2">live deal</span>
+							</span>
+						
+						
+						
+					</a>
+				</div>
+			
+				<div id="categoryItemWrapper7802" class="categoryItemWrapperV2 categoryDropDownLastColumnV2">	
+					<a href="#" onClick="selectCategory(7802, 'victoria', ''); return false;" class="categoryItemV2  ">
+						<span class="categoryNameV2">Victoria</span> 
+						
+							<span class="liveDealsCountV2">
+								<span class="liveDealsCountStartV2">(</span>0<span class="liveDealsCountEndV2">)</span>
+								<span class="liveDealsTextV2">live deals</span>
+							</span>
+						
+						
+						
+						
+					</a>
+				</div>
+			
+				<div id="categoryItemWrapper1162" class="categoryItemWrapperV2 ">	
+					<a href="#" onClick="selectCategory(1162, 'winnipeg', ''); return false;" class="categoryItemV2  ">
+						<span class="categoryNameV2">Winnipeg</span> 
+						
+							<span class="liveDealsCountV2">
+								<span class="liveDealsCountStartV2">(</span>0<span class="liveDealsCountEndV2">)</span>
+								<span class="liveDealsTextV2">live deals</span>
+							</span>
+						
+						
+						
+						
+					</a>
+				</div>
+			
+				<div id="categoryItemWrapper7762" class="categoryItemWrapperV2 ">	
+					<a href="#" onClick="selectCategory(7762, 'york-region', ''); return false;" class="categoryItemV2  categoryDropDownLastItemV2">
+						<span class="categoryNameV2">York Region</span> 
+						
+							<span class="liveDealsCountV2">
+								<span class="liveDealsCountStartV2">(</span>0<span class="liveDealsCountEndV2">)</span>
+								<span class="liveDealsTextV2">live deals</span>
+							</span>
+						
+						
+						
+						
+					</a>
+				</div>
+			
+			
+			 </div>
+	</div>
+
+
+		
+		
+
+
+
+
+
+
+
+
+<div style="display:none">
+	<span id="emailGhostText">Enter an email address</span>
+	<span id="zipGhostText">Enter postal code</span>
+	<span id="wrongEmailErorText">Wrong email address!</span>
+	<span id="emptyEmailErorText">Email address is empty!</span>
+	<span id="errorZipCodeLocale">Postal code should be 6 digits</span>
+	<span id="errorZipCodeInvalidCharacters">Invalid characters in postal code</span>
+	<span id="errorZipCodeInvalidEncoding">The hyphen character should be used like '12345-6789'</span>
+	<span id="errorPostalCodeLocale">Postal code is invalid</span>
+	<span id="errorPostCodeLocale">Post code is invalid</span>
+	<span id="errorIncorrectFileType">You can only upload gif, png or jpg images</span>
+	<span id="noSymbolsError">No symbols</span>
+	<span id="emailError">Please enter a valid email address: ex: you@email.com</span>
+	<span id="userNameError">Username must be at least 4 characters</span>
+	<span id="passwordError">Password must be at least 6 characters</span>
+	<span id="confirmPasswordError">Passwords do not match</span>
+	<span id="termsError">You must agree with terms of service and privacy policy</span>
+	<span id="privacyPolicyError">Agree with the terms of service and privacy policy</span>
+	<span id="zipCodeError">Enter postal code</span>
+	<span id="phoneError">Phone number is invalid</span>
+	<span id="emptyFieldError">Field is empty</span>
+	<span id="websiteUrlError">Plese enter valid Website URL (ex. http://www.nimblebuy.com)</span>
+	<span id="aboutCompanyError">This text should not be longer than 140 characters.</span>
+	<span id="accountSettingsSaved">Settings Saved</span>
+	<span id="accountSettingsUpdated">Account Updated</span>
+	<span id="errorSubscribeCategory">Please select at least</span>
+	<span id="errorSubscribeCategory2">category</span>
+	<span id="errorSubscribeCategories">categories</span>
+	<span id="giveGiftDialogTitle">Send this as a Gift!</span>
+	<span id="giveGiftErrorTo">You must enter a recipient name</span>
+	<span id="giveGiftErrorEmail">You must enter an email address</span>
+	<span id="giveGiftErrorFrom">You must enter a name</span>
+	<span id="giveGiftErrorMessage">You must enter a message</span>
+	<span id="nextPage">Next</span>
+	<span id="previousPage">Prev</span>
+	<span id="ghostTextRecipient">Recipient's name</span>
+	<span id="ghostTextEmail">Email address</span>
+</div>
+		<div id="dialog" style="display: none;"></div>
+	</body>
+</html>

@@ -1,0 +1,974 @@
+http://www.wagjag.com//?wagjag=36886
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US">
+<head>
+	<!-- ALL THIS COULD HAVE BEEN AVOIDED IF ONLY EMMY HAD DECIDED TO LEARN A THING OR TWO FROM WJDB4 - WISE WORDS FROM THE OFFICE OF CHIEF WIGGUM - 69.196.180.138 -->
+	<!-- Cached Content Enabled : 2011-09-16 10:40:47 -->
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=7, IE=9">
+	<meta name="google-site-verification" content="tl2p-uZRO7mSnKs8Z-UP8UX6LofuUpmqKl5WGHyvi3Y" />
+	<title>WagJag - $24 to Create Your Own Will at FormalWill.ca (a $49 Value)</title>
+	<link rel="stylesheet" type="text/css" href="/layout/default/css/style_full.css?v=2.1.11" /> 
+	<link rel="stylesheet" type="text/css" href="/layout/default/css/index_full.css?v=2.1.11" />
+	<meta property="og:image" content="http://www.wagjag.com/wagjags/36886/image36886c.jpg" />
+	<meta name="description" content="$24 to Create Your Own Will at FormalWill.ca (a $49 Value)"/>
+	<!--
+	<link rel="stylesheet" href="/source/style/primaryv5.css" type="text/css" media="screen" />	
+	-->
+
+	<!--[if IE 6]>
+	<script type="text/javascript"  src="/layout/default/js/iepngfix.js"></script>
+	<script type="text/javascript">
+	  DD_belatedPNG.fix('.item2 p, #area2_tab, #logoimg img, #more_cities, #email_alerts');
+  </script>
+	<![endif]-->
+	 
+  <script type="text/javascript" src="/layout/default/js/jquery-1.6.1.min.js"></script> 
+ 	<script type="text/javascript" src="/layout/default/js/jquery.tools.min.js"></script> 
+  <script type="text/javascript" src="/layout/default/js/side_deal_image_fx.js"></script>   
+	<script type="text/javascript" src="/layout/default/js/header.js?v=2.1.11"></script>  
+  <script type="text/javascript" src="/layout/default/js/index.js?v=2.1.11"></script> 
+  <script type="text/javascript" src="/layout/default/js/checkout.js?v=2.1.11"></script> 
+	<script type="text/javascript" src="/layout/default/js/cities.js?v=2.1.11"></script>
+	<script type="text/javascript" src="/layout/default/js/osx.js?v=2.1.11"></script>
+	<script type="text/javascript" src="/layout/default/js/jquery.simplemodal.js"></script>
+	<script type="text/javascript" src="/layout/default/js/jquery.easing.compatibility.js"></script>  
+	
+	<link rel="icon" type="image/gif" href="/images/ico/favicon.png" /> 
+	<link rel="shortcut icon" href="/images/ico/favicon.ico" />	
+	 
+	<link rel="icon" type="image/gif" href="/images/ico/favicon.png" />
+<link rel="shortcut icon" href="/images/ico/favicon.ico" />	
+
+<link rel="stylesheet" href="/source/js/thickbox.css" type="text/css" media="screen" />
+<script type="text/javascript" src="/source/js/ui.core.js"></script>	
+	
+	<script type="text/javascript">
+		var gaJsHost = (("https:" == document.location.protocol ) ? "https://ssl." : "http://www.");
+		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	</script>
+	<script type="text/javascript">
+		$(document).ready(function() {
+			
+			// parse JSON obj of selected cities into a temporary js object so we can push them into the selected_cities array
+			cities_obj.selected_cities_obj = $.parseJSON('{"1":"Toronto"}');
+			
+			// populate the object that is the backbone of the city selection functionality
+			populate_cities_obj();
+			
+			express_overlay();
+				  
+		});
+
+</script>
+
+</head>
+	<!--[if lt IE 7 ]> <body class="ie6"> <![endif]--> 
+	<!--[if IE 7 ]>    <body class="ie7"> <![endif]--> 
+	<!--[if IE 8 ]>    <body class="ie8"> <![endif]--> 
+	<!--[if IE 9 ]>    <body class="ie9"> <![endif]-->  
+<!--[if !IE]><!--><body><!--<![endif]-->
+						
+			<!-- modal content -->
+		<div id="osx-modal-content">
+			<div id="osx-modal-title">
+					<span id="city_selector_instruction" style="width: 200px;  padding-right: 500px">SELECT A CITY</span>
+ 					<span id="city_selector_type_btn" style="width: 200px;">+ select multiple cities</span>
+	 				<span id="close_osx" ><a href="#" class="simplemodal-close">x</a></span>
+			</div>
+				
+					<div id="osx-modal-data">
+	  				<form name="changeCity" id="changeCity" action="" method="">
+			 				<input type="hidden" name="primary_city[]" id="primary_city" value="" />
+			 				<input type="hidden" name="city[]" id="city" value="" />
+					 			<div id="city_regions">			 				
+					 					<div id="western_can">
+					 						<div class="cities_group"><h2>Western Canada</h2><div class="city_name"><a class="city_link" href="/?c=151&ce=null" id="city_link151">Abbotsford</a></div><div class="city_name"><a class="city_link" href="/?c=4&ce=null" id="city_link4">Calgary</a></div><div class="city_name"><a class="city_link" href="/?c=9&ce=null" id="city_link9">Edmonton</a></div><div class="city_name"><a class="city_link" href="/?c=146&ce=null" id="city_link146">Kelowna/Okanagan Valley</a></div><div class="city_name"><a class="city_link" href="/?c=161&ce=null" id="city_link161">Lethbridge</a></div><div class="city_name"><a class="city_link" href="/?c=87&ce=null" id="city_link87">Regina</a></div><div class="city_name"><a class="city_link" href="/?c=88&ce=null" id="city_link88">Saskatoon</a></div><div class="city_name"><a class="city_link" href="/?c=3&ce=null" id="city_link3">Vancouver</a></div><div class="city_name"><a class="city_link" href="/?c=89&ce=null" id="city_link89">Victoria</a></div><div class="city_name"><a class="city_link" href="/?c=15&ce=null" id="city_link15">Winnipeg</a></div></div>
+					 						<div class="cities_group"><h2>Eastern Canada</h2><div class="city_name"><a class="city_link" href="/?c=6&ce=null" id="city_link6">Halifax</a></div><div class="city_name"><a class="city_link" href="/?c=166&ce=null" id="city_link166">Moncton</a></div><div class="city_name"><a class="city_link" href="/?c=156&ce=null" id="city_link156">Saint John</a></div><div class="city_name"><a class="city_link" href="/?c=92&ce=null" id="city_link92">St. John's</a></div></div><div class="cities_group"><h2>Quebec</h2><div class="city_name"><a class="" href="http://www.wagjag.com/?_page=timed_redirect&redirect_url=http%3A%2F%2Ftuango.ca%2Fen%2Fmontreal%2F%3Futm_source%3DWagJagEN%26utm_campaign%3DWagJagEN-Website-MTL%26lang%3DEN&redirect_timer=1" target="_blank">Montreal</a></div><div class="city_name"><a class="" href="http://www.wagjag.com/?_page=timed_redirect&redirect_url=http%3A%2F%2Fwww.tuango.ca%2Ffr%2Fquebec%2F%3Futm_source%3DWagJagFR%26utm_campaign%3DWagJagFR-Website-QC%26lang%3DFR&redirect_timer=1" target="_blank">Quebec City</a></div></div>
+					 					</div> 
+					 					<div id="ontario"> 
+					 						<div class="cities_group"><h2>Ontario</h2><div class="city_name"><a class="city_link" href="/?c=86&ce=null" id="city_link86">Belleville / Quinte</a></div><div class="city_name"><a class="city_link" href="/?c=64&ce=null" id="city_link64">Brampton</a></div><div class="city_name"><a class="city_link" href="/?c=79&ce=null" id="city_link79">Brantford</a></div><div class="city_name"><a class="city_link" href="/?c=109&ce=null" id="city_link109">Brockville</a></div><div class="city_name"><a class="city_link" href="/?c=56&ce=null" id="city_link56">Cambridge</a></div><div class="city_name"><a class="city_link" href="/?c=115&ce=null" id="city_link115">Cornwall</a></div><div class="city_name"><a class="city_link" href="/?c=60&ce=null" id="city_link60">Etobicoke</a></div><div class="city_name"><a class="city_link" href="/?c=78&ce=null" id="city_link78">Georgetown</a></div><div class="city_name"><a class="city_link" href="/?c=52&ce=null" id="city_link52">Guelph</a></div><div class="city_name"><a class="city_link" href="/?c=51&ce=null" id="city_link51">Hamilton</a></div><div class="city_name"><a class="city_link" href="/?c=84&ce=null" id="city_link84">Kingston</a></div><div class="city_name"><a class="city_link" href="/?c=53&ce=null" id="city_link53">Kitchener / Waterloo</a></div><div class="city_name"><a class="city_link" href="/?c=7&ce=null" id="city_link7">London  ON</a></div><div class="city_name"><a class="city_link" href="/?c=141&ce=null" id="city_link141">Milton</a></div><div class="city_name"><a class="city_link" href="/?c=63&ce=null" id="city_link63">Mississauga</a></div><div class="city_name"><a class="city_link" href="/?c=97&ce=null" id="city_link97">North Bay</a></div><div class="city_name"><a class="city_link" href="/?c=55&ce=null" id="city_link55">Oakville / Burlington</a></div><div class="city_name"><a class="city_link" href="/?c=66&ce=null" id="city_link66">Orangeville / Caledon</a></div><div class="city_name"><a class="city_link" href="/?c=5&ce=null" id="city_link5">Ottawa</a></div><div class="city_name"><a class="city_link" href="/?c=103&ce=null" id="city_link103">Owen Sound</a></div><div class="city_name"><a class="city_link" href="/?c=61&ce=null" id="city_link61">Scarborough</a></div><div class="city_name"><a class="city_link" href="/?c=186&ce=null" id="city_link186">St Thomas / Elgin County</a></div><div class="city_name"><a class="city_link" href="/?c=91&ce=null" id="city_link91">Sudbury</a></div><div class="city_name"><a class="city_link" href="/?c=1&ce=null" id="city_link1">Toronto</a></div><div class="city_name"><a class="city_link" href="/?c=171&ce=null" id="city_link171">Toronto - North</a></div><div class="city_name"><a class="city_link" href="/?c=85&ce=null" id="city_link85">Windsor</a></div></div><div style="float:right;"><div class="cities_group"><h2>Muskoka Region</h2><div class="city_name"><a class="city_link" href="/?c=49&ce=null" id="city_link49">Bracebridge / Gravenhurst</a></div><div class="city_name"><a class="city_link" href="/?c=50&ce=null" id="city_link50">Muskoka / Parry Sound / Almaguin</a></div></div><div class="cities_group"><h2>Durham Region</h2><div class="city_name"><a class="city_link" href="/?c=38&ce=null" id="city_link38">Northumberland</a></div><div class="city_name"><a class="city_link" href="/?c=37&ce=null" id="city_link37">Oshawa / Whitby / Clarington</a></div><div class="city_name"><a class="city_link" href="/?c=34&ce=null" id="city_link34">Pickering / Ajax</a></div><div class="city_name"><a class="city_link" href="/?c=39&ce=null" id="city_link39">Port Perry / Uxbridge</a></div></div><div class="cities_group"><h2>Haldimand</h2><div class="city_name"><a class="city_link" href="/?c=127&ce=null" id="city_link127">Caledonia</a></div><div class="city_name"><a class="city_link" href="/?c=121&ce=null" id="city_link121">Cayuga</a></div><div class="city_name"><a class="city_link" href="/?c=139&ce=null" id="city_link139">Dunnville</a></div><div class="city_name"><a class="city_link" href="/?c=133&ce=null" id="city_link133">Hagersville</a></div></div><div style="clear:both;"></div><div class="cities_group"><h2>Kawartha Region</h2><div class="city_name"><a class="city_link" href="/?c=191&ce=null" id="city_link191">Brock</a></div><div class="city_name"><a class="city_link" href="/?c=196&ce=null" id="city_link196">Haliburton</a></div><div class="city_name"><a class="city_link" href="/?c=59&ce=null" id="city_link59">Kawartha Lakes</a></div><div class="city_name"><a class="city_link" href="/?c=58&ce=null" id="city_link58">Peterborough</a></div></div><div class="cities_group"><h2>Simcoe Region</h2><div class="city_name"><a class="city_link" href="/?c=46&ce=null" id="city_link46">Alliston / Innisfil / Angus</a></div><div class="city_name"><a class="city_link" href="/?c=8&ce=null" id="city_link8">Barrie</a></div><div class="city_name"><a class="city_link" href="/?c=47&ce=null" id="city_link47">Collingwood / Stayner / Wasaga / Meaford / Thornbu</a></div><div class="city_name"><a class="city_link" href="/?c=48&ce=null" id="city_link48">Orillia / Midland / Penetang</a></div></div><div class="cities_group"><h2>Niagara Region</h2><div class="city_name"><a class="city_link" href="/?c=82&ce=null" id="city_link82">Fort Erie</a></div><div class="city_name"><a class="city_link" href="/?c=83&ce=null" id="city_link83">Grimsby</a></div><div class="city_name"><a class="city_link" href="/?c=57&ce=null" id="city_link57">Niagara Falls</a></div><div class="city_name"><a class="city_link" href="/?c=176&ce=null" id="city_link176">Port Colborne</a></div><div class="city_name"><a class="city_link" href="/?c=80&ce=null" id="city_link80">St. Catharines</a></div><div class="city_name"><a class="city_link" href="/?c=81&ce=null" id="city_link81">Welland</a></div></div><div style="clear:both;"></div><div class="cities_group"><h2>York Region</h2><div class="city_name"><a class="city_link" href="/?c=43&ce=null" id="city_link43">Aurora / Newmarket</a></div><div class="city_name"><a class="city_link" href="/?c=44&ce=null" id="city_link44">Bradford / West Gwillimbury</a></div><div class="city_name"><a class="city_link" href="/?c=45&ce=null" id="city_link45">Georgina</a></div><div class="city_name"><a class="city_link" href="/?c=54&ce=null" id="city_link54">Markham / Stouffville</a></div><div class="city_name"><a class="city_link" href="/?c=41&ce=null" id="city_link41">Richmond Hill / Thornhill</a></div><div class="city_name"><a class="city_link" href="/?c=40&ce=null" id="city_link40">Vaughan</a></div></div><div class="cities_group"><h2>SW Ontario</h2><div class="city_name"><a class="city_link" href="/?c=70&ce=null" id="city_link70">Elmira</a></div><div class="city_name"><a class="city_link" href="/?c=74&ce=null" id="city_link74">Exeter</a></div><div class="city_name"><a class="city_link" href="/?c=69&ce=null" id="city_link69">Fergus</a></div><div class="city_name"><a class="city_link" href="/?c=68&ce=null" id="city_link68">Listowel</a></div><div class="city_name"><a class="city_link" href="/?c=72&ce=null" id="city_link72">Minto</a></div><div class="city_name"><a class="city_link" href="/?c=75&ce=null" id="city_link75">Mount Forest</a></div><div class="city_name"><a class="city_link" href="/?c=71&ce=null" id="city_link71">St. Marys</a></div><div class="city_name"><a class="city_link" href="/?c=76&ce=null" id="city_link76">Stratford</a></div><div class="city_name"><a class="city_link" href="/?c=77&ce=null" id="city_link77">Walkerton</a></div><div class="city_name"><a class="city_link" href="/?c=73&ce=null" id="city_link73">Wingham</a></div></div><div style="clear:both;"></div></div>	  
+					 					</div>	
+					 			</div> 
+					  </form>  
+			<div class="select_cities">
+				<span class="cities_flyout select_cities_tab" id="cities_flyout_0">City 1<!--<span style="color:#8fc800; font-weight: bold">&#10003;</span>--></span>
+				<span class="cities_flyout select_cities_tab" id="cities_flyout_1">City 2</span>
+				<span class="cities_flyout select_cities_tab" id="cities_flyout_2">City 3</span>
+				<span class="cities_flyout view_selected_link" id="view_selected_link">View Selected Cities</span>
+			</div> 
+ 					</div><!-- end osx-modal-data -->
+ 				
+			
+		</div><!-- end modal -->
+	
+	<!-- Header starts -->
+		<div id="header"  > 
+	<!-- notifier box -->
+		
+	<!-- end notifier box -->
+	    
+			<!--[if !IE]><!--><div id="loginbar"> <!--<![endif]-->
+
+			<!--[if IE]><div id="loginbaro"> <![endif]-->
+				<div class="wrapper">
+					 <div id="welcome_text">
+					 	 
+					 </div>
+					 <div id="login_text"> 	
+						
+						
+						<span class="login_signup_ie">
+							<span><a id="login_click" href="#">LOGIN</a></span> 	 	
+							<span><a href="#">|</a></span><span><a href="?_page=signup">SIGN UP</a></span>
+							<span><a href="https://www.facebook.com/login.php?api_key=157341000975344&cancel_url=http%3A%2F%2Fwww.wagjag.com%2F%3Fwagjag%3D36886&display=page&fbconnect=1&next=http%3A%2F%2Fwww.wagjag.com%2F%3Fwagjag%3D36886&return_session=1&session_version=3&v=1.0&req_perms=email%2Cuser_location%2Cread_stream%2Cuser_birthday"><img src="/images/login_with_facebook.png" alt="Login with Facebook" style="border:none;vertical-align:top;margin-top:7px;height:15px;"></a></span>
+						</span>
+					 </div><!-- end login_text -->
+
+				 
+					<div id="login_drop">
+						 	<div class="login_shadow">
+						 		<img src="/layout/default/images/login_shadow_left.png" width="11" height="38" alt="left shadow image" style="float: left" />
+						 		<img src="/layout/default/images/login_shadow_right.png" width="16" height="38" alt="right shadow image" style="float: right" />
+						 	</div><!-- End login_shadow -->
+						 	
+							<div id="login_box">
+								<div id="loginForm">
+									<form id="login_form" name="login_form" action="https://www.wagjag.com" method="post" onsubmit="document.login_form.submit();" >
+										<input type="hidden" name="emailWagjag" id="emailWagjag" value="36886" />
+										<input type="hidden" name="_proc" id="_proc" value="noAjaxLogin" />
+										<input type="hidden" name="_page" id="_page" value="home" />
+										<input type="hidden" name="emailPage" id="emailPage" value="home" />
+										<input type="hidden" name="emailCity" id="emailCity" value="1" />
+										<br />
+								
+										<fieldset> 
+											<label for="emailLogin">Email:</label>
+			
+										  <input class="input"  title="Enter your Email Address" placeholder="Enter your Email"
+										   maxlength="60"  name="emailLogin" id="emailLogin" type="text"  value="" autofocus   /> <br /><br /><br />
+			 								<label for="emailPass">Password:</label>
+										  <input class="input" type="password" title="Enter your password" placeholder="Enter your password"
+										   maxlength="40"   name="emailPass" id="emailPass" value=""  /> <br />
+			 							</fieldset>   
+										<span id="login_error" style="background:none;border:none;height:25px;">Your safety is important to us.<br />Personal information is encrypted.</span>
+										<span id="login_btn" style="float:right;left:0px;text-align:right;"><input type="submit" style="padding: 8px 18px" value="LOGIN" ></span>	
+	
+										<span> 
+									   <a href="#" style="color: white" onclick="showReset();">Forgot your Password?</a> <br />
+									  </span>
+			 									
+			 									
+			 						</form>
+			 					</div>
+			 					<div id="resetForm" style="display:none;">
+			 						<br />
+			 							<span>Enter your email address.<br />We will email you a new password.</span>
+			 						<form id="reset_form" name="reset_form" action="https://www.wagjag.com" method="post">
+										<input type="hidden" name="resetWagjag" id="resetWagjag" value="36886" />
+										<input type="hidden" name="_proc" value="noAjaxReset" />
+										<input type="hidden" name="_page" value="home" />
+										<input type="hidden" name="resetPage" id="resetPage" value="home" />
+										<input type="hidden" name="resetCity" id="resetCity" value="1" />
+			 							<fieldset>
+			 								<input class="input title="Enter your email address to continue" placeholder="Email Address"
+			 								maxlength="60" name="r_email" id="r_email" value="" /> <br />
+			 								<br />
+			 							</fieldset>
+			 						<div id="reset_error" style="top:-10px;left:50px;"><span>Your safety is important to us.<br />Peronal information is encrypted.</span></div>
+										<span id="reset_btn"><a style="padding: 8px 18px;" class="link_btn" href="#" onclick="document.reset_form.submit();" > RESET PASSWORD </a></span>	
+										<span id="reset_return" style="float:right;"><a style="display: table-cell;" class="link_btn" href="#" onclick="hideReset();"> LOGIN </a></span>
+	
+			 						</form>
+			 					</div>
+							</div><!-- End login_box -->
+						 </div><!-- End login_drop -->
+						  
+				</div> <!-- End wrapper --> 
+			</div><!-- end loginbar -->
+		
+		
+			<div id="header_content" class="wrapper"> 
+		    
+		    
+		  	<div id="logoimg" style="top:20px;">
+		  		<a href="/"><img alt="wagjag logo"  border="0" src="/layout/default/images/logo.png" /></a>
+		  	</div>
+		  	 
+		<div id="exp_container" class="express_container" >
+									  		<div id="_exp_featured"><a href="/home"><img src="/layout/default/images/tabs/exp_dailydeal_1.png" /></a></div> <div id="exp_express"><a href="/index.php?_page=express&city=1&ce=null"><img src="/layout/default/images/tabs/exp_express_2.png" /></a></div> <div id="exp_jaunt"><a href="http://www.jaunt.ca"><img src="/layout/default/images/tabs/exp_jaunt_2.png" /></a></div>
+									  		</div>		  	
+  
+					<div id="more_cities">
+					<div class="cities_link">More cities</div>
+					<!--Toronto-->
+					 <div id="more_cities_text">Toronto
+					 </div> 
+					 
+					</div>
+ 
+		  	 <div id="sprite_fade" class="sprite_over" onclick="disp_hide();"></div>
+
+							<!-- DEBATE WINDOW -->
+								<div id="dark" class="white_content">
+									<div class="cities_header"> 
+						 				<h1>WagJag Discussion Feed</h1>
+						 				<span  onclick="hideDebate();">CLOSE WINDOW</span>
+						 			</div>
+						 			<div id="dark_feed" style="float:left;width:600px;display:inline;"></div>
+						 			<div id="dark_details" class="dark_details">
+						 				<center><img src="/source/image.php?image36886c.jpg?width=219&height=83&image=https://www.wagjag.com/wagjags/36886/image36886c.jpg" height="83" width="219" border="0" /></center><br />
+						 				<span id="deal_headline">$24 to Create Your Own Will at FormalWill.ca (a $49 Value)</span><br /><br />
+						 				<div class="deal_offer">
+						 					<span class="offer_details">Offer Details</span>
+						 					<ul><li>Voucher Expires in 1 year</li><li>Unlimited buys</li><li>1 voucher required per person</li><li>Taxes included. Voucher has no cash value. No cash back</li></ul>
+						 				</div>
+						 				<div class="deal_offer">
+						 					<span class="offer_details">Highlights</span>
+						 					<ul><li>Avoid the time and costs associated with consulting a lawyer</li><li>Easy-to-follow instructions guide you through creating your own will</li><li>Legally-binding document in minutes from the comfort of your own home</li></ul>
+						 				</div>
+						 			</div>
+								</div>
+							<!-- END DEBATE WINDOW -->
+							
+						 		<div id="express_promo_overlay" class="express_content"> 
+						 			<a href="/index.php?_page=express&city=1&ce=null&dchan=overlay_express1" onclick="_gaq.push(['_trackPageview', '/overlay_express2/express']);"> <img src="/layout/default/images/banners/express_lightbox_v2.png" style="position: relative; top: -67px" />  </a>
+						 			<span class="overlay_express_works"> <a href="/express_info" onclick="_gaq.push(['_trackPageview', '/overlay_express2/howitworks']);">HOW IT WORKS </a></span>
+						 			<span class="overlay_express_close" onclick="hide_eoverlay(); _gaq.push(['_trackPageview', '/overlay_express2/close']);"> <img src="/layout/default/images/banners/close_express_overlay.png" /> </span>
+						 	  </div>
+						 	  
+				<div id="email_alerts" class="email_alerts">
+					<input type="text" name="emailAlerts" id="emailAlerts" value="enter email address" onblur="if(value=='') value = 'enter email address'"  style="width:150px;margin-top:5px;margin-bottom:3px;" onfocus="emailAlertsShowSubmit(); if(value=='enter email address') value = '';" /><br />
+					<span id="emailAlerts_error" style="margin-left:15px;font-weight:bold;">Get Free Email Alerts</span>
+				</div>
+ 
+		    <div id="facebook_like" style="" >
+		     				<!-- <div id="fb-root"></div><script src="https://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:facepile href="facebook.com/wagjag" width="200" max_rows="2"></fb:facepile> -->
+		     				<div id="fb-root"></div><script src="//connect.facebook.net/en_US/all.js#appId=183857148340178&amp;xfbml=1"></script><fb:like href="//www.facebook.com/wagjag" send="false" layout="button_count" width="200" show_faces="false" font=""></fb:like>
+		     				<!-- <div id="fb-root"></div><script src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like-box href="http://www.facebook.com/wagjag" height="100" width="300" show_faces="false" stream="false" header="false"></fb:like-box> -->
+		     				<!-- <div id="fb-root"></div><script src="http://connect.facebook.net/en_US/all.js#appId=157341000975344&amp;xfbml=1"></script><fb:facepile href="www.wagjag.com" width="300" max_rows="2"></fb:facepile> -->
+		     				<!-- <script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:activity site="www.wagjag.com" width="300" height="100" header="false" font="arial" border_color="" recommendations="true"></fb:activity> -->
+		     
+		    </div>				
+		    
+		    
+			</div><!-- end header_content -->
+		
+		<!-- dynamic load js/ajax -->
+		<div id="ajax_loaders" style="display:none;">
+			
+		</div>
+	  </div><!-- End Header -->
+  	
+	
+	
+
+		
+	<!-- Main middle content -->
+	<div id="content" class="wrapper">
+		<!-- Left side content -->
+			<div id="area1">
+				<div id="deal_title">
+	<input type="hidden" name="js_wagjag_id" id="js_wagjag_id" value="36886" />
+	<input type="hidden" name="js_encoded_title" id="js_encoded_title" value="51%25+Off+Create+Your+Own+Will" />
+	<span id="deal_headline"><a href="http://www.wagjag.com/?w=36886&c=1">$24 to Create Your Own Will at FormalWill.ca (a $49 Value)</a></span>
+	<div id="_error_" style="width:670px;display: none;">Here is the Default sitewide error</div>
+</div>
+
+<div id="share_container">
+	
+	<!-- IE tags put in the left and right rounded corners. css rounded borders for everything else -->
+	<!--[if IE]>	<div style="float: left"><img  alt="left side" src="/layout/default/images/share_sidel.png" width="10" height="46" /></div>
+		<div style="float: left"> <![endif]-->
+		<div id="share_links">
+		  <span><a href="#" onclick="showDebate(36886);">DISCUSS THIS DEAL</a></span> 
+			<span id="shareAll_" style="background: none;"><a style="padding: 14px 10px 14px 30px; background: none;" style="cursor:default;">SHARE THIS DEAL AND YOU CAN EARN $10</a></span>
+			<div id="shareMail" style="display:none;">
+			 <table border="0" cellpadding="0" cellspacing="0" width="150"  >
+		  <tr>
+		  	<td id="sharemail_box" style="width:155px;">
+						<input type="text" id="f_email" name="f_email" title="enter email address" placeholder="enter email address" style="margin-top:5px;padding-top:7px;width:155px;"/>
+				</td>
+				<td id="sharemail_error_box" style="width:155px;display:none;">
+					<div id="sharemail_error" style="height:10px;"></div>
+				</td><td>
+						<a href="#" onclick="sendEmail();"><img src="/layout/default/images/mail_share_send.png" alt="Send Email Now" style="margin-bottom:4px;"/></a>
+					 </td>
+					</tr>
+				</table>
+			</div>
+		</div>
+		<div id="shareAll">
+	  <table border="0" cellpadding="0" cellspacing="0" width="150"  >
+		  <tr>
+		  	<td>
+		  		<span style="background: none; "><a name="fb_share" type="button" style="padding: 14px 10px 11px 10px; " share_url="u=http%3A%2F%2Fwww.wagjag.com%2F%3Fx%3D%26c%3D1%26w%3D36886" href="#" onclick="window.open('https://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.wagjag.com%2F%3Fx%3D%26c%3D1%26w%3D36886','facebook','width=450,height=500,toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,copyhistory=no,resizable=yes')"><img src="/layout/default/images/facebook_share.png" alt="Share this deal on Facebook" /></a></span>
+		  	</td>
+		  	<td>
+		  		<span style="background: none; "><a style="padding: 14px 10px 11px 10px; " href="#" onclick="window.open('https://twitter.com/share?text=51%25+Off+Create+Your+Own+Will&via=WagJag.com&url=http%3A%2F%2Fwww.wagjag.com%2F%3Fw%3D36886','twitter','width=450,height=500,toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,copyhistory=no,resizable=yes')"><img src="/layout/default/images/twitter_share.png" alt="Share this deal on twitter" /></a></span>
+		  	</td>
+		  	<td>
+		  		<span style="background: none; "><a style="padding: 14px 10px 11px 10px; " href="#" onclick="showShareMail();"><img src="/layout/default/images/mail_share.png" alt="Share this deal by email"  /></a></span>
+		  	</td>
+		  </tr> 
+		 </table>
+		</div>
+		<!--[if IE]></div>
+		<div style="float: right"><img alt="right side" src="/layout/default/images/share_dealr.png" width="10" height="46" />  </div> <![endif]-->	
+</div> 
+			  <div id="area1_ie8"> 
+			  <div id="deal_image">
+			  	
+			    <img src="/source/image.php?image36886c.jpg?width=443&height=275&image=/wagjags/36886/image36886c.jpg" height="275" width="443" border="0" />
+			    
+			    <div id="deal_info"><br />
+
+			    	
+			    	<span class="buy_btn" ><a href="?_page=checkout&wagjag=36886&city=1">Buy For $24.00</a></span>
+			    	<br /><br />
+				    <table class="deal_prices" border="0" cellspacing="0" cellpadding="0">
+				    	<tr align="left">
+				    		<td>Regular Price:</td><td>$49.00</td>
+				    	</tr>
+				    	<tr align="left">
+
+				    		<td>You Save:</td><td>$25</td>
+				    	</tr>
+				    	<tr align="left">
+				    		<td>Discount:</td><td>51%</td>
+				    	</tr>
+				    </table><br />
+				    
+				    <div> 
+				    	<table class="time_left" border="0" cellspacing="0" cellpadding="0" width="273" height="96">
+
+				    		<tr>
+				    			<td>
+				    				<div id="deal_countdown">
+				    		  	<script type="text/javascript">
+										TargetDate = "09/19/2011 12:00 am GMT-0400";
+										BackColor = "";
+										ForeColor = "white";
+										CountActive = true;
+										CountStepper = -1;
+										LeadingZero = true;
+										DisplayFormat = "%%D%% %%H%%:%%M%%:%%S%%";
+										FinishMessage = "Time is Up!";
+						  	   	</script>
+						 		  	<script type="text/javascript" src="/layout/default/js/countdown.js"></script>  
+						 		  </div>
+				    			</td>
+				    		</tr>
+				    	</table>
+				    </div><br /><br />
+				    
+				    <div id="amount_bought">
+				    	<span><strong>1247</strong><span> <span>bought</span>
+
+				    </div>
+				    <br />
+				    
+				    <div id="deal_progress">
+				    	<div id="progressbar" style="width: 200px; height: 15">
+<img src="layout/default/images/progress_l.png" border="0" style="float:left;" width="6" height="15"  /><img src="layout/default/images/progress_m.png" border="0" style="float:left;" width="186" height="15" /><img src="layout/default/images/progress_r.png" border="0" style="float:left;" width="6" height="15"  /></div>
+				    </div>
+				    <br />
+				    <div id="deal_activation">
+				    	<span class="deal_activated">This deal activates at 5</span><br />
+				    	<span class="deal_active">wagjag is active!</span> 
+				    </div>
+
+				    
+			    </div> 
+			  </div>
+				
+				
+				 <!-- Deal information + offer + highlights  -->
+				<div id="buy1">
+					<div class="item_desc" style="float:none;width:100%;font-weight:bold;height:30px;"> &nbsp; <span style="line-height:25px;">Toronto</span></div>
+					<div class="deal_details">
+					<!-- Offer Details -->
+						 <div class="deal_offer">
+								<span class="offer_details">Offer Details</span>
+									<ul><li>Voucher Expires in 1 year</li><li>Unlimited buys</li><li>1 voucher required per person</li><li>Taxes included. Voucher has no cash value. No cash back</li></ul>
+						 </div>
+						 <!-- Deal Highlights -->
+						 <div class="deal_highlights">
+						 	 <span class="offer_highlights">Highlights</span>
+									<ul><li>Avoid the time and costs associated with consulting a lawyer</li><li>Easy-to-follow instructions guide you through creating your own will</li><li>Legally-binding document in minutes from the comfort of your own home</li></ul>
+						 </div>
+					</div> <!-- End Deal Details-->
+					 
+					 <!-- Deal Information -->
+					 <div id="deal_information" >
+					 	
+					  <!-- <h1>About Formal Will Inc.</h1> -->	<br />
+					  
+					    <div>
+
+					    	<p>They say there are two things that are certain in life: death and taxes. Today's WagJag deal helps you prepare for one of those inevitabilities with a $24 voucher for creating your own will at <a href="http://formalwill.ca/index.php" target="_blank">FormalWill.ca</a> (a $49 value).</p><p>Your voucher entitles you to some peace of mind concerning the hereafter, right here and now. Simply register at FormalWill.ca and follow the straightforward instructions to create your own legally binding document, custom-tailored for the Canadian province or territory in which you live. The questions cover the revoking of former wills and testaments, appointing an executor, leaving specific gifts to individuals, charity clauses and much more. The final product, a legal will, also includes a detailed instruction letter on signing your will with witnesses.</p><p><a href="http://FormalWill.ca">FormalWill.ca</a> is Canada's leader in online wills. The user-friendly site was founded by a Canadian lawyer. The process is hassle free and allows you to save the money and time you might otherwise have spent in a lawyer's office. All wills are instantly created and a back-up copy emailed to you, so you can rest assured that you'll be able to rest in peace.</p><p>To redeem:</p><ol><li>Register online at <a href="http://www.formalwill.ca/">www.formalwill.ca</a> </li><li>Enter your information in order form</li><li>Enter your voucher code in the "referral code" box at checkout</li></ol><p><br /><br /></p>
+					    	<br /><a href="http://www.formalwill.ca" target="_blank">www.formalwill.ca</a>
+					    </div>
+					 </div> <!-- End Deal Information -->
+
+ 				</div> <!-- End Buy1 [Deal information + offer + highlights] -->
+				
+				<!-- Map directions -->
+				<div id="buy2">
+					<div class="deal_map">
+						 
+	<div id="area2inside">
+		
+			
+	
+	
+	
+	</div><!-- End area2inside -->
+					</div>
+					
+					<div class="deal_map" style="margin-top:-10px;">
+						
+					</div>
+
+					<div id="map_canvas" style="width: 0; height: 0;">
+						
+					</div>	
+					<!--			
+					<div class="map_details"></div>
+					-->			
+				<br />
+				<!--
+					<div id="fb2">
+						<img src="/layout/default/images/facebook_banner.png" />
+						<div><fb:like href="www.wagjag.com/?w=36886" width="273" max_rows="3"></fb:like></div>
+						<img src="/layout/default/images/facebook_bottom.png" />
+		     	</div> -->
+					
+				</div> <!-- End buy2 [Map directions]-->
+				
+				<div id="buy3">
+					
+					<!-- Wagjag Promise -->
+
+					<div id="site_guarantee"> 	
+					<a href="/contact">	<span>We want to be the best part of your day</span>
+						<p> 
+							If you're not happy with your purchase, let us know why (we like lots of juicy details) and we'll give you a full refund. Seriously, it's that simple!
+						</p></a>
+					</div><!-- End Wagjag Promise -->
+					
+					<div id="testi_wagjaggers">				
+						<div id="slider_section_container">
+							<div id="slider_container"> 
+								<img src="/layout/default/images/testi_qoute.png" /> 
+								<div id="slider_0" class="slider">
+									<p>"You ROCK!!"<br /><span style="float:right;color:#c1c1c1;margin-right:20px;">-Luba, Mississauga</span></p>
+								</div>
+								<div id="slider_1" class="slider">
+									<p>"Thank you so much for your prompt attention. Your service is excellent!"<br /><span style="float:right;color:#c1c1c1;margin-right:20px;">-Amanda, Burlington</span></p>
+								</div>
+								<div id="slider_2" class="slider">
+									<p>"I will shout from the highest rooftop, Wagjag is da man."<br /><span style="float:right;color:#c1c1c1;margin-right:20px;">-Andrew, Toronto</span></p>
+								</div>
+								<div id="slider_3" class="slider">
+									<p>"This past weekend my family and I used up two different WagJag offers in the Niagara Region (greenhouse and a bar and grill) and I must say it was so worth it!!! We had such a great time and got a great value for our money! Keep up the great work and keep those deals coming!!"<br /><span style="float:right;color:#c1c1c1;margin-right:20px;">-Brenda, via WagJag Facebook</span></p>
+								</div>
+							</div><!-- End slider_container--> 
+							<span class="testi_saying">What WagJaggers are Saying</span> 
+						</div><!-- End slider_section_container-->
+						<div id="button_container"></div>
+					</div><!-- End testi_wagjaggers--><br/><br/> 
+					 
+										
+					<div id="testi_merchants">				
+						<div id="slider_section_container2">
+
+							<div id="slider_container2"> 
+								<img src="/layout/default/images/testi_qoute.png" /> 
+								<div id="slide_0" class="slidey">
+									<p>"I sold 309 packages of Botox Injections through WagJag less than 2 weeks ago. I have already had 30 patients come in to take advantage of the fabulous offer they purchased with WagJag and while they were visiting my clinic, they decided to purchase other exciting treatments to compliment their Botox purchase. I am thrilled with the results of WagJag and want to continue to advertise many of my exciting services through this medium. Thank you WagJag!"<br /><span style="float:right;color:#c1c1c1;margin-right:20px;">-Eleanor Welsh, President of Skin Vitality Clinic</span></p>
+								</div>
+								<div id="slide_1" class="slidey">
+									<p>"Thanks so much for contacting me and putting this together. I've already had some bookings and I'm looking forward to meeting all of the new dogs. I think this coupon was a great way to market my business to new customers. I've had emails and calls about my cat sitting services as well, even though they weren't included in the coupon."<br /><span style="float:right;color:#c1c1c1;margin-right:20px;">-Denise Butler, Pack Leader, Biscuit Pet Services</span></p>
+								</div>
+								<div id="slide_2" class="slidey">
+									<p>"Thank you so much for dealing with my business for the daily deal with WagJag. Unreal results! I am so impressed with WagJag that I would definitely promote Prestige through it again! Cannot wait to see how well the scenic tours will do!"<br /><span style="float:right;color:#c1c1c1;margin-right:20px;">-Mike Duncan, Owner, Prestige Sportfishing</span></p>
+								</div>
+								<div id="slide_3" class="slidey">
+									<p>"So far the WagJag people seem to be very happy with us. Most of them have returned as new patients so I am stoked!"<br /><span style="float:right;color:#c1c1c1;margin-right:20px;">-Dr. Julie Durnan, Pacifica Naturopathic Clinic</span></p>  
+								</div>
+							</div><!-- End slider_container2--> 
+							<span class="testi_saying">What Merchants are Saying</span> 
+						</div><!-- End slider_section_container2-->
+						<div id="button_container2"></div>
+
+					</div><!-- End testi_merchants-->
+					
+						<!-- <script type="text/javascript" src="/layout/default/js/index.js"></script> -->
+
+				</div> <!-- End buy3--> 
+			</div><!-- End area1_ie8 -->
+	
+			</div><!-- end area1 -->
+ 
+ 
+ 			<div class="content_right_side">
+ 				<div id="area2_tab">
+	<span class="active_wags"><a href="#">Active WagJags</a></span>
+	<span class="see_all"><a href="/?_page=alldeals&viewcity=1">See All</a></span>
+</div>
+<div id="deal_buttons"><img src="/layout/default/images/banners/pogo_promo.jpg" /></div><!-- end deal_buttons --><div id="deal_buttons"><a href="http://jaunt.ca/index.php?_page=home&w=241"><img src="/layout/default/images/banners/jaunt_webbutton_tranquil_muskoka.jpg" /></a></div><!-- end deal_buttons --> 
+<div class="scrollable vertical"> 
+	<div class="items">	
+	<div class="item" onclick="window.location.href='/?wagjag=35301'">
+ 	<center><img src="/source/image.php?image35301c.jpg?width=209&height=124&image=/wagjags/35301/image35301c.jpg" width="209" height="124" /></center>
+	<div class="item_space"> 
+		<div class="item_desc">
+			<div class="active_jag">
+				<span>64% off 5 Hot Yoga Classes</span><br />
+				<span><strong>&rsaquo;<a href="?wagjag=35301">Toronto</a></strong></span>
+			</div>
+			<div class="buy_now">
+			</div>
+		</div>
+	</div>
+ </div><div class="item" onclick="window.location.href='/?wagjag=37141'">
+ 	<center><img src="/source/image.php?image37141.jpg?width=209&height=124&image=/wagjags/37141/image37141.jpg" width="209" height="124" /></center>
+	<div class="item_space"> 
+		<div class="item_desc">
+			<div class="active_jag">
+				<span>53% off Balloon-A-Gram</span><br />
+				<span><strong>&rsaquo;<a href="?wagjag=37141">Toronto</a></strong></span>
+			</div>
+			<div class="buy_now">
+			</div>
+		</div>
+	</div>
+ </div><div class="item" onclick="window.location.href='/?wagjag=36951'">
+ 	<center><img src="/source/image.php?image36951.jpg?width=209&height=124&image=/wagjags/36951/image36951.jpg" width="209" height="124" /></center>
+	<div class="item_space"> 
+		<div class="item_desc">
+			<div class="active_jag">
+				<span>Half Off Skiing Coupon Book</span><br />
+				<span><strong>&rsaquo;<a href="?wagjag=36951">Toronto</a></strong></span>
+			</div>
+			<div class="buy_now">
+			</div>
+		</div>
+	</div>
+ </div><div class="item" onclick="window.location.href='/?wagjag=37886'">
+ 	<center><img src="/source/image.php?image37886.jpg?width=209&height=124&image=/wagjags/37886/image37886.jpg" width="209" height="124" /></center>
+	<div class="item_space"> 
+		<div class="item_desc">
+			<div class="active_jag">
+				<span>57% off HCG Diet</span><br />
+				<span><strong>&rsaquo;<a href="?wagjag=37886">Toronto</a></strong></span>
+			</div>
+			<div class="buy_now">
+			</div>
+		</div>
+	</div>
+ </div><div class="item" onclick="window.location.href='/?wagjag=37956'">
+ 	<center><img src="/source/image.php?image37956.jpg?width=209&height=124&image=/wagjags/37956/image37956.jpg" width="209" height="124" /></center>
+	<div class="item_space"> 
+		<div class="item_desc">
+			<div class="active_jag">
+				<span>65% off Custom Canvas Prints</span><br />
+				<span><strong>&rsaquo;<a href="?wagjag=37956">Toronto</a></strong></span>
+			</div>
+			<div class="buy_now">
+			</div>
+		</div>
+	</div>
+ </div><div class="item" onclick="window.location.href='/?wagjag=38351'">
+ 	<center><img src="/source/image.php?image38351.jpg?width=209&height=124&image=/wagjags/38351/image38351.jpg" width="209" height="124" /></center>
+	<div class="item_space"> 
+		<div class="item_desc">
+			<div class="active_jag">
+				<span>60% off Safety Tags</span><br />
+				<span><strong>&rsaquo;<a href="?wagjag=38351">Toronto</a></strong></span>
+			</div>
+			<div class="buy_now">
+			</div>
+		</div>
+	</div>
+ </div><div class="item" onclick="window.location.href='/?wagjag=37526'">
+ 	<center><img src="/source/image.php?image37526c.jpg?width=209&height=124&image=/wagjags/37526/image37526c.jpg" width="209" height="124" /></center>
+	<div class="item_space"> 
+		<div class="item_desc">
+			<div class="active_jag">
+				<span>77% off 2 Juvederm Fillers</span><br />
+				<span><strong>&rsaquo;<a href="?wagjag=37526">Toronto</a></strong></span>
+			</div>
+			<div class="buy_now">
+			</div>
+		</div>
+	</div>
+ </div><div class="item" onclick="window.location.href='/?wagjag=38006'">
+ 	<center><img src="/source/image.php?image38006.jpg?width=209&height=124&image=/wagjags/38006/image38006.jpg" width="209" height="124" /></center>
+	<div class="item_space"> 
+		<div class="item_desc">
+			<div class="active_jag">
+				<span>50% off Concert Tickets</span><br />
+				<span><strong>&rsaquo;<a href="?wagjag=38006">Toronto</a></strong></span>
+			</div>
+			<div class="buy_now">
+			</div>
+		</div>
+	</div>
+ </div><div class="item" onclick="window.location.href='/?wagjag=38046'">
+ 	<center><img src="/source/image.php?image38061.jpg?width=209&height=124&image=/wagjags/38046/image38061.jpg" width="209" height="124" /></center>
+	<div class="item_space"> 
+		<div class="item_desc">
+			<div class="active_jag">
+				<span>51% off K'naan Tickets</span><br />
+				<span><strong>&rsaquo;<a href="?wagjag=38046">Toronto</a></strong></span>
+			</div>
+			<div class="buy_now">
+			</div>
+		</div>
+	</div>
+ </div><div class="item" onclick="window.location.href='/?wagjag=35521'">
+ 	<center><img src="/source/image.php?image35521.jpg?width=209&height=124&image=/wagjags/35521/image35521.jpg" width="209" height="124" /></center>
+	<div class="item_space"> 
+		<div class="item_desc">
+			<div class="active_jag">
+				<span>86% off Gym Membership</span><br />
+				<span><strong>&rsaquo;<a href="?wagjag=35521">Toronto</a></strong></span>
+			</div>
+			<div class="buy_now">
+			</div>
+		</div>
+	</div>
+ </div><div class="item" onclick="window.location.href='/?wagjag=36431'">
+ 	<center><img src="/source/image.php?image36431.jpg?width=209&height=124&image=/wagjags/36431/image36431.jpg" width="209" height="124" /></center>
+	<div class="item_space"> 
+		<div class="item_desc">
+			<div class="active_jag">
+				<span>81% Off Chiropractic Care</span><br />
+				<span><strong>&rsaquo;<a href="?wagjag=36431">Toronto</a></strong></span>
+			</div>
+			<div class="buy_now">
+			</div>
+		</div>
+	</div>
+ </div><div class="item" onclick="window.location.href='/?wagjag=36211'">
+ 	<center><img src="/source/image.php?image36211.jpg?width=209&height=124&image=/wagjags/36211/image36211.jpg" width="209" height="124" /></center>
+	<div class="item_space"> 
+		<div class="item_desc">
+			<div class="active_jag">
+				<span>50% Off Nature Park Admission</span><br />
+				<span><strong>&rsaquo;<a href="?wagjag=36211">Toronto</a></strong></span>
+			</div>
+			<div class="buy_now">
+			</div>
+		</div>
+	</div>
+ </div><div class="item" onclick="window.location.href='/?wagjag=36876'">
+ 	<center><img src="/source/image.php?image36876.jpg?width=209&height=124&image=/wagjags/36876/image36876.jpg" width="209" height="124" /></center>
+	<div class="item_space"> 
+		<div class="item_desc">
+			<div class="active_jag">
+				<span>62% Off Equilibrium Bandz</span><br />
+				<span><strong>&rsaquo;<a href="?wagjag=36876">Toronto</a></strong></span>
+			</div>
+			<div class="buy_now">
+			</div>
+		</div>
+	</div>
+ </div><div class="item" onclick="window.location.href='/?wagjag=37206'">
+ 	<center><img src="/source/image.php?image37206.jpg?width=209&height=124&image=/wagjags/37206/image37206.jpg" width="209" height="124" /></center>
+	<div class="item_space"> 
+		<div class="item_desc">
+			<div class="active_jag">
+				<span>50% Off Ripley's Passes</span><br />
+				<span><strong>&rsaquo;<a href="?wagjag=37206">Toronto</a></strong></span>
+			</div>
+			<div class="buy_now">
+			</div>
+		</div>
+	</div>
+ </div><div class="item" onclick="window.location.href='/?wagjag=36426'">
+ 	<center><img src="/source/image.php?image36426b.jpg?width=209&height=124&image=/wagjags/36426/image36426b.jpg" width="209" height="124" /></center>
+	<div class="item_space"> 
+		<div class="item_desc">
+			<div class="active_jag">
+				<span>$49 Woody Michleb Hair Package</span><br />
+				<span><strong>&rsaquo;<a href="?wagjag=36426">Toronto</a></strong></span>
+			</div>
+			<div class="buy_now">
+			</div>
+		</div>
+	</div>
+ </div><div class="item" onclick="window.location.href='/?wagjag=36376'">
+ 	<center><img src="/source/image.php?image36376.jpg?width=209&height=124&image=/wagjags/36376/image36376.jpg" width="209" height="124" /></center>
+	<div class="item_space"> 
+		<div class="item_desc">
+			<div class="active_jag">
+				<span>Half Off Custom Holiday Cards</span><br />
+				<span><strong>&rsaquo;<a href="?wagjag=36376">Toronto</a></strong></span>
+			</div>
+			<div class="buy_now">
+			</div>
+		</div>
+	</div>
+ </div><div class="item" onclick="window.location.href='/?wagjag=35451'">
+ 	<center><img src="/source/image.php?image35451b.jpg?width=209&height=124&image=/wagjags/35451/image35451b.jpg" width="209" height="124" /></center>
+	<div class="item_space"> 
+		<div class="item_desc">
+			<div class="active_jag">
+				<span>62% off PUR Gum</span><br />
+				<span><strong>&rsaquo;<a href="?wagjag=35451">Toronto</a></strong></span>
+			</div>
+			<div class="buy_now">
+			</div>
+		</div>
+	</div>
+ </div><div class="item" onclick="window.location.href='/?wagjag=37851'">
+ 	<center><img src="/source/image.php?image37851.jpg?width=209&height=124&image=/wagjags/37851/image37851.jpg" width="209" height="124" /></center>
+	<div class="item_space"> 
+		<div class="item_desc">
+			<div class="active_jag">
+				<span>50% off Roast and Stewing Beef</span><br />
+				<span><strong>&rsaquo;<a href="?wagjag=37851">Toronto</a></strong></span>
+			</div>
+			<div class="buy_now">
+			</div>
+		</div>
+	</div>
+ </div><div class="item" onclick="window.location.href='/?wagjag=37826'">
+ 	<center><img src="/source/image.php?image37826.jpg?width=209&height=124&image=/wagjags/37826/image37826.jpg" width="209" height="124" /></center>
+	<div class="item_space"> 
+		<div class="item_desc">
+			<div class="active_jag">
+				<span>51% off Bison Meat</span><br />
+				<span><strong>&rsaquo;<a href="?wagjag=37826">Toronto</a></strong></span>
+			</div>
+			<div class="buy_now">
+			</div>
+		</div>
+	</div>
+ </div><div class="item" onclick="window.location.href='/?wagjag=32906'">
+ 	<center><img src="/source/image.php?image32906.jpg?width=209&height=124&image=/wagjags/32906/image32906.jpg" width="209" height="124" /></center>
+	<div class="item_space"> 
+		<div class="item_desc">
+			<div class="active_jag">
+				<span>55% Off a Dozen Cake Pops</span><br />
+				<span><strong>&rsaquo;<a href="?wagjag=32906">Toronto</a></strong></span>
+			</div>
+			<div class="buy_now">
+			</div>
+		</div>
+	</div>
+ </div><div class="item" onclick="window.location.href='/?wagjag=37131'">
+ 	<center><img src="/source/image.php?image37131.jpg?width=209&height=124&image=/wagjags/37131/image37131.jpg" width="209" height="124" /></center>
+	<div class="item_space"> 
+		<div class="item_desc">
+			<div class="active_jag">
+				<span>65% Off Dog Daycare</span><br />
+				<span><strong>&rsaquo;<a href="?wagjag=37131">Toronto</a></strong></span>
+			</div>
+			<div class="buy_now">
+			</div>
+		</div>
+	</div>
+ </div><div class="item" onclick="window.location.href='/?wagjag=34461'">
+ 	<center><img src="/source/image.php?junkmaster34461.jpg?width=209&height=124&image=/wagjags/34461/junkmaster34461.jpg" width="209" height="124" /></center>
+	<div class="item_space"> 
+		<div class="item_desc">
+			<div class="active_jag">
+				<span>61% Off Junk Removal</span><br />
+				<span><strong>&rsaquo;<a href="?wagjag=34461">Toronto</a></strong></span>
+			</div>
+			<div class="buy_now">
+			</div>
+		</div>
+	</div>
+ </div><div class="item" onclick="window.location.href='/?wagjag=37051'">
+ 	<center><img src="/source/image.php?image20967.jpg?width=209&height=124&image=/wagjags/37051/image20967.jpg" width="209" height="124" /></center>
+	<div class="item_space"> 
+		<div class="item_desc">
+			<div class="active_jag">
+				<span>58% Off Hydrotherapy Cleanse</span><br />
+				<span><strong>&rsaquo;<a href="?wagjag=37051">Toronto</a></strong></span>
+			</div>
+			<div class="buy_now">
+			</div>
+		</div>
+	</div>
+ </div><div class="item" onclick="window.location.href='/?wagjag=37856'">
+ 	<center><img src="/source/image.php?image37856.jpg?width=209&height=124&image=/wagjags/37856/image37856.jpg" width="209" height="124" /></center>
+	<div class="item_space"> 
+		<div class="item_desc">
+			<div class="active_jag">
+				<span>51% off Roasts and Ground Beef</span><br />
+				<span><strong>&rsaquo;<a href="?wagjag=37856">Toronto</a></strong></span>
+			</div>
+			<div class="buy_now">
+			</div>
+		</div>
+	</div>
+ </div><div class="item" onclick="window.location.href='/?wagjag=35631'">
+ 	<center><img src="/source/image.php?image35631b.jpg?width=209&height=124&image=/wagjags/35631/image35631b.jpg" width="209" height="124" /></center>
+	<div class="item_space"> 
+		<div class="item_desc">
+			<div class="active_jag">
+				<span>75% Off Math Tutoring Sessions</span><br />
+				<span><strong>&rsaquo;<a href="?wagjag=35631">Toronto</a></strong></span>
+			</div>
+			<div class="buy_now">
+			</div>
+		</div>
+	</div>
+ </div><div class="item" onclick="window.location.href='/?wagjag=35996'">
+ 	<center><img src="/source/image.php?image35996.jpg?width=209&height=124&image=/wagjags/35996/image35996.jpg" width="209" height="124" /></center>
+	<div class="item_space"> 
+		<div class="item_desc">
+			<div class="active_jag">
+				<span>50% Off Haunted House Admissio</span><br />
+				<span><strong>&rsaquo;<a href="?wagjag=35996">Toronto</a></strong></span>
+			</div>
+			<div class="buy_now">
+			</div>
+		</div>
+	</div>
+ </div>
+	</div><!-- End area2inside -->
+</div> 	
+ 			</div><!-- End area2 [right side deals] --> 		 
+	</div>
+	<!-- End main content -->
+<!-- Begin Footer --> 
+		<div id="footer_top">
+		 <div class="wrapper">
+
+			
+			
+			<!-- Item 1 -->
+			<div class="item1">
+		  	<h3>WagJag Mobile</h3>
+		  	<p>Take WagJag with you!  Download our mobile app and you're guaranteed to never miss one of our awesome deals. </p>
+		  	<a href="/mobile">GO NOW</a>
+		  </div><!-- Item 1 -->
+				
+				
+			<!-- Item 2 -->
+
+			<div class="item2">
+		  	<h3>WagJag Referral Program</h3>
+		  	<p>Earn $10 in WagJag credit whenever someone you refer makes their first WagJag purchase.  The more people you refer the more credits you earn!</p>
+		  	<a href="/referral">GO NOW</a>
+		  </div><!-- Item 2 -->
+		  
+		  
+		  <!-- Item 3 -->
+			<div class="item3">
+
+		  	<h3>Feature Your Business</h3>
+		  	<p>Group buying is a great way to drive new customers! And we're the experts in Canada, let us help you build your business.</p>
+		  	<a href="/wagjag for business">GO NOW</a>
+		  </div><!-- Item 3 -->
+		  
+		  
+		  <!-- Item 4 -->
+			<div class="item4" style="float: right; ">
+		  	<h3>Sign-up for WagJag</h3>
+
+		  	<p>Get deals delivered right to your inbox every day.  Sign up and start saving now!</p>
+		  	<a href="/signup">GO NOW</a>
+		  </div><!-- End Item 4 -->
+			
+			
+		 </div><!-- end footer wrapper -->
+		</div><!-- End footer_top -->
+		
+		<!-- Begin bottom part of footer -->
+		<div id="footer_bottom">
+		 <div class="wrapper">
+			<div class="consumers">
+				<span><strong>Get to Know Wagjag</strong></span>
+				<ul>
+					<li><a href="/how">How WagJag Works</a></li>
+					<li><a href="/faq">Frequently Asked Questions (FAQs)</a></li>
+					<li><a href="/contact">Contact WagJag / Support</a></li>
+					<li><a href="/jobs">Work for WagJag</a></li>
+<li><a href="/mobile">WagJag Mobile</a></li>
+								</ul>
+			</div><!-- End consumers -->
+			
+			<div class="business">
+				<span><strong>Business / Legal</strong></span>
+				<ul>
+					<li><a href="/contact">Suggest a Business</a></li>
+					<li><a href="/wagjag for business">Feature your Business</a></li>
+					<li><a href="/terms">Terms of Use, Terms of Sale</a></li>
+					<li><a href="/terms#privacy">Privacy Policy</a></li>
+					
+				</ul>
+			</div><!-- End business -->
+			
+			<div class="connected">
+				<span><strong>Stay Connected</strong></span>
+				<ul>
+					<li class="footer_facebook" ><a href="http://www.facebook.com/wagjag">Facebook</a></li>
+
+					<li class="footer_twitter"><a href="http://www.twitter.com/wagjag">Twitter</a></li>
+					<li class="footer_email"><a href="/never miss a wagjag">Email Newsletter</a></li>
+				</ul>
+			</div><!-- End connected -->
+			
+			<div class="heard_about">
+				<span><strong>Where you may have seen us</strong></span>
+				<img src="/layout/default/images/press_logos.jpg" width="233" height="154" alt="" />
+			</div><!-- End heard_about -->
+
+		 </div><!-- End footer_bottom wrapper -->
+		</div><!-- End footer_bottom -->
+		<div id="fade" class="black_overlay"></div>
+		<div id="efade" class="eblack_overlay" onclick="hide_eoverlay()" ></div>
+		
+	</body>  
+	 <script type="text/javascript" src="/layout/default/js/side_deal_image_fx.js"></script>  
+	   <script type="text/javascript">
+				function change_city() {
+						location.href = $("#citySelect option:selected").val();	
+				}
+		</script>
+		<!--  -->
+<script type="text/javascript">(new Image()).src = ('https:' == document.location.protocol ? 'https://z' : 'http://as') + '.chango.com/p/x?cid=1148';</script>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+<script type="text/javascript">
+								try {
+								var pageTracker = _gat._getTracker("UA-11072812-1");
+								pageTracker._setDomainName('none');
+								pageTracker._setAllowLinker(true);
+								pageTracker._setAllowHash(false);
+								pageTracker._setCustomVar(
+					      1,             // This custom var is set to slot #1.  Required parameter.
+					      'Session City',   // The name of the custom variable.  Required parameter.
+					      'Toronto',      // Sets the value of "User Type" to "Member" or "Visitor" depending on status.  Required parameter.
+					       2             // Sets the scope to session-level.  Optional parameter.
+					   	);
+					   pageTracker._setCustomVar(
+					      2,             // This custom var is set to slot #1.  Required parameter.
+					      'WagJag Version',   // The name of the custom variable.  Required parameter.
+					      'v2.0',      // Sets the value of "User Type" to "Member" or "Visitor" depending on status.  Required parameter.
+					       2             // Sets the scope to session-level.  Optional parameter.
+					   	);
+					   pageTracker._setCustomVar(
+					      3,             // This custom var is set to slot #1.  Required parameter.
+					      'Server Name',   // The name of the custom variable.  Required parameter.
+					      'EMMY',      // Sets the value of "User Type" to "Member" or "Visitor" depending on status.  Required parameter.
+					       2             // Sets the scope to session-level.  Optional parameter.
+					   	);
+
+								pageTracker._trackPageview();
+								} catch(err) { }
+					   </script>
+</html>

@@ -1,0 +1,509 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>Everybody Buys | Toronto Deals of the Day</title>
+	<link href="/favicon.ico" type="image/x-icon" rel="icon" /><link href="/favicon.ico" type="image/x-icon" rel="shortcut icon" />
+<meta name="keywords" content="Toronto Daily Deals,Toronto Restaurant Deals,Toronto Spa Deals,Toronto Deals,Toronto Sports Deals"/>
+<meta name="description" content="Toronto Daily Deals,Toronto Restaurant Deals,Toronto Spa Deals,Toronto Deals,Toronto Sports Deals"/>
+	<style media="screen" type="text/css">
+
+	.cities_select select{
+		height: 30px;
+		padding: 5px;
+		width: 240px;
+		margin-top: 15px;		
+	}
+	.cities_select input{
+		height: 20px;
+		padding: 5px;
+		width: 320px;
+		margin-top: 15px;		
+		font-size: 18px;		
+	}	
+	
+	.bottom_links{
+		position: absolute; right: 40px; top: 226px;
+	}
+	.bottom_links a{
+		text-decoration: none;
+		color: #000;
+		font-size: 12px;
+		font-weight: bold;
+	}	
+	
+	.center_form{
+		margin-left: 108px; margin-top: 20px;
+	}
+
+</style>
+	<script type="text/javascript">
+//<![CDATA[
+var cfg = {"cfg":{"icm":1,"path_relative":"\/","path_absolute":"http:\/\/everybodybuys.com\/","date_format":"M d, Y","today_date":"2011-07-09","site_name":"everybody_buys","small_big_thumb.width":"260","small_big_thumb.height":"160","medium_big_thumb.width":"440","medium_big_thumb.height":"291"}}
+//]]>
+</script><link rel="stylesheet" type="text/css" href="/css/077f6883b5e25bf1e7278e33fc8eb9ce_1310067327.css" />
+	<script type="text/javascript" src="/js/5b11ae5dad516e32123aff0a021b6b20_1309186048.js"></script><!--
+	<meta content="156669321069202" property="og:app_id" />
+	<meta content="156669321069202" property="fb:app_id" />
+				<meta property="og:image" content="http://everybodybuys.com/img/blue-theme/logo-email.png"/>
+		-->
+<script type="text/javascript">
+function validate(email) {
+   var reg = /^([A-Za-z0-9_\-\.])+\@([A-Za-z0-9_\-\.])+\.([A-Za-z]{2,4})$/;   
+   if(reg.test(email) == false) {
+      alert('Invalid Email Address');
+      return false;
+   }
+   return true;
+}
+$(document).ready(function(){
+	$('#ch_city').click(function(){
+		window.location = "/welcome/?_city="+$("#change-city").val();
+	 });
+	 
+	 $("#end_sign").click(function(){
+		if (validate($("#person_email").val())){
+			window.location = "/welcome/add/?_city=&_email="+$("#person_email").val();		
+		}
+	 });
+});</script>
+</head>
+<body style="background: none">	
+	<div class="content">
+	<cake:nocache>            
+   <div id="header">
+    <div id="header-content">
+        <div class="side1-cl">
+        <div class="side1-cr">
+		    <div class="block1-inner">
+        	              <ul class="menu-link clearfix">
+               <li  ><a href="/toronto/users/register" title="SIGN UP" class="login-link">SIGN UP</a>             </li>
+
+
+              </ul>
+                        
+			
+        </div>
+      </div>
+         
+          
+         
+          </div>
+            <p class="hidden-info">Collective Buying Power</p>
+               
+      </div>
+
+		</div>
+		</div>
+    </div>
+  </div>
+  </cake:nocache>
+        <div id="main" class="clearfix" style="font-family: Georgia, sans-serif; background-repeat: no-repeat; padding: 20px; margin-top: 0px; width: 1117px; height: 720px; margin-left: auto; margin-right: auto; background-image: url('/img/welcome_bg.png')">                       
+        <h1 style="position: relative; top: -20px; left: 60px;">
+                	<a title="Everybody Buys" href="/toronto-daily-deals">Everybody Buys</a>
+ 		</h1>		
+		<div style="position: absolute; left: 160px; top: 290px; width: 550px;">
+			<img src="/img/welcome_gamburgers.png" alt="">
+		</div>
+		<div style="position: absolute; left: 530px; top: 40px; width: 550px;">
+		<div style="font-size: 28px; font-weight:bold; color: #9f734c; letter-spacing: -0.5px;">
+			<img src="/img/welcome_apply.png" alt=""> Today’s Deals, Yesterday’s Prices
+		</div>
+		<div style="font-size: 40px; font-weight:bold; color: #9f734c; letter-spacing: -0.5px;">
+			<img src="/img/welcome_apply.png" alt=""> Save 50% to 100% OFF!
+		</div>	
+				
+		</div>
+        <div style="position: relative; background-image: url('/img/welcome_panel.png'); width: 445px; padding: 30px; height: 208px; position: relative; margin-top: 190px; margin-left: 350px;">
+		    <div style="position: absolute; left: 34px; top: 34px;" id="number">
+									<img src="/img/number1.png" alt="">
+					
+			</div>
+			<div class="center_form">
+				<div style="font-weight: bold; position: relative;  font-size: 24px; letter-spacing: -0.5px;color: #4a4541;">
+												
+						Select your city:												
+				</div>
+				<div class="cities_select">				
+											
+						<select id="change-city">
+					<option  value='adel-daily-deals'>Adel												(2)
+									
+				</option>
+						<option  value='albuquerque-daily-deals'>Albuquerque												(2)
+									
+				</option>
+						<option  value='anchorage-daily-deals'>Anchorage												(2)
+									
+				</option>
+						<option  value='ann-arbor-daily-deals'>Ann Arbor												(2)
+									
+				</option>
+						<option  value='annapolis-daily-deals'>Annapolis												(2)
+									
+				</option>
+						<option  value='atlanta-daily-deals'>Atlanta												(2)
+									
+				</option>
+						<option  value='austin-1-daily-deals'>Austin												(2)
+									
+				</option>
+						<option  value='baltimore-daily-deals'>Baltimore												(2)
+									
+				</option>
+						<option  value='barrie-1-daily-deals'>Barrie												(4)
+									
+				</option>
+						<option  value='baton-rouge-daily-deals'>Baton Rouge												(2)
+									
+				</option>
+						<option  value='boston-daily-deals'>Boston												(2)
+									
+				</option>
+						<option  value='brampton-1-daily-deals'>Brampton												(3)
+									
+				</option>
+						<option  value='buffalo-daily-deals'>Buffalo												(3)
+									
+				</option>
+						<option  value='burlington-daily-deals'>Burlington												(3)
+									
+				</option>
+						<option  value='calgary-daily-deals'>Calgary												(5)
+									
+				</option>
+						<option  value='cedar-rapids-daily-deals'>Cedar Rapids												(2)
+									
+				</option>
+						<option  value='central-jersey-daily-deals'>Central Jersey												(2)
+									
+				</option>
+						<option  value='charleston-daily-deals'>Charleston												(2)
+									
+				</option>
+						<option  value='charlotte-daily-deals'>Charlotte												(2)
+									
+				</option>
+						<option  value='charlottetown-daily-deals'>Charlottetown												(2)
+									
+				</option>
+						<option  value='chicago-daily-deals'>Chicago												(2)
+									
+				</option>
+						<option  value='colorado-springs-daily-deals'>Colorado Springs												(2)
+									
+				</option>
+						<option  value='columbia-daily-deals'>Columbia												(2)
+									
+				</option>
+						<option  value='dallas-daily-deals'>Dallas												(2)
+									
+				</option>
+						<option  value='denver-daily-deals'>Denver												(2)
+									
+				</option>
+						<option  value='des-moines-daily-deals'>Des Moines												(2)
+									
+				</option>
+						<option  value='detroit-daily-deals'>Detroit												(2)
+									
+				</option>
+						<option  value='durham-daily-deals'>Durham												(4)
+									
+				</option>
+						<option  value='durham-region-daily-deals'>Durham Region												(6)
+									
+				</option>
+						<option  value='edmonton-daily-deals'>Edmonton												(4)
+									
+				</option>
+						<option  value='etobicoke-1-daily-deals'>Etobicoke												(5)
+									
+				</option>
+						<option  value='eugene-daily-deals'>Eugene												(2)
+									
+				</option>
+						<option  value='fort-lauderdale-1-daily-deals'>Fort Lauderdale												(2)
+									
+				</option>
+						<option  value='fort-wayne-daily-deals'>Fort Wayne												(2)
+									
+				</option>
+						<option  value='fredericton-daily-deals'>Fredericton												(3)
+									
+				</option>
+						<option  value='georgetown-daily-deals'>Georgetown												(2)
+									
+				</option>
+						<option  value='grand-rapids-daily-deals'>Grand Rapids												(2)
+									
+				</option>
+						<option  value='green-bay-daily-deals'>Green Bay												(2)
+									
+				</option>
+						<option  value='greenville-daily-deals'>Greenville												(2)
+									
+				</option>
+						<option  value='guelph-daily-deals'>Guelph												(3)
+									
+				</option>
+						<option  value='halifax-1-daily-deals'>Halifax												(4)
+									
+				</option>
+						<option  value='hamilton-daily-deals'>Hamilton												(4)
+									
+				</option>
+						<option  value='hartford-daily-deals'>Hartford												(2)
+									
+				</option>
+						<option  value='honolulu-daily-deals'>Honolulu												(2)
+									
+				</option>
+						<option  value='houston-daily-deals'>Houston												(2)
+									
+				</option>
+						<option  value='indianapolis-daily-deals'>Indianapolis												(2)
+									
+				</option>
+						<option  value='iowa-city-daily-deals'>Iowa City												(2)
+									
+				</option>
+						<option  value='iqaluit-daily-deals'>Iqaluit												(2)
+									
+				</option>
+						<option  value='jackson-daily-deals'>Jackson												(2)
+									
+				</option>
+						<option  value='kansas-city-daily-deals'>Kansas City												(2)
+									
+				</option>
+						<option  value='kitchener-waterloo-daily-deals'>Kitchener-Waterloo												(4)
+									
+				</option>
+						<option  value='lakeside-1-daily-deals'>Lakeside												(2)
+									
+				</option>
+						<option  value='las-vegas-daily-deals'>Las Vegas												(2)
+									
+				</option>
+						<option  value='lexington-daily-deals'>Lexington												(2)
+									
+				</option>
+						<option  value='lincoln-daily-deals'>Lincoln												(2)
+									
+				</option>
+						<option  value='little-rock-daily-deals'>Little Rock												(2)
+									
+				</option>
+						<option  value='london-1-daily-deals'>London												(5)
+									
+				</option>
+						<option  value='long-island-daily-deals'>Long Island												(2)
+									
+				</option>
+						<option  value='los-angeles-daily-deals'>Los Angeles												(2)
+									
+				</option>
+						<option  value='louisville-daily-deals'>Louisville												(2)
+									
+				</option>
+						<option  value='madison-daily-deals'>Madison												(2)
+									
+				</option>
+						<option  value='maple-1-daily-deals'>Maple												(4)
+									
+				</option>
+						<option  value='miami-daily-deals'>Miami												(2)
+									
+				</option>
+						<option  value='milton-daily-deals'>Milton												(2)
+									
+				</option>
+						<option  value='milwaukee-daily-deals'>Milwaukee												(2)
+									
+				</option>
+						<option  value='minneapolis-daily-deals'>Minneapolis												(2)
+									
+				</option>
+						<option  value='mississauga-daily-deals'>Mississauga												(6)
+									
+				</option>
+						<option  value='montreal-daily-deals'>Montreal												(4)
+									
+				</option>
+						<option  value='new-orleans-daily-deals'>New Orleans												(2)
+									
+				</option>
+						<option  value='new-york-city-daily-deals'>New York City												(2)
+									
+				</option>
+						<option  value='north-jersey-daily-deals'>North Jersey												(2)
+									
+				</option>
+						<option  value='north-york-daily-deals'>North York												(5)
+									
+				</option>
+						<option  value='oakville-daily-deals'>Oakville												(4)
+									
+				</option>
+						<option  value='oklahoma-city-daily-deals'>Oklahoma City												(2)
+									
+				</option>
+						<option  value='omaha-daily-deals'>Omaha												(2)
+									
+				</option>
+						<option  value='orange-county-daily-deals'>Orange County												(2)
+									
+				</option>
+						<option  value='orillia-1-daily-deals'>Orillia												(4)
+									
+				</option>
+						<option  value='ottawa-daily-deals'>Ottawa												(4)
+									
+				</option>
+						<option  value='philadelphia-daily-deals'>Philadelphia												(2)
+									
+				</option>
+						<option  value='pittsburgh-daily-deals'>Pittsburgh												(2)
+									
+				</option>
+						<option  value='portland-daily-deals'>Portland												(2)
+									
+				</option>
+						<option  value='portland-1-daily-deals'>Portland												(2)
+									
+				</option>
+						<option  value='prizes-daily-deals'>Prizes												(2)
+									
+				</option>
+						<option  value='providence-daily-deals'>Providence												(2)
+									
+				</option>
+						<option  value='quebec-city-daily-deals'>Quebec City												(3)
+									
+				</option>
+						<option  value='raleigh-daily-deals'>Raleigh												(2)
+									
+				</option>
+						<option  value='regina-daily-deals'>Regina												(3)
+									
+				</option>
+						<option  value='richmond-daily-deals'>Richmond												(5)
+									
+				</option>
+						<option  value='sacramento-daily-deals'>Sacramento												(2)
+									
+				</option>
+						<option  value='salt-lake-city-daily-deals'>Salt Lake City												(2)
+									
+				</option>
+						<option  value='san-diego-1-daily-deals'>San Diego												(2)
+									
+				</option>
+						<option  value='san-fernando-valley-daily-deals'>San Fernando Valley												(2)
+									
+				</option>
+						<option  value='san-francisco-daily-deals'>San Francisco												(2)
+									
+				</option>
+						<option  value='san-jose-daily-deals'>San Jose												(2)
+									
+				</option>
+						<option  value='santa-barbara-daily-deals'>Santa Barbara												(2)
+									
+				</option>
+						<option  value='santa-fe-daily-deals'>Santa Fe												(2)
+									
+				</option>
+						<option  value='scarborough-daily-deals'>Scarborough												(3)
+									
+				</option>
+						<option  value='seattle-daily-deals'>Seattle												(2)
+									
+				</option>
+						<option  value='sioux-falls-daily-deals'>Sioux Falls												(2)
+									
+				</option>
+						<option  value='springfield-daily-deals'>Springfield												(2)
+									
+				</option>
+						<option  value='st-catharines-niagara-daily-deals'>St Catharines - Niagara												(4)
+									
+				</option>
+						<option  value='st-louis-daily-deals'>St Louis												(2)
+									
+				</option>
+						<option  value='st-paul-daily-deals'>St Paul												(2)
+									
+				</option>
+						<option  value='tampa-bay-daily-deals'>Tampa Bay												(2)
+									
+				</option>
+						<option  value='topeka-daily-deals'>Topeka												(2)
+									
+				</option>
+						<option selected value='toronto-daily-deals'>Toronto												(7)
+									
+				</option>
+						<option  value='tulsa-daily-deals'>Tulsa												(2)
+									
+				</option>
+						<option  value='vancouver-daily-deals'>Vancouver												(6)
+									
+				</option>
+						<option  value='victoria-daily-deals'>Victoria												(6)
+									
+				</option>
+						<option  value='washington-dc-daily-deals'>Washington DC												(2)
+									
+				</option>
+						<option  value='whitehorse-daily-deals'>Whitehorse												(3)
+									
+				</option>
+						<option  value='wichita-daily-deals'>Wichita												(2)
+									
+				</option>
+						<option  value='wilmington-newark-daily-deals'>Wilmington-Newark												(2)
+									
+				</option>
+						<option  value='winnipeg-daily-deals'>Winnipeg												(4)
+									
+				</option>
+						<option  value='woodbridge-daily-deals'>Woodbridge												(5)
+									
+				</option>
+						<option  value='worcester-daily-deals'>Worcester												(2)
+									
+				</option>
+						<option  value='yellowknife-daily-deals'>Yellowknife												(3)
+									
+				</option>
+						<option  value='york-region-daily-deals'>York Region												(7)
+									
+				</option>
+			</select>																
+				</div>
+				<div style="margin-left: 69px; margin-top: 26px;">
+					
+											
+							<a href="javascript:void();" id="ch_city">						
+							<img src='/img/welcome_continue.png' alt=''>
+																									
+					</a>
+				</div>				
+			</div>
+			<div class="bottom_links">
+											
+					<a href="/page/privacy_policy" target="_blank">Privacy Policy</a>			
+																											
+			</div>
+		</div>
+		
+
+
+
+
+		      </div>      
+	
+</body>
+</html>

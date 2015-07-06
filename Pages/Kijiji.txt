@@ -1,0 +1,669 @@
+http://www.kijijideals.ca/deals/york-region/cyber-golf-lessons-5-60-minute-professional-golf-lessons-plus-swing-analysis-software-york
+
+
+<!DOCTYPE html>
+<html xmlns:fb="http://www.facebook.com/2008/fbml">
+<head id="ctl00_ctl00_Head1">
+    <script type="text/javascript">
+        if (window.location.hostname.toLowerCase().indexOf("kijijideals.ca") >= 0)
+            document.domain = "kijijideals.ca";
+
+        var site_Brand = "Kijiji Daily Deals";
+        var site_BrandL = "kijijideals";
+        var url_CacheHttp = "http://www.kijijideals.ca";
+        var url_Http = "http://www2.kijijideals.ca";
+        var url_Https = "https://www2.kijijideals.ca";
+        var site_CookieDomain = ".kijijideals.ca";
+        var site_EmailListPrefix = "KijijiDeals";
+    </script>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta http-equiv="pics-label" content="(pics-1.1 &quot;http://www.icra.org/ratingsv02.html&quot; comment &quot;ICRAonline EN v2.0&quot; l gen true for &quot;http://www.kijijideals.ca/&quot; r (nz 1 vz 1 lz 1 oz 1 cb 1) &quot;http://www.rsac.org/ratingsv01.html&quot; l gen true for &quot;http://www.kijijideals.ca/&quot; r (n 0 s 0 v 0 l 0))" /><meta name="description" content="Kijiji Daily Deals bring you one new local deal each day. Save up to 75% off events, gift certificates, entertainment, restaurants, and more." /><meta name="keywords" content="" /><title>
+	Kijiji Daily Deals - Amazing Daily York Region Entertainment &amp; Restaurant Deals &raquo; $29 for Five 60-Minute Professional Golf Lessons, plus Swing Analysis Software from Cyber Golf Lessons at Markham Golf Dome ($164 Value)
+</title><link rel="stylesheet" media="screen" type="text/css" href="/css/teamsave.css" /><link rel="shortcut icon" href="/favicon.ico" /><link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    
+    <script type="text/javascript" src="/scripts/jquery-1.4.1.min.js"></script>
+    <script type="text/javascript" src="/scripts/jquery-ui-1.7.2.custom.min.js"></script>
+    <script type="text/javascript" src="/scripts/jquery.scrollTo-1.4.2-min.js"></script>
+    <script type="text/javascript" src="/scripts/jquery.countdown.min.js"></script>
+    <script type="text/javascript" src="/scripts/facebox.js"></script>
+    <script type="text/javascript" src="/scripts/common.js"></script>
+    <script type="text/javascript" src="/kijijideals/function.js"></script>
+
+    
+    <script type="text/javascript" src="/scripts/deal.js"></script>
+    <meta property="og:title" content="Get Things Swinging " />
+    <meta property="og:site_name" content="Kijiji Daily Deals" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="http://www.kijijideals.ca/deals/york-region/cyber-golf-lessons-5-60-minute-professional-golf-lessons-plus-swing-analysis-software-york" />
+    <meta property="og:image" content="http://www.kijijideals.ca/assets/deals/york-region/cyber-golf-lessons-5-60-minute-professional-golf-lessons-plus-swing-analysis-software-york/dealimage.jpg" />
+
+
+    <link rel="stylesheet" media="screen" type="text/css" href="/kijijideals/layout.css" />
+<!--[if IE]><link rel="stylesheet" type="text/css" href="/kijijideals/ie.css"><![endif]-->
+    <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-11681763-107']);
+        _gaq.push(['_setDomainName', '.kijijideals.ca']);
+        _gaq.push(['_setAllowHash', false]);
+        _gaq.push(['_trackPageview']);
+
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+
+</head>
+<body>
+
+<div class="containAll">
+  <div class="contentAll">
+    <div id="layout">
+      <!--layout starts-->
+      <div id="header_outer">
+        <!--header_outer starts-->
+        
+            <div id="choose_city" style="display:none">
+            <!--choose city starts-->
+                <div class="inner ">
+                <!--top section starts-->
+                    <div class="top_section">
+                        <div class="top">
+                            <p class="cancel"><a href="#" id="close_section" class="close">Cancel</a></p>
+                            <p class="title">Choose your city</p>
+                        </div>
+                        <div class="list">
+                        <!--list section starts-->
+                                <ul class="col">
+                                      <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/abitibi/" onclick="setCookie('TS', 'SetMarket', 'abitibi', true)"><span>Abitibi-Témiscamingue</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/annapolis/" onclick="setCookie('TS', 'SetMarket', 'annapolis', true)"><span>Annapolis Valley</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/baiecomeau/" onclick="setCookie('TS', 'SetMarket', 'baiecomeau', true)"><span>Baie-Comeau</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/banff/" onclick="setCookie('TS', 'SetMarket', 'banff', true)"><span>Banff / Canmore</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/barrie/" onclick="setCookie('TS', 'SetMarket', 'barrie', true)"><span>Barrie</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/bathurst/" onclick="setCookie('TS', 'SetMarket', 'bathurst', true)"><span>Bathurst</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/belleville/" onclick="setCookie('TS', 'SetMarket', 'belleville', true)"><span>Belleville Area</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/brandon/" onclick="setCookie('TS', 'SetMarket', 'brandon', true)"><span>Brandon Area</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/brantford/" onclick="setCookie('TS', 'SetMarket', 'brantford', true)"><span>Brantford</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/bridgewater/" onclick="setCookie('TS', 'SetMarket', 'bridgewater', true)"><span>Bridgewater</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/brockville/" onclick="setCookie('TS', 'SetMarket', 'brockville', true)"><span>Brockville</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/calgary/" onclick="setCookie('TS', 'SetMarket', 'calgary', true)"><span>Calgary</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/canada/" onclick="setCookie('TS', 'SetMarket', 'canada', true)"><span>Canada</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/capebreton/" onclick="setCookie('TS', 'SetMarket', 'capebreton', true)"><span>Cape Breton</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/chatham-kent/" onclick="setCookie('TS', 'SetMarket', 'chatham-kent', true)"><span>Chatham-Kent</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/chaudiere/" onclick="setCookie('TS', 'SetMarket', 'chaudiere', true)"><span>Chaudière / Appalaches</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/cornerbrook/" onclick="setCookie('TS', 'SetMarket', 'cornerbrook', true)"><span>Corner Brook</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/cornwall/" onclick="setCookie('TS', 'SetMarket', 'cornwall', true)"><span>Cornwall</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/cranbrook/" onclick="setCookie('TS', 'SetMarket', 'cranbrook', true)"><span>Cranbrook</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/drummondville/" onclick="setCookie('TS', 'SetMarket', 'drummondville', true)"><span>Drummondville Area</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/edmonton/" onclick="setCookie('TS', 'SetMarket', 'edmonton', true)"><span>Edmonton Area</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/edmundston/" onclick="setCookie('TS', 'SetMarket', 'edmundston', true)"><span>Edmundston</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/flinflon/" onclick="setCookie('TS', 'SetMarket', 'flinflon', true)"><span>Flin Flon</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/fortmcmurray/" onclick="setCookie('TS', 'SetMarket', 'fortmcmurray', true)"><span>Fort McMurray</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/fraservalley/" onclick="setCookie('TS', 'SetMarket', 'fraservalley', true)"><span>Fraser Valley</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/fredericton/" onclick="setCookie('TS', 'SetMarket', 'fredericton', true)"><span>Fredericton</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/gander/" onclick="setCookie('TS', 'SetMarket', 'gander', true)"><span>Gander</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/gaspesie/" onclick="setCookie('TS', 'SetMarket', 'gaspesie', true)"><span>Gaspé</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/granby/" onclick="setCookie('TS', 'SetMarket', 'granby', true)"><span>Granby</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/grandeprairie/" onclick="setCookie('TS', 'SetMarket', 'grandeprairie', true)"><span>Grande Prairie</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/guelph/" onclick="setCookie('TS', 'SetMarket', 'guelph', true)"><span>Guelph</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/halifax/" onclick="setCookie('TS', 'SetMarket', 'halifax', true)"><span>Halifax</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/halton/" onclick="setCookie('TS', 'SetMarket', 'halton', true)"><span>Halton Region</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/hamilton/" onclick="setCookie('TS', 'SetMarket', 'hamilton', true)"><span>Hamilton</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/kamloops/" onclick="setCookie('TS', 'SetMarket', 'kamloops', true)"><span>Kamloops</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/kapuskasing/" onclick="setCookie('TS', 'SetMarket', 'kapuskasing', true)"><span>Kapuskasing</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/kelowna/" onclick="setCookie('TS', 'SetMarket', 'kelowna', true)"><span>Kelowna</span></a></li>
+                                            </ul><ul class="col">  <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/kenora/" onclick="setCookie('TS', 'SetMarket', 'kenora', true)"><span>Kenora</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/kingston/" onclick="setCookie('TS', 'SetMarket', 'kingston', true)"><span>Kingston Area</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/kitchener/" onclick="setCookie('TS', 'SetMarket', 'kitchener', true)"><span>Kitchener Area</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/laronge/" onclick="setCookie('TS', 'SetMarket', 'laronge', true)"><span>La Ronge</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/labrador/" onclick="setCookie('TS', 'SetMarket', 'labrador', true)"><span>Labrador</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/leamington/" onclick="setCookie('TS', 'SetMarket', 'leamington', true)"><span>Leamington</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/lethbridge/" onclick="setCookie('TS', 'SetMarket', 'lethbridge', true)"><span>Lethbridge</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/lloydminster/" onclick="setCookie('TS', 'SetMarket', 'lloydminster', true)"><span>Lloydminster</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/london/" onclick="setCookie('TS', 'SetMarket', 'london', true)"><span>London</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/meadowlake/" onclick="setCookie('TS', 'SetMarket', 'meadowlake', true)"><span>Meadow Lake</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/medicinehat/" onclick="setCookie('TS', 'SetMarket', 'medicinehat', true)"><span>Medicine Hat</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/miramichi/" onclick="setCookie('TS', 'SetMarket', 'miramichi', true)"><span>Miramichi</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/moncton/" onclick="setCookie('TS', 'SetMarket', 'moncton', true)"><span>Moncton</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/montreal/" onclick="setCookie('TS', 'SetMarket', 'montreal', true)"><span>Montreal</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/muskoka/" onclick="setCookie('TS', 'SetMarket', 'muskoka', true)"><span>Muskoka</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/nanaimo/" onclick="setCookie('TS', 'SetMarket', 'nanaimo', true)"><span>Nanaimo</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/nelson/" onclick="setCookie('TS', 'SetMarket', 'nelson', true)"><span>Nelson</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/newglasgow/" onclick="setCookie('TS', 'SetMarket', 'newglasgow', true)"><span>New Glasgow</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/nipawin/" onclick="setCookie('TS', 'SetMarket', 'nipawin', true)"><span>Nipawin</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/norfolk/" onclick="setCookie('TS', 'SetMarket', 'norfolk', true)"><span>Norfolk County</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/northbay/" onclick="setCookie('TS', 'SetMarket', 'northbay', true)"><span>North Bay</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/nwt/" onclick="setCookie('TS', 'SetMarket', 'nwt', true)"><span>Northwest Territories</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/nunavut/" onclick="setCookie('TS', 'SetMarket', 'nunavut', true)"><span>Nunavut</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/ottawa/" onclick="setCookie('TS', 'SetMarket', 'ottawa', true)"><span>Ottawa / Gatineau Area</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/owensound/" onclick="setCookie('TS', 'SetMarket', 'owensound', true)"><span>Owen Sound</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/peterborough/" onclick="setCookie('TS', 'SetMarket', 'peterborough', true)"><span>Peterborough Area</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/princealbert/" onclick="setCookie('TS', 'SetMarket', 'princealbert', true)"><span>Prince Albert</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/pei/" onclick="setCookie('TS', 'SetMarket', 'pei', true)"><span>Prince Edward Island</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/princegeorge/" onclick="setCookie('TS', 'SetMarket', 'princegeorge', true)"><span>Prince George</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/quebec/" onclick="setCookie('TS', 'SetMarket', 'quebec', true)"><span>Québec City</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/reddeer/" onclick="setCookie('TS', 'SetMarket', 'reddeer', true)"><span>Red Deer</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/regina/" onclick="setCookie('TS', 'SetMarket', 'regina', true)"><span>Regina Area</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/renfrew/" onclick="setCookie('TS', 'SetMarket', 'renfrew', true)"><span>Renfrew County Area</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/rimouski/" onclick="setCookie('TS', 'SetMarket', 'rimouski', true)"><span>Rimouski</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/saguenay/" onclick="setCookie('TS', 'SetMarket', 'saguenay', true)"><span>Saguenay / Lac St. Jean Area</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/saintjohn/" onclick="setCookie('TS', 'SetMarket', 'saintjohn', true)"><span>Saint John</span></a></li>
+                                            </ul><ul class="col">  <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/saint-hyacinthe/" onclick="setCookie('TS', 'SetMarket', 'saint-hyacinthe', true)"><span>Saint-Hyacinthe</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/saint-jean-sur-richelieu/" onclick="setCookie('TS', 'SetMarket', 'saint-jean-sur-richelieu', true)"><span>Saint-Jean-sur-Richelieu</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/sarnia/" onclick="setCookie('TS', 'SetMarket', 'sarnia', true)"><span>Sarnia Area</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/saskatoon/" onclick="setCookie('TS', 'SetMarket', 'saskatoon', true)"><span>Saskatoon</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/saultstemarie/" onclick="setCookie('TS', 'SetMarket', 'saultstemarie', true)"><span>Sault Ste. Marie</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/septiles/" onclick="setCookie('TS', 'SetMarket', 'septiles', true)"><span>Sept-Îles</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/sherbrooke/" onclick="setCookie('TS', 'SetMarket', 'sherbrooke', true)"><span>Sherbrooke</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/stcatharines/" onclick="setCookie('TS', 'SetMarket', 'stcatharines', true)"><span>St. Catharines / Niagara</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/stjohns/" onclick="setCookie('TS', 'SetMarket', 'stjohns', true)"><span>St. John's</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/sudbury/" onclick="setCookie('TS', 'SetMarket', 'sudbury', true)"><span>Sudbury</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/swiftcurrent/" onclick="setCookie('TS', 'SetMarket', 'swiftcurrent', true)"><span>Swift Current</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/thompson/" onclick="setCookie('TS', 'SetMarket', 'thompson', true)"><span>Thompson</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/thunderbay/" onclick="setCookie('TS', 'SetMarket', 'thunderbay', true)"><span>Thunder Bay</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/timmins/" onclick="setCookie('TS', 'SetMarket', 'timmins', true)"><span>Timmins</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/toronto/" onclick="setCookie('TS', 'SetMarket', 'toronto', true)"><span>Toronto</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/troisrivieres/" onclick="setCookie('TS', 'SetMarket', 'troisrivieres', true)"><span>Trois-Rivières Area</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/truro/" onclick="setCookie('TS', 'SetMarket', 'truro', true)"><span>Truro</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/vancouver/" onclick="setCookie('TS', 'SetMarket', 'vancouver', true)"><span>Vancouver</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/vernon/" onclick="setCookie('TS', 'SetMarket', 'vernon', true)"><span>Vernon</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/victoria/" onclick="setCookie('TS', 'SetMarket', 'victoria', true)"><span>Victoria</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/whistler/" onclick="setCookie('TS', 'SetMarket', 'whistler', true)"><span>Whistler</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/windsor/" onclick="setCookie('TS', 'SetMarket', 'windsor', true)"><span>Windsor Region</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/winnipeg/" onclick="setCookie('TS', 'SetMarket', 'winnipeg', true)"><span>Winnipeg</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/woodstock/" onclick="setCookie('TS', 'SetMarket', 'woodstock', true)"><span>Woodstock</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/yarmouth/" onclick="setCookie('TS', 'SetMarket', 'yarmouth', true)"><span>Yarmouth</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/york-region/" onclick="setCookie('TS', 'SetMarket', 'york-region', true)"><span>York Region</span></a></li>
+                                              <li style='padding-top: 5px;'><a href="http://www.kijijideals.ca/deals/yukon/" onclick="setCookie('TS', 'SetMarket', 'yukon', true)"><span>Yukon</span></a></li>
+                                            
+                            </ul>	
+                        <!--list section ends-->
+                        </div>
+                    </div>
+                <!--top section ends-->
+                </div>
+            <!--choose city ends-->
+            </div>
+        
+
+            <div id="header_inner">
+            <!--header_inner starts-->
+            
+                <div class="headContainer">
+                    <!--logo starts-->
+                    <h1 id="logo"><a href="http://www.kijijideals.ca"><img src="/images/logo.png" alt="Kijiji Daily Deals" class="png" /></a></h1>
+                    <!--logo ends-->
+
+                    <div class="right_section">
+                    <!--right section starts-->
+
+                        <div id="topnav">
+                            <ul class="links"> 
+                            
+                                <li>You're Shopping in <strong>York Region</strong></li>
+                            
+                                <li class="parent"><a href="#" id="see_more_cities">See More Cities</a></li>
+                            
+                                <li class="last"><a href="http://www.kijijideals.ca/contact">Contact&nbsp;Us</a></li>
+                            </ul>
+                        </div>
+                        
+                        <div id="subscribeform">
+                        <!--form section starts-->
+                            <form action='http://www2.kijijideals.ca/jsapi/subscribe' method='post' onsubmit="return validateEmail(this);">
+                            
+                                <input name="list" type="hidden" value="KijijiDeals York Region" />
+                                <input name="market" type="hidden" value="york-region" />
+                                <input name="campaign" type="hidden" value="KijijiDeals York Region" />
+                            
+                            <input name='source' type='hidden' value='HeaderSubscribe' />
+                            <fieldset>
+                              <label>
+                                <input type="submit" class="subscribe" value="subscribe" />
+                              </label>
+                              <div class="input_text">
+                                <label>
+                                  <input name="email" type="text" class="text" title='you@domain.com' />
+                                </label>
+                              </div>
+                              <p>Kijiji Daily Deals Email: </p>
+                            </fieldset>
+                          </form>
+                        <!--form section ends-->
+                        </div>
+                        <p class="clearfix"></p>
+                        
+                        <div id="langnav">
+                            <ul class="links">
+                                <li><a href="javascript:changeLang('en_US')">English</a></li>
+                                <li class=""><a href="javascript:changeLang('fr_CA')">Fran&ccedil;ais</a></li>
+                            </ul>
+                        </div>
+                        
+                        
+                    <!--right section ends-->
+                    </div>
+
+                </div>
+
+            <!--header_inner ends-->			
+            </div>
+
+            <div class="menuContainer ">
+                <!--menu starts-->
+                <div class="inner ">
+                  <ul class="nav">
+                    <li class="todaysdeal active"><a href="http://www.kijijideals.ca/"><span>Today's Deal</span></a></li>
+                    <li><a href="http://www.kijijideals.ca/howitworks"><span>How it Works</span></a></li>
+                    <!--<li><a href="#"><span>Invite a friend!</span></a></li>-->
+                  </ul>
+                  <div class="fbsignin link">
+                    <!--sign in starts-->
+                    <script type="text/javascript">
+                        if (document.location.protocol == "https:")
+                            document.write('<iframe frameborder="0" width="245" height="50" marginheight="0" marginwidth="0" scrolling="no" src="https://www2.kijijideals.ca/account/signiniframe' + window.location.search + '" allowtransparency="true"></iframe>');
+                        else
+                            document.write('<iframe frameborder="0" width="245" height="50" marginheight="0" marginwidth="0" scrolling="no" src="http://www2.kijijideals.ca/account/signiniframe' + window.location.search + '" allowtransparency="true"></iframe>');
+                    </script>
+                    <noscript>
+                        <iframe frameborder="0" width="205" height="34" marginheight="0" marginwidth="0" scrolling="no" src="/account/signiniframe" allowtransparency="true"></iframe>
+                    </noscript>
+                    <!--sign in ends-->
+                  </div>
+                </div>
+                <!--menu ends-->
+            </div>
+        
+        <!--header_outer ends-->
+        </div>
+        
+        <div id="body_container_outer">
+            <div id="body_container_inner">
+                <div id="body_container_main">
+    
+                    <div class="contentContainer ">
+                    
+                        <div id="noticebar" class="noticeContainer clearfix" style="display: none;">
+                        <!-- NOTICE CONTAINER -->
+                            <div class="closebutton"><a href="#" onclick="hideNotice();">close &nbsp;X</a></div>
+                            <h2><img id="noticeicon" src="/images/icons/Checkmark-(24x24).gif" width="24" height="24" alt="checkmark" /><span id="noticemsg">&nbsp;</span></h2>
+                        <!-- NOTICE CONTAINER END -->
+                        </div>
+                        
+                        <div class="contentTop">
+                            
+
+                            
+    
+
+                        <div class="contentMain top_section">
+                        <!--main container starts-->
+                        
+                            <h1 id="toDeal"><a href="http://www.kijijideals.ca/deals/york-region/cyber-golf-lessons-5-60-minute-professional-golf-lessons-plus-swing-analysis-software-york">$29 for Five 60-Minute Professional Golf Lessons, plus Swing Analysis Software from Cyber Golf Lessons at Markham Golf Dome ($164 Value)</a></h1>
+                            
+                            <div class="img_section">
+                              <img src="/assets/deals/york-region/cyber-golf-lessons-5-60-minute-professional-golf-lessons-plus-swing-analysis-software-york/dealimage.jpg" alt="$29 for Five 60-Minute Professional Golf Lessons, plus Swing Analysis Software from Cyber Golf Lessons at Markham Golf Dome ($164 Value)" width="515" height="311" />
+                            </div>
+                            
+
+                        </div>
+                        <div class="contentSide top_section">
+                        <!--side container starts-->
+
+                            <div class="amount_box">
+                            <!--amount_box starts-->
+                    
+                                <table cellpadding="0" cellspacing="0">
+                                    <tr>
+                                        <th>value</th>
+                                        <th>Discount</th>
+                                        <th>Savings</th>
+                                    </tr>
+                                    <tr>
+                                        <td class="value">$164</td>
+                                        <td class="discount">82%</td>
+                                        <td class="save">$135</td>
+                                    </tr>
+                                </table>
+                        
+                            <!--amount_box ends-->
+                            </div>		      
+                                                            
+                            <div class="buy_box clearfix">
+                            <!--buy_box starts-->
+                    
+                                <div class="price">
+                                    <span>$29</span>						
+                                </div>
+                        
+                        
+
+                                <div class="buyNowButton">
+                                    <a href="#" alt="expired">expired</a>
+                                </div>
+                                
+                            <!--buy_box ends-->
+                            </div>
+                    
+                            <div class="subscribe_box">
+                                <h4 style="font-size: 17px;">Never miss a deal again!</h4>
+                                <p>Subscribe to our Daily Deal Alerts!</p>
+                                <form action='http://www2.kijijideals.ca/jsapi/subscribe' method='post'>
+                                <input name="list" type="hidden" value="KijijiDeals York Region" />
+                                <input name="market" type="hidden" value="york-region" />
+                                <input name="campaign" type="hidden" value="KijijiDeals York Region" />
+                                <input name='source' type='hidden' value='ExpiredDeal' />
+                                <label for="name" class="input_text"><input name="email" type="text" class="input" title='you@domain.com' /></label>
+                                <input type="submit" class="subscribe" value="Subscribe" />
+                                </form>
+                            </div>
+
+
+                        
+                        
+
+                            <div class="countdown_box">
+                            <!--countdown_box starts-->
+                    
+                                <h4>Time Left</h4>
+                                <p class="tcountdown"></p>
+                        
+                            <!--countdown_box ends-->
+                            </div>
+                 
+                            <div class="share_this_box">
+                            <!--share this starts-->
+
+                                <h4>Share This Deal</h4>
+                                <ul class="social">
+                                  <li> <a href="http://www2.kijijideals.ca/deals/york-region/cyber-golf-lessons-5-60-minute-professional-golf-lessons-plus-swing-analysis-software-york/shareemail" rel="nofollow"><img src="/kijijideals/social_mail.gif" alt="mail" /></a></li>
+                                  <li> <a href="http://www2.kijijideals.ca/deals/york-region/cyber-golf-lessons-5-60-minute-professional-golf-lessons-plus-swing-analysis-software-york/sharefacebook?fromdeal=1" rel="nofollow" target="_blank"><img src="/kijijideals/social_facebook.gif" alt="facebook" /></a></li>
+                                  <li> <a href="http://www2.kijijideals.ca/deals/york-region/cyber-golf-lessons-5-60-minute-professional-golf-lessons-plus-swing-analysis-software-york/sharetwitter?fromdeal=1" rel="nofollow" target="_blank"><img src="/kijijideals/social_twitter.gif" alt="twitter" /></a></li>
+                                </ul>
+                                
+                                <p class="like"><fb:like href="http://www.kijijideals.ca/deals/york-region/" layout="button_count"></fb:like></p>
+                                
+                              <!--share this ends-->
+                            </div>
+
+                        <!--side container ends-->
+                        </div>
+                        
+                    
+                        <div id="detailsContainer" style="display:none;">
+                        <!--details container start-->
+                        
+                            <div class="contentMain">
+                            <!--main container starts-->
+                            
+                                <h3>Keep in mind</h3>
+                                <p>Expires 1 year from date of issue.<br />Limit 1 per person (may buy unlimited as gifts); Taxes and gratuity are not included; Must call 647-801-5468 to book in advance; 48 hour cancellation policy is required or voucher is void; Golf lessons hosted at Markham Golf Dome: 51 Burncrest Road, Markham, ON; Golf clubs can be provided at no extra cost; Golf balls are not included for outdoor lessons; Mat fee applies for indoor golf lessons (golf balls are included); Maximum 8 people in each class; Cannot be combined with any other offers; No cash/credit value.<br />
+                                <a href="/faq">Read the general deal FAQ</a> for more details</p><br /><br />
+                                
+                                
+                                <h3>About this deal </h3>
+                                  <p>In the game of golf, “fore” is a word best uttered in moderation.  If you’re causing fellow golfers to duck so much, they look like they are doing squat reps, it’s a good idea to start perfecting that swing. <br /><br />Today’s deal will step up your game. For $29, you will receive five 60-minute professional golf lessons plus swing analysis software from Cyber Golf Lessons at Markham Golf Dome ($164 Value). No golf clubs, no problem. You can borrow some for your lessons but golf balls for outdoor instruction are extra. Indoor lessons are subject to a mat fee.<br /><br />You will work with a PGA certified instructor, who holds 18 years of experience teaching with the CPGA. Your instructor will work closely with you to diagnose game improving strategies. He uses a high speed camera to capture your swings in a “keeper” video analysis of your swings. <br /><br />Swing Analysis software is a great way to hone your skills. For example, you can layer your old swings on top of new swings to track progress, swing trace and more! This software also allows you to store practice swings from lessons and save for future comparison. There are over 60 PGA sings to compare yourself to and learn from. Another added feature is the ability to track your handicap, game statistics, and practice sessions. What’s more is you can track your progress and compare yourself with some of the best players in the world. <br /><br />Lessons take place at the Markham Golf Dome; Canada’s newest and most comprehensive golf facility spanning 53,00 square feet with a six story high indoor driving range and a 60 stall outdoor driving range.</p>
+                                  
+
+                                <br />	
+                                
+                            <!--main container ends-->
+                            </div>
+
+                            <div class="contentSide">
+                            <!--side container starts-->   
+
+                                <div class="features_box">
+                                <!--features starts-->
+                 
+                                    <h3>Features</h3>
+                                    <ul>
+                                    <li>Receive professional group golf lessons with a PGA certified instructor 
+<li>Maximum 8 people in each class
+<li>Analysis software allows you to track your progress and critique your technique with many incredible features
+<li>Your instructor makes a 'keeper' video for each student as a record of your swings
+                                    
+                                    </ul>
+    
+                                <!--features ends-->
+                                </div>
+
+                                <div class="location_box">
+                                <!--location starts-->
+    
+                                    <h3>Location</h3>
+                                    <p>Cyber Golf Lessons<br />
+<a href="http://www.cybergolflessons.com/Academies/MarkhamAcademy.html" target="_blank">www.cybergolflessons.com</a><br />
+647-801-5468</p>
+                                    
+                                        <div style="padding-top: 5px; "><p style="font-size: 11px; font-weight: normal; ">51 Burncrest Road, Markham, ON
+                                        
+                                        <ul id="smallBlueButton" >
+                                        <li><a href="http://maps.google.com/?q=51 Burncrest Road, Markham, ON" style="font: 14px/30px Arial, Helvetica, sans-serif;" alt="map it">Map it!<span></span></a></li>
+                                        </ul>
+                                        
+                                        </p></div>
+                
+                                    
+                        
+                                <!--location ends-->
+                                </div>
+
+                            <!--side container ends-->
+                            </div>
+            
+                        <!--details container ends-->
+                        </div>
+
+
+                        
+                        
+                        </div>
+                        <!-- DEAL BOXES END -->
+                        
+                        <!-- MULTIDEAL POPUP START -->
+                        
+                        <!-- MULTIDEAL POPUP END -->
+
+
+
+                        </div>
+      
+                    <!--containerContainer ends-->
+                    </div>					
+
+                    <div class="footerAll clearfix">
+                      <!--footer starts-->
+                      <div class="footerContainer clearfix">
+                        <div class="footer_links clearfix">
+                          <!--footer links starts-->
+                          <div class="col1">
+                            <h5>Learn More</h5>
+                            <ul>
+                              <li><a href="http://www.kijijideals.ca/faq">FAQ</a></li>
+                              <li><a href="http://www.kijijideals.ca/howitworks">How it Works</a></li>
+                              <li><a href="http://www.kijijideals.ca/contact">Contact / Feedback</a></li>
+                              <!--<li><a href="#">Refer a Friend</a></li>-->
+                            </ul>
+                          </div>
+                          <div class="col2">
+                            <h5>Company</h5>
+                            <ul>
+                              <li><a href="http://help.kijiji.net/ca/knowledgebase.php?article=78" target="_blank">About Us</a></li>
+                              <li><a href="http://www.kijijideals.ca/terms">Terms</a></li>
+                              <li><a href="http://www.kijiji.ca/p-Privacy" target="_blank">Privacy</a></li>
+                            </ul>
+                          </div>
+                          <div class="col3">
+                            <h5>Business</h5>
+                            <ul>
+                              <li><a href="http://www.kijijideals.ca/suggest">Suggest a Business</a></li>
+                              <li><a href="http://www.kijijideals.ca/business">Get Your Business Featured</a></li>
+                            </ul>
+                          </div>
+                          <div class="col4">
+                          
+                            <h5>Follow Us</h5>
+                            <ul>
+                            
+                                        <li><a href="http://www.kijijideals.ca/york-region/subscribe" target="_blank">Get Daily Deal Alert emails!</a></li>
+                            
+        
+                            </ul>
+                          </div>
+                          <!--footer links ends-->
+                        </div>
+                        
+                        
+                        <div class="footer_teamsave">
+                            <a href="http://www.teamsave.com/platform" target="_blank"><img src="/images/icons/poweredby_teamsave.png" width="121" height="45" alt="Powered by TeamSave.com Publisher Platform" title="Powered by TeamSave.com Publisher Platform" border="0" /></a>
+                        </div>
+                        
+
+                        <div class="footer_copyright">
+                        <p>&copy; 2010-11 Kijiji Daily Deals. All rights reserved. </p>
+                        </div>
+                      </div>
+                      <!--footer ends-->
+                    </div>
+                    
+                <!--body container ends-->
+                </div>
+            </div>
+        </div>
+
+    <!--layout ends-->
+    </div>
+  </div>
+</div>
+
+    
+    
+
+    <img src="http://www2.kijijideals.ca/deals/york-region/cyber-golf-lessons-5-60-minute-professional-golf-lessons-plus-swing-analysis-software-york/viewcounter" alt="View Counter" width="1" height="1" />
+    <script type="text/javascript">
+        var stime = serverTime();
+        
+        function setCountdown(endtime, countdowndiv) {
+            var locallayout = '{d<}{dn}d {d>}{hn}h {mn}m {sn}s';
+            if (getCookie("TS", "Lang") == "fr_CA")
+                locallayout = '{d<}{dn}j {d>}{hn}h {mn}m {sn}s';
+
+            var dealEndDate = new Date(endtime);
+            $(countdowndiv).countdown({
+                until: dealEndDate,
+                serverSync: function() { return stime; },
+                compact: true,
+                layout: locallayout
+            });
+        }
+
+        if ( window.location.pathname.lastIndexOf('/') != window.location.pathname.length - 1 && 
+            window.location.pathname.substring( window.location.pathname.lastIndexOf('/') + 1,
+            window.location.pathname.lastIndexOf('/') + 2 ) != '?' )
+        {
+            $("#detailsContainer").toggle();
+            $("#hideDetailsButton").toggle();
+            $("#showDetailsButton").toggle();
+        }
+ 
+        
+    
+        $('.tcountdown').html('0h 0m 0s');
+
+        
+
+        setCookie("TS","Market", "york-region", true);
+        setCookie("TS","MarketName", "York Region", true);
+        setCookie("TS","FacebookPage", "", true);
+        setCookie("TS","TwitterPage", "", true);
+        
+        accordionDetails();
+
+        _gaq.push( ["_setCustomVar", 1, "Market", "York Region", 3] );
+
+        if (getQS("eadd") != null) {
+            _gaq.push(['_trackEvent', 'EmailSubscribe', getQS("eadd"), getQS("ecampaign"), 134]);
+            setCookie("TS", "NewUser", "2", true);
+        }
+
+        if (getQS("creq") != null)
+            _gaq.push(['_trackEvent', 'ContactForm', getQS("creq")]);
+
+    </script>
+    
+
+
+
+    <script type="text/javascript" src="/scripts/pagescript.js"></script>
+
+    <div id="fb-root"></div>
+    <script>
+        function FBSignin() {
+            FB.getLoginStatus(function (response) {
+                if (response.session) {
+                    window.location.href = 'http://www2.kijijideals.ca/account/signinfb?returnurl=' + window.location.href;
+                }
+            });
+        }
+
+        function FBSignout(url) {
+            FB.getLoginStatus(function (response) {
+                if (response.session) {
+                    FB.logout(function (response) { window.location.href = 'http://www2.kijijideals.ca/account/signout' + (url ? '?returnurl=' + escape(url) : '') });
+                } else {
+                    window.location.href = 'http://www2.kijijideals.ca/account/signout' + (url ? '?returnurl=' + escape(url) : '');
+                }
+            });
+        }
+
+        window.fbAsyncInit = function () {
+            FB.init({ appId: '71957639a6cc425c5b8b1fa8b48e9c59', status: true, cookie: true, xfbml: true });
+            FB.Event.subscribe('auth.sessionChange', function (response) {
+                if (response.session) {
+                    FBSignin();
+                } else {
+                    FBSignout(window.location.href);
+                }
+            });
+            FB.Event.subscribe('xfbml.render', function () {
+                FB.getLoginStatus(function (response) {
+                    if (response.session && document.getElementById('fbfaces') != null) {
+                        document.getElementById('fbfaces').style.display = 'none';
+                    }
+                });
+            });
+        };
+        (function () {
+            var e = document.createElement('script'); e.async = true;
+            e.src = document.location.protocol +
+          '//connect.facebook.net/en_US/all.js';
+            document.getElementById('fb-root').appendChild(e);
+        } ());
+
+    </script>
+
+    <script type="text/javascript">
+var _sf_async_config={uid:4395,domain:"kijijideals.ca"};
+(function(){
+  function loadChartbeat() {
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement('script');
+    e.setAttribute('language', 'javascript');
+    e.setAttribute('type', 'text/javascript');
+    e.setAttribute('src',
+       (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
+       "js/chartbeat.js");
+    document.body.appendChild(e);
+  }
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != 'function') ?
+     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+
+</script>
+    
+
+
+</body>
+</html>

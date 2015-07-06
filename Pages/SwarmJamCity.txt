@@ -1,0 +1,854 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+
+
+
+
+
+
+
+
+<html>
+	<head>
+		
+
+		
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"/>
+<meta name="keywords" content="swarmjam, local daily deals, daily deal, daily deals, deal, deal coupon, deal coupons, deals, deals offers, discounts, gift certificates, local deal, local deals, offer, offer deals, offers, promo code, promocode, promos, promotions, saving ,specials ,voucher, bargain, bargin, certificates, coupon, coupons, saves">
+<link href="/sj/sj/cn/cssn/modules2.css" rel="stylesheet" type="text/css" />
+
+<!--[if IE 6]>
+<link href="/sj/sj/cn/cssn/ie6.css" media="screen, projection" rel="stylesheet" type="text/css" />
+<![endif]-->
+<!--[if IE 7]>
+<link href="/sj/sj/cn/cssn/ie7.css" media="screen, projection" rel="stylesheet" type="text/css" />
+<![endif]-->
+
+
+
+
+<script type="text/javascript" language="javascript" >
+<!--
+var strAction = "/waf.srv/sj/sj/cn/auction_ActionProdCat?";
+function goToCat(elem,page)
+{
+	var selIndex;
+	var selValue;
+	var strUrl;
+	selIndex=elem.selectedIndex;
+	selValue=elem.options[selIndex].value;
+	strUrl = strAction+"ONSUCCESS="+page+"&ONERR1="+page+"&ONERR2="+page+"&CATID="+selValue;
+	document.location.href=strUrl;
+}
+//-->
+</script>
+
+
+	<meta name="description" content="SwarmJam presents a local daily deal, coupons and promotions each day in each major city across Canada, featuring great discounts at restaurants, spas, gyms and health clubs, wellness.">
+	<title>SwarmJam - Choose Your City | Local Discount Coupons from SwarmJam</title>
+
+
+
+<script type="text/javascript">
+	var cx_trk = true;
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-17457542-1']);
+</script>
+
+<script language="javascript" type="text/javascript" src="/sj/sj/cn/scriptsn/gasrc.js" ></script>
+
+
+
+		
+	
+	<style>
+	
+	body{
+	text-align:center;
+	margin: 0;
+	padding: 0;
+	font-family: Tahoma, Arial, sans-serif;
+	font-size: .625em;
+	background: url('/sj/sj/cn/images/background.gif');
+	background-repeat: repeat-x;
+	background-color:#F6D25B;
+	}
+	
+	#ctyx-prefooter {
+		background-color: #313131;
+		background-image: url("/sj/sj/cn/images/cityscape.gif");
+		background-position: 0 -1px;
+		background-repeat: repeat-x;
+		color: #8F8F8F;
+		margin-top: 55px;
+		min-width: 1120px;
+		padding-top: 115px;
+	}
+	.bo
+	{
+		display : block;
+		text-align: center;
+		vertical-align:top;
+	}
+	.div-select, .divinp
+	{
+		margin: 0px 5px;
+		position:relative;
+		display: inline-block;
+		vertical-align:top;
+	}
+	.divsub
+	{
+		margin: 5px 0px;
+	}
+	select, input[type=text]
+	{
+		color: #444;
+		vertical-align:top;
+		font-weight: bold;
+		font-family:Arial,Helvetica,sans-serif;
+	}
+	input[type=submit], input[type=button]
+	{
+		color: #fff;
+		width: 300px;
+		height: 40px;
+		font-size: 12pt;
+		font-weight: bold;
+		border: 1px solid #14460D;
+		font-family:Arial,Helvetica,sans-serif;
+		background-image: linear-gradient(bottom, #2DAA1C 43%, #32C81E 72%);
+		background-image: -o-linear-gradient(bottom, #2DAA1C 43%, #32C81E 72%);
+		background-image: -moz-linear-gradient(bottom, #2DAA1C 43%, #32C81E 72%);
+		background-image: -webkit-linear-gradient(bottom, #2DAA1C 43%, #32C81E 72%);
+		background-image: -ms-linear-gradient(bottom, #2DAA1C 43%, #32C81E 72%);
+		background-image: -webkit-gradient(linear,left bottom,left top,color-stop(0.43, #2DAA1C),color-stop(0.72, #32C81E));
+		-webkit-border-radius: 5px;
+		-moz-border-radius: 5px;
+		border-radius: 5px;
+		cursor:pointer;
+	}
+
+	.imptrue
+	{
+		background-image: linear-gradient(bottom, #999 43%, #ccc 72%)!important;
+		background-image: -o-linear-gradient(bottom, #999 43%, #ccc 72%)!important;
+		background-image: -moz-linear-gradient(bottom, #999 43%, #ccc 72%)!important;
+		background-image: -webkit-linear-gradient(bottom, #999 43%, #ccc 72%)!important;
+		background-image: -ms-linear-gradient(bottom, #999 43%, #ccc 72%)!important;
+		background-image: -webkit-gradient(linear,left bottom,left top,color-stop(0.43, #999),color-stop(0.72, #ccc))!important;
+		background: #999!important;
+	}
+	label
+	{
+		position:absolute;
+		margin: 0px 0px;
+		right: 0px;
+		pointer-events: none;
+	}
+	label img { width: 40px; }
+
+	#subscriptionselector
+	{
+		width: 240px;
+		height: 40px;	
+		padding: 8px;
+		font-size: 10pt;
+		border: 1px solid #d0880e;
+		-moz-box-shadow: inset 1px 1px 1px 0px #d0880e;
+		-webkit-box-shadow: inset 1px 1px 1px 0px #d0880e;
+		box-shadow: inset 1px 1px 1px 0px #d0880e;
+		-webkit-border-radius: 5px;
+		-moz-border-radius: 5px;
+		border-radius: 5px;
+	}
+
+	 input[type=text]
+	{
+		-moz-box-shadow: inset 1px 1px 1px 0px #d0880e;
+		-webkit-box-shadow: inset 1px 1px 1px 0px #d0880e;
+		box-shadow: inset 1px 1px 1px 0px #d0880e;
+		-webkit-border-radius: 5px;
+		-moz-border-radius: 5px;
+		border-radius: 5px;
+		width: 240px;
+		height: 22px;
+		border: 1px solid #d0880e;
+		padding: 8px;
+		font-size: 10pt;
+	}
+
+	#ctyx-header-wrap {background:none;}
+
+	.div-select, .divinp
+	{
+		*display:inline;
+	}
+	
+	.div-select
+	{
+		*margin: 1px 0px 0px;
+	}
+	
+	.div-select span
+	{
+	 *border: 1px solid #d0880e;
+	 *height: 38px!important;
+	 *background:#ffffff!important;
+	}
+	
+	input[type=text]
+	{
+		*height: 20px;
+		*line-height: 18px;
+		*padding: 0px 0px 0px 5px;
+		*border: 1px solid #d0880e;
+		*vertical-align:top;
+	}
+	
+	#subscriptionselector
+	{
+		*height: 22px;
+	    *padding: 0px 0px 0px 5px;
+		*margin : 0px 0px;
+		*vertical-align:top;
+		*border: 1px solid #d0880e;
+	}
+	</style>
+	
+<!--[if IE 8]>
+	<style>
+	 input[type=text]
+	{
+		height: 38px!important;
+		line-height: 40px!important;
+		padding: 0px 0px 0px 8px!important;
+	}
+	</style>
+<![endif]-->
+
+		
+
+
+
+	</head>
+
+	<body>
+		<script type="text/javascript">
+			function closeBox(){
+				document.getElementById("cx-swrm-imp-note").style.display = "none";
+				document.getElementById("cx-swrm-imp-note").style.visibility = "hidden";
+			}
+
+			function closeBoxlub(){
+				document.getElementById("cx-swrm-imp-note-lub").style.display = "none";
+				document.getElementById("cx-swrm-imp-note-lub").style.visibility = "hidden";
+			}
+		</script>
+		
+		
+			
+		
+
+		
+
+		
+		
+			
+		
+		
+
+
+
+
+<script type="text/javascript">
+<!--
+	var city_visible = 0;
+	function toggleCities(){
+		if(city_visible == 0) {
+			document.getElementById("cx-swrm-city-note").style.display = "block";
+			document.getElementById("cx-swrm-city-note").style.visibility = "visible";
+			city_visible = 1;
+		} else {
+			closeCityBox();
+		}
+	}
+
+	function closeCityBox(){
+		document.getElementById("cx-swrm-city-note").style.display = "none";
+		document.getElementById("cx-swrm-city-note").style.visibility = "hidden";
+		city_visible = 0;
+	}
+-->
+</script>
+<div id="ctyx-header-wrap">
+    <div id="ctyx-header" class="page">
+		
+		
+			<div>
+				<a href="/waf.srv/sj/sj/cn/auction_ActionProdCat?ONSUCCESS=home.jsp&ONERR1=home.jsp&ONERR2=home.jsp&CATID=10149607" onClick="goToCat(document.getElementById('subscriptionselector'),'home.jsp');return false">
+					<img alt="SwarmJam" src="/sj/sj/cn/images/banners/_swarmjam_logo.png" id="ctyx-logo"/>
+				</a>
+			</div>
+		
+		
+		<div id="cx-landing-msg" style=" height:130px; width:420px; float:right; margin-right:50px; padding-top:30px;">
+			<img alt="SwarmJam" src="/sj/sj/cn/images/mkmsg.png" />
+		</div>
+		
+
+		
+		<div class="cxpl_cl"></div>
+
+    </div>
+</div>
+
+
+<div id="ctyx-container" class="group" style="min-width:1100px;">
+	
+
+
+	
+	<!-- main content -->
+		
+			
+		
+	<div id="ctyx-content" class="cxpl-float-right">
+		<div class="cxpl-topms">
+
+		<!-- M A I N   C O N T E N T -->
+			
+<!-- CITY NOT CHOSEN -->
+			<div style="margin-left:-110px;">
+				<div id="cx-swrm-shell" class="cx-swrm-box " style="margin-top:-70px; margin-left:255px; width:580px;background-color:#f0f0f0;">
+				  <div style="text-align:center; position:relative; font-size:2.2em;padding:20px; margin-bottom:10px; color:#5C0E0F; background-color:#FCA31F; font-weight:bold;-moz-border-radius: 10px 10px 10px 10px; -webkit-border-radius: 10px 10px 10px 10px; border-radius: 10px 10px 10px 10px;">
+				 <span style="vertical-align:middle;">Welcome to SwarmJam</span>
+				  <span style="position:absolute; top:10px; right:10px;">
+				  <a href="/waf.srv/sj/sj/cn/auction_ActionProdCat?ONSUCCESS=home.jsp&ONERR1=home.jsp&ONERR2=home.jsp&CATID=10149607" onClick="goToCat(document.getElementById('subscriptionselector'),'home.jsp');return false">
+					<img  src="/sj/sj/cn/images/icons/close.gif" style="width:20px; height:20px;" alt="skip"/>
+				  </a></span>
+				  </div>
+				  <div class="cxpl-gutter cxft-medium cxal-center">
+					
+<script type="text/javascript">
+<!--
+ _gaq.push(["_setCustomVar", 5, "LP_SubStepTest", "TwoSteps", 1]);
+//-->
+</script>
+
+
+<form method="post" action="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionPostBidder?ONSUCCESS=subscribed.jsp&ONERR1=signup.jsp&ONERR2=errmsg.jsp&ONERR4=home.jsp&_vrfkey1=v54782"><input type="hidden" name="_keyq" value="insert"/>
+<div class="bo">
+	<div class="div-select">
+		<span><select name="PRODCATSELECTOR" id="subscriptionselector" > <optgroup label="Alberta">
+  <option value="10149608">Calgary</option>
+  <option value="10149609">Edmonton</option>
+  <option value="10151404">Fort McMurray</option>
+  <option value="10151403">Grande Prairie</option>
+  <option value="10151400">Lethbridge</option>
+  <option value="10151401">Medicine Hat</option>
+  <option value="10151402">Red Deer</option>
+ <optgroup>
+ <optgroup label="British Columbia">
+  <option value="10151007">Kelowna</option>
+  <option value="10149607">Vancouver  Metro</option>
+  <option value="10150504">Vancouver Fraser Valley</option>
+  <option value="10150509">Vancouver Island</option>
+  <option value="10150511">Victoria</option>
+  <option value="10151924">Whistler</option>
+ <optgroup>
+ <optgroup label="Manitoba">
+  <option value="10150517">Brandon</option>
+  <option value="10149610">Winnipeg</option>
+ <optgroup>
+ <optgroup label="New Brunswick">
+  <option value="10151006">Fredericton</option>
+  <option value="10151009">Moncton</option>
+  <option value="10151010">Saint John</option>
+ <optgroup>
+ <optgroup label="Nova Scotia">
+  <option value="10150487">Halifax</option>
+ <optgroup>
+ <optgroup label="Ontario">
+  <option value="10151005">Belleville</option>
+  <option value="10151011">Brockville</option>
+  <option value="10151421">Carleton Place</option>
+  <option value="10151410">Durham Region</option>
+  <option value="10151414">Halton Region</option>
+  <option value="10151415">Hamilton</option>
+  <option value="10151423">Kemptville</option>
+  <option value="10151008">Kingston</option>
+  <option value="10151416">Niagara Region</option>
+  <option value="10150489">Ottawa</option>
+  <option value="10151412">Peel Region</option>
+  <option value="10151422">Perth</option>
+  <option value="10151417">Scarborough</option>
+  <option value="10151413">Simcoe Region</option>
+  <option value="10151420">Smiths Falls</option>
+  <option value="10150492">Toronto</option>
+  <option value="10150515" SELECTED>Windsor/Essex</option>
+  <option value="10151411">York Region</option>
+ <optgroup>
+ <optgroup label="Quebec">
+  <option value="10150488">Montreal</option>
+ <optgroup>
+ <optgroup label="Saskatchewan">
+  <option value="10150490">Regina</option>
+  <option value="10150491">Saskatoon</option>
+ <optgroup>
+</select></span>
+	</div>
+	<br/>
+	<div class="divsub">
+	<input style="margin-top:10px;font-size:190%;background-color:#32C624;color:#fff;font-weight:bold;" type="button" value="Confirm your city"/>
+	</div>
+</div>
+<div class="bo">
+	<div class="divinp">
+	<input type="text" name="_femail" size="30" maxlength="255"  value="Enter your email address" onfocus="if(this.value=='Enter your email address'){this.value='';}" onblur="if(this.value==''){this.value='Enter your email address';}" autocomplete="off"/>
+	</div>
+	<input type="hidden" name="_fsignup"/>
+	<br/>
+	<div class="divsub">
+	<input disabled="true" class="imptrue" style="margin-top:10px;font-size:190%;background-color:#32C624;color:#fff;font-weight:bold;" type="submit" name="Submit" value="Join the Swarm!" onclick="this.disabled=true;this.value='Please wait...'; this.form.submit();"/>
+	</div>
+</div>
+<input type="hidden" name="_vrfkey2" value="v54782"/></form>
+
+
+				  </div>
+				</div>
+				<div id="cx-landing-msg" class="cx-swrm-box " style="margin:auto; width:910px; /*position:absolute; top:380px;left:500px;z-index:-2;*/">
+					<img alt="SwarmJam" src="/sj/sj/cn/images/d1.jpg" style="width:300px;height:200px;"/>
+					<img alt="SwarmJam" src="/sj/sj/cn/images/s20.jpg" style="width:300px;height:200px;"/>
+					<img alt="SwarmJam" src="/sj/sj/cn/images/d2.jpg" style="width:300px;height:200px;"/>
+				</div>
+			</div>
+			
+			
+			
+			
+		
+
+		<!-- E N D   O F   M A I N   C O N T E N T -->
+
+		
+</div>
+
+</div>
+
+</div>
+<div id="ctyx-prefooter" style="margin-top:500px;">
+</div>
+	<div id="ctyx-footer" class="cxpl-overflow-hidden cxft-medium">
+		<div class="cxal-center" style="width:1000px;">
+
+			
+				
+				<ul class="cxpl-link">
+				<span style="color:#A8A885; font-size:110%; ">Alberta</span>
+				
+				
+				<li>
+					<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdCat?ONSUCCESS=home.jsp&ONERR1=home.jsp&ONERR2=home.jsp&CATID=10149608" class="cxft-no-dec">Calgary</a>
+				</li>
+				
+				
+				
+				<li>
+					<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdCat?ONSUCCESS=home.jsp&ONERR1=home.jsp&ONERR2=home.jsp&CATID=10149609" class="cxft-no-dec">Edmonton</a>
+				</li>
+				
+				
+				
+				<li>
+					<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdCat?ONSUCCESS=home.jsp&ONERR1=home.jsp&ONERR2=home.jsp&CATID=10151404" class="cxft-no-dec">Fort McMurray</a>
+				</li>
+				
+				
+				
+				<li>
+					<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdCat?ONSUCCESS=home.jsp&ONERR1=home.jsp&ONERR2=home.jsp&CATID=10151403" class="cxft-no-dec">Grande Prairie</a>
+				</li>
+				
+				
+				
+				<li>
+					<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdCat?ONSUCCESS=home.jsp&ONERR1=home.jsp&ONERR2=home.jsp&CATID=10151400" class="cxft-no-dec">Lethbridge</a>
+				</li>
+				
+				
+				
+				<li>
+					<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdCat?ONSUCCESS=home.jsp&ONERR1=home.jsp&ONERR2=home.jsp&CATID=10151401" class="cxft-no-dec">Medicine Hat</a>
+				</li>
+				
+				
+				
+				<li>
+					<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdCat?ONSUCCESS=home.jsp&ONERR1=home.jsp&ONERR2=home.jsp&CATID=10151402" class="cxft-no-dec">Red Deer</a>
+				</li>
+				
+				
+				</ul>
+			
+				
+				<ul class="cxpl-link">
+				<span style="color:#A8A885; font-size:110%; ">British Columbia</span>
+				
+				
+				<li>
+					<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdCat?ONSUCCESS=home.jsp&ONERR1=home.jsp&ONERR2=home.jsp&CATID=10151007" class="cxft-no-dec">Kelowna</a>
+				</li>
+				
+				
+				
+				<li>
+					<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdCat?ONSUCCESS=home.jsp&ONERR1=home.jsp&ONERR2=home.jsp&CATID=10149607" class="cxft-no-dec">Vancouver  Metro</a>
+				</li>
+				
+				
+				
+				<li>
+					<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdCat?ONSUCCESS=home.jsp&ONERR1=home.jsp&ONERR2=home.jsp&CATID=10150504" class="cxft-no-dec">Vancouver Fraser Valley</a>
+				</li>
+				
+				
+				
+				<li>
+					<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdCat?ONSUCCESS=home.jsp&ONERR1=home.jsp&ONERR2=home.jsp&CATID=10150509" class="cxft-no-dec">Vancouver Island</a>
+				</li>
+				
+				
+				
+				<li>
+					<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdCat?ONSUCCESS=home.jsp&ONERR1=home.jsp&ONERR2=home.jsp&CATID=10150511" class="cxft-no-dec">Victoria</a>
+				</li>
+				
+				
+				
+				<li>
+					<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdCat?ONSUCCESS=home.jsp&ONERR1=home.jsp&ONERR2=home.jsp&CATID=10151924" class="cxft-no-dec">Whistler</a>
+				</li>
+				
+				
+				</ul>
+			
+				
+				<ul class="cxpl-link">
+				<span style="color:#A8A885; font-size:110%; ">Manitoba</span>
+				
+				
+				<li>
+					<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdCat?ONSUCCESS=home.jsp&ONERR1=home.jsp&ONERR2=home.jsp&CATID=10150517" class="cxft-no-dec">Brandon</a>
+				</li>
+				
+				
+				
+				<li>
+					<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdCat?ONSUCCESS=home.jsp&ONERR1=home.jsp&ONERR2=home.jsp&CATID=10149610" class="cxft-no-dec">Winnipeg</a>
+				</li>
+				
+				
+				</ul>
+			
+				
+				<ul class="cxpl-link">
+				<span style="color:#A8A885; font-size:110%; ">New Brunswick</span>
+				
+				
+				<li>
+					<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdCat?ONSUCCESS=home.jsp&ONERR1=home.jsp&ONERR2=home.jsp&CATID=10151006" class="cxft-no-dec">Fredericton</a>
+				</li>
+				
+				
+				
+				<li>
+					<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdCat?ONSUCCESS=home.jsp&ONERR1=home.jsp&ONERR2=home.jsp&CATID=10151009" class="cxft-no-dec">Moncton</a>
+				</li>
+				
+				
+				
+				<li>
+					<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdCat?ONSUCCESS=home.jsp&ONERR1=home.jsp&ONERR2=home.jsp&CATID=10151010" class="cxft-no-dec">Saint John</a>
+				</li>
+				
+				
+				</ul>
+			
+				
+				<ul class="cxpl-link">
+				<span style="color:#A8A885; font-size:110%; ">Nova Scotia</span>
+				
+				
+				<li>
+					<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdCat?ONSUCCESS=home.jsp&ONERR1=home.jsp&ONERR2=home.jsp&CATID=10150487" class="cxft-no-dec">Halifax</a>
+				</li>
+				
+				
+				</ul>
+			
+				
+				<ul class="cxpl-link">
+				<span style="color:#A8A885; font-size:110%; ">Ontario</span>
+				
+				
+				<li>
+					<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdCat?ONSUCCESS=home.jsp&ONERR1=home.jsp&ONERR2=home.jsp&CATID=10151005" class="cxft-no-dec">Belleville</a>
+				</li>
+				
+				
+				
+				<li>
+					<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdCat?ONSUCCESS=home.jsp&ONERR1=home.jsp&ONERR2=home.jsp&CATID=10151011" class="cxft-no-dec">Brockville</a>
+				</li>
+				
+				
+				
+				<li>
+					<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdCat?ONSUCCESS=home.jsp&ONERR1=home.jsp&ONERR2=home.jsp&CATID=10151421" class="cxft-no-dec">Carleton Place</a>
+				</li>
+				
+				
+				
+				<li>
+					<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdCat?ONSUCCESS=home.jsp&ONERR1=home.jsp&ONERR2=home.jsp&CATID=10151410" class="cxft-no-dec">Durham Region</a>
+				</li>
+				
+				
+				
+				<li>
+					<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdCat?ONSUCCESS=home.jsp&ONERR1=home.jsp&ONERR2=home.jsp&CATID=10151414" class="cxft-no-dec">Halton Region</a>
+				</li>
+				
+				
+				
+				<li>
+					<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdCat?ONSUCCESS=home.jsp&ONERR1=home.jsp&ONERR2=home.jsp&CATID=10151415" class="cxft-no-dec">Hamilton</a>
+				</li>
+				
+				
+				
+				<li>
+					<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdCat?ONSUCCESS=home.jsp&ONERR1=home.jsp&ONERR2=home.jsp&CATID=10151423" class="cxft-no-dec">Kemptville</a>
+				</li>
+				
+				
+				
+				<li>
+					<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdCat?ONSUCCESS=home.jsp&ONERR1=home.jsp&ONERR2=home.jsp&CATID=10151008" class="cxft-no-dec">Kingston</a>
+				</li>
+				
+				
+				
+				<li>
+					<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdCat?ONSUCCESS=home.jsp&ONERR1=home.jsp&ONERR2=home.jsp&CATID=10151416" class="cxft-no-dec">Niagara Region</a>
+				</li>
+				
+				
+				
+				</ul>
+				<ul class="cxpl-link">
+				<span>&nbsp;</span>
+				<li>
+					<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdCat?ONSUCCESS=home.jsp&ONERR1=home.jsp&ONERR2=home.jsp&CATID=10150489" class="cxft-no-dec">Ottawa</a>
+				</li>
+				
+				
+				
+				<li>
+					<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdCat?ONSUCCESS=home.jsp&ONERR1=home.jsp&ONERR2=home.jsp&CATID=10151412" class="cxft-no-dec">Peel Region</a>
+				</li>
+				
+				
+				
+				<li>
+					<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdCat?ONSUCCESS=home.jsp&ONERR1=home.jsp&ONERR2=home.jsp&CATID=10151422" class="cxft-no-dec">Perth</a>
+				</li>
+				
+				
+				
+				<li>
+					<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdCat?ONSUCCESS=home.jsp&ONERR1=home.jsp&ONERR2=home.jsp&CATID=10151417" class="cxft-no-dec">Scarborough</a>
+				</li>
+				
+				
+				
+				<li>
+					<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdCat?ONSUCCESS=home.jsp&ONERR1=home.jsp&ONERR2=home.jsp&CATID=10151413" class="cxft-no-dec">Simcoe Region</a>
+				</li>
+				
+				
+				
+				<li>
+					<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdCat?ONSUCCESS=home.jsp&ONERR1=home.jsp&ONERR2=home.jsp&CATID=10151420" class="cxft-no-dec">Smiths Falls</a>
+				</li>
+				
+				
+				
+				<li>
+					<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdCat?ONSUCCESS=home.jsp&ONERR1=home.jsp&ONERR2=home.jsp&CATID=10150492" class="cxft-no-dec">Toronto</a>
+				</li>
+				
+				
+				
+				<li>
+					<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdCat?ONSUCCESS=home.jsp&ONERR1=home.jsp&ONERR2=home.jsp&CATID=10150515" class="cxft-no-dec">Windsor/Essex</a>
+				</li>
+				
+				
+				
+				<li>
+					<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdCat?ONSUCCESS=home.jsp&ONERR1=home.jsp&ONERR2=home.jsp&CATID=10151411" class="cxft-no-dec">York Region</a>
+				</li>
+				
+				
+				</ul>
+			
+				
+				<ul class="cxpl-link">
+				<span style="color:#A8A885; font-size:110%; ">Quebec</span>
+				
+				
+				<li>
+					<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdCat?ONSUCCESS=home.jsp&ONERR1=home.jsp&ONERR2=home.jsp&CATID=10150488" class="cxft-no-dec">Montreal</a>
+				</li>
+				
+				
+				</ul>
+			
+				
+				<ul class="cxpl-link">
+				<span style="color:#A8A885; font-size:110%; ">Saskatchewan</span>
+				
+				
+				<li>
+					<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdCat?ONSUCCESS=home.jsp&ONERR1=home.jsp&ONERR2=home.jsp&CATID=10150490" class="cxft-no-dec">Regina</a>
+				</li>
+				
+				
+				
+				<li>
+					<a href="http://www.swarmjam.com/waf.srv/sj/sj/cn/auction_ActionProdCat?ONSUCCESS=home.jsp&ONERR1=home.jsp&ONERR2=home.jsp&CATID=10150491" class="cxft-no-dec">Saskatoon</a>
+				</li>
+				
+				
+				</ul>
+			
+				<br/><br/>
+			</div>
+			<br/><br/>
+			<br/><br/>
+			<br/><br/>
+			<br/><br/>
+			<br/><br/>
+			<br/><br/>
+			<div  style="margin:auto;clear:both; ">
+				<a href="http://www.cityxpress.info" target="_blank"><img src="/sj/sj/cn/images/cityxpress_logo.gif" alt="Powered By CityXpress" /></a>
+				<a href="http://www.postmedia.com/" target="_blank"><img src="/sj/sj/cn/images/postmedia_logo.gif" alt="Postmedia" /></a><br/>
+				&copy; 2010 Postmedia Network Inc., All rights reserved
+
+			</div>
+						
+
+	</div>
+
+		
+			<script type="text/javascript">
+	if(cx_trk == true)
+	{
+		_gaq.push(['_trackPageview']);
+	}
+
+	(function() {
+	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+		
+
+		
+
+		<script language="javascript" type="text/javascript" src="/sj/sj/cn/scriptsn/numberformat154.js"></script>
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.0/jquery.min.js"></script>
+
+		<script type="text/javascript">
+			$(document).ready(function() {
+				$(".cx-sidedeals-location-list").hover(function () {
+					$("div.cx-sidedeals-location-list-popup",this).stop(true,true).fadeIn(300);
+				})
+				.mouseleave(function () {
+					$("div.cx-sidedeals-location-list-popup",this).stop(true,true).fadeOut(100);
+				});
+			});
+
+			$(document).ready(function() {
+				$(".cx-general-rules").hover(function () {
+					$("div.cx-general-rules-popup",this).stop(true,true).fadeIn(300);
+				})
+				.mouseleave(function () {
+					$("div.cx-general-rules-popup",this).stop(true,true).fadeOut(100);
+				});
+			});
+		</script>
+
+		<script type="text/javascript">
+			$(document).ready(function() {
+				$(".cx-swrm-email_select").click(function () {
+					var flyoutE0 = $("div.email_holder",this);
+					var flyoutEl = $("div.email_popup",this);
+					var flyoutE2 = $("img.email_pointer",this);
+
+					flyoutE0.stop(true,true).delay(0).show(1);
+					flyoutEl.stop(true,true).delay(0).show(1);
+					flyoutE2.stop(true,true).delay(0).show(1);
+				})
+				.mouseleave(function () {
+					$("div.email_holder",this).stop(true,true).delay(500).hide(1);
+					$("div.email_popup",this).stop(true,true).delay(500).hide(1);
+					$("img.email_pointer",this).stop(true,true).delay(500).hide(1);
+				});
+			});
+		</script>
+	
+		<script type="text/javascript">
+		$(document).ready(function() {
+			jQuery('.divinp input').keyup(function(){
+				var valid = isValidEmailAddress(''+jQuery(".divinp input").val()+'');
+				(!valid) ? jQuery(".divsub input").addClass("imptrue").attr("disabled", true) : jQuery(".divsub input").removeClass("imptrue").attr("disabled", false);
+			});
+
+			jQuery(".divsub input").eq(0).show();
+			jQuery(".bo").eq(1).hide(); jQuery(".divsub :input").click(function() {var $this = jQuery(".bo"); $this.eq(0).slideUp(); $this.eq(1).slideDown(); });	
+
+			function isValidEmailAddress(emailAddress) {var pattern = new RegExp(/^(("[\w-\s]+")|([\w-]+(?:\.[\w-]+)*)|("[\w-\s]+")([\w-]+(?:\.[\w-]+)*))(@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$)|(@\[?((25[0-5]\.|2[0-4][0-9]\.|1[0-9]{2}\.|[0-9]{1,2}\.))((25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\.){2}(25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\]?$)/i);return pattern.test(emailAddress);}
+		});
+		</script>
+	
+	</body>
+</html>
+
+
+

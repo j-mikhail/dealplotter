@@ -1,0 +1,2484 @@
+http://www.groupon.com/greater-toronto-area
+
+<!DOCTYPE html>
+<!--[if lt IE 7 ]> <html class="ie6" lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:groupon="http://groupon.com/ns/#" xmlns="http://www.w3.org/1999/xhtml"> <![endif]-->
+<!--[if IE 7 ]>    <html class="ie7" lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:groupon="http://groupon.com/ns/#" xmlns="http://www.w3.org/1999/xhtml"> <![endif]-->
+<!--[if IE 8 ]>    <html class="ie8" lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:groupon="http://groupon.com/ns/#" xmlns="http://www.w3.org/1999/xhtml"> <![endif]-->
+<!--[if IE 9 ]>    <html class="ie9" lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:groupon="http://groupon.com/ns/#" xmlns="http://www.w3.org/1999/xhtml"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html lang='en' xmlns:fb='http://www.facebook.com/2008/fbml' xmlns:groupon='http://groupon.com/ns/#' xmlns='http://www.w3.org/1999/xhtml'>
+  <!--<![endif]-->
+  <head><script>var NREUMQ=[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
+    <link href='http://assets2.grouponcdn.com/favicon.ico?rnb1Dk6i' rel='SHORTCUT ICON' />
+    <script type="text/javascript">var Groupon = {};</script>
+  
+    <script src="http://assets2.grouponcdn.com/static/javascripts/common/groupon_finch_init-DmP_QS1U.js" type="text/javascript"></script>
+  
+    <script type='text/javascript'>
+        //<![CDATA[
+          Groupon.cdnCacheable = true;
+          Groupon.currentDivision = "greater-toronto-area";
+          Groupon.division = {"permalink":"greater-toronto-area","now_customer_enabled":true,"name":"Toronto (GTA)","lng":-79.3868,"lat":43.6702};
+          Groupon.currentDivisionName = "Toronto (GTA)"
+          Groupon.currentDivisionLat = 43.6702;
+          Groupon.currentDivisionLng = -79.3868;
+          Groupon.onDivisionPage = true;
+          Groupon.onDealPage = false;
+          Groupon.onNowPage = false;
+          Groupon.onCheckoutPage = false;
+          Groupon.onAllDealsPage = false;
+          Groupon.serpReferrers = ['search.lycos','bing','altavista','feedster','google','alltheweb','search.aol','search.yahoo'];
+        //]]>
+      </script>
+    <script type='text/javascript'>
+        //<![CDATA[
+          Groupon.currentDeal = {};
+          Groupon.currentDeal.permalink = "photo-art-studio-1";
+          Groupon.currentDeal.title = "$59 for Photography-Class Package at Photo Art Studio (Up to $385 Value)";
+          Groupon.currentDeal.division = "greater-toronto-area";
+          Groupon.currentDeal.divisionName = "Toronto (GTA)";
+          Groupon.currentDeal.accepting_members = true;
+          Groupon.currentDeal.purchaseable = true;
+          Groupon.currentDeal.purchaseable_as_mulligan = false;
+          Groupon.currentDeal.inviteOnly = false;
+          Groupon.currentDeal.in_deal_bank = false;
+          // Make travel_deals behave like divisionless in the personalization call
+          Groupon.currentDeal.divisionless = false;
+          Groupon.currentDeal.now = false;
+          Groupon.currentDeal.sold_out = false;
+          Groupon.currentDeal.status = "launched";
+          Groupon.currentDeal.holiday = false;
+        //]]>
+      </script>
+      <script type='text/javascript'>
+        //<![CDATA[
+          Groupon.currentDeal.personas = [44,3];
+          Groupon.personasEnabled = true; // finch test
+        //]]>
+      </script>
+      <script type='text/javascript'>
+        //<![CDATA[
+          Groupon.currentDeal.tirekicker = false;
+          // Nutshell Finch Experiment
+          Groupon.currentDeal.hasBriefSummaryAndHighlights = true;
+          Groupon.currentDeal.travelDeal = false;
+          Groupon.currentDeal.location_format = "locations";
+          Groupon.currentDeal.redemption_location = "at deal location(s)";
+        //]]>
+      </script>
+      <script type='text/javascript'>
+        //<![CDATA[
+           var bt = window.location.search.match(/bt=([^&]+)/);
+           if (bt) {
+             document.cookie = "bt"+"="+encodeURIComponent(bt[1])+"; path=/";
+           }
+        //]]>
+      </script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js" type="text/javascript"></script>
+      <script src="http://assets2.grouponcdn.com/static/javascripts/common/underscore-EUXgmtCv.js" type="text/javascript"></script>
+      <script src="http://assets2.grouponcdn.com/static/javascripts/common/analytics-iJZzHurI.js" type="text/javascript"></script>
+      <script src="http://assets2.grouponcdn.com/static/javascripts/common/md5-tMA6wtV9.js" type="text/javascript"></script>
+      <script src="http://assets2.grouponcdn.com/static/javascripts/common/cookie-u7JZhWJm.js" type="text/javascript"></script>
+      <script src="http://assets2.grouponcdn.com/static/javascripts/common/finch-yP7zt95a.js" type="text/javascript"></script>
+    <script src="http://assets2.grouponcdn.com/static/javascripts/common/groupon_finch-s9FRz9T3.js" type="text/javascript"></script>
+    <script type='text/javascript'>
+      //<![CDATA[
+        Finch.alwaysFirePixel = true;
+      //]]>
+    </script>
+    <script type='text/javascript'>
+        //<![CDATA[
+          Groupon.optimizerConfig = {"dealtags-rollout-092911":{"experiments":{"TagsRollout0":{"name":"TagsRollout0","path_patterns":null,"guards":["on_deal_tag_page","has_deal_tags","cdn_cacheable"],"variants":["ShowTags"],"params":null,"status":"running","buckets":"0..249"},"TagsRollout1":{"name":"TagsRollout1","path_patterns":null,"guards":["on_deal_tag_page","has_deal_tags","cdn_cacheable"],"variants":["ShowTags"],"params":null,"status":"running","buckets":"250..499"},"TagsRollout2":{"name":"TagsRollout2","path_patterns":null,"guards":["on_deal_tag_page","has_deal_tags","cdn_cacheable"],"variants":["ShowTags"],"params":null,"status":"running","buckets":"500..999"}},"diversion_type":"CookieDiversion"},"deal-page-081811":{"experiments":{"Scottsdale":{"name":"Scottsdale","path_patterns":null,"guards":["on_deal_or_division_page","division_is_enabled_for_now_right_rail_v2","not_on_scottsdale"],"variants":["Original","RedirectControl","Scottsdale"],"params":null,"status":"running","buckets":"600..799"},"NowRightRail2":{"name":"NowRightRail2","path_patterns":null,"guards":["on_deal_or_division_page","division_is_enabled_for_now_right_rail_v2"],"variants":["Show","Hide"],"params":null,"status":"running","buckets":"500..599"},"NoTippingPt":{"name":"NoTippingPt","path_patterns":null,"guards":["on_deal_or_division_page","deal_is_not_sold_out"],"variants":["Original","HideTippingPoint"],"params":null,"status":"running","buckets":"0..199"}},"diversion_type":"CookieDiversion"},"now-072811":{"experiments":{"NowDealWriteup":{"name":"NowDealWriteup","path_patterns":null,"guards":["on_now_page"],"variants":["Original","Writeup"],"params":null,"status":"running","buckets":"0..999"}},"diversion_type":"CookieDiversion"},"now-searches":{"experiments":{"NowSkipCategory":{"name":"NowSkipCategory","path_patterns":null,"guards":["on_now_page"],"variants":["Original","SkipCategory"],"params":null,"status":"running","buckets":"0..999"}},"diversion_type":"CookieDiversion"},"getaways-deal-081811":{"experiments":{"TireKickerVideos":{"name":"TireKickerVideos","path_patterns":null,"guards":["on_deal_or_division_page","on_a_tirekicker_deal"],"variants":["Original","NoVideo"],"params":null,"status":"running","buckets":"0..999"}},"diversion_type":"CookieDiversion"},"places-080311":{"experiments":{"Places7":{"name":"Places7","path_patterns":null,"guards":null,"variants":["group1","group2"],"params":null,"status":"running","buckets":"700..799"},"Places8":{"name":"Places8","path_patterns":null,"guards":null,"variants":["group1","group2"],"params":null,"status":"running","buckets":"800..899"},"Places9":{"name":"Places9","path_patterns":null,"guards":null,"variants":["group1","group2"],"params":null,"status":"running","buckets":"900..999"},"Places0":{"name":"Places0","path_patterns":null,"guards":null,"variants":["group1","group2"],"params":null,"status":"running","buckets":"001..099"},"Places1":{"name":"Places1","path_patterns":null,"guards":null,"variants":["group1","group2"],"params":null,"status":"running","buckets":"100..199"},"Places2":{"name":"Places2","path_patterns":null,"guards":null,"variants":["group1","group2"],"params":null,"status":"running","buckets":"200..299"},"Places3":{"name":"Places3","path_patterns":null,"guards":null,"variants":["group1","group2"],"params":null,"status":"running","buckets":"300..399"},"Places4":{"name":"Places4","path_patterns":null,"guards":null,"variants":["group1","group2"],"params":null,"status":"running","buckets":"400..499"},"Places5":{"name":"Places5","path_patterns":null,"guards":null,"variants":["group1","group2"],"params":null,"status":"running","buckets":"500..599"},"Places6":{"name":"Places6","path_patterns":null,"guards":null,"variants":["group1","group2"],"params":null,"status":"running","buckets":"600..699"}},"diversion_type":"SubscriberCookieDiversion"}};
+          Finch.Trackers = [Groupon.Finch.GrouponAnalyticsTracker, Finch.PixelTracker, Finch.AjaxPixelTracker];
+          Finch.initialize(window, Groupon.optimizerConfig)
+        //]]>
+      </script>
+    <script src="http://assets2.grouponcdn.com/static/javascripts/common/personalize-ui72cFal.js" type="text/javascript"></script>
+    <script type='text/javascript'>
+      //<![CDATA[
+        //Chartbeat
+        var _sf_startpt=(new Date()).getTime();
+      //]]>
+    </script>
+    <title>Toronto Deals: Packages &amp; Toronto Things to Do | Groupon Deals</title>
+    <meta content='Groupon Toronto (GTA) deals: 50 to 90% off the best things to do, see &amp;amp; eat in Toronto (GTA). Subscribe for hot daily deals in Toronto (GTA) &amp;amp; 100s of cities.' name='description' />
+  
+    <meta content='text/html;charset=utf-8' http-equiv='Content-Type' />
+    <meta content='IE=Edge,chrome=IE6' http-equiv='X-UA-Compatible' />
+    <link href="http://feeds.feedburner.com/groupongreater-toronto-area" rel="alternate" title="RSS" type="application/rss+xml" />
+    <link href="http://assets2.grouponcdn.com/static/stylesheets/base-UxJBUm6z.css" media="screen" rel="stylesheet" type="text/css" />
+        <link href="http://assets2.grouponcdn.com/static/stylesheets/app/home/index-xszLJvJk.css" media="screen" rel="stylesheet" type="text/css" />
+        <!--[if IE 6]>
+          <link href="http://assets2.grouponcdn.com/static/stylesheets/browser_hacks/ie6/base-tSc79R7Z.css" media="screen" rel="stylesheet" type="text/css" />
+          <link href="http://assets2.grouponcdn.com/static/stylesheets/browser_hacks/ie6/app/home/index-5F9n1oEP.css" media="screen" rel="stylesheet" type="text/css" />
+        <![endif]-->
+        <!--[if lte IE 7]>
+        
+        <![endif]-->
+        <!--[if IE 7]>
+        
+        <![endif]-->
+        <!--[if IE 8]>
+        
+        <![endif]-->
+    <script type='text/javascript'>
+          //<![CDATA[
+            document.createElement('meter');
+          //]]>
+        </script>
+        <link href='http://assets2.grouponcdn.com/images/groupon/logo.png?Z3om8efD' rel='image_src' />
+        <link href='/images/site_images/1733/1069/Photo-Art-Studio.jpg' rel='image_src' />
+          <meta content='7829106395' property='fb:app_id' />
+          <meta content='Groupon' property='og:site_name' />
+          <meta content='http://www.groupon.com/deals/photo-art-studio-1' property='og:url' />
+          <meta content='$59 for Photography-Class Package at Photo Art Studio (Up to $385 Value)' property='og:title' />
+          <meta content='groupon:deal' property='og:type' />
+          <meta content='http://www.groupon.com/images/site_images/1733/1069/Photo-Art-Studio.jpg' property='og:image' />
+          <meta content='&lt;p&gt;Photographs transport people to an earlier time without the need to master quantum physics or pay the tolls associated with North America&apos;s wormhole highways. Capture fleeting moments for future examination with today&apos;s Groupon: for $59, you get a photography class package at &lt;a href="http://gr.pn/qpT6XX"&gt;Photo Art Studio&lt;/a&gt; in Toronto (up to a $385 value). The package includes the following:&lt;/p&gt;&#x000A;&#x000A;&lt;ul&gt;&#x000A;&lt;li&gt;A four-hour digital-photography training session (a $165 value)&lt;/li&gt;&#x000A;&lt;li&gt;A four-hour &lt;a href="http://gr.pn/o10jak"&gt;Adobe Photoshop&lt;/a&gt; training session (a $165 value)&lt;/li&gt;&#x000A;&lt;li&gt;A one-hour print-publishing training session (a $65 value).&lt;p&gt;&lt;/li&gt;&#x000A;&lt;/ul&gt;&#x000A;&#x000A;&lt;p&gt;Photo Art Studio instructs photography pupils in skills and strategies for capturing, editing, and printing their own original images. A three-hour digital photography course drills novices in handling and cleaning their cameras, regulating light, managing shutter speeds, shooting sports or landscapes, and convincing jumping beans to hold still for track-team portraits. During a three-hour session, students survey Adobe Photoshop&apos;s myriad manipulation and touch-up options by applying such flourishes as modified hues and formatted text over their own compositions. After reviewing types of printers, supplies, and costs, a one-hour print-publishing tutorial suggests an assortment of online services and professional labs for concocting quality prints. Photo Art Studio classes run every Saturday and Sunday from 1 p.m. to 5:30 p.m. and weekdays from 6:30 p.m. until 9:30 p.m., and subscribers can choose the interval length between each course to practice newly acquired shutter skills or lens-cap frisbee-tossing techniques.&lt;/p&gt;' property='og:description' />
+    <link href='http://assets2.grouponcdn.com/groupon.ico?Jzth5gNo' rel='icon' />
+  </head>
+  <body class=' cdn_cached'>
+    <div class='burst_with_rays clearfix company_box' id='global_container'>
+      <script type='text/javascript'>
+        //<![CDATA[
+          document.body.className += " js_enabled";
+          if (Groupon.Personalization) { Groupon.Personalization.addBodyClassName(window) };
+        //]]>
+      </script>
+      <span class="js_attribute" data-value="production" id="env" style="display:none;"></span>
+      <span class="js_attribute" data-value="false" id="mobile_device" style="display:none;"></span>
+      <span class="js_attribute" data-value="{&quot;dealtags-rollout-092911&quot;:{&quot;experiments&quot;:{&quot;TagsRollout0&quot;:{&quot;name&quot;:&quot;TagsRollout0&quot;,&quot;path_patterns&quot;:null,&quot;guards&quot;:[&quot;on_deal_tag_page&quot;,&quot;has_deal_tags&quot;,&quot;cdn_cacheable&quot;],&quot;variants&quot;:[&quot;ShowTags&quot;],&quot;params&quot;:null,&quot;status&quot;:&quot;running&quot;,&quot;buckets&quot;:&quot;0..249&quot;},&quot;TagsRollout1&quot;:{&quot;name&quot;:&quot;TagsRollout1&quot;,&quot;path_patterns&quot;:null,&quot;guards&quot;:[&quot;on_deal_tag_page&quot;,&quot;has_deal_tags&quot;,&quot;cdn_cacheable&quot;],&quot;variants&quot;:[&quot;ShowTags&quot;],&quot;params&quot;:null,&quot;status&quot;:&quot;running&quot;,&quot;buckets&quot;:&quot;250..499&quot;},&quot;TagsRollout2&quot;:{&quot;name&quot;:&quot;TagsRollout2&quot;,&quot;path_patterns&quot;:null,&quot;guards&quot;:[&quot;on_deal_tag_page&quot;,&quot;has_deal_tags&quot;,&quot;cdn_cacheable&quot;],&quot;variants&quot;:[&quot;ShowTags&quot;],&quot;params&quot;:null,&quot;status&quot;:&quot;running&quot;,&quot;buckets&quot;:&quot;500..999&quot;}},&quot;diversion_type&quot;:&quot;CookieDiversion&quot;},&quot;deal-page-081811&quot;:{&quot;experiments&quot;:{&quot;Scottsdale&quot;:{&quot;name&quot;:&quot;Scottsdale&quot;,&quot;path_patterns&quot;:null,&quot;guards&quot;:[&quot;on_deal_or_division_page&quot;,&quot;division_is_enabled_for_now_right_rail_v2&quot;,&quot;not_on_scottsdale&quot;],&quot;variants&quot;:[&quot;Original&quot;,&quot;RedirectControl&quot;,&quot;Scottsdale&quot;],&quot;params&quot;:null,&quot;status&quot;:&quot;running&quot;,&quot;buckets&quot;:&quot;600..799&quot;},&quot;NowRightRail2&quot;:{&quot;name&quot;:&quot;NowRightRail2&quot;,&quot;path_patterns&quot;:null,&quot;guards&quot;:[&quot;on_deal_or_division_page&quot;,&quot;division_is_enabled_for_now_right_rail_v2&quot;],&quot;variants&quot;:[&quot;Show&quot;,&quot;Hide&quot;],&quot;params&quot;:null,&quot;status&quot;:&quot;running&quot;,&quot;buckets&quot;:&quot;500..599&quot;},&quot;NoTippingPt&quot;:{&quot;name&quot;:&quot;NoTippingPt&quot;,&quot;path_patterns&quot;:null,&quot;guards&quot;:[&quot;on_deal_or_division_page&quot;,&quot;deal_is_not_sold_out&quot;],&quot;variants&quot;:[&quot;Original&quot;,&quot;HideTippingPoint&quot;],&quot;params&quot;:null,&quot;status&quot;:&quot;running&quot;,&quot;buckets&quot;:&quot;0..199&quot;}},&quot;diversion_type&quot;:&quot;CookieDiversion&quot;},&quot;now-072811&quot;:{&quot;experiments&quot;:{&quot;NowDealWriteup&quot;:{&quot;name&quot;:&quot;NowDealWriteup&quot;,&quot;path_patterns&quot;:null,&quot;guards&quot;:[&quot;on_now_page&quot;],&quot;variants&quot;:[&quot;Original&quot;,&quot;Writeup&quot;],&quot;params&quot;:null,&quot;status&quot;:&quot;running&quot;,&quot;buckets&quot;:&quot;0..999&quot;}},&quot;diversion_type&quot;:&quot;CookieDiversion&quot;},&quot;now-searches&quot;:{&quot;experiments&quot;:{&quot;NowSkipCategory&quot;:{&quot;name&quot;:&quot;NowSkipCategory&quot;,&quot;path_patterns&quot;:null,&quot;guards&quot;:[&quot;on_now_page&quot;],&quot;variants&quot;:[&quot;Original&quot;,&quot;SkipCategory&quot;],&quot;params&quot;:null,&quot;status&quot;:&quot;running&quot;,&quot;buckets&quot;:&quot;0..999&quot;}},&quot;diversion_type&quot;:&quot;CookieDiversion&quot;},&quot;getaways-deal-081811&quot;:{&quot;experiments&quot;:{&quot;TireKickerVideos&quot;:{&quot;name&quot;:&quot;TireKickerVideos&quot;,&quot;path_patterns&quot;:null,&quot;guards&quot;:[&quot;on_deal_or_division_page&quot;,&quot;on_a_tirekicker_deal&quot;],&quot;variants&quot;:[&quot;Original&quot;,&quot;NoVideo&quot;],&quot;params&quot;:null,&quot;status&quot;:&quot;running&quot;,&quot;buckets&quot;:&quot;0..999&quot;}},&quot;diversion_type&quot;:&quot;CookieDiversion&quot;},&quot;places-080311&quot;:{&quot;experiments&quot;:{&quot;Places7&quot;:{&quot;name&quot;:&quot;Places7&quot;,&quot;path_patterns&quot;:null,&quot;guards&quot;:null,&quot;variants&quot;:[&quot;group1&quot;,&quot;group2&quot;],&quot;params&quot;:null,&quot;status&quot;:&quot;running&quot;,&quot;buckets&quot;:&quot;700..799&quot;},&quot;Places8&quot;:{&quot;name&quot;:&quot;Places8&quot;,&quot;path_patterns&quot;:null,&quot;guards&quot;:null,&quot;variants&quot;:[&quot;group1&quot;,&quot;group2&quot;],&quot;params&quot;:null,&quot;status&quot;:&quot;running&quot;,&quot;buckets&quot;:&quot;800..899&quot;},&quot;Places9&quot;:{&quot;name&quot;:&quot;Places9&quot;,&quot;path_patterns&quot;:null,&quot;guards&quot;:null,&quot;variants&quot;:[&quot;group1&quot;,&quot;group2&quot;],&quot;params&quot;:null,&quot;status&quot;:&quot;running&quot;,&quot;buckets&quot;:&quot;900..999&quot;},&quot;Places0&quot;:{&quot;name&quot;:&quot;Places0&quot;,&quot;path_patterns&quot;:null,&quot;guards&quot;:null,&quot;variants&quot;:[&quot;group1&quot;,&quot;group2&quot;],&quot;params&quot;:null,&quot;status&quot;:&quot;running&quot;,&quot;buckets&quot;:&quot;001..099&quot;},&quot;Places1&quot;:{&quot;name&quot;:&quot;Places1&quot;,&quot;path_patterns&quot;:null,&quot;guards&quot;:null,&quot;variants&quot;:[&quot;group1&quot;,&quot;group2&quot;],&quot;params&quot;:null,&quot;status&quot;:&quot;running&quot;,&quot;buckets&quot;:&quot;100..199&quot;},&quot;Places2&quot;:{&quot;name&quot;:&quot;Places2&quot;,&quot;path_patterns&quot;:null,&quot;guards&quot;:null,&quot;variants&quot;:[&quot;group1&quot;,&quot;group2&quot;],&quot;params&quot;:null,&quot;status&quot;:&quot;running&quot;,&quot;buckets&quot;:&quot;200..299&quot;},&quot;Places3&quot;:{&quot;name&quot;:&quot;Places3&quot;,&quot;path_patterns&quot;:null,&quot;guards&quot;:null,&quot;variants&quot;:[&quot;group1&quot;,&quot;group2&quot;],&quot;params&quot;:null,&quot;status&quot;:&quot;running&quot;,&quot;buckets&quot;:&quot;300..399&quot;},&quot;Places4&quot;:{&quot;name&quot;:&quot;Places4&quot;,&quot;path_patterns&quot;:null,&quot;guards&quot;:null,&quot;variants&quot;:[&quot;group1&quot;,&quot;group2&quot;],&quot;params&quot;:null,&quot;status&quot;:&quot;running&quot;,&quot;buckets&quot;:&quot;400..499&quot;},&quot;Places5&quot;:{&quot;name&quot;:&quot;Places5&quot;,&quot;path_patterns&quot;:null,&quot;guards&quot;:null,&quot;variants&quot;:[&quot;group1&quot;,&quot;group2&quot;],&quot;params&quot;:null,&quot;status&quot;:&quot;running&quot;,&quot;buckets&quot;:&quot;500..599&quot;},&quot;Places6&quot;:{&quot;name&quot;:&quot;Places6&quot;,&quot;path_patterns&quot;:null,&quot;guards&quot;:null,&quot;variants&quot;:[&quot;group1&quot;,&quot;group2&quot;],&quot;params&quot;:null,&quot;status&quot;:&quot;running&quot;,&quot;buckets&quot;:&quot;600..699&quot;}},&quot;diversion_type&quot;:&quot;SubscriberCookieDiversion&quot;}}" id="optimizer_config" style="display:none;"></span>
+      <div id='fb-root'></div>
+            <script type='text/javascript'>
+              //<![CDATA[
+                (function() {
+                  var e = document.createElement('script'); e.async = true;
+                  e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+                  document.getElementById('fb-root').appendChild(e);
+                }());
+              //]]>
+            </script>
+      <div class='inserted_tracking_container' style='display: none'>
+            
+            </div>
+    
+      <div id='drawer'>
+        <div id='drawer_inner'>
+          <div id='follow_drawer'>
+                  <a href="#" class="hide division" id="hide_follow">hide</a>
+                  <div id='follow_drawer_inner'>
+                    <div class='follow_container clearfix'>
+                      <div class='follow_desc'>
+                        Get the Daily Deal for:
+                      </div>
+                      <form action="http://www.groupon.com/subscriptions" class="new_subscription groupon_form" id="new_subscription" method="post"><div style="margin:0;padding:0"><input name="authenticity_token" type="hidden" value="HW956M8usmo7KiZX4S8ZJlWXNbAM/+q4St2n4pPFzGw=" /></div>
+                        <ul class='subscribe clearfix'>
+                          <li class='label'>
+                            <select id='subscription_division_id' name='subscription[division_id]' style='width: 170px;'>
+                              <option value='abbotsford'>Abbotsford</option>
+                              <option value='abilene'>Abilene, TX</option>
+                              <option value='akron-canton'>Akron / Canton</option>
+                              <option value='albany-capital-region'>Albany / Capital Region</option>
+                              <option value='albuquerque'>Albuquerque</option>
+                              <option value='allentown-reading'>Allentown / Reading</option>
+                              <option value='amarillo'>Amarillo</option>
+                              <option value='anchorage'>Anchorage</option>
+                              <option value='ann-arbor'>Ann Arbor</option>
+                              <option value='asheville'>Asheville</option>
+                              <option value='athens-ga'>Athens, GA</option>
+                              <option value='atlanta'>Atlanta</option>
+                              <option value='augusta'>Augusta</option>
+                              <option value='austin'>Austin</option>
+                              <option value='bakersfield'>Bakersfield</option>
+                              <option value='baltimore'>Baltimore</option>
+                              <option value='barrie'>Barrie</option>
+                              <option value='baton-rouge'>Baton Rouge</option>
+                              <option value='beaumont'>Beaumont, TX</option>
+                              <option value='billings'>Billings / Bozeman</option>
+                              <option value='birmingham'>Birmingham</option>
+                              <option value='bloomington-in'>Bloomington, IN</option>
+                              <option value='boise'>Boise</option>
+                              <option value='boston'>Boston</option>
+                              <option value='buffalo'>Buffalo</option>
+                              <option value='calgary'>Calgary</option>
+                              <option value='cape-breton'>Cape Breton</option>
+                              <option value='cedar-rapids-iowa-city'>Cedar Rapids / Iowa City</option>
+                              <option value='central-jersey'>Central Jersey</option>
+                              <option value='charleston'>Charleston</option>
+                              <option value='charleston-wv'>Charleston, WV</option>
+                              <option value='charlotte'>Charlotte</option>
+                              <option value='chattanooga'>Chattanooga</option>
+                              <option value='chicago'>Chicago</option>
+                              <option value='cincinnati'>Cincinnati</option>
+                              <option value='cleveland'>Cleveland</option>
+                              <option value='colorado-springs'>Colorado Springs</option>
+                              <option value='columbia'>Columbia</option>
+                              <option value='columbia-mo'>Columbia, MO</option>
+                              <option value='columbus'>Columbus</option>
+                              <option value='columbus-ga'>Columbus GA</option>
+                              <option value='corpus-christi'>Corpus Christi</option>
+                              <option value='dallas'>Dallas</option>
+                              <option value='dayton'>Dayton</option>
+                              <option value='daytona-beach'>Daytona Beach</option>
+                              <option value='denver'>Denver</option>
+                              <option value='des-moines'>Des Moines</option>
+                              <option value='detroit'>Detroit</option>
+                              <option value='edmonton'>Edmonton</option>
+                              <option value='el-paso'>El Paso</option>
+                              <option value='erie'>Erie</option>
+                              <option value='eugene'>Eugene</option>
+                              <option value='evansville'>Evansville</option>
+                              <option value='fairfield-county'>Fairfield County</option>
+                              <option value='fort-lauderdale'>Fort Lauderdale</option>
+                              <option value='fort-myers-cape-coral'>Fort Myers / Cape Coral</option>
+                              <option value='fort-wayne'>Fort Wayne</option>
+                              <option value='fort-worth'>Fort Worth</option>
+                              <option value='appleton'>Fox Cities</option>
+                              <option value='fresno'>Fresno</option>
+                              <option value='gainesville'>Gainesville</option>
+                              <option value='grand-rapids'>Grand Rapids</option>
+                              <option value='green-bay'>Green Bay</option>
+                              <option value='greenville'>Greenville</option>
+                              <option value='halifax'>Halifax</option>
+                              <option value='hampton-roads'>Hampton Roads</option>
+                              <option value='harrisburg'>Harrisburg / Lancaster</option>
+                              <option value='hartford'>Hartford</option>
+                              <option value='honolulu'>Honolulu</option>
+                              <option value='houston'>Houston</option>
+                              <option value='huntsville'>Huntsville</option>
+                              <option value='indianapolis'>Indianapolis</option>
+                              <option value='inland-empire'>Inland Empire</option>
+                              <option value='jackson'>Jackson</option>
+                              <option value='jacksonville'>Jacksonville</option>
+                              <option value='kalamazoo'>Kalamazoo</option>
+                              <option value='kansas-city'>Kansas City</option>
+                              <option value='kelowna'>Kelowna</option>
+                              <option value='kingston'>Kingston</option>
+                              <option value='kitchener-waterloo'>Kitchener - Waterloo</option>
+                              <option value='knoxville'>Knoxville</option>
+                              <option value='lakeland'>Lakeland</option>
+                              <option value='lansing'>Lansing</option>
+                              <option value='las-vegas'>Las Vegas</option>
+                              <option value='lexington'>Lexington</option>
+                              <option value='lincoln'>Lincoln</option>
+                              <option value='little-rock'>Little Rock</option>
+                              <option value='london'>London, ON</option>
+                              <option value='long-island'>Long Island</option>
+                              <optgroup label='Los Angeles'>
+                                <option value='los-angeles:los-angeles'>Los Angeles</option>
+                                <option value='los-angeles:san-gabriel-valley'>San Gabriel Valley</option>
+                                <option value='los-angeles:san-fernando-valley'>San Fernando Valley</option>
+                              </optgroup>
+                              <option value='louisville'>Louisville</option>
+                              <option value='lubbock'>Lubbock</option>
+                              <option value='macon'>Macon</option>
+                              <option value='madison'>Madison</option>
+                              <option value='memphis'>Memphis</option>
+                              <option value='miami'>Miami</option>
+                              <option value='midland-odessa'>Midland / Odessa</option>
+                              <option value='milwaukee'>Milwaukee</option>
+                              <option value='minneapolis-stpaul'>Minneapolis / St Paul</option>
+                              <option value='mobile-baldwin-county'>Mobile / Baldwin County</option>
+                              <option value='modesto'>Modesto</option>
+                              <option value='montgomery'>Montgomery</option>
+                              <option value='napa-sonoma'>Napa / Sonoma</option>
+                              <option value='naples'>Naples</option>
+                              <option value='nashville'>Nashville</option>
+                              <option value='new-orleans'>New Orleans</option>
+                              <option value='new-york'>New York City</option>
+                              <option value='north-jersey'>North Jersey</option>
+                              <option value='ocala'>Ocala</option>
+                              <option value='ogden'>Ogden</option>
+                              <option value='oklahoma-city'>Oklahoma City</option>
+                              <option value='omaha'>Omaha</option>
+                              <option value='orange-county'>Orange County</option>
+                              <option value='orlando'>Orlando</option>
+                              <option value='ottawa'>Ottawa</option>
+                              <option value='palm-beach'>Palm Beach</option>
+                              <option value='pensacola'>Pensacola</option>
+                              <option value='philadelphia'>Philadelphia</option>
+                              <option value='phoenix'>Phoenix</option>
+                              <option value='piedmont-triad'>Piedmont Triad</option>
+                              <option value='pittsburgh'>Pittsburgh</option>
+                              <option value='portland'>Portland</option>
+                              <option value='portland-me'>Portland, ME</option>
+                              <option value='providence'>Providence</option>
+                              <option value='raleigh-durham'>Raleigh / Durham</option>
+                              <option value='regina'>Regina</option>
+                              <option value='reno'>Reno</option>
+                              <option value='richmond'>Richmond</option>
+                              <option value='rio-grande-valley'>Rio Grande Valley</option>
+                              <option value='roanoke'>Roanoke</option>
+                              <option value='rochester'>Rochester</option>
+                              <option value='rockford'>Rockford</option>
+                              <option value='sacramento'>Sacramento</option>
+                              <option value='salem-or'>Salem OR</option>
+                              <option value='salt-lake-city'>Salt Lake City</option>
+                              <option value='san-angelo'>San Angelo</option>
+                              <option value='san-antonio'>San Antonio</option>
+                              <option value='san-diego'>San Diego</option>
+                              <optgroup label='San Francisco'>
+                                <option value='san-francisco:san-francisco'>San Francisco</option>
+                                <option value='san-francisco:east-bay'>East Bay</option>
+                              </optgroup>
+                              <option value='san-jose'>San Jose</option>
+                              <option value='santa-barbara'>Santa Barbara</option>
+                              <option value='santa-clarita'>Santa Clarita</option>
+                              <option value='santa-cruz'>Santa Cruz / Monterey</option>
+                              <option value='saskatoon'>Saskatoon</option>
+                              <option value='savannah-hilton-head'>Savannah / Hilton Head</option>
+                              <optgroup label='Seattle'>
+                                <option value='seattle:tacoma'>Tacoma</option>
+                                <option value='seattle:seattle'>Seattle</option>
+                              </optgroup>
+                              <option value='shreveport-bossier'>Shreveport / Bossier</option>
+                              <option value='sioux-falls'>Sioux Falls</option>
+                              <option value='south-bend'>South Bend</option>
+                              <option value='albany-ga'>Southern Georgia</option>
+                              <option value='spokane-coeur-dalene'>Spokane / Coeur d'Alene</option>
+                              <option value='springfield-mo'>Springfield MO</option>
+                              <option value='springfield-ma'>Springfield, MA</option>
+                              <option value='stcatharines-niagara'>St Catharines-Niagara</option>
+                              <option value='st-johns'>St John's</option>
+                              <option value='stlouis'>St Louis</option>
+                              <option value='stockton'>Stockton</option>
+                              <option value='sudbury'>Sudbury / North Bay</option>
+                              <option value='syracuse'>Syracuse</option>
+                              <option value='tallahassee'>Tallahassee</option>
+                              <option value='tampa-bay-area'>Tampa Bay Area</option>
+                              <option value='toledo'>Toledo</option>
+                              <option value='topeka-lawrence'>Topeka / Lawrence</option>
+                              <option selected='selected' value='greater-toronto-area'>Toronto (GTA)</option>
+                              <option value='tucson'>Tucson</option>
+                              <option value='tulsa'>Tulsa</option>
+                              <option value='vancouver'>Vancouver</option>
+                              <option value='ventura-county'>Ventura County</option>
+                              <option value='victoria'>Victoria</option>
+                              <optgroup label='Washington DC'>
+                                <option value='washington-dc:dc-metro'>The District</option>
+                                <option value='washington-dc:northern-virginia'>Northern Virginia</option>
+                                <option value='washington-dc:montgomery-county'>Montgomery County</option>
+                              </optgroup>
+                              <option value='westchester-county'>Westchester County</option>
+                              <option value='wichita'>Wichita</option>
+                              <option value='wilmington-newark'>Wilmington-Newark</option>
+                              <option value='windsor'>Windsor</option>
+                              <option value='winnipeg'>Winnipeg</option>
+                              <option value='worcester'>Worcester</option>
+                              <option value='youngstown'>Youngstown</option>
+                            </select>
+                            <input id="subscribed_from_drawer" name="subscribed_from_drawer" type="hidden" value="true" />
+                            <div class="field subscription_email_address text"><input class="email text_field prompting_field validate-email required input" id="subscription_email_address" name="subscription[email_address]" size="30" title="Enter your email address" type="text" /></div>
+                          </li>
+                          <li>
+                            <input class='button cta_btn small G_event E-Subscribe_Email_Header disabled_on_submit' type='submit' value='Subscribe' />
+                          </li>
+                        </ul>
+                      </form>
+                    </div>
+                  </div>
+                </div>
+          <div id='places_callout' style='display: none'>
+                  <a href="#"><img alt="X-close-gray" class="hide" height="19" id="hide_places" src="http://assets2.grouponcdn.com/images/groupon/overlays/btn/x-close-gray.png?CXqN96Bp" width="19" /></a>
+                  <a href="/places/new" id="places_logo"><img alt="Get deals near all your favorite places." height="54" src="http://assets2.grouponcdn.com/images/places/places-callout.png?Lcb-JMzE" width="667" /></a>
+                </div>
+        </div>
+      </div>
+      <div id='header_container'>
+        <div id='header'>
+          <div id='header_inner'>
+                  <h1 id='logo'>
+                    <a href="/greater-toronto-area/" class="G_event E-LogoNH_click_grouponLogo" title="Groupon: Collective Buying Power">Groupon: Collective Buying Power</a>
+                  </h1>
+                  <div id='deal_tag_notification'>
+                    <div class='heart'></div>
+                    <div class='message'></div>
+                    <div class='bottom'></div>
+                  </div>
+                  <div class='layer2 clearfix'>
+                    <ul id='header_nav'>
+                      <li class='current'>
+                        <a href="/greater-toronto-area/" class="G_event E-GobalTopNavNH_TodaysDeal_TorontoDealsPackagesTorontoThingsToDoGrouponDeals todays_deal G_event E-GobalTopNavNH_TodaysDeal current">Featured Deal</a>
+                      </li>
+                      <li>
+                        <a href="/greater-toronto-area/all" class="shop_all_deals ">All Deals</a>
+                        <a href="/greater-toronto-area/all" class="personas_badge"></a>
+                      </li>
+                      <li><a href="/now" class="G_event E-GobalTopNavNH_GrouponNow_TorontoDealsPackagesTorontoThingsToDoGrouponDeals">Now! Deals</a></li>
+                      <li>
+                        <a href="/getaways?d=travel_countmein" class="getaways G_event E-GobalTopNavNH_Getaways_AllBostonGetawaysDealsGroupon ">Getaways</a>
+                      </li>
+                      <li class="HowWorks"><a href="/learn" class="G_event E-GobalTopNavNH_HowWorks_TorontoDealsPackagesTorontoThingsToDoGrouponDeals">How It Works</a></li>
+                    </ul>
+                    <ul class='account_links'>
+                      <li class='sign_in'><a href="https://www.groupon.com/login" class="G_event E-GobalTopNavNH_click_signIn">Sign In</a></li>
+                      <li><a href="https://www.groupon.com/users/new" class="G_event E-GobalTopNavNH_click_signUp">Sign Up</a></li>
+                    </ul>
+                  </div>
+                </div>
+        </div>
+        <div class='clearfix' id='content_container'>
+          <!--
+            division_drawer cache debug (layout): home index key:division_drawer_block/greater-toronto-area//deal//true/ division:greater-toronto-area division_record:greater-toronto-area
+          -->
+          <!--
+            division_drawer cache debug (in-block): deals show key:division_drawer_block/greater-toronto-area//deal//true/ division:greater-toronto-area division_record:greater-toronto-area
+          -->
+          <div class='clearfix' id='cities'>
+            <h2 class='division_name smaller' id='new_drawer_anchor'>
+                    <a href="/cities">Toronto (GTA)</a>
+                  </h2>
+                  <div class='drawer_toggle smaller' id='follow_drawer_anchor'>
+                    <a href="/subscriptions/new">Get Deals By Email</a>
+                  </div>
+                  <a href="/visitor_referral" class="refer_cta G_event E-ReferAFriendPage_Header" id="refer_friends_link"><span>Refer Friends, Get $10</span></a>
+                  <script type='text/javascript'>
+                    //<![CDATA[
+                      if (Groupon.currentDeal && Groupon.currentDeal.inviteOnly && document.getElementById('refer_friends_link')) {
+                        document.getElementById('refer_friends_link').style.display = "none";
+                      }
+                    //]]>
+                  </script>
+          </div>
+          <div id='division_new'>
+            <!--
+                    division_drawer cache debug (_division_drawer): deals show key:division_drawer_block/greater-toronto-area//deal//true division_record:greater-toronto-area division_name:Toronto (GTA)
+                  -->
+                  <div class='inner'>
+                    <div class='clearfix' id='state_nav'>
+                      <h3 class='search'>Search U.S. by State:</h3>
+                      <ul id='state_chooser'>
+                        <li id='state_A'>A</li>
+                        <li id='state_C'>C</li>
+                        <li id='state_D'>D</li>
+                        <li id='state_F'>F</li>
+                        <li id='state_G'>G</li>
+                        <li id='state_H'>H</li>
+                        <li id='state_I'>I</li>
+                        <li id='state_K'>K</li>
+                        <li id='state_L'>L</li>
+                        <li id='state_M'>M</li>
+                        <li id='state_N'>N</li>
+                        <li id='state_O'>O</li>
+                        <li id='state_P'>P</li>
+                        <li id='state_R'>R</li>
+                        <li id='state_S'>S</li>
+                        <li id='state_T'>T</li>
+                        <li id='state_U'>U</li>
+                        <li id='state_V'>V</li>
+                        <li id='state_W'>W</li>
+                        <li class='selected' id='state_Canada'>Canada</li>
+                        <li id='state_Country'>Other Countries</li>
+                      </ul>
+                      <span class='hide division'><a href="javascript:void(0)" id="hide_division_new">x hide</a></span>
+                    </div>
+                    <div class='clearfix' id='division_list_new'>
+                      <ul class='state_V'>
+                      
+                        <li class='state state_V'>Virginia</li>
+                        <li>
+                          <a href="/hampton-roads/" class="G_event E-drawer_click_hampton-roads">Hampton Roads</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/richmond/" class="G_event E-drawer_click_richmond">Richmond</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/roanoke/" class="G_event E-drawer_click_roanoke">Roanoke</a>
+                        
+                        </li>
+                      </ul>
+                      <ul class='state_K'>
+                      
+                        <li class='state state_K'>Kansas</li>
+                        <li>
+                          <a href="/kansas-city/" class="G_event E-drawer_click_kansas-city">Kansas City</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/topeka-lawrence/" class="G_event E-drawer_click_topeka-lawrence">Topeka / Lawrence</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/wichita/" class="G_event E-drawer_click_wichita">Wichita</a>
+                        
+                        </li>
+                        </li></ul><ul class='state_K '><li class='state state_K'>
+                        <li class='state state_K'>Kentucky</li>
+                        <li>
+                          <a href="/lexington/" class="G_event E-drawer_click_lexington">Lexington</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/louisville/" class="G_event E-drawer_click_louisville">Louisville</a>
+                        
+                        </li>
+                      </ul>
+                      <ul class='state_W'>
+                      
+                        <li class='state state_W'>Washington</li>
+                        <li>
+                          <a href="/seattle/" class="G_event E-drawer_click_seattle">Seattle</a>
+                        
+                          <li class='area'>
+                            <a href="/seattle/area/tacoma/">Tacoma</a><a href="/set_home_area?home_area=tacoma" class="setArea" title="Set neighborhood"><img alt="Set neighborhood" src="http://assets2.grouponcdn.com/images/groupon/icons/icon_house.gif?rWAapTMb" /></a>
+                          </li>
+                        
+                          <li class='area'>
+                            <a href="/seattle/area/seattle/">Seattle</a><a href="/set_home_area?home_area=seattle" class="setArea" title="Set neighborhood"><img alt="Set neighborhood" src="http://assets2.grouponcdn.com/images/groupon/icons/icon_house.gif?rWAapTMb" /></a>
+                          </li>
+                        
+                        </li>
+                        <li>
+                          <a href="/spokane-coeur-dalene/" class="G_event E-drawer_click_spokane-coeur-dalene">Spokane / Coeur d'Alene</a>
+                          </li></ul><ul class='state_W '><li class='state state_W'>
+                        </li>
+                      
+                        <li class='state state_W'>West Virginia</li>
+                        <li>
+                          <a href="/charleston-wv/" class="G_event E-drawer_click_charleston-wv">Charleston, WV</a>
+                        
+                        </li>
+                      
+                        <li class='state state_W'>Wisconsin</li>
+                        <li>
+                          <a href="/appleton/" class="G_event E-drawer_click_appleton">Fox Cities</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/green-bay/" class="G_event E-drawer_click_green-bay">Green Bay</a>
+                          </li></ul><ul class='state_W '><li class='state state_W'>
+                        </li>
+                        <li>
+                          <a href="/madison/" class="G_event E-drawer_click_madison">Madison</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/milwaukee/" class="G_event E-drawer_click_milwaukee">Milwaukee</a>
+                        
+                        </li>
+                      </ul>
+                      <ul class='state_L'>
+                      
+                        <li class='state state_L'>Louisiana</li>
+                        <li>
+                          <a href="/baton-rouge/" class="G_event E-drawer_click_baton-rouge">Baton Rouge</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/new-orleans/" class="G_event E-drawer_click_new-orleans">New Orleans</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/shreveport-bossier/" class="G_event E-drawer_click_shreveport-bossier">Shreveport / Bossier</a>
+                        
+                        </li>
+                      </ul>
+                      <ul class='state_A'>
+                      
+                        <li class='state state_A'>Alabama</li>
+                        <li>
+                          <a href="/birmingham/" class="G_event E-drawer_click_birmingham">Birmingham</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/huntsville/" class="G_event E-drawer_click_huntsville">Huntsville</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/mobile-baldwin-county/" class="G_event E-drawer_click_mobile-baldwin-county">Mobile / Baldwin County</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/montgomery/" class="G_event E-drawer_click_montgomery">Montgomery</a>
+                          </li></ul><ul class='state_A '><li class='state state_A'>
+                        </li>
+                      
+                        <li class='state state_A'>Alaska</li>
+                        <li>
+                          <a href="/anchorage/" class="G_event E-drawer_click_anchorage">Anchorage</a>
+                        
+                        </li>
+                      
+                        <li class='state state_A'>Arizona</li>
+                        <li>
+                          <a href="/phoenix/" class="G_event E-drawer_click_phoenix">Phoenix</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/tucson/" class="G_event E-drawer_click_tucson">Tucson</a>
+                          </li></ul><ul class='state_A '><li class='state state_A'>
+                        </li>
+                      
+                        <li class='state state_A'>Arkansas</li>
+                        <li>
+                          <a href="/little-rock/" class="G_event E-drawer_click_little-rock">Little Rock</a>
+                        
+                        </li>
+                      </ul>
+                      <ul class='state_M'>
+                      
+                        <li class='state state_M'>Maine</li>
+                        <li>
+                          <a href="/portland-me/" class="G_event E-drawer_click_portland-me">Portland, ME</a>
+                        
+                        </li>
+                      
+                        <li class='state state_M'>Maryland</li>
+                        <li>
+                          <a href="/baltimore/" class="G_event E-drawer_click_baltimore">Baltimore</a>
+                        
+                        </li>
+                        </li></ul><ul class='state_M '><li class='state state_M'>
+                        <li class='state state_M'>Massachusetts</li>
+                        <li>
+                          <a href="/boston/" class="G_event E-drawer_click_boston">Boston</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/springfield-ma/" class="G_event E-drawer_click_springfield-ma">Springfield, MA</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/worcester/" class="G_event E-drawer_click_worcester">Worcester</a>
+                        
+                        </li>
+                      
+                        <li class='state state_M'>Michigan</li>
+                        <li>
+                          <a href="/ann-arbor/" class="G_event E-drawer_click_ann-arbor">Ann Arbor</a>
+                          </li></ul><ul class='state_M '><li class='state state_M'>
+                        </li>
+                        <li>
+                          <a href="/detroit/" class="G_event E-drawer_click_detroit">Detroit</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/grand-rapids/" class="G_event E-drawer_click_grand-rapids">Grand Rapids</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/kalamazoo/" class="G_event E-drawer_click_kalamazoo">Kalamazoo</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/lansing/" class="G_event E-drawer_click_lansing">Lansing</a>
+                        
+                        </li>
+                        </li></ul><ul class='state_M '><li class='state state_M'>
+                        <li class='state state_M'>Minnesota</li>
+                        <li>
+                          <a href="/minneapolis-stpaul/" class="G_event E-drawer_click_minneapolis-stpaul">Minneapolis / St Paul</a>
+                        
+                        </li>
+                      
+                        <li class='state state_M'>Mississippi</li>
+                        <li>
+                          <a href="/jackson/" class="G_event E-drawer_click_jackson">Jackson</a>
+                        
+                        </li>
+                      
+                        <li class='state state_M'>Missouri</li>
+                        <li>
+                          <a href="/columbia-mo/" class="G_event E-drawer_click_columbia-mo">Columbia, MO</a>
+                          </li></ul><ul class='state_M '><li class='state state_M'>
+                        </li>
+                        <li>
+                          <a href="/kansas-city/" class="G_event E-drawer_click_kansas-city">Kansas City</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/springfield-mo/" class="G_event E-drawer_click_springfield-mo">Springfield MO</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/stlouis/" class="G_event E-drawer_click_stlouis">St Louis</a>
+                        
+                        </li>
+                      
+                        <li class='state state_M'>Montana</li>
+                        <li>
+                          <a href="/billings/" class="G_event E-drawer_click_billings">Billings / Bozeman</a>
+                          </li></ul><ul class='state_M '><li class='state state_M'>
+                        </li>
+                      </ul>
+                      <ul class='state_N'>
+                      
+                        <li class='state state_N'>Nebraska</li>
+                        <li>
+                          <a href="/lincoln/" class="G_event E-drawer_click_lincoln">Lincoln</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/omaha/" class="G_event E-drawer_click_omaha">Omaha</a>
+                        
+                        </li>
+                      
+                        <li class='state state_N'>Nevada</li>
+                        <li>
+                          <a href="/las-vegas/" class="G_event E-drawer_click_las-vegas">Las Vegas</a>
+                          </li></ul><ul class='state_N '><li class='state state_N'>
+                        </li>
+                        <li>
+                          <a href="/reno/" class="G_event E-drawer_click_reno">Reno</a>
+                        
+                        </li>
+                      
+                        <li class='state state_N'>New Jersey</li>
+                        <li>
+                          <a href="/central-jersey/" class="G_event E-drawer_click_central-jersey">Central Jersey</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/north-jersey/" class="G_event E-drawer_click_north-jersey">North Jersey</a>
+                        
+                        </li>
+                        </li></ul><ul class='state_N '><li class='state state_N'>
+                        <li class='state state_N'>New Mexico</li>
+                        <li>
+                          <a href="/albuquerque/" class="G_event E-drawer_click_albuquerque">Albuquerque</a>
+                        
+                        </li>
+                      
+                        <li class='state state_N'>New York</li>
+                        <li>
+                          <a href="/albany-capital-region/" class="G_event E-drawer_click_albany-capital-region">Albany / Capital Region</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/buffalo/" class="G_event E-drawer_click_buffalo">Buffalo</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/long-island/" class="G_event E-drawer_click_long-island">Long Island</a>
+                          </li></ul><ul class='state_N '><li class='state state_N'>
+                        </li>
+                        <li>
+                          <a href="/new-york/" class="G_event E-drawer_click_new-york">New York City</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/rochester/" class="G_event E-drawer_click_rochester">Rochester</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/syracuse/" class="G_event E-drawer_click_syracuse">Syracuse</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/westchester-county/" class="G_event E-drawer_click_westchester-county">Westchester County</a>
+                        
+                        </li>
+                        </li></ul><ul class='state_N '><li class='state state_N'>
+                        <li class='state state_N'>North Carolina</li>
+                        <li>
+                          <a href="/asheville/" class="G_event E-drawer_click_asheville">Asheville</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/charlotte/" class="G_event E-drawer_click_charlotte">Charlotte</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/piedmont-triad/" class="G_event E-drawer_click_piedmont-triad">Piedmont Triad</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/raleigh-durham/" class="G_event E-drawer_click_raleigh-durham">Raleigh / Durham</a>
+                        
+                        </li>
+                      </ul>
+                      <ul class='state_C'>
+                      
+                        <li class='state state_C'>California</li>
+                        <li>
+                          <a href="/bakersfield/" class="G_event E-drawer_click_bakersfield">Bakersfield</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/fresno/" class="G_event E-drawer_click_fresno">Fresno</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/inland-empire/" class="G_event E-drawer_click_inland-empire">Inland Empire</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/los-angeles/" class="G_event E-drawer_click_los-angeles">Los Angeles</a>
+                        
+                          <li class='area'>
+                            <a href="/los-angeles/area/los-angeles/">Los Angeles</a><a href="/set_home_area?home_area=los-angeles" class="setArea" title="Set neighborhood"><img alt="Set neighborhood" src="http://assets2.grouponcdn.com/images/groupon/icons/icon_house.gif?rWAapTMb" /></a>
+                          </li>
+                          </li></ul><ul class='state_C '><li class='state state_C'>
+                          <li class='area'>
+                            <a href="/los-angeles/area/san-gabriel-valley/">San Gabriel Valley</a><a href="/set_home_area?home_area=san-gabriel-valley" class="setArea" title="Set neighborhood"><img alt="Set neighborhood" src="http://assets2.grouponcdn.com/images/groupon/icons/icon_house.gif?rWAapTMb" /></a>
+                          </li>
+                        
+                          <li class='area'>
+                            <a href="/los-angeles/area/san-fernando-valley/">San Fernando Valley</a><a href="/set_home_area?home_area=san-fernando-valley" class="setArea" title="Set neighborhood"><img alt="Set neighborhood" src="http://assets2.grouponcdn.com/images/groupon/icons/icon_house.gif?rWAapTMb" /></a>
+                          </li>
+                        
+                        </li>
+                        <li>
+                          <a href="/modesto/" class="G_event E-drawer_click_modesto">Modesto</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/napa-sonoma/" class="G_event E-drawer_click_napa-sonoma">Napa / Sonoma</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/orange-county/" class="G_event E-drawer_click_orange-county">Orange County</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/sacramento/" class="G_event E-drawer_click_sacramento">Sacramento</a>
+                          </li></ul><ul class='state_C '><li class='state state_C'>
+                        </li>
+                        <li>
+                          <a href="/san-diego/" class="G_event E-drawer_click_san-diego">San Diego</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/san-francisco/" class="G_event E-drawer_click_san-francisco">San Francisco</a>
+                        
+                          <li class='area'>
+                            <a href="/san-francisco/area/san-francisco/">San Francisco</a><a href="/set_home_area?home_area=san-francisco" class="setArea" title="Set neighborhood"><img alt="Set neighborhood" src="http://assets2.grouponcdn.com/images/groupon/icons/icon_house.gif?rWAapTMb" /></a>
+                          </li>
+                        
+                          <li class='area'>
+                            <a href="/san-francisco/area/east-bay/">East Bay</a><a href="/set_home_area?home_area=east-bay" class="setArea" title="Set neighborhood"><img alt="Set neighborhood" src="http://assets2.grouponcdn.com/images/groupon/icons/icon_house.gif?rWAapTMb" /></a>
+                          </li>
+                        
+                        </li>
+                        <li>
+                          <a href="/san-jose/" class="G_event E-drawer_click_san-jose">San Jose</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/santa-barbara/" class="G_event E-drawer_click_santa-barbara">Santa Barbara</a>
+                          </li></ul><ul class='state_C '><li class='state state_C'>
+                        </li>
+                        <li>
+                          <a href="/santa-clarita/" class="G_event E-drawer_click_santa-clarita">Santa Clarita</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/santa-cruz/" class="G_event E-drawer_click_santa-cruz">Santa Cruz / Monterey</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/stockton/" class="G_event E-drawer_click_stockton">Stockton</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/ventura-county/" class="G_event E-drawer_click_ventura-county">Ventura County</a>
+                        
+                        </li>
+                      
+                        <li class='state state_C'>Colorado</li>
+                        <li>
+                          <a href="/colorado-springs/" class="G_event E-drawer_click_colorado-springs">Colorado Springs</a>
+                          </li></ul><ul class='state_C '><li class='state state_C'>
+                        </li>
+                        <li>
+                          <a href="/denver/" class="G_event E-drawer_click_denver">Denver</a>
+                        
+                        </li>
+                      
+                        <li class='state state_C'>Connecticut</li>
+                        <li>
+                          <a href="/fairfield-county/" class="G_event E-drawer_click_fairfield-county">Fairfield County</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/hartford/" class="G_event E-drawer_click_hartford">Hartford</a>
+                        
+                        </li>
+                      </ul>
+                      <ul class='state_O'>
+                      
+                        <li class='state state_O'>Ohio</li>
+                        <li>
+                          <a href="/akron-canton/" class="G_event E-drawer_click_akron-canton">Akron / Canton</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/cincinnati/" class="G_event E-drawer_click_cincinnati">Cincinnati</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/cleveland/" class="G_event E-drawer_click_cleveland">Cleveland</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/columbus/" class="G_event E-drawer_click_columbus">Columbus</a>
+                          </li></ul><ul class='state_O '><li class='state state_O'>
+                        </li>
+                        <li>
+                          <a href="/dayton/" class="G_event E-drawer_click_dayton">Dayton</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/toledo/" class="G_event E-drawer_click_toledo">Toledo</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/youngstown/" class="G_event E-drawer_click_youngstown">Youngstown</a>
+                        
+                        </li>
+                      
+                        <li class='state state_O'>Oklahoma</li>
+                        <li>
+                          <a href="/oklahoma-city/" class="G_event E-drawer_click_oklahoma-city">Oklahoma City</a>
+                          </li></ul><ul class='state_O '><li class='state state_O'>
+                        </li>
+                        <li>
+                          <a href="/tulsa/" class="G_event E-drawer_click_tulsa">Tulsa</a>
+                        
+                        </li>
+                      
+                        <li class='state state_O'>Oregon</li>
+                        <li>
+                          <a href="/eugene/" class="G_event E-drawer_click_eugene">Eugene</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/portland/" class="G_event E-drawer_click_portland">Portland</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/salem-or/" class="G_event E-drawer_click_salem-or">Salem OR</a>
+                          </li></ul><ul class='state_O '><li class='state state_O'>
+                        </li>
+                      </ul>
+                      <ul class='state_D'>
+                      
+                        <li class='state state_D'>Delaware</li>
+                        <li>
+                          <a href="/wilmington-newark/" class="G_event E-drawer_click_wilmington-newark">Wilmington-Newark</a>
+                        
+                        </li>
+                      
+                        <li class='state state_D'>District of Columbia</li>
+                        <li>
+                          <a href="/washington-dc/" class="G_event E-drawer_click_washington-dc">Washington DC</a>
+                        
+                          <li class='area'>
+                            <a href="/washington-dc/area/dc-metro/">The District</a><a href="/set_home_area?home_area=dc-metro" class="setArea" title="Set neighborhood"><img alt="Set neighborhood" src="http://assets2.grouponcdn.com/images/groupon/icons/icon_house.gif?rWAapTMb" /></a>
+                          </li>
+                          </li></ul><ul class='state_D '><li class='state state_D'>
+                          <li class='area'>
+                            <a href="/washington-dc/area/northern-virginia/">Northern Virginia</a><a href="/set_home_area?home_area=northern-virginia" class="setArea" title="Set neighborhood"><img alt="Set neighborhood" src="http://assets2.grouponcdn.com/images/groupon/icons/icon_house.gif?rWAapTMb" /></a>
+                          </li>
+                        
+                          <li class='area'>
+                            <a href="/washington-dc/area/montgomery-county/">Montgomery County</a><a href="/set_home_area?home_area=montgomery-county" class="setArea" title="Set neighborhood"><img alt="Set neighborhood" src="http://assets2.grouponcdn.com/images/groupon/icons/icon_house.gif?rWAapTMb" /></a>
+                          </li>
+                        
+                        </li>
+                      </ul>
+                      <ul class='state_P'>
+                      
+                        <li class='state state_P'>Pennsylvania</li>
+                        <li>
+                          <a href="/allentown-reading/" class="G_event E-drawer_click_allentown-reading">Allentown / Reading</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/erie/" class="G_event E-drawer_click_erie">Erie</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/harrisburg/" class="G_event E-drawer_click_harrisburg">Harrisburg / Lancaster</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/philadelphia/" class="G_event E-drawer_click_philadelphia">Philadelphia</a>
+                          </li></ul><ul class='state_P '><li class='state state_P'>
+                        </li>
+                        <li>
+                          <a href="/pittsburgh/" class="G_event E-drawer_click_pittsburgh">Pittsburgh</a>
+                        
+                        </li>
+                      
+                        <li class='state state_P'>Puerto Rico</li>
+                        <li>
+                          <a href="http://www.groupon.com.pr/" class="G_event E-drawer_click_san-juan">San Juan</a>
+                        
+                        </li>
+                      </ul>
+                      <ul class='state_F'>
+                      
+                        <li class='state state_F'>Florida</li>
+                        <li>
+                          <a href="/daytona-beach/" class="G_event E-drawer_click_daytona-beach">Daytona Beach</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/fort-lauderdale/" class="G_event E-drawer_click_fort-lauderdale">Fort Lauderdale</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/fort-myers-cape-coral/" class="G_event E-drawer_click_fort-myers-cape-coral">Fort Myers / Cape Coral</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/gainesville/" class="G_event E-drawer_click_gainesville">Gainesville</a>
+                          </li></ul><ul class='state_F '><li class='state state_F'>
+                        </li>
+                        <li>
+                          <a href="/jacksonville/" class="G_event E-drawer_click_jacksonville">Jacksonville</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/lakeland/" class="G_event E-drawer_click_lakeland">Lakeland</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/miami/" class="G_event E-drawer_click_miami">Miami</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/naples/" class="G_event E-drawer_click_naples">Naples</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/ocala/" class="G_event E-drawer_click_ocala">Ocala</a>
+                          </li></ul><ul class='state_F '><li class='state state_F'>
+                        </li>
+                        <li>
+                          <a href="/orlando/" class="G_event E-drawer_click_orlando">Orlando</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/palm-beach/" class="G_event E-drawer_click_palm-beach">Palm Beach</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/pensacola/" class="G_event E-drawer_click_pensacola">Pensacola</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/tallahassee/" class="G_event E-drawer_click_tallahassee">Tallahassee</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/tampa-bay-area/" class="G_event E-drawer_click_tampa-bay-area">Tampa Bay Area</a>
+                          </li></ul><ul class='state_F '><li class='state state_F'>
+                        </li>
+                      </ul>
+                      <ul class='state_R'>
+                      
+                        <li class='state state_R'>Rhode Island</li>
+                        <li>
+                          <a href="/providence/" class="G_event E-drawer_click_providence">Providence</a>
+                        
+                        </li>
+                      </ul>
+                      <ul class='state_G'>
+                      
+                        <li class='state state_G'>Georgia</li>
+                        <li>
+                          <a href="/athens-ga/" class="G_event E-drawer_click_athens-ga">Athens, GA</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/atlanta/" class="G_event E-drawer_click_atlanta">Atlanta</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/augusta/" class="G_event E-drawer_click_augusta">Augusta</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/columbus-ga/" class="G_event E-drawer_click_columbus-ga">Columbus GA</a>
+                          </li></ul><ul class='state_G '><li class='state state_G'>
+                        </li>
+                        <li>
+                          <a href="/macon/" class="G_event E-drawer_click_macon">Macon</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/savannah-hilton-head/" class="G_event E-drawer_click_savannah-hilton-head">Savannah / Hilton Head</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/albany-ga/" class="G_event E-drawer_click_albany-ga">Southern Georgia</a>
+                        
+                        </li>
+                      </ul>
+                      <ul class='state_S'>
+                      
+                        <li class='state state_S'>South Carolina</li>
+                        <li>
+                          <a href="/charleston/" class="G_event E-drawer_click_charleston">Charleston</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/columbia/" class="G_event E-drawer_click_columbia">Columbia</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/greenville/" class="G_event E-drawer_click_greenville">Greenville</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/savannah-hilton-head/" class="G_event E-drawer_click_savannah-hilton-head">Savannah / Hilton Head</a>
+                          </li></ul><ul class='state_S '><li class='state state_S'>
+                        </li>
+                      
+                        <li class='state state_S'>South Dakota</li>
+                        <li>
+                          <a href="/sioux-falls/" class="G_event E-drawer_click_sioux-falls">Sioux Falls</a>
+                        
+                        </li>
+                      </ul>
+                      <ul class='state_H'>
+                      
+                        <li class='state state_H'>Hawaii</li>
+                        <li>
+                          <a href="/honolulu/" class="G_event E-drawer_click_honolulu">Honolulu</a>
+                        
+                        </li>
+                      </ul>
+                      <ul class='state_T'>
+                      
+                        <li class='state state_T'>Tennessee</li>
+                        <li>
+                          <a href="/chattanooga/" class="G_event E-drawer_click_chattanooga">Chattanooga</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/knoxville/" class="G_event E-drawer_click_knoxville">Knoxville</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/memphis/" class="G_event E-drawer_click_memphis">Memphis</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/nashville/" class="G_event E-drawer_click_nashville">Nashville</a>
+                          </li></ul><ul class='state_T '><li class='state state_T'>
+                        </li>
+                      
+                        <li class='state state_T'>Texas</li>
+                        <li>
+                          <a href="/abilene/" class="G_event E-drawer_click_abilene">Abilene, TX</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/amarillo/" class="G_event E-drawer_click_amarillo">Amarillo</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/austin/" class="G_event E-drawer_click_austin">Austin</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/beaumont/" class="G_event E-drawer_click_beaumont">Beaumont, TX</a>
+                          </li></ul><ul class='state_T '><li class='state state_T'>
+                        </li>
+                        <li>
+                          <a href="/corpus-christi/" class="G_event E-drawer_click_corpus-christi">Corpus Christi</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/dallas/" class="G_event E-drawer_click_dallas">Dallas</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/el-paso/" class="G_event E-drawer_click_el-paso">El Paso</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/fort-worth/" class="G_event E-drawer_click_fort-worth">Fort Worth</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/houston/" class="G_event E-drawer_click_houston">Houston</a>
+                          </li></ul><ul class='state_T '><li class='state state_T'>
+                        </li>
+                        <li>
+                          <a href="/lubbock/" class="G_event E-drawer_click_lubbock">Lubbock</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/midland-odessa/" class="G_event E-drawer_click_midland-odessa">Midland / Odessa</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/rio-grande-valley/" class="G_event E-drawer_click_rio-grande-valley">Rio Grande Valley</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/san-angelo/" class="G_event E-drawer_click_san-angelo">San Angelo</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/san-antonio/" class="G_event E-drawer_click_san-antonio">San Antonio</a>
+                          </li></ul><ul class='state_T '><li class='state state_T'>
+                        </li>
+                      </ul>
+                      <ul class='state_I'>
+                      
+                        <li class='state state_I'>Idaho</li>
+                        <li>
+                          <a href="/boise/" class="G_event E-drawer_click_boise">Boise</a>
+                        
+                        </li>
+                      
+                        <li class='state state_I'>Illinois</li>
+                        <li>
+                          <a href="/chicago/" class="G_event E-drawer_click_chicago">Chicago</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/rockford/" class="G_event E-drawer_click_rockford">Rockford</a>
+                          </li></ul><ul class='state_I '><li class='state state_I'>
+                        </li>
+                      
+                        <li class='state state_I'>Indiana</li>
+                        <li>
+                          <a href="/bloomington-in/" class="G_event E-drawer_click_bloomington-in">Bloomington, IN</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/evansville/" class="G_event E-drawer_click_evansville">Evansville</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/fort-wayne/" class="G_event E-drawer_click_fort-wayne">Fort Wayne</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/indianapolis/" class="G_event E-drawer_click_indianapolis">Indianapolis</a>
+                          </li></ul><ul class='state_I '><li class='state state_I'>
+                        </li>
+                        <li>
+                          <a href="/south-bend/" class="G_event E-drawer_click_south-bend">South Bend</a>
+                        
+                        </li>
+                      
+                        <li class='state state_I'>Iowa</li>
+                        <li>
+                          <a href="/cedar-rapids-iowa-city/" class="G_event E-drawer_click_cedar-rapids-iowa-city">Cedar Rapids / Iowa City</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/des-moines/" class="G_event E-drawer_click_des-moines">Des Moines</a>
+                        
+                        </li>
+                      </ul>
+                      <ul class='state_U'>
+                      
+                        <li class='state state_U'>Utah</li>
+                        <li>
+                          <a href="/ogden/" class="G_event E-drawer_click_ogden">Ogden</a>
+                        
+                        </li>
+                        <li>
+                          <a href="/salt-lake-city/" class="G_event E-drawer_click_salt-lake-city">Salt Lake City</a>
+                        
+                        </li>
+                      </ul>
+                      <ul class='canada current'>
+                        <li class='canada state'>
+                          Alberta
+                          <li class='canada'>
+                            <a href="/calgary/" class="G_event E-drawer_click_calgary">Calgary</a>
+                          
+                          </li>
+                          <li class='canada'>
+                            <a href="/edmonton/" class="G_event E-drawer_click_edmonton">Edmonton</a>
+                          
+                          </li>
+                        </li>
+                        <li class='canada state'>
+                          British Columbia
+                          <li class='canada'>
+                            <a href="/abbotsford/" class="G_event E-drawer_click_abbotsford">Abbotsford</a>
+                          
+                          </li>
+                          <li class='canada'>
+                            <a href="/kelowna/" class="G_event E-drawer_click_kelowna">Kelowna</a>
+                          
+                          </li>
+                          <li class='canada'>
+                            <a href="/vancouver/" class="G_event E-drawer_click_vancouver">Vancouver</a>
+                            </li></ul><ul class='canada current'><li class='canada state'>
+                          </li>
+                          <li class='canada'>
+                            <a href="/victoria/" class="G_event E-drawer_click_victoria">Victoria</a>
+                          
+                          </li>
+                        </li>
+                        <li class='canada state'>
+                          Manitoba
+                          <li class='canada'>
+                            <a href="/winnipeg/" class="G_event E-drawer_click_winnipeg">Winnipeg</a>
+                          
+                          </li>
+                        </li>
+                        <li class='canada state'>
+                          Newfoundland
+                          <li class='canada'>
+                            <a href="/st-johns/" class="G_event E-drawer_click_st-johns">St John's</a>
+                          
+                          </li>
+                        </li>
+                        <li class='canada state'>
+                          Nova Scotia
+                          <li class='canada'>
+                            <a href="/cape-breton/" class="G_event E-drawer_click_cape-breton">Cape Breton</a>
+                          
+                          </li>
+                          <li class='canada'>
+                            <a href="/halifax/" class="G_event E-drawer_click_halifax">Halifax</a>
+                            </li></ul><ul class='canada current'><li class='canada state'>
+                          </li>
+                        </li>
+                        <li class='canada state'>
+                          Ontario
+                          <li class='canada current'>
+                            <a href="/barrie/" class="G_event E-drawer_click_barrie">Barrie</a>
+                          
+                          </li>
+                          <li class='canada current'>
+                            <a href="/kingston/" class="G_event E-drawer_click_kingston">Kingston</a>
+                          
+                          </li>
+                          <li class='canada current'>
+                            <a href="/kitchener-waterloo/" class="G_event E-drawer_click_kitchener-waterloo">Kitchener - Waterloo</a>
+                          
+                          </li>
+                          <li class='canada current'>
+                            <a href="/london/" class="G_event E-drawer_click_london">London, ON</a>
+                          
+                          </li>
+                          <li class='canada current'>
+                            <a href="/ottawa/" class="G_event E-drawer_click_ottawa">Ottawa</a>
+                            </li></ul><ul class='canada current'><li class='canada state'>
+                          </li>
+                          <li class='canada current'>
+                            <a href="/stcatharines-niagara/" class="G_event E-drawer_click_stcatharines-niagara">St Catharines-Niagara</a>
+                          
+                          </li>
+                          <li class='canada current'>
+                            <a href="/sudbury/" class="G_event E-drawer_click_sudbury">Sudbury / North Bay</a>
+                          
+                          </li>
+                          <li class='canada current'>
+                            <a href="/greater-toronto-area/" class="G_event E-drawer_click_greater-toronto-area selected">Toronto (GTA)</a>
+                          
+                          </li>
+                          <li class='canada current'>
+                            <a href="/windsor/" class="G_event E-drawer_click_windsor">Windsor</a>
+                          
+                          </li>
+                        </li>
+                        <li class='canada state'>
+                          Quebec
+                          <li class='canada'>
+                            <a href="http://groupon.ca/" class="G_event E-drawer_click_montreal">Montreal</a>
+                            </li></ul><ul class='canada current'><li class='canada state'>
+                          </li>
+                        </li>
+                        <li class='canada state'>
+                          Saskatchewan
+                          <li class='canada'>
+                            <a href="/regina/" class="G_event E-drawer_click_regina">Regina</a>
+                          
+                          </li>
+                          <li class='canada'>
+                            <a href="/saskatoon/" class="G_event E-drawer_click_saskatoon">Saskatoon</a>
+                          
+                          </li>
+                        </li>
+                      </ul>
+                      <ul class='country'>
+                        <li class='country'><a href="http://www.groupon.com.ar" class="G_event E-Drawer_click_Argentina">Argentina</a></li>
+                        <li class='country'><a href="http://www.stardeals.com.au" class="G_event E-Drawer_click_Australia">Australia</a></li>
+                        <li class='country'><a href="http://www.groupon.at" class="G_event E-Drawer_click_Austria">Austria</a></li>
+                        <li class='country'><a href="http://www.groupon.be" class="G_event E-Drawer_click_Belgium">Belgium</a></li>
+                        <li class='country'><a href="http://www.groupon.com.br" class="G_event E-Drawer_click_Brazil">Brazil</a></li>
+                        <li class='country'><a href="http://www.groupon.cl" class="G_event E-Drawer_click_Chile">Chile</a></li>
+                        <li class='country'><a href="http://www.gaopeng.com" class="G_event E-Drawer_click_China">China</a></li>
+                        <li class='country'><a href="http://www.groupon.com.co" class="G_event E-Drawer_click_Colombia">Colombia</a></li>
+                        </ul><ul class='country'>
+                        <li class='country'><a href="http://www.groupon.dk" class="G_event E-Drawer_click_Denmark">Denmark</a></li>
+                        <li class='country'><a href="http://www.citydeal.fi" class="G_event E-Drawer_click_Finland">Finland</a></li>
+                        <li class='country'><a href="http://www.groupon.fr" class="G_event E-Drawer_click_France">France</a></li>
+                        <li class='country'><a href="http://www.groupon.de" class="G_event E-Drawer_click_Germany">Germany</a></li>
+                        <li class='country'><a href="http://www.groupon.gr" class="G_event E-Drawer_click_Greece">Greece</a></li>
+                        <li class='country'><a href="http://www.groupon.hk" class="G_event E-Drawer_click_Hong Kong">Hong Kong</a></li>
+                        <li class='country'><a href="http://www.crazeal.com" class="G_event E-Drawer_click_India">India</a></li>
+                        <li class='country'><a href="http://www.citydeal.ie" class="G_event E-Drawer_click_Ireland">Ireland</a></li>
+                        </ul><ul class='country'>
+                        <li class='country'><a href="http://www.groupon.co.il" class="G_event E-Drawer_click_Israel">Israel</a></li>
+                        <li class='country'><a href="http://www.groupon.it" class="G_event E-Drawer_click_Italy">Italy</a></li>
+                        <li class='country'><a href="http://www.qpod.jp" class="G_event E-Drawer_click_Japan">Japan</a></li>
+                        <li class='country'><a href="http://www.groupon.kr" class="G_event E-Drawer_click_Korea">Korea</a></li>
+                        <li class='country'><a href="http://www.groupon.com.mx" class="G_event E-Drawer_click_Mexico">Mexico</a></li>
+                        <li class='country'><a href="http://www.groupon.nl" class="G_event E-Drawer_click_Netherlands">Netherlands</a></li>
+                        <li class='country'><a href="http://www.grouponnz.co.nz" class="G_event E-Drawer_click_New Zealand">New Zealand</a></li>
+                        <li class='country'><a href="http://www.groupon.no" class="G_event E-Drawer_click_Norway">Norway</a></li>
+                        </ul><ul class='country'>
+                        <li class='country'><a href="http://www.groupon.com.pe" class="G_event E-Drawer_click_Peru">Peru</a></li>
+                        <li class='country'><a href="http://www.beeconomic.com.ph" class="G_event E-Drawer_click_Philippines">Philippines</a></li>
+                        <li class='country'><a href="http://www.groupon.pl" class="G_event E-Drawer_click_Poland">Poland</a></li>
+                        <li class='country'><a href="http://www.groupon.pt" class="G_event E-Drawer_click_Portugal">Portugal</a></li>
+                        <li class='country'><a href="http://www.groupon.ro" class="G_event E-Drawer_click_Romania">Romania</a></li>
+                        <li class='country'><a href="http://www.darberry.ru" class="G_event E-Drawer_click_Russia">Russia</a></li>
+                        <li class='country'><a href="http://www.groupon.sg" class="G_event E-Drawer_click_Singapore">Singapore</a></li>
+                        <li class='country'><a href="http://www.mycitydeal.co.za" class="G_event E-Drawer_click_South Africa">South Africa</a></li>
+                        </ul><ul class='country'>
+                        <li class='country'><a href="http://www.groupon.es" class="G_event E-Drawer_click_Spain">Spain</a></li>
+                        <li class='country'><a href="http://www.groupon.se" class="G_event E-Drawer_click_Sweden">Sweden</a></li>
+                        <li class='country'><a href="http://www.groupon.ch" class="G_event E-Drawer_click_Switzerland">Switzerland</a></li>
+                        <li class='country'><a href="http://www.atlaspost.com/buy.php" class="G_event E-Drawer_click_Taiwan">Taiwan</a></li>
+                        <li class='country'><a href="http://www.sehirfirsati.com" class="G_event E-Drawer_click_Turkey">Turkey</a></li>
+                        <li class='country'><a href="http://www.groupon.ae" class="G_event E-Drawer_click_United Arab Emirates">United Arab Emirates</a></li>
+                        <li class='country'><a href="http://www.groupon.co.uk" class="G_event E-Drawer_click_United Kingdom">United Kingdom</a></li>
+                        <li class='country'><a href="http://www.groupon.com.uy" class="G_event E-Drawer_click_Uruguay">Uruguay</a></li>
+                        </ul><ul class='country'>
+                      </ul>
+                    </div>
+                  </div>
+          </div>
+        </div>
+      </div>
+      <div id='alerts_content'>
+      
+      </div>
+      <div class='announcement' id='missed_deal_announcement'>
+                <p id='txt_missed_groupon'>
+                  Oh no... You're too late for this Groupon!
+                </p>
+                <div class='announcement_inner clearfix'>
+                  <div class='left'>
+                    <p>
+                      Sign up for our daily email so you never miss another Groupon!
+                    </p>
+                  </div>
+                  <div class='right'>
+                    <form action="http://www.groupon.com/subscriptions" class="subscribe_form clearfix" id="new_subscription" method="post"><div style="margin:0;padding:0"><input name="authenticity_token" type="hidden" value="iwV7ANyu/+j0q26FBiIPY41jNFTxTC6i5chXKmutvyI=" /></div>
+                      <input class="subscription_division_id_input" id="subscription_division_id" name="subscription[division_id]" type="hidden" value="greater-toronto-area" />
+                      <div class="field subscription_email_address text"><input class="email prompting_field input" id="subscription_email_address" name="subscription[email_address]" size="30" title="Enter your email address…" type="text" /></div>
+                      <button class='button small buy_btn' type='submit'>Subscribe</button>
+                    </form>
+                  </div>
+                </div>
+              </div>
+      <div class='clearfix' id='main'>
+        <div id='content'>
+        
+              
+                <div class='ajax_spinner'></div>
+                <div class='deals hproduct  '>
+                    <span class='url' style='display:none;'>http://www.groupon.com/deals/photo-art-studio-1</span>
+                    <span class='price' style='display:none;'>C$59</span>
+                    <span class='photo' style='display:none;'>http://www.groupon.com/images/site_images/1733/1069/Photo-Art-Studio.jpg</span>
+                    <div class='clearfix deal with_tags'>
+                      <div class='deal_title'>
+                        <h2><a href='/deals/photo-art-studio-1'>Photo Art Studio &#8211; Multiple Locations</a></h2>
+                                  <h3 class='subtitle'><span class='price'>C$59</span> for <span class='title descriptor'>a Photography-Class Package (Up to $385 Value)</span></h3>
+                      </div>
+                      <div class='primary'>
+                        <div id='price_tag'>
+                          <div id='price_tag_inner'>
+                            <div id="amount">C$59</div>
+                            <a href="https://www.groupon.com/deals/photo-art-studio-1/confirmation?ms=false&amp;pledge_id=1002209" class="buy_btn button_style_experiment control ">Buy</a>
+                            <div class="unavailable_deal_message expired">No Longer Available</div>
+                          </div>
+                        </div>
+                        <div class='clearfix' id='deal_discount'>
+                          <dl>
+                            <dt>Value</dt>
+                            <dd>C$385</dd>
+                          </dl>
+                          <dl class='discount'>
+                            <dt>Discount</dt>
+                            <dd>85%</dd>
+                          </dl>
+                          <dl class='save'>
+                            <dt>You Save</dt>
+                            <dd>C$326</dd>
+                          </dl>
+                        </div>
+                        <div id='for_a_friend'>
+                          <a href="https://www.groupon.com/deals/photo-art-studio-1/confirmation?pledge_id=1002209" class="icon_gift for_friend G_event E-BuyFriend_ClickBuyFriend_DealPage">Buy it for a friend!</a>
+                        </div>
+                        <span class="js_attribute" data-value="photo-art-studio-1" id="deal_permalink" style="display:none;"></span>
+                        <div id='remaining_time_container'>
+                          <div class='countdown_container clearfix'>
+                            <img alt="Hourglass003" class="hourglass" src="http://assets2.grouponcdn.com/images/groupon/icons/hourglass/hourglass003.gif?1DpNRbFz" />
+                            <ul id='counter'>
+                              <li class='countdown_label'>Time Left to Buy</li>
+                              <li class='groupon_countdown' data-deadline='1319428799' data-template='{"days" : "{days} [day|days] ", "hours" : "{hours}:", "minutes" : "{minutes}:", "seconds" : "{seconds}"}'></li>
+                            </ul>
+                          </div>
+                          <div class='limited_time_remaining clearfix'>
+                            <img alt="Hourglass003" class="hourglass" src="http://assets2.grouponcdn.com/images/groupon/icons/hourglass/hourglass003.gif?1DpNRbFz" />
+                            <h5>
+                              Limited Time Remaining!
+                            </h5>
+                          </div>
+                        </div>
+                        <div data-interval='300' data-json_key='number_sold_container' data-path='/deals/photo-art-studio-1/deal_status.json' data-periodical_ajax_updater='data-periodical_ajax_updater' id='number_sold_container'>
+                        
+                          <table class='status'>
+                            <tr class="sum"><td class="left"><span class="number">Over 64</span></td><td class="right"> bought</td></tr>
+                          </table>
+                          <table class='status'>
+                            <tr class="remaining"><td class="full" colspan="2"></td></tr>
+                          </table>
+                          <div class='tipped_check_mark'>
+                            <span><img alt="" class="ib" height="28" src="http://assets2.grouponcdn.com/images/groupon/icons/tipometer/check_mark.png?SxxwvrIa" title="" width="27" />The deal is on!</span>
+                          </div>
+                          <div class='tipped_at'>
+                            <p class='tipping'>Tipped at 9:15AM with <span class="number">15</span> bought</p>
+                          </div>
+                          <p class="tipping mulligan"></p>
+                        
+                        </div>
+                        <span class="js_attribute" data-value="{&quot;url_for_twitter_share&quot;:&quot;http://twitter.com/share?url=http%3A%2F%2Fwww.groupon.com%2Fdeals%2Fphoto-art-studio-1%3Futm_campaign%3DVisitorReferral%26amp%3Butm_medium%3Dtwitter%26amp%3Butm_source%3Danonymous&amp;text=%2459%20for%20Photography-Class%20Package%20at%20Photo%20Art%20Studio%20%20-%20Up%20to%20%24385%20Value%20-%20&quot;,&quot;url_for_mail_share&quot;:&quot;mailto:?subject=I%20think%20you%20should%20get%20your%20Groupon%3A%20Up%20to%2085%25%20Off%20Photography-Class%20Package&amp;body=%2459%20for%20Photography-Class%20Package%20at%20Photo%20Art%20Studio%20%28Up%20to%20%24385%20Value%29%20http%3A%2F%2Fwww.groupon.com%2Fdeals%2Fphoto-art-studio-1%3Futm_campaign%3DVisitorReferral%26amp%3Butm_medium%3Demail%26amp%3Butm_source%3Danonymous&quot;,&quot;visitor_tracking_code&quot;:&quot;anonymous&quot;,&quot;campaign_share_url&quot;:&quot;http://www.groupon.com/deals/photo-art-studio-1&quot;,&quot;url_for_facebook_share&quot;:&quot;http://facebook.com/share.php?u=http://www.groupon.com/deals/photo-art-studio-1?utm_campaign=VisitorReferral&amp;utm_medium=facebook&amp;utm_source=anonymous&quot;}" id="share_links" style="display:none;"></span>
+                        <div class='sharing mulligan'>
+                          <p class='share_label'>
+                            Share:
+                          </p>
+                          <div class='share'>
+                            <ul class="share_links horizontal_list no_bullets clearfix">
+                          
+                              <li title = "Share with twitter." class="twitter_share">
+                                <a href="http://twitter.com/share?url=http%3A%2F%2Fwww.groupon.com%2Fdeals%2Fphoto-art-studio-1%3Futm_campaign%3DVisitorReferral%26amp%3Butm_medium%3Dtwitter%26amp%3Butm_source%3Danonymous&amp;text=%2459%20for%20Photography-Class%20Package%20at%20Photo%20Art%20Studio%20%20-%20Up%20to%20%24385%20Value%20-%20" class="sprite tw G_event E-Share_Twitter_deal" data-google-analytics-tags="">
+                                  Tweet!
+                                </a>
+                              </li>
+                          
+                              <li title = "Share with email." class = "email_share">
+                                <a href="mailto:?subject=I%20think%20you%20should%20get%20your%20Groupon%3A%20Up%20to%2085%25%20Off%20Photography-Class%20Package&amp;body=%2459%20for%20Photography-Class%20Package%20at%20Photo%20Art%20Studio%20%28Up%20to%20%24385%20Value%29%20http%3A%2F%2Fwww.groupon.com%2Fdeals%2Fphoto-art-studio-1%3Futm_campaign%3DVisitorReferral%26amp%3Butm_medium%3Demail%26amp%3Butm_source%3Danonymous" class="sprite email G_event E-Share_Email_deal" data-google-analytics-tags="">
+                                  Email!
+                                </a> 
+                              </li>
+                          
+                              <li title="Share it!" class="facebook_send">
+                                <fb:send href="http://www.groupon.com/deals/photo-art-studio-1" font=""></fb:send>
+                              </li>
+                          
+                              <li title="Like it!" class="facebook_like">
+                                <fb:like href="http://www.groupon.com/deals/photo-art-studio-1" ref="anonymous" layout="button_count" show_faces="false" class="fb_like G_event" data-google-analytics-tags="" grp="dealPage"></fb:like>
+                              </li>
+                          
+                            </ul>
+                          </div>
+                        </div>
+                      </div>
+                      <div class='secondary'>
+                        <span class='js_attribute' data-value='' id='everyscapeId'></span>
+                        <div class='photos' id='everyscape'>
+                          <ul>
+                            <li><img alt="Photo-art-studio_grid_6" src="http://assets2.grouponcdn.com/images/site_images/1733/1069/Photo-Art-Studio_grid_6.jpg" width="440" /></li>
+                          </ul>
+                        </div>
+                        <div class='clearfix fine_details'>
+                          <div class='brief_summary'>
+                            <h3>In a Nutshell</h3>
+                            <p>Pupils discover camera light regulation &amp; hue modification on Adobe Photoshop as well as cost &amp; equipment for printing images </p>
+                          </div>
+                          <div class='fine_print'>
+                            <a name='fine_print'></a>
+                            <h3>The Fine Print</h3>
+                            <ul><li>Expires Mar 24, 2012</li><li>Limit 1 per visit.</li><li><a href="/pages/universal-fine-print">See the rules</a><span> that apply to all deals.</span></li></ul>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class='personalization_bar'>
+                      <div class='personalization_bar_container clearfix'>
+                        <div class='places_container'></div>
+                        <div class='tag_container'>
+                          <ul class="deal_tags">
+                            <li class="persona" data-persona-id="44" data-permalink="always-learning" data-name="Always Learning" title="For those who thirst for knowledge">
+                              <em>Always Learning</em>
+                            </li>
+                            <li class="persona" data-persona-id="3" data-permalink="do-it-yourselfer" data-name="DIY" title="For those who enjoy getting dirt or glitter under their fingernails">
+                              <em>DIY</em>
+                            </li>
+                            </ul>
+                        </div>
+                      </div>
+                    </div>
+                    <div class='write_up' id='write_up'>
+                  <div class="module"><div class="module_content clearfix"><div class='write_up_content'>
+                    <div class='article description'>
+                      <div class='pitch_content'>
+                        <p>Photographs transport people to an earlier time without the need to master quantum physics or pay the tolls associated with North America's wormhole highways. Capture fleeting moments for future examination with today's Groupon: for $59, you get a photography class package at <a href="http://gr.pn/qpT6XX">Photo Art Studio</a> in Toronto (up to a $385 value). The package includes the following:</p>
+                      
+                        <ul>
+                        <li>A four-hour digital-photography training session (a $165 value)</li>
+                        <li>A four-hour <a href="http://gr.pn/o10jak">Adobe Photoshop</a> training session (a $165 value)</li>
+                        <li>A one-hour print-publishing training session (a $65 value).<p></li>
+                        </ul>
+                      
+                        <p>Photo Art Studio instructs photography pupils in skills and strategies for capturing, editing, and printing their own original images. A three-hour digital photography course drills novices in handling and cleaning their cameras, regulating light, managing shutter speeds, shooting sports or landscapes, and convincing jumping beans to hold still for track-team portraits. During a three-hour session, students survey Adobe Photoshop's myriad manipulation and touch-up options by applying such flourishes as modified hues and formatted text over their own compositions. After reviewing types of printers, supplies, and costs, a one-hour print-publishing tutorial suggests an assortment of online services and professional labs for concocting quality prints. Photo Art Studio classes run every Saturday and Sunday from 1 p.m. to 5:30 p.m. and weekdays from 6:30 p.m. until 9:30 p.m., and subscribers can choose the interval length between each course to practice newly acquired shutter skills or lens-cap frisbee-tossing techniques.</p>
+                      </div>
+                      <div class='btn_discussion_writeup_join clearfix'>
+                        <a href="/deals/photo-art-studio-1/discussion" class=" button btn_cta medium">Ask a Question</a>
+                        <div class='comment_number'>
+                          <a href="/deals/photo-art-studio-1/discussion">Be the first to post!</a>
+                        </div>
+                      </div>
+                      <div class='groupon_voice' id='voice'>
+                        <h2>Groupon Says</h2>
+                        <div class='groupon_voice_top'>
+                          <h3><a href="/groupon_says/groupon-says-34575636">The Groupon Guide to: Getting Scared to Death by a Story</a></h3>
+                          <p>It’s the spooookiest time of year, so turn the lights off, turn the candles up, and read this scary story. Be warned, though. This tale is so eerie, so frightening, that by reading it, you are guaranteed to die from fright. Enjoy, and don’t say we didn’t warn you….</p>
+                        
+                          <p>There once was a boy named Steven. Steven had a brother who was mean to him. Steven’s brother was named Joe Thomas. <em>Feel scared yet? Scared to dead?</em> Joe Thomas was always being mean to Steven. He would tell Steven things such as, “You aren’t brave,” or “You are the scared one,” or “Dad gave me a saw for Christmas.” This made Steven sad. <em>How are you doing? Or should I say…dying?</em></p>
+                        
+                          <p>Steven decided one day to show Joe Thomas that he was brave. He went into the woods that everyone said were haunted because one day a ghost killed some kids in the woods and made more ghosts out of them. <em>Boo! How is your heart? Beating? It won’t be for long.</em> It was dark in the woods and colder than it was before. Steven looked around and yelled “Joe Thomas! I’m not afraid!” But then the ground turned into ghosts and a murder came and killed Steven with a chainsaw. </p>
+                        
+                          <p>(NOTE TO EDITOR: Please print this story on a big giant piece of poison so that when people read it, it will poison them to death and people will blame it on the story. Thanks, R.L.)</p>
+                        
+                          <p>The End</p>
+                        </div>
+                        <div class='comment_container clearfix'>
+                          <ul class='groupon_share right'>
+                            <li class='twitter'><a href="http://twitter.com/share?url=http%3A%2F%2Fwww.groupon.com%2Fgroupon_says%2Fgroupon-says-34575636&amp;text=Murder%3F%20No%2C%20just%20compelling%20writing%2E%20-%20" class="G_event E-Follow_Twitter_GrouponSays tw" title="Follow Groupon Says on Twitter">Share this on Twitter</a></li>
+                            <li class='facebook' title='Share with facebook.'>
+                              <fb:like class='fb_like' grp='grpSays' href='http://www.groupon.com/groupon_says/groupon-says-34575636' layout='button_count'></fb:like>
+                            </li>
+                          </ul>
+                          <div class='left'>
+                            <p class='comment'>
+                              <a href="/groupon_says/groupon-says-34575636">Comment</a>
+                              on our feelings board
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class='write_up_rail'>
+                    <div id='company_box'>
+                      <h3 class='name'>Photo Art Studio</h3>
+                      <ul class='company_links clearfix'>
+                        <li><a href="http://www.photoartstudio.ca" class="G_event E-Company_linkout_Location">Company Website</a></li>
+                      </ul>
+                      <div class='ratings clearfix'>
+                        <div class='large star_rating' title='Average rating: 5.0 stars'>
+                          <div class='meter value_5_0' max='5' min='0' value='5.0'>
+                            5.0 out of 5
+                          </div>
+                        </div>
+                        <div class='rating_label'><a href="http://gr.pn/p858D4">Facebook (11 Reviews)</a></div>
+                      </div>
+                      <div class='locations'>
+                        <div id='deal_locations_container'>
+                          <div class='pointer'></div>
+                          <div class='clearfix'>
+                            <div class='map_container'>
+                              <img alt="Staticmap?size=186x186&amp;sensor=false&amp;markers=color:red|size:mid|43" class="gmap_static" src="http://maps.google.com/maps/api/staticmap?size=186x186&amp;sensor=false&amp;markers=color:red|size:mid|43.642405,-79.374768|43.774132,-79.501423" />
+                              <div class='info_bubble' id='map_info_bubble'>
+                                <div class='pointer'></div>
+                                <div class='header clearfix'>
+                                  <h3></h3>
+                                  <a href="#" class="hide">hide</a>
+                                </div>
+                                <div class='content'></div>
+                              </div>
+                            </div>
+                            <ul>
+                              <li class='clearfix' data-index='A' data-lat='43.6424054' data-lng='-79.3747675' data-marker='marker_A'>
+                                <div class='gmap_marker'>
+                                  <span class='gmap_marker_icon_small'>
+                                    <span class='gmap_marker_index'>A</span>
+                                  </span>
+                                </div>
+                                <div class='address'>
+                                  <h4 class='clearfix'>Location for Classes with More Than 8 People</h4>
+                                  <p>
+                                    1 Yonge St., Suite 1801
+                                    <br />
+                                    Toronto, Ontario M5E 1W7
+                                    <br />
+                                    (647) 784-0654
+                                    <br />
+                                    <a href="http://maps.google.com/maps?f=d&amp;daddr=1+Yonge+St.+Suite+1801+Toronto+Ontario+M5E+1W7+Canada" class="get_directions">Get Directions</a>
+                                  </p>
+                                </div>
+                              </li>
+                              <li class='clearfix last' data-index='B' data-lat='43.7741315' data-lng='-79.5014229' data-marker='marker_B'>
+                                <div class='gmap_marker'>
+                                  <span class='gmap_marker_icon_small'>
+                                    <span class='gmap_marker_index'>B</span>
+                                  </span>
+                                </div>
+                                <div class='address'>
+                                  <h4 class='clearfix'>Village at York University</h4>
+                                  <p>
+                                    4700 Keele St.
+                                    <br />
+                                    Toronto, Ontario M3J 1P3
+                                    <br />
+                                    <a href="http://maps.google.com/maps?f=d&amp;daddr=4700+Keele+St.+Toronto+Ontario+M3J+1P3+Canada" class="get_directions">Get Directions</a>
+                                  </p>
+                                </div>
+                              </li>
+                            </ul>
+                          </div>
+                        </div>
+                      </div>
+                    
+                      <div class='reviews'>
+                        <h4>Reviews</h4>
+                        <ul>
+                          <li class='odd_review reviews'>
+                            <blockquote class='clearfix'>
+                              <span>
+                                they teach you a good combination of the technical aspects and technique.
+                              </span>
+                            </blockquote>
+                            <cite>
+                              <a href="/redirect/review/107909" class="external">Ishara W., Facebook, 7/17/11</a>
+                            </cite>
+                          </li>
+                          <li class='even_review reviews'>
+                            <blockquote class='clearfix'>
+                              <span>
+                                After taking the course I was able to exceed my job expectations, and create very professional ad campaigns using the skills taught in the program.
+                              </span>
+                            </blockquote>
+                            <cite>
+                              <a href="/redirect/review/107911" class="external">Ji Kim, Facebook, 7/8/11</a>
+                            </cite>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                    <div class="modal_window" id="show_all_locations" style="display:none"><div class="modal_top"><img alt="" class="modal_close" height="39" id="close" src="http://assets2.grouponcdn.com/images/groupon/overlays/btn/x-close-large.png?WcTqZeiv" width="39" /></div><div class="modal_content"><div class="modal_header"><h2>Photo Art Studio</h2>
+                    </div><div class="modal_main"><div class='new_location_list'>
+                      <div id='deal_all_locations_container'>
+                        <div class='pointer'></div>
+                        <div class='clearfix'>
+                          <div class='map_container'>
+                            <img alt="Staticmap?size=280x280&amp;sensor=false&amp;markers=color:red|size:mid|43" class="gmap_static" src="http://maps.google.com/maps/api/staticmap?size=280x280&amp;sensor=false&amp;markers=color:red|size:mid|43.642405,-79.374768|43.774132,-79.501423" />
+                          </div>
+                          <ul class='locations'>
+                            <li class='clearfix' data-index='A' data-lat='43.6424054' data-lng='-79.3747675' data-marker='marker_A'>
+                              <div class='gmap_marker'>
+                                <span class='gmap_marker_icon_small'>
+                                  <span class='gmap_marker_index'>A</span>
+                                </span>
+                              </div>
+                              <div class='address'>
+                                <h4 class='clearfix'>Location for Classes with More Than 8 People</h4>
+                                <p>
+                                  1 Yonge St., Suite 1801
+                                  <br />
+                                  Toronto, Ontario M5E 1W7
+                                  <br />
+                                  (647) 784-0654
+                                  <br />
+                                  <a href="http://maps.google.com/maps?f=d&amp;daddr=1+Yonge+St.+Suite+1801+Toronto+Ontario+M5E+1W7+Canada" class="get_directions">Get Directions</a>
+                                </p>
+                              </div>
+                            </li>
+                            <li class='clearfix last' data-index='B' data-lat='43.7741315' data-lng='-79.5014229' data-marker='marker_B'>
+                              <div class='gmap_marker'>
+                                <span class='gmap_marker_icon_small'>
+                                  <span class='gmap_marker_index'>B</span>
+                                </span>
+                              </div>
+                              <div class='address'>
+                                <h4 class='clearfix'>Village at York University</h4>
+                                <p>
+                                  4700 Keele St.
+                                  <br />
+                                  Toronto, Ontario M3J 1P3
+                                  <br />
+                                  <a href="http://maps.google.com/maps?f=d&amp;daddr=4700+Keele+St.+Toronto+Ontario+M3J+1P3+Canada" class="get_directions">Get Directions</a>
+                                </p>
+                              </div>
+                            </li>
+                          </ul>
+                        </div>
+                      </div>
+                    </div>
+                    </div><div class="modal_footer"></div></div><div class="modal_bottom"></div></div>
+                  </div>
+                  </div></div>  </div>
+                  </div>
+                <div id='division_description'>
+                  <div class='top'>
+                      <h3>Toronto Deals</h3>
+                      <p>
+                        The trouble with TO is that there's too much to do. Let Groupon play tour guide with Toronto deals on all the fun things to do in Toronto.  Groupon negotiates the best of Toronto, packages up the savings and serves them to your inbox daily.
+                      </p>
+                    </div>
+                    <form action="http://www.groupon.com/subscriptions" class="new_subscription clearfix" id="new_subscription_description" method="post"><div style="margin:0;padding:0"><input name="authenticity_token" type="hidden" value="pqonEkY9nA7h2Ft5OzjdnajowEBKPVpG96yvhX20o1w=" /></div>
+                      <div class='follow_desc'>
+                        Email is the Best Way to get the daily deal for:
+                      </div>
+                      <input id="subscription_division_id_description" name="subscription[division_id]" type="hidden" value="greater-toronto-area" />
+                      <ul class='subscribe'>
+                        <li class='label'>
+                          <select id='subscription_division_id_description' name='subscription[division_id]' style='width: 170px;'>
+                            <option value='abbotsford'>Abbotsford</option>
+                            <option value='abilene'>Abilene, TX</option>
+                            <option value='akron-canton'>Akron / Canton</option>
+                            <option value='albany-capital-region'>Albany / Capital Region</option>
+                            <option value='albuquerque'>Albuquerque</option>
+                            <option value='allentown-reading'>Allentown / Reading</option>
+                            <option value='amarillo'>Amarillo</option>
+                            <option value='anchorage'>Anchorage</option>
+                            <option value='ann-arbor'>Ann Arbor</option>
+                            <option value='asheville'>Asheville</option>
+                            <option value='athens-ga'>Athens, GA</option>
+                            <option value='atlanta'>Atlanta</option>
+                            <option value='augusta'>Augusta</option>
+                            <option value='austin'>Austin</option>
+                            <option value='bakersfield'>Bakersfield</option>
+                            <option value='baltimore'>Baltimore</option>
+                            <option value='barrie'>Barrie</option>
+                            <option value='baton-rouge'>Baton Rouge</option>
+                            <option value='beaumont'>Beaumont, TX</option>
+                            <option value='billings'>Billings / Bozeman</option>
+                            <option value='birmingham'>Birmingham</option>
+                            <option value='bloomington-in'>Bloomington, IN</option>
+                            <option value='boise'>Boise</option>
+                            <option value='boston'>Boston</option>
+                            <option value='buffalo'>Buffalo</option>
+                            <option value='calgary'>Calgary</option>
+                            <option value='cape-breton'>Cape Breton</option>
+                            <option value='cedar-rapids-iowa-city'>Cedar Rapids / Iowa City</option>
+                            <option value='central-jersey'>Central Jersey</option>
+                            <option value='charleston'>Charleston</option>
+                            <option value='charleston-wv'>Charleston, WV</option>
+                            <option value='charlotte'>Charlotte</option>
+                            <option value='chattanooga'>Chattanooga</option>
+                            <option value='chicago'>Chicago</option>
+                            <option value='cincinnati'>Cincinnati</option>
+                            <option value='cleveland'>Cleveland</option>
+                            <option value='colorado-springs'>Colorado Springs</option>
+                            <option value='columbia'>Columbia</option>
+                            <option value='columbia-mo'>Columbia, MO</option>
+                            <option value='columbus'>Columbus</option>
+                            <option value='columbus-ga'>Columbus GA</option>
+                            <option value='corpus-christi'>Corpus Christi</option>
+                            <option value='dallas'>Dallas</option>
+                            <option value='dayton'>Dayton</option>
+                            <option value='daytona-beach'>Daytona Beach</option>
+                            <option value='denver'>Denver</option>
+                            <option value='des-moines'>Des Moines</option>
+                            <option value='detroit'>Detroit</option>
+                            <option value='edmonton'>Edmonton</option>
+                            <option value='el-paso'>El Paso</option>
+                            <option value='erie'>Erie</option>
+                            <option value='eugene'>Eugene</option>
+                            <option value='evansville'>Evansville</option>
+                            <option value='fairfield-county'>Fairfield County</option>
+                            <option value='fort-lauderdale'>Fort Lauderdale</option>
+                            <option value='fort-myers-cape-coral'>Fort Myers / Cape Coral</option>
+                            <option value='fort-wayne'>Fort Wayne</option>
+                            <option value='fort-worth'>Fort Worth</option>
+                            <option value='appleton'>Fox Cities</option>
+                            <option value='fresno'>Fresno</option>
+                            <option value='gainesville'>Gainesville</option>
+                            <option value='grand-rapids'>Grand Rapids</option>
+                            <option value='green-bay'>Green Bay</option>
+                            <option value='greenville'>Greenville</option>
+                            <option value='halifax'>Halifax</option>
+                            <option value='hampton-roads'>Hampton Roads</option>
+                            <option value='harrisburg'>Harrisburg / Lancaster</option>
+                            <option value='hartford'>Hartford</option>
+                            <option value='honolulu'>Honolulu</option>
+                            <option value='houston'>Houston</option>
+                            <option value='huntsville'>Huntsville</option>
+                            <option value='indianapolis'>Indianapolis</option>
+                            <option value='inland-empire'>Inland Empire</option>
+                            <option value='jackson'>Jackson</option>
+                            <option value='jacksonville'>Jacksonville</option>
+                            <option value='kalamazoo'>Kalamazoo</option>
+                            <option value='kansas-city'>Kansas City</option>
+                            <option value='kelowna'>Kelowna</option>
+                            <option value='kingston'>Kingston</option>
+                            <option value='kitchener-waterloo'>Kitchener - Waterloo</option>
+                            <option value='knoxville'>Knoxville</option>
+                            <option value='lakeland'>Lakeland</option>
+                            <option value='lansing'>Lansing</option>
+                            <option value='las-vegas'>Las Vegas</option>
+                            <option value='lexington'>Lexington</option>
+                            <option value='lincoln'>Lincoln</option>
+                            <option value='little-rock'>Little Rock</option>
+                            <option value='london'>London, ON</option>
+                            <option value='long-island'>Long Island</option>
+                            <optgroup label='Los Angeles'>
+                              <option value='los-angeles:los-angeles'>Los Angeles</option>
+                              <option value='los-angeles:san-gabriel-valley'>San Gabriel Valley</option>
+                              <option value='los-angeles:san-fernando-valley'>San Fernando Valley</option>
+                            </optgroup>
+                            <option value='louisville'>Louisville</option>
+                            <option value='lubbock'>Lubbock</option>
+                            <option value='macon'>Macon</option>
+                            <option value='madison'>Madison</option>
+                            <option value='memphis'>Memphis</option>
+                            <option value='miami'>Miami</option>
+                            <option value='midland-odessa'>Midland / Odessa</option>
+                            <option value='milwaukee'>Milwaukee</option>
+                            <option value='minneapolis-stpaul'>Minneapolis / St Paul</option>
+                            <option value='mobile-baldwin-county'>Mobile / Baldwin County</option>
+                            <option value='modesto'>Modesto</option>
+                            <option value='montgomery'>Montgomery</option>
+                            <option value='napa-sonoma'>Napa / Sonoma</option>
+                            <option value='naples'>Naples</option>
+                            <option value='nashville'>Nashville</option>
+                            <option value='new-orleans'>New Orleans</option>
+                            <option value='new-york'>New York City</option>
+                            <option value='north-jersey'>North Jersey</option>
+                            <option value='ocala'>Ocala</option>
+                            <option value='ogden'>Ogden</option>
+                            <option value='oklahoma-city'>Oklahoma City</option>
+                            <option value='omaha'>Omaha</option>
+                            <option value='orange-county'>Orange County</option>
+                            <option value='orlando'>Orlando</option>
+                            <option value='ottawa'>Ottawa</option>
+                            <option value='palm-beach'>Palm Beach</option>
+                            <option value='pensacola'>Pensacola</option>
+                            <option value='philadelphia'>Philadelphia</option>
+                            <option value='phoenix'>Phoenix</option>
+                            <option value='piedmont-triad'>Piedmont Triad</option>
+                            <option value='pittsburgh'>Pittsburgh</option>
+                            <option value='portland'>Portland</option>
+                            <option value='portland-me'>Portland, ME</option>
+                            <option value='providence'>Providence</option>
+                            <option value='raleigh-durham'>Raleigh / Durham</option>
+                            <option value='regina'>Regina</option>
+                            <option value='reno'>Reno</option>
+                            <option value='richmond'>Richmond</option>
+                            <option value='rio-grande-valley'>Rio Grande Valley</option>
+                            <option value='roanoke'>Roanoke</option>
+                            <option value='rochester'>Rochester</option>
+                            <option value='rockford'>Rockford</option>
+                            <option value='sacramento'>Sacramento</option>
+                            <option value='salem-or'>Salem OR</option>
+                            <option value='salt-lake-city'>Salt Lake City</option>
+                            <option value='san-angelo'>San Angelo</option>
+                            <option value='san-antonio'>San Antonio</option>
+                            <option value='san-diego'>San Diego</option>
+                            <optgroup label='San Francisco'>
+                              <option value='san-francisco:san-francisco'>San Francisco</option>
+                              <option value='san-francisco:east-bay'>East Bay</option>
+                            </optgroup>
+                            <option value='san-jose'>San Jose</option>
+                            <option value='santa-barbara'>Santa Barbara</option>
+                            <option value='santa-clarita'>Santa Clarita</option>
+                            <option value='santa-cruz'>Santa Cruz / Monterey</option>
+                            <option value='saskatoon'>Saskatoon</option>
+                            <option value='savannah-hilton-head'>Savannah / Hilton Head</option>
+                            <optgroup label='Seattle'>
+                              <option value='seattle:tacoma'>Tacoma</option>
+                              <option value='seattle:seattle'>Seattle</option>
+                            </optgroup>
+                            <option value='shreveport-bossier'>Shreveport / Bossier</option>
+                            <option value='sioux-falls'>Sioux Falls</option>
+                            <option value='south-bend'>South Bend</option>
+                            <option value='albany-ga'>Southern Georgia</option>
+                            <option value='spokane-coeur-dalene'>Spokane / Coeur d'Alene</option>
+                            <option value='springfield-mo'>Springfield MO</option>
+                            <option value='springfield-ma'>Springfield, MA</option>
+                            <option value='stcatharines-niagara'>St Catharines-Niagara</option>
+                            <option value='st-johns'>St John's</option>
+                            <option value='stlouis'>St Louis</option>
+                            <option value='stockton'>Stockton</option>
+                            <option value='sudbury'>Sudbury / North Bay</option>
+                            <option value='syracuse'>Syracuse</option>
+                            <option value='tallahassee'>Tallahassee</option>
+                            <option value='tampa-bay-area'>Tampa Bay Area</option>
+                            <option value='toledo'>Toledo</option>
+                            <option value='topeka-lawrence'>Topeka / Lawrence</option>
+                            <option selected='selected' value='greater-toronto-area'>Toronto (GTA)</option>
+                            <option value='tucson'>Tucson</option>
+                            <option value='tulsa'>Tulsa</option>
+                            <option value='vancouver'>Vancouver</option>
+                            <option value='ventura-county'>Ventura County</option>
+                            <option value='victoria'>Victoria</option>
+                            <optgroup label='Washington DC'>
+                              <option value='washington-dc:dc-metro'>The District</option>
+                              <option value='washington-dc:northern-virginia'>Northern Virginia</option>
+                              <option value='washington-dc:montgomery-county'>Montgomery County</option>
+                            </optgroup>
+                            <option value='westchester-county'>Westchester County</option>
+                            <option value='wichita'>Wichita</option>
+                            <option value='wilmington-newark'>Wilmington-Newark</option>
+                            <option value='windsor'>Windsor</option>
+                            <option value='winnipeg'>Winnipeg</option>
+                            <option value='worcester'>Worcester</option>
+                            <option value='youngstown'>Youngstown</option>
+                          </select>
+                        </li>
+                        <li class='label'>
+                          <div class="field subscription_email_address text"><input class="email text_field prompting_field input" id="subscription_email_address_description" name="subscription[email_address]" size="30" title="email address" type="text" /></div>
+                        </li>
+                        <li>
+                          <div class="buttons"><input class="btn_subscribe G_event E-Subscribe_Email_Bottom disabled_on_submit button cta_btn button" id="subscription_submit" name="commit" type="submit" value="Subscribe" /></div>
+                        </li>
+                      </ul>
+                    </form>
+                </div>
+        </div>
+      
+        <div id='rail'>
+          <div id='admin_panel_placeholder'></div>
+                <div class='ajax_spinner'></div>
+                <ul id='rail_list'>
+                  <span class="js_attribute" data-value="true" id="division_enabled_for_now" style="display:none;"></span>
+                  <li class='greater-toronto-area' id='now_rail_widget'>
+                      <span class="js_attribute" data-value="api.groupon.com" id="now_api_host" style="display:none;"></span>
+                      <span class="js_attribute" data-value="191c12944d06901822006221e6c44db67ed61803" id="now_api_key" style="display:none;"></span>
+                      <span class="js_attribute" data-value="2" id="now_api_cache_precision" style="display:none;"></span>
+                    <div class="module module_unpadded"><div class="module_content"><div class='now_header module_header'>
+                      <a href="/now"><h3>Groupon Now!</h3></a>
+                    </div>
+                    <div class='now_content horizontally_padded'>
+                    </div>
+                    <p class='horizontally_padded'>
+                      <span>76</span>
+                      deals available today in Toronto (GTA)
+                    </p>
+                    </div></div></li>
+                  <li class='integrated_side_deals'>
+                    <ul class='E-DealsNearBy_Displayed_DealPage G_event control more_great_deals more_great_deals_experiment trackNow'>
+                        <li class='header'>
+                          <h3>
+                            More Great Deals
+                            <a href="/greater-toronto-area/all" class="G_event E-DealsNearBy_ClickViewDeal_DealPage">See All</a>
+                          </h3>
+                        </li>
+                        <li class='side_deal clearfix'>
+                          <h4>
+                            <a href="/deals/fabucraft?c=dnb&amp;p=1">$15 for an Intro to Beading Class at Fab-U-Craft ($30 Value)<br/><span>Multiple Locations</span></a>
+                            <span class='number_sold check_mark'>
+                              <img alt="" class="ib" height="18" src="http://assets2.grouponcdn.com/images/groupon/icons/tipometer/check_mark.png?SxxwvrIa" title="" width="17" />
+                              <span class="number">Over 25</span> bought
+                            </span>
+                          </h4>
+                          <a href="/deals/fabucraft?c=dnb&amp;p=1" alt="$15 for an Intro to Beading Class at Fab-U-Craft ($30 Value)" class="sidedeal G_event E-DealsNearBy_ClickViewDeal_DealPage"><img alt="Fab-u-craft_sidedeal" src="http://assets2.grouponcdn.com/images/site_images/1725/5088/Fab-U-Craft_sidedeal.jpg" /></a>
+                          <div class='price_value'>
+                            <div class='price_tag'>
+                              <h6>C$15</h6>
+                            </div>
+                            <div class='campaign_value'>
+                              C$30 value
+                            </div>
+                            <div class='view_it'>
+                              <a href="/deals/fabucraft?c=dnb&amp;p=1" class="small button buy_btn G_event E-DealsNearBy_ClickViewDeal_DealPage">View It!</a>
+                            </div>
+                          </div>
+                        </li>
+                        <li class='area_deal'>
+                          <a href="/deals/gl-sony-centre-bharati-1?c=dnb&amp;p=2" class="G_event E-DealsNearBy_ClickViewDeal_DealPage"><img alt="Price_tag_view" src="http://assets2.grouponcdn.com/images/groupon/price_tag_view.png?wGDrs3fX" /></a>
+                          <a href="/deals/gl-sony-centre-bharati-1?c=dnb&amp;p=2" class="deal_click_event_tracking_classes title deal_title"><span>Toronto (Sony Centre)</span><br/>Admission to Extravagant Bollywood Musical "Bharati, The Wonder That Is India" at Sony Centre for the Performing Arts. Six Options Available.</a>
+                          <a href="/deals/gl-sony-centre-bharati-1?c=dnb&amp;p=2" class="deal_click_event_tracking_classes title announcement_subject"><span>Toronto (Sony Centre)</span><br/>Up to 51% Off Ticket to Indian Musical</a>
+                          <span class='number_sold check_mark'>
+                            <img alt="" class="ib" height="18" src="http://assets2.grouponcdn.com/images/groupon/icons/tipometer/check_mark.png?SxxwvrIa" title="" width="17" />
+                            <span class="number">Over 87</span> bought
+                          </span>
+                        </li>
+                        <li class='area_deal'>
+                          <a href="/deals/tuina?c=dnb&amp;p=3" class="G_event E-DealsNearBy_ClickViewDeal_DealPage"><img alt="Price_tag_view" src="http://assets2.grouponcdn.com/images/groupon/price_tag_view.png?wGDrs3fX" /></a>
+                          <a href="/deals/tuina?c=dnb&amp;p=3" class="deal_click_event_tracking_classes title deal_title"><span>Toronto (Downtown Toronto)</span><br/>45-Minute Couple’s or Four-Hand Massage or 60-Minute Master Massage at Tuina (Half Off)</a>
+                          <a href="/deals/tuina?c=dnb&amp;p=3" class="deal_click_event_tracking_classes title announcement_subject"><span>Toronto (Downtown Toronto)</span><br/>Half Off Couple’s or Individual Massage</a>
+                          <span class='number_sold check_mark'>
+                            <img alt="" class="ib" height="18" src="http://assets2.grouponcdn.com/images/groupon/icons/tipometer/check_mark.png?SxxwvrIa" title="" width="17" />
+                            <span class="number">Over 150</span> bought
+                          </span>
+                        </li>
+                        <li class='area_deal'>
+                          <a href="/deals/zaggora-toronto-1?c=dnb&amp;p=4" class="G_event E-DealsNearBy_ClickViewDeal_DealPage"><img alt="Price_tag_view" src="http://assets2.grouponcdn.com/images/groupon/price_tag_view.png?wGDrs3fX" /></a>
+                          <a href="/deals/zaggora-toronto-1?c=dnb&amp;p=4" class="deal_click_event_tracking_classes title deal_title"><span>Online Deal</span><br/>$30 for Pair of Weight-Loss Hot Pants from Zaggora ($72.50 Value)</a>
+                          <a href="/deals/zaggora-toronto-1?c=dnb&amp;p=4" class="deal_click_event_tracking_classes title announcement_subject"><span>Online Deal</span><br/>59% Off Pair of Weight-Loss Hot Pants</a>
+                          <span class='number_sold check_mark'>
+                            <img alt="" class="ib" height="18" src="http://assets2.grouponcdn.com/images/groupon/icons/tipometer/check_mark.png?SxxwvrIa" title="" width="17" />
+                            <span class="number">Over 190</span> bought
+                          </span>
+                        </li>
+                        <li class='area_deal'>
+                          <a href="/deals/waterfalls-indian-tapas-toronto?c=dnb&amp;p=5" class="G_event E-DealsNearBy_ClickViewDeal_DealPage"><img alt="Price_tag_view" src="http://assets2.grouponcdn.com/images/groupon/price_tag_view.png?wGDrs3fX" /></a>
+                          <a href="/deals/waterfalls-indian-tapas-toronto?c=dnb&amp;p=5" class="deal_click_event_tracking_classes title deal_title"><span>Toronto</span><br/>Dinner for Two or Four at Waterfalls Indian Tapas Bar & Grill</a>
+                          <a href="/deals/waterfalls-indian-tapas-toronto?c=dnb&amp;p=5" class="deal_click_event_tracking_classes title announcement_subject"><span>Toronto</span><br/>Up to 55% Off at Waterfalls Indian Tapas Bar & Grill</a>
+                          <span class='number_sold check_mark'>
+                            <img alt="" class="ib" height="18" src="http://assets2.grouponcdn.com/images/groupon/icons/tipometer/check_mark.png?SxxwvrIa" title="" width="17" />
+                            <span class="number">Over 200</span> bought
+                          </span>
+                        </li>
+                        <li class='area_deal'>
+                          <a href="/deals/concepts-salon-spa?c=dnb&amp;p=6" class="G_event E-DealsNearBy_ClickViewDeal_DealPage"><img alt="Price_tag_view" src="http://assets2.grouponcdn.com/images/groupon/price_tag_view.png?wGDrs3fX" /></a>
+                          <a href="/deals/concepts-salon-spa?c=dnb&amp;p=6" class="deal_click_event_tracking_classes title deal_title"><span>Multiple Locations</span><br/>$45 for a Spa Manicure and Standard Pedicure at Concepts Salon & Spa ($98 Value)</a>
+                          <a href="/deals/concepts-salon-spa?c=dnb&amp;p=6" class="deal_click_event_tracking_classes title announcement_subject"><span>Multiple Locations</span><br/>54% Off  Spa Manicure and Standard Pedicure</a>
+                          <span class='number_sold check_mark'>
+                            <img alt="" class="ib" height="18" src="http://assets2.grouponcdn.com/images/groupon/icons/tipometer/check_mark.png?SxxwvrIa" title="" width="17" />
+                            <span class="number">Over 150</span> bought
+                          </span>
+                        </li>
+                        <li class='area_deal'>
+                          <a href="/deals/g1g-opus-hotel-montreal-greater-toronto-area-on?c=dnb&amp;p=7" class="G_event E-DealsNearBy_ClickViewDeal_DealPage"><img alt="Price_tag_view" src="http://assets2.grouponcdn.com/images/groupon/price_tag_view.png?wGDrs3fX" /></a>
+                          <a href="/deals/g1g-opus-hotel-montreal-greater-toronto-area-on?c=dnb&amp;p=7" class="deal_click_event_tracking_classes title deal_title"><span>Montreal (Montreal, Quebec)</span><br/>One-Night Stay in Deluxe Room or Junior Suite, Drinks, and Breakfast for Two at Opus Hotel Montreal</a>
+                          <a href="/deals/g1g-opus-hotel-montreal-greater-toronto-area-on?c=dnb&amp;p=7" class="deal_click_event_tracking_classes title announcement_subject"><span>Montreal (Montreal, Quebec)</span><br/>Modish Boutique Hotel in Downtown Montreal</a>
+                          <span class='number_sold check_mark'>
+                            <img alt="" class="ib" height="18" src="http://assets2.grouponcdn.com/images/groupon/icons/tipometer/check_mark.png?SxxwvrIa" title="" width="17" />
+                            <span class="number">Over 1</span> bought
+                          </span>
+                        </li>
+                      </ul>
+                  </li>
+                  <li id='channel_callout'>
+                    <a href="/greater-toronto-area/getaways?d=travel_countmein" class="G_Event E-GetawaysPromotion" title="NEW! Check out Groupon Getaways"><img alt="Getaways Deals" src="http://assets2.grouponcdn.com/images/groupon/channels/getaways_callout.png?O1l77rGN" /></a>
+                  </li>
+                  <li>
+                    <div class='callout facebook_widget'>
+                      <div class="module"><div class="module_top"><h3>Enjoy Groupon with Friends</h3></div><div class="module_content"><div class='callout_content clearfix'>
+                        <p>
+                          <!-- Tell your friends about Groupon, plan group activities and share personal recommendations. -->
+                          Tell your friends about Groupon, plan activities and share recommendations.
+                        </p>
+                        <fb:login-button onlogin="Groupon.FacebookConnect.onConnect()" scope="publish_stream,email,user_birthday,offline_access,user_checkins,friends_checkins"></fb:login-button>
+                        <fb:facepile max-rows="1" width="210"></fb:facepile>
+                      </div>
+                      </div></div></div>
+                  </li>
+                  <li>
+                <div class="module" id="groupon_promise"><div class="module_top"><h3>Our Promise To You</h3></div><div class="module_content"><a href="/groupon-promise"><img alt="The Groupon Promise" src="http://assets2.grouponcdn.com/images/groupon/merchants/groupon-promise.png?axl8XglH" /></a>
+                  <p>Nothing is more important to us than treating our customers well.</p>
+                  <p>If you ever feel like Groupon let you down, give us a call and we'll return your purchase &ndash; simple as that.</p>
+                </div></div>  </li>
+                  <li id='ad_placement'>
+                    <div class="module openx"><div class="module_top"><h3>More from Groupon</h3></div><div class="module_content"><script type='text/javascript'><!--//<![CDATA[
+                      var m3_u = (location.protocol=='https:'?'https://d.groupon.com/ajs.php':'http://d.groupon.com/ajs.php');
+                      var m3_r = Math.floor(Math.random()*99999999999);
+                      if (!document.MAX_used) document.MAX_used = ',';
+                      document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+                      document.write ("?zoneid=185&amp;target=_blank");
+                      document.write ('&amp;cb=' + m3_r);
+                      if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+                      document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+                      document.write ("&amp;loc=" + escape(window.location));
+                      if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+                      if (document.context) document.write ("&context=" + escape(document.context));
+                      if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+                      document.write ("'><\/scr"+"ipt>");
+                      //]]>--></script><noscript><a href='http://d.groupon.com/ck.php?n=zone_185&amp;cb=94029051948' target='_blank'><img src='http://d.groupon.com/avw.php?zoneid=185&amp;cb=94029051948&amp;n=zone_185' border='0' alt='' /></a></noscript>
+                      </div></div>
+                  </li>
+                </ul>
+        </div>
+      </div>
+      <div id='footer'>
+        <div class='footer_wrapper_top'>
+                <div class='footer'>
+                  <div class='top clearfix'>
+                    <ul class='clearfix'>
+                      <li class='doublewide'>
+                        <dl>
+                          <dt>
+                            <a href="/mobile"><img alt="Footer_phones" src="http://assets2.grouponcdn.com/images/common/footer_phones.png?zWjPOwTp" /></a>
+                          </dt>
+                          <dd>
+                            <p class='title'>Get Groupon on your mobile phone.</p>
+                            <div class='logged_in'>
+                              <form action="/mobile/sms_message" class="sms_form" data-remote="true" method="post"><div style="margin:0;padding:0"><input name="authenticity_token" type="hidden" value="EoXBJ5l5HZVdosi2I6ldeOjfu98PTxJrqTeDLBdBNTM=" /></div>
+                                <p>Enter your US mobile number with area code. We’ll send you a link to the app.</p>
+                                <div class='fields'>
+                                  <input class="text prompting_field required phoneUS" id="message_to" name="message[to]" placeholder="(xxx) xxx-xxxx" type="text" value="" />
+                                  <input class="button small G_event E-FooterSMS_SendLink_WaterDepotOakvilleDealOfTheDayGrouponTorontoGTA" name="commit" type="submit" value="Send Link" />
+                                </div>
+                              </form>
+                              <div class='success'>
+                                <h3>Success!</h3>
+                                <p>We've sent an SMS to your phone. Click the link to download the Groupon app.</p>
+                              </div>
+                            </div>
+                            <div class='logged_out'>
+                              <p>Purchase, manage and redeem Groupons directly from your mobile device.</p>
+                              <p><a href="/mobile">Get the app now</a></p>
+                            </div>
+                          </dd>
+                        </dl>
+                      </li>
+                      <li>
+                        <dl>
+                          <dt class='bucket log'>
+                            <a href="/pages/affiliates"><span></span>Groupon Affiliates</a>
+                          </dt>
+                          <dd>
+                            Get paid for spreading the word with our affiliate program.
+                            <a href="/pages/affiliates" title="Groupon Affiliates">Become an affiliate</a>
+                          </dd>
+                        </dl>
+                      </li>
+                      <li>
+                        <dl>
+                          <dt class='bucket works'>
+                            <a href="http://www.grouponworks.com"><span></span>Groupon for Your Business</a>
+                          </dt>
+                          <dd>
+                            Learn how to get your business featured on Groupon.
+                            <a href="http://www.grouponworks.com" title="GrouponWorks for your business">Learn more</a>
+                          </dd>
+                        </dl>
+                      </li>
+                      <li>
+                        <dl>
+                          <dt class='bucket gteam'>
+                            <a href="/g-team"><span></span>Help Your Community</a>
+                          </dt>
+                          <dd>
+                            Make a difference in your local community.
+                            <a href="/g-team" title="Groupon for Your Community">Submit ideas and get involved</a>
+                          </dd>
+                        </dl>
+                      </li>
+                      <!-- %li -->
+                      <!-- .follow_us.clearfix -->
+                      <!-- %dl -->
+                      <!-- %dt Follow Us: -->
+                      <!-- %dd= link_to("Follow Groupon on Twitter", groupon_division_twitter(division), :class=>"sprite twitter") -->
+                      <!-- %dd= link_to("Follow Groupon on Facebook", groupon_division_fb(division), :class=>"sprite facebook") -->
+                      <!-- %dd= link_to("Follow Groupon RSS", groupon_division_rss(division), :class=>"sprite rss") -->
+                      <!-- %dd= link_to("Sign Up for Groupon", groupon_subscribe_path, :class=>"sprite email") -->
+                    </ul>
+                  </div>
+                </div>
+              </div>
+              <div class='footer_wrapper_bottom'>
+                <div class='footer'>
+                  <div class='bottom clearfix'>
+                    <ul>
+                      <li>
+                        <dl>
+                          <dt>Company</dt>
+                          <dd><a href="/">Home</a></dd>
+                          <dd><a href="/about">About Groupon</a></dd>
+                          <dd><a href="http://www.groupon.com/blog">Blog</a></dd>
+                          <dd><a href="/press">Press</a></dd>
+                          <dd><a href="/jobs">Jobs</a></dd>
+                        </dl>
+                      </li>
+                      <li>
+                        <dl>
+                          <dt>Get Help</dt>
+                          <dd><a href="/faq">FAQ</a></dd>
+                          <dd><a href="https://www.groupon.com/support">Customer Support</a></dd>
+                          <dd><a href="/groupon-promise">Return Policy</a></dd>
+                          <dd><a href="/terms">Terms of Use</a></dd>
+                          <dd><a href="/privacy">Privacy Statement</a></dd>
+                        </dl>
+                      </li>
+                      <li>
+                        <dl>
+                          <dt>Work With Us</dt>
+                          <dd><a href="/pages/affiliates">Affiliate Program</a></dd>
+                          <dd><a href="http://www.grouponworks.com/get-featured">Run a Deal</a></dd>
+                          <dd><a href="/pages/api">Developers / API</a></dd>
+                          <dd><a href="/widget">Groupon Referral Widget</a></dd>
+                          <dd><a href="/g-team">Help Your Community</a></dd>
+                        </dl>
+                      </li>
+                      <li>
+                        <dl>
+                          <dt>More...</dt>
+                          <dd><a href="/giftcards">Gift Cards</a></dd>
+                          <dd><a href="/mobile">Mobile</a></dd>
+                          <dd><a href="http://www.liveoffgroupon.com">Live Off Groupon</a></dd>
+                          <dd><a href="http://www.grouspawn.com">Grouspawn</a></dd>
+                          <dd><a href="http://www.meetup.com/groupon">Meetups</a></dd>
+                          <dd><a href="http://www.flickr.com/photos/grouponcorporate/sets">Share Photos</a></dd>
+                        </dl>
+                      </li>
+                      <li class='footer_about'>
+                        <h4>Unbeatable Deals for Local Adventures!</h4>
+                        <p>
+                          Groupon is an easy way to get huge discounts while discovering fun activities in your city. Our daily deals consist of
+                          <a href="/deals/categories/restaurant" title="Groupon Restaurant Deals">restaurants</a>,
+                          <a href="/deals/categories/spa" title="Groupon Spa Deals">spas</a>,
+                          <a href="/deals/categories/massage" title="Groupon Massage Deals">massages</a>,
+                          <a href="/deals/categories/theater" title="Groupon Theater Deals">theaters</a>,
+                          <a href="/deals/categories/hotel" title="Groupon Hotel Deals">hotels</a>,
+                          and a whole lot more, in hundreds of cities across the world.
+                        </p>
+                        <div class='copyright'>
+                          <p>&copy; 2011 Groupon, Inc. All Rights Reserved.</p>
+                        </div>
+                        <div class='follow_us clearfix'>
+                          <dl>
+                            <dt>Follow Us:</dt>
+                            <dd><a href="http://www.twitter.com/GrouponToronto" class="sprite twitter">Follow Groupon on Twitter</a></dd>
+                            <dd><a href="http://www.facebook.com/groupontoronto" class="sprite facebook">Follow Groupon on Facebook</a></dd>
+                            <dd><a href="http://feeds.feedburner.com/groupongreater-toronto-area" class="sprite rss">Follow Groupon RSS</a></dd>
+                            <dd><a href="/subscribe" class="sprite email">Sign Up for Groupon</a></dd>
+                          </dl>
+                        </div>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+      </div>
+    
+    
+      <!-- / JAVASCRIPTS load next -->
+    
+      <span class="js_attribute" data-value="{&quot;_tpref&quot;:{&quot;path&quot;:&quot;/&quot;,&quot;value&quot;:&quot;cdn&quot;,&quot;expires&quot;:&quot;2011/10/29 19:20:47 +0000&quot;,&quot;domain&quot;:&quot;.groupon.com&quot;}}" id="tracking_cookies" style="display:none;"></span>
+      <span class="js_attribute" data-value="[]" id="tracking_cookies_to_delete" style="display:none;"></span>
+    </div>
+    <!-- / jquery loaded in personalize_js -->
+    <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.10/jquery-ui.min.js" type="text/javascript"></script>
+          <script src="http://assets2.grouponcdn.com/static/javascripts/dev/jquery.validate-DEXiqLMx.js" type="text/javascript"></script>
+          <script src="http://assets2.grouponcdn.com/static/javascripts/common/md5-tMA6wtV9.js" type="text/javascript"></script>
+    <script type='text/javascript'>
+      //<![CDATA[
+        if (typeof Groupon.onCurrentUserReady == "undefined") {
+          Groupon.onCurrentUserReady = function(callback){
+            if (typeof Groupon.currentUser != "undefined" ) {
+              return callback();
+            };
+            $(document).bind('currentUserReady', function(){
+              return callback();
+            });
+          };
+          Groupon.onFacebookReady = function(callback){
+            if (typeof Groupon.facebookReady != "undefined" ) {
+              return callback();
+            };
+            $(document).bind('facebookReady', function(){
+              return callback();
+            });
+          };
+        };
+      //]]>
+    </script>
+    <script src="http://assets2.grouponcdn.com/static/assets/application-zjA16Ccq.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+Groupon.Application.setDivision("greater-toronto-area");
+
+//]]>
+</script>    <script type='text/javascript'>
+      //<![CDATA[
+        Groupon.onCurrentUserReady(function(){
+          if (Groupon.currentUser.isAuthenticated) {
+            Groupon.Application.setLoggedIn();
+          }
+          if (Groupon.currentUser.isAuthenticated && !Groupon.currentUser.subscribedToCurrentDivision && !Groupon.currentChannel) {
+            Groupon.Subscription.setAutoSubscribe(Groupon.currentUser.emailAddress);
+          }
+        });
+      //]]>
+    </script>
+    <!--[if IE 6]>
+      <script src="http://assets2.grouponcdn.com/static/assets/ie6-hVsiI_b8.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type='text/javascript'>
+            //<![CDATA[
+              var $IE = false
+            //]]>
+          </script>
+          <script src="http://assets2.grouponcdn.com/static/assets/deal_page-YLeT4aqq.js" type="text/javascript"></script>
+          <script src="http://assets2.grouponcdn.com/static/assets/now_backbone_models-YZ8ryRvO.js" type="text/javascript"></script>
+          <script src="http://assets2.grouponcdn.com/static/assets/now_search_unit_v2-gtmOR_L5.js" type="text/javascript"></script>
+          <script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
+        
+          <script type='text/javascript'>
+            //<![CDATA[
+              $(function() {
+                $('.openx:has(img)').show();
+              });
+            //]]>
+          </script>
+          <script src="http://assets2.grouponcdn.com/static/javascripts/views/deals/places_callout-ePlogrbR.js" type="text/javascript"></script>
+          <script src="http://assets2.grouponcdn.com/static/javascripts/app/places/tracker-fLf23iTs.js" type="text/javascript"></script>
+          <script src="http://assets2.grouponcdn.com/static/javascripts/views/deals/places_callout-ePlogrbR.js" type="text/javascript"></script>
+          <script src="http://assets2.grouponcdn.com/static/javascripts/app/places/tracker-fLf23iTs.js" type="text/javascript"></script>
+    <script src="http://assets2.grouponcdn.com/static/javascripts/common/flash_messages-bzfOUgTU.js" type="text/javascript"></script>
+    <script src="http://assets2.grouponcdn.com/static/assets/facebook-j6mfPDsw.js" type="text/javascript"></script>
+    <script type='text/javascript'>
+            //<![CDATA[
+              Groupon.facebookApiKey = "ddb107c4c50eca3b5705114a7d573cb8";
+              Groupon.facebookAppId = "7829106395";
+              Groupon.onCurrentUserReady(function() {
+                if(window.FB) {
+                  Groupon.Facebook.init();
+                  $("#fb-root").fire("facebook:loaded");
+                  Groupon.facebookReady = true;
+                  $.event.trigger('facebookReady');
+                } else {
+                  window.fbAsyncInit = function() {
+                    Groupon.Facebook.init();
+                    $("#fb-root").fire("facebook:loaded");
+                    Groupon.facebookReady = true;
+                    $.event.trigger('facebookReady');
+                  };
+                }
+                if (Groupon.currentUser.isAuthenticated && Groupon.currentUser.connectedWithFacebook) {
+                  Groupon.Application.setConnectedWithFacebook();
+                };
+                if (Groupon.currentUser.isAuthenticated) {
+                  $(".facebook_widget").remove();
+                };
+              });
+            //]]>
+          </script>
+    <script type='text/javascript'>
+            var gaJsHost = (("https:" == document.location.protocol) ? " https://ssl." : "http://www.");
+            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+          </script>
+          <script type='text/javascript'>
+            //<![CDATA[
+              if(window.google_goal){
+                _gaq.push(['_trackPageview', google_goal]);
+                _gaq.push(['_addTrans', google_order_id, "", google_amount, "", "", "", "", ""]); // Order ID (Membership ID), Affiliation, Amount, Tax, Shipping, City, State, Country
+                _gaq.push(['_addItem', google_order_id, google_sku, google_product_name, "Uncategorized", google_unit_price, google_quantity]); // Order ID (Membership ID), SKU, Product Name, Category, (Unit) Price, Quantity
+                _gaq.push(['_trackTrans']);
+              } else {
+                _gaq.push(['_trackPageview']);
+              }
+            //]]>
+          </script>
+  
+    <div class='inserted_tracking_container' style='display: none'>
+          
+          </div>
+    <script type='text/javascript'>
+            //<![CDATA[
+              Event.onReady(function(ev){
+                Groupon.onCurrentUserReady(function(){Groupon.Analytics.trackEvent('record','showDeal',{'Campaign':Groupon.currentDeal.title,'Division':Groupon.currentDeal.divisionName});});
+            
+            
+                if(typeof(Groupon.Finch) != "undefined")
+                  Groupon.Finch.execute();
+              });
+            //]]>
+          </script>
+    <script type='text/javascript'>
+      //<![CDATA[
+        Groupon.onCurrentUserReady(function(){
+          var src = "/analytic/view.gif?";
+          src += 'ref=' + encodeURIComponent(document.referrer);
+          if (Groupon.currentDeal && Groupon.currentDeal.permalink) {
+            src += '&d=' + encodeURIComponent(Groupon.currentDeal.permalink);
+          };
+          src += '&_=' + (new Date()).getTime();
+          $(document.createElement("img")).attr({ src: src, height:1, width:1}).appendTo($('body'));
+        });
+      //]]>
+    </script>
+    <noscript>
+      <img height='1' src='/analytic/view.gif' width='1' />
+      <div id='noscript_warning'>
+        Groupon works best with JavaScript enabled
+      </div>
+    </noscript>
+  <script>(function(){var d=document;var e=d.createElement("script");e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/19/eum/rum.js";var s=d.getElementsByTagName("script")[0];s.parentNode.insertBefore(e,s);})();NREUMQ.push(["nrf2","beacon-1.newrelic.com","fffa2293e6",80779,"JQkPEEYOCQ8GQ0oJXwsDTg1aBQAb",250,225,new Date().getTime()])</script></body>
+      </html>

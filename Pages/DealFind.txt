@@ -1,0 +1,959 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+  <!--Web site designed by www.mgpowers.com-->
+  <title>Kitchener - Waterloo Deal of the Day, Local Daily Deals from Dealfind</title>
+  <meta http-equiv="Content-type" content="text/html; charset=UTF-8" />
+  
+    	<meta property="fb:app_id" content="132703016768313"/>
+  	<meta property="og:type" content="company"/>
+  	<meta property="og:title" content="TAZLINC Products"/>	
+	<meta property="og:url" content="http://originalqstick.com/" />
+	<meta property="og:image" content="http://www.dealfind.com/img/facebook/originalqstick_com_6_5.JPG" />	
+	<meta property="og:description" content="$16 for 2 Facial Hair Removal QSticks from TAZLINC Products ($32 Value)"/>
+	<meta property="og:site_name" content="dealfind.com" />
+	<meta property="og:latitude" content="" />
+	<meta property="og:longitude" content="" />
+	<meta property="og:street-address" content="Online Redemption:" />
+	<meta property="og:locality" content="http://originalqstick.com" />
+	<meta property="og:region" content="" />
+	<meta property="og:postal-code" content="" />
+	<meta property="og:country-name" content="" />
+      
+  
+    <!-- Exception Hub start -->
+<script type="text/javascript">
+var ehHost = (("https:" == document.location.protocol) ? "https://ssl" : "http://js");
+document.write(unescape("%3Cscript src='" + ehHost + ".exceptionhub.com/javascripts/eh.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script>
+try {
+ExceptionHub.setup("8b76c2c7639f68fa1647ca9999cdf64c", 522, 'Production');
+} catch(e) {}
+</script>
+<!-- Exception Hub end -->
+  
+  <link rel="stylesheet" type="text/css" href="http://a1.dealfindcdn.com/September-20th-2011/css/settings.css" />  <link rel="stylesheet" type="text/css" href="http://a1.dealfindcdn.com/September-20th-2011/css/settings2.css" />  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <link rel="shortcut icon" type="image/x-icon" href="http://a1.dealfindcdn.com/September-20th-2011/img/favicon.ico" />
+  <script type="text/javascript" src="http://a1.dealfindcdn.com/September-20th-2011/!/third-party/js/jquery.tools.min.js"></script>  <script>
+    var SSL = false;
+  </script>
+  
+  <script type="text/javascript" src="http://a1.dealfindcdn.com/September-20th-2011/js/main.js"></script>    
+  <script type="text/javascript" src="http://a1.dealfindcdn.com/September-20th-2011/!/third-party/js/fancybox/jquery.fancybox.pack.js"></script><style type="text/css">@import url("http://a1.dealfindcdn.com/September-20th-2011/!/third-party/js/fancybox/jquery.fancybox.facebox.css");</style><link rel="stylesheet" type="text/css" href="http://a1.dealfindcdn.com/September-20th-2011/css/message-box.css" />  <link rel="stylesheet" type="text/css" href="http://a1.dealfindcdn.com/September-20th-2011/!/css/form.css" /><script type="text/javascript" src="http://a1.dealfindcdn.com/September-20th-2011/!/js/validation.js"></script><script type="text/javascript" src="http://a1.dealfindcdn.com/September-20th-2011/!/js/misc.js"></script><link rel="image_src" href="http://www.dealfind.com/img/facebook/originalqstick_com_6_5.JPG" /><script type="text/javascript" src="http://a1.dealfindcdn.com/September-20th-2011/js/sharing.js"></script><script type="text/javascript" src="http://a1.dealfindcdn.com/September-20th-2011/js/deal.js"></script><script type="text/javascript" src="http://a1.dealfindcdn.com/September-20th-2011/js/deal-status-box.js"></script><script type="text/javascript" src="http://maps.google.com/maps?file=api&amp;v=2&amp;key=ABQIAAAAzf3T4_SQyv_aQdBe69gVlBS-M2xRY0ZlOT212b_yQdFt1TNytxSma9JRhdXFRSX3UNOKEgQl8Rt9ng"></script><meta name="title" content="Kitchener - Waterloo Deal of the Day, Local Daily Deals from Dealfind" /><meta name="description" content="Get 50 to 90 percent off the best stuff your city has to offer. Save on restaurants, spas, shopping, salons and more. Hot deals in Kitchener - Waterloo." />  <script type="text/javascript" src="http://a1.dealfindcdn.com/September-20th-2011/!/third-party/js/jquery.pngFix.pack.js"></script>  <script type="text/javascript" src="http://a1.dealfindcdn.com/September-20th-2011/!/third-party/js/jquery.watermark.js"></script>  <script type="text/javascript" src="http://a1.dealfindcdn.com/September-20th-2011/!/third-party/js/DD_roundies_0.0.2a-min.js"></script>	<!--[if lte IE 6]>
+		<link rel="stylesheet" type="text/css" href="/css/ie6.css" />
+	<![endif]-->
+	<!--[if IE 7]>
+		<link rel="stylesheet" type="text/css" href="/css/ie7.css" />
+	<![endif]-->
+	<!--[if IE 8]>
+	  	<link rel="stylesheet" type="text/css" href="/css/ie8.css" />
+	<![endif]-->
+  <!--[if lt IE 8]>
+	  <script type="text/javascript" src="/!/third-party/js/DD_belatedPNG_0.0.8a-min.js"></script>
+	  <script type="text/javascript">
+	    $(document).ready(function() {
+	      DD_belatedPNG.fix('.pngfix');
+	    });
+	  </script>
+  <![endif]-->
+
+  <script type="text/javascript">
+    DD_roundies.addRule('.border-radius-10', '10px');
+    DD_roundies.addRule('.border-radius-5', '5px');
+    DD_roundies.addRule('.border-radius-10-top-only', '10px 10px 0 0');
+    DD_roundies.addRule('.border-radius-10-bottom-only', '0 0 10px 10px');
+    var UserCityName = "Kitchener - Waterloo";
+  </script>
+
+
+  <script type="text/javascript" src="/js/DFJUL2011.js"></script>
+  <link rel="stylesheet" type="text/css" href="/css/DFJUl2011.css" />
+  <script type="text/javascript">
+    var FACEBOOK_API_KEY = "132703016768313";
+  </script>
+</head>
+
+<body>
+<div id="fb-root"></div>
+<!-- ClickTale Top part -->
+<script type="text/javascript">
+var WRInitTime=(new Date()).getTime();
+</script>
+<!-- ClickTale end of Top part -->
+
+
+<div class="notificationBox">
+  	<div class="infoBox" style="display:none;">
+	    <span class="notificationTxt">Permission denied. Click "Request Permission" to give this domain access to send notifications to your desktop.</span>
+	  	<a href="#" class="button" id="request-permission">Request Permission</a>
+  	</div>
+  	<div class="errorBox" style="display:none;">
+	    <span class="notificationTxt">This browser does not support desktop notifications. Try <a href="http://www.google.com/chrome">Chrome</a> instead.</span>
+  	</div>  	
+</div>
+
+  <div style="position:absolute; width:1px; height:1px; z-index:3000; top:0;left:0;text-align:left;">
+        <div id="divMessageBox" class="MessageBoxWindow">
+      <form id="frmMessageBox">
+        <div id="divMessageBoxContainer" class="MessageBoxContainer">
+          <div id="divMessageBoxHandle" class="MessageBoxHandle">
+            <div>
+              <div id="divMessageBoxTitle" class="MessageBoxTitle"></div>
+              <img src=/!/img/zero.gif width=23 height=1>
+            </div>
+            <div class="divMessageBoxCloseButton">
+              <a id=aMessageBoxClose href="#close"><img
+                        src="http://a1.dealfindcdn.com/September-20th-2011/!/img/btnCloseSmall.png" width=13 height=13 border=0
+                        id="btnMessageBoxClose"
+                        onmouseover="$('#btnMessageBoxClose').attr('src', 'http://a1.dealfindcdn.com/September-20th-2011/!/img/btnCloseSmall-Highlighted.png');"
+                        onmouseout="$('#btnMessageBoxClose').attr('src', 'http://a1.dealfindcdn.com/September-20th-2011/!/img/btnCloseSmall.png');"
+                  ></a>
+            </div>
+          </div>
+          <div id="divMessageBoxContent" class="MessageBoxContent"></div>
+          <div id="divMessageBoxButtons" class="MessageBoxButtons">
+          </div>
+        </div>
+      </form>
+    </div>
+    <script type="text/javascript" src="http://a1.dealfindcdn.com/September-20th-2011/!/js/message-box.js"></script>      </div>
+      <div id="divQuickMessage" class="MessageBox_Quick"></div>
+    <script type="text/javascript" src="http://a1.dealfindcdn.com/September-20th-2011/!/js/quick-message.js"></script>    
+
+<!--  start 2011 template  -->
+<div class="root">
+
+	<div class="topInfo clearfix">
+		  <div class="topInfo1">Total Dollars Saved: $289,862,486</div>
+			  <div class="topInfo2">Total Vouchers Bought: 1,292,146</div>
+		  </div>
+
+  <div class="banner padB10">  
+	<div class="bannerTop">
+		<a class="logo logo_Dealfind" href="/">&nbsp;</a>
+							<div class="bannerCenter">
+					<ul>
+						<li class="title">Huge Savings on the Best in:</li>
+						<li class="city">Kitchener - Waterloo</li>
+						<li><a id="changeCity" href="#change-city">Change City</a></li>
+					</ul>
+					<!-- city list -->
+					<div class="cityBox" style="display:none">
+						<div id="divChangeCityUho" class="divChangeCityUho">Change&nbsp;City</div>
+						<div id="divChangeCityBox" class="divChangeCityBox">
+							<h3>Canada</h3>
+<ul class="cList">
+<li><a href="/abbotsford/" class="active">Abbotsford</a></li><li><a href="/barrie/" class="active">Barrie</a></li><li><a href="/brampton/" class="active">Brampton</a></li><li><a href="/calgary/" class="active">Calgary</a></li><li><a href="/durham/" class="active">Durham Region</a></li><li><a href="/edmonton/" class="active">Edmonton</a></li><li><a href="/halifax/" class="active">Halifax</a></li><li><a href="/hamilton/" class="active">Hamilton</a></li><li><a href="/kelowna/" class="active">Kelowna</a></li><li><a href="/kingston/" class="active">Kingston</a></li><li><a href="/kitchener-waterloo/" class="active">Kitchener - Waterloo</a></li><li><a href="/london/" class="active">London</a></li><li><a href="/mississauga/" class="active">Mississauga</a></li><li><a href="/montreal/" class="active">Montreal</a></li><li><a href="/oakville-burlington/" class="active">Oakville - Burlington</a></li><li><a href="/ottawa/" class="active">Ottawa</a></li><li><a href="/quebec-city/" class="">Quebec City</a></li><li><a href="/regina/" class="active">Regina</a></li><li><a href="/saskatoon/" class="active">Saskatoon</a></li><li><a href="/st-catharines-niagara/" class="active">St. Catharines - Niagara</a></li><li><a href="/st-johns/" class="active">St. John&#039;s</a></li><li><a href="/sudbury/" class="active">Sudbury - North Bay</a></li><li><a href="/surrey/" class="active">Surrey</a></li><li><a href="/toronto/" class="active">Toronto</a></li><li><a href="/vancouver/" class="active">Vancouver</a></li><li><a href="/victoria/" class="active">Victoria</a></li><li><a href="/windsor/" class="active">Windsor</a></li><li><a href="/winnipeg/" class="active">Winnipeg</a></li><li><a href="/york-region/" class="active">York Region</a></li>
+</ul>
+<h3>USA</h3>
+<ul class="cList">
+<li><a href="/atlanta/" class="active">Atlanta</a></li><li><a href="/austin/" class="">Austin</a></li><li><a href="/baltimore/" class="active">Baltimore</a></li><li><a href="/boston/" class="active">Boston</a></li><li><a href="/charlotte/" class="">Charlotte</a></li><li><a href="/chicago/" class="active">Chicago</a></li><li><a href="/cleveland/" class="">Cleveland</a></li><li><a href="/dallas/" class="active">Dallas</a></li><li><a href="/denver/" class="">Denver</a></li><li><a href="/detroit/" class="">Detroit</a></li><li><a href="/fort-lauderdale/" class="">Fort Lauderdale</a></li><li><a href="/houston/" class="active">Houston</a></li><li><a href="/indianapolis/" class="">Indianapolis</a></li><li><a href="/kansas/" class="">Kansas</a></li><li><a href="/las-vegas/" class="">Las Vegas</a></li><li><a href="/los-angeles/" class="active">Los Angeles</a></li><li><a href="/miami/" class="active">Miami</a></li><li><a href="/milwaukee/" class="">Milwaukee</a></li><li><a href="/minneapolis/" class="active">Minneapolis</a></li><li><a href="/nashville/" class="">Nashville</a></li><li><a href="/new-orleans/" class="">New Orleans</a></li><li><a href="/new-york-city/" class="active">New York City</a></li><li><a href="/norfolk/" class="">Norfolk</a></li><li><a href="/orange-county/" class="">Orange County</a></li><li><a href="/orlando/" class="">Orlando</a></li><li><a href="/philadelphia/" class="active">Philadelphia</a></li><li><a href="/phoenix/" class="active">Phoenix</a></li><li><a href="/pittsburgh/" class="">Pittsburgh</a></li><li><a href="/portland/" class="">Portland</a></li><li><a href="/raleigh/" class="">Raleigh</a></li><li><a href="/richmond/" class="active">Richmond</a></li><li><a href="/sacramento/" class="">Sacramento</a></li><li><a href="/st-louis/" class="">Saint Louis</a></li><li><a href="/salt-lake-city/" class="">Salt Lake City</a></li><li><a href="/san-antonio/" class="active">San Antonio</a></li><li><a href="/san-diego/" class="active">San Diego</a></li><li><a href="/san-francisco/" class="active">San Francisco</a></li><li><a href="/san-jose/" class="">San Jose</a></li><li><a href="/seattle/" class="active">Seattle</a></li><li><a href="/tampa/" class="">Tampa</a></li><li><a href="/washington-dc/" class="active">Washington DC</a></li>
+</ul>						<div id="dealNowKey"><img src="http://a1.dealfindcdn.com/September-20th-2011/images/active_deal.gif" /> = Deal Happening Now</div>
+						</div>					
+					</div>
+				</div>
+				<div class="bannerRight">
+					 					Subscribe to get up to 90% off in<br />Toronto
+					<form id="frmSubscribeToCityDealsBox" method="post" action="/subscribe-to-city-deals.php">
+					  <input type="text" id="EmailBox" name="Email" class="watermark" value="Enter your e-mail address..." />
+					  <button type="submit"></button>
+					</form>
+					 					<div class="follow clear">
+						<div class="left">or Follow us:</div>
+												<a class="iconFB" target="_blank" href="http://www.facebook.com/pages/x/103989262996082">&nbsp;</a>
+						 						 						<a class="iconTW" target="_blank" href="http://twitter.com/dealfindwaterlo">&nbsp;</a>
+																		<a class="iconRSS" target="_blank" href="/rss/kitchener-waterloo.rss">&nbsp;</a>
+						 			
+					</div>
+				</div>	
+			  		</div>
+  		<div class="bannerBottom pngfix">
+  				  		<a class="rLine" href="/how-it-works.php">How It Works</a>
+			<a class="rLine" href="/recent-deals.php">Past Deals</a>
+			<a class="rLine" href="/">Today's Deal</a>
+	              <div id="divCurrentSessionBox">
+        <script>
+      var LoggedIn = false;
+      var LoggedUserEmail = null;
+    </script>
+    <div class="fconnect">
+       <fb:login-button scope="email" length="short" show_faces='false' background="light" size="medium" onlogin="UpdateCurrentSessionBox();">Connect</fb:login-button>
+      <img src=/!/img/zero.gif width=116 height=1>
+    </div>
+    <div class="signin"><a href="/sign-in.php">Sign In</a> or <a href="/register.php">Register</a></div>
+        </div>
+           
+
+  			  		</div>
+  	</div>			
+    <script type="text/javascript">
+  // @review Encapsulate these into object or namespace or something.
+	var LoggedUserID = 0;
+	var PageViewID = 71431747;
+	var DealName = "$16 for 2 Facial Hair Removal QSticks from TAZLINC Products ($32 Value)";
+	var AffiliateLinkURL = "http://www.dealfind.com/kitchener-waterloo/tazlinc15";
+  var RegularPriceHTML = '$32';
+  var OurPriceHTML = '$16';
+  var YouSaveHTML = '&lt;strong&gt;$16&lt;/strong&gt; (50%)'
+  var DealFacebookThumbnailURL = "http://www.dealfind.com/img/facebook/originalqstick_com_6_5.JPG";
+  var DealSeconds_Total = 432000;
+  var DealSeconds_Elapsed = 367063;
+  var DealID = 7069;
+  var MaxNumberOfVouchers = 0;
+  var MinNumberOfVouchers = 0;
+  var DealSoldOut = false;
+  var DealEnded = false;
+  //var PaidVoucherCount = 6;
+	var PaidVoucherCount = 6;
+</script><script type="text/javascript" src="http://a1.dealfindcdn.com/September-20th-2011/!/js/form-overlay.js"></script><div id=divOverlay_Form class="divOverlay_Form">&nbsp;</div>
+<div id=divOverlay_Form_PleaseWait class="divOverlay_Form_PleaseWait"><img src=http://a1.dealfindcdn.com/September-20th-2011/!/img/imgLoadingAnimation-16x16.gif width=16 height=16> Sending the e-mail, please wait...</div>
+    <script type="text/javascript">
+      var DealID = 7069;
+      var AffiliateLinkURL = "http://www.dealfind.com/kitchener-waterloo/tazlinc15";
+      var DealName = "$16 for 2 Facial Hair Removal QSticks from TAZLINC Products ($32 Value)";
+      var DealFacebookThumbnailURL = "http://www.dealfind.com/img/facebook/originalqstick_com_6_5.JPG";
+      var RegularPriceHTML = '$32';
+      var OurPriceHTML = '$16';
+      var YouSaveHTML = '$16 (50%)';
+      var AffiliatePayout = null;
+              $(function(){
+          UserMessagePrompt = 'Share this deal, type your message below:';
+        });
+          </script>
+    <div id="frmEmail" class="frmEmail">
+      <table cellpadding="2" cellspacing="0" bgcolor="0" bgcolor="white">
+        <tr bgcolor="white">
+          <td><strong>To<span class="Required">*</span></strong></td>
+          <td>
+            <input type="text" id="EmailTo" value="" />
+            <div class="Comment">Comma-separated list, standard formatting, for example: &lt;john@smith.com&gt;, Mary Smith &lt;mary@smith.com&gt;</div>
+          </td>
+        </tr>
+        <tr bgcolor="white">
+          <td><strong>Subject<span class="Required">*</span>&nbsp;&nbsp;</strong></td>
+          <td><input type="text" id="EmailSubject" value="$16 for 2 Facial Hair Removal QSticks from TAZLINC Products ($32 Value)" /></td>
+        </tr>
+        <tr bgcolor="white" valign="top">
+          <td><strong>Notes</strong></td>
+          <td>
+            <textarea id="EmailNotes"></textarea>
+            <div class="Comment">Deal picture, pricing, description and your Ambassador Link will be included in the e-mail body automatically.</div>
+          </td>
+        </tr>
+      </table>
+    </div>
+    <!-- images preload begin -->
+<div style="background-image : url('/i/db_btn-over.gif'); position : absolute; left : -1000px;"></div>
+<!-- images preload end -->
+
+	
+	
+	<!-- main deal -->
+	
+	
+	<div class="main padB10" itemscope="itemscope" itemtype="http://schema.org/LocalBusiness">
+		<h1 itemprop="description">$16 for 2 Facial Hair Removal QSticks from TAZLINC Products ($32 Value)</h1>
+
+
+		<div class="share clearfix">
+			<img src="/i/Images/ShareBGLeft.png" class="shareLeft"/>
+			<div class="left">Share and get paid $2 per friend who buys</div>
+			
+			<a id="aFacebook" class="iconFB" target="_blank" href="#facebook">&nbsp;</a>
+			<a id="aTwitter" class="iconTW" target="_blank" href="#twitter">&nbsp;</a>
+			<a id="aEmail" class="iconEM" target="_blank" href="mailto:?subject=Check out this great deal: %2416%20for%202%20Facial%20Hair%20Removal%20QSticks%20from%20TAZLINC%20Products%20%28%2432%20Value%29&amp;body=%2416%20for%202%20Facial%20Hair%20Removal%20QSticks%20from%20TAZLINC%20Products%20%28%2432%20Value%29 http://www.dealfind.com/kitchener-waterloo/tazlinc15">&nbsp;</a>
+			<div id="share-popup" class="pngfix">
+				<strong>Share Today's Deal, Get Paid <span class="red">$2</span> When Your Friends Buy.</strong>
+				<br/>
+				(example: 20 friends x $2 = $40) 
+				<br/>
+				<a class="learn" href="/making-money-with-us.php"></a>
+			</div>
+			
+			
+		</div>
+		
+		<div class="dealBox" itemprop="offers" itemscope="itemscope" itemtype="http://schema.org/Offer">
+	<ul itemprop="itemOffered">
+		<li class="purchase">
+			<div class="left"><span itemprop="price" class="db_price">$16</span>
+        	</div>
+			<a href="/checkout.php?DealID=7069"></a>
+		</li>
+		<li class="timeLeft">
+			
+		    <div>
+		      
+		      
+		      <div class="dealCountdownTimer">
+		        Time remaining<br/>
+		        <span class="countdown"></span>
+		      </div>
+        </div>
+		</li>
+		<li class="purchased">				
+			<div class="di_1 vouchersPurchased" itemprop="interactionCount">6 purchased</div>
+			<div class="di_2 limitedQuantityAvailable">Limited quantity available.</div>
+			<div class="di_3 dealStatus">Purchase unlimited for yourself and unlimited as gifts.</div>
+			<div class="di_4 dealStatusDetails" itemprop="availability">The deal went live on 19-Sep-2011 5:00am (EDT)</div>      
+		</li>
+		<li class="price clearfix">				
+			<label>Regular Price:</label><strong>$32</strong>
+			<br/><label>You Save:</label><span><strong>$16</strong> (50%)</span>
+		</li>
+		<li class="gift">				
+			<div class="buyForFriend">
+          		<a class="giftCard" href="/checkout.php?DealID=7069&amp;Gift=1">Buy it as a gift</a>
+        	</div>        
+		</li>
+	</ul>	
+</div>
+
+		
+		<a class="dealImage" href="/checkout.php?DealID=7069"><img src="/img/pictures/originalqstick_com_6_5.JPG" width="400" height="500" class="yellow-border" alt="$16 for 2 Facial Hair Removal QSticks from TAZLINC Products ($32 Value)"/></a>
+		<div class="whywhat clearfix">
+			
+			<h2>Why You Should Go:</h2>
+			<div class="bullets">
+				<ul><li>
+		Easy to use</li>
+	<li>
+		Works rapidly</li>
+	<li>
+		Long-lasting results</li>
+	<li>
+		Completely portable</li>
+	<li>
+		No discomfort or redness</li>
+</ul>		          				
+			</div>
+			
+			
+			<h2>What You Should Know:</h2>
+			No expiration date.
+			Buy an unlimited number of vouchers for yourself and unlimited as gifts. Package includes 2 QSticks from TAZLINC Products. Redeem online by visiting originalqstick.com and enter voucher code. Shipping and taxes included. Please email sales@originalqstick.com for inquiries. Redeem online by visiting originalqstick.com and enter your voucher code without the dash. No cash back or credit. Not valid with other offers. Cannot be redeemed before Saturday, September 24, 2011.
+			<div><a class="dealInfo" href="/deal-faq.php">Read the Deal FAQ</a> for the basics.</div>
+
+			<div class="shareLower clearfix">
+				<div class="shareTextLower">
+					<strong>Share This Deal</strong>										
+				</div>
+				<div class="left"> 
+					<a href="#facebook" class="social-sprite" id="aFacebook2" onclick="return false;">&nbsp;</a>
+					<a href="#twitter" class="social-sprite" id="aTwitter2" onclick="return false;">&nbsp;</a>
+					<a href="mailto:?subject=Check out this great deal: %2416%20for%202%20Facial%20Hair%20Removal%20QSticks%20from%20TAZLINC%20Products%20%28%2432%20Value%29&amp;body=%2416%20for%202%20Facial%20Hair%20Removal%20QSticks%20from%20TAZLINC%20Products%20%28%2432%20Value%29 http://www.dealfind.com/kitchener-waterloo/tazlinc15" class="social-sprite" id="aEmail2" target="_blank">&nbsp;</a>
+				</div>
+				<div id="share-popup2" class="pngfix">
+					<strong>Share Today's Deal, Get Paid <span class="red">$2</span> When Your Friends Buy.</strong>
+					<br/>
+					(example: 20 friends x $2 = $40) 
+					<br/>
+					<div class="align-center"><a href="/making-money-with-us.php"><img src="/i/learn-more.png" alt="Learn More" width="126" height="23"/></a></div>
+				</div>
+			</div>
+			<p><a href="/discuss.php?DiscussionID=7069" class="cdp_comments"><strong>Talk About This Deal</strong> (9 Comments)</a></p>	  						
+		</div>
+		<div class="details">
+			<h2>About The Deal</h2>			
+			<div class="featureBox">			
+	<h3>Featured Business</h3>
+	<div class="featMiddle">			
+		<h4 itemprop="name">TAZLINC Products</h4>		 	
+		<a itemprop="url" href="http://originalqstick.com/" target="_blank">website</a>
+		<br/>
+		<div itemprop="description">Online Redemption:</div><span itemprop="addressLocality">http://originalqstick.com</span><div class="geo" itemprop="geo" itemscope="itemscope"  itemtype="http://schema.org/GeoCoordinates"><meta itemprop="latitude" content="1" /><meta itemprop="longitude" content="1" /></div>	
+		<span style="display:none" itemprop="addressRegion">n/a</span><br/>
+	</div>					
+</div>
+
+			<iframe width="560" height="315" src="http://www.youtube.com/embed/N6JWLMuzF7Q" frameborder="0" allowfullscreen></iframe>			
+			<div class="dealText">
+				<p>
+	A heavy layer of body hair is a useful camouflage when trying to beguile a band of monkeys into writing your essay on Shakespeare, but it’s a whole different story when you’re trying to endear that pretty, young thing sitting on the bar stool next to you. Shed your layer of ape-infiltrating follicles with today’s Dealfind: <strong>$16 for 2 Facial Hair Removal QSTICKS ($32 Value)</strong><br />
+	 <br />
+	The standards in Borneo are very different from those in Studio 54. Upon returning from the jungle with a slick simian book report, you’ll need to get yourself tantalizingly smooth if you plan on surviving in the harsh urban wilderness. The QSTICK, by TAZLINC Products, is an indispensable tool that no nightclub bushman should be without. This revolutionary cosmetic utensil is an efficient tool that uses a small metal coil to mimic the process of threading.</p>
+<p>
+	It’s small enough to be carried in a coin pocket and is equally as adept at defoliating large areas as it is with precise plucking, making it the perfect companion for quick restroom touch-ups while out on the town. Order yours and instantly ascend to the next rung up on the evolutionary ladder.</p>
+
+				<br/>								
+				<div class="divReviews"><h2>Reviews</h2><p>
+	Here's what the folks at TAZLINC Products want you to know about the Qstick:</p>
+<ul><li itemprop="reviews" itemscope="itemscope" itemtype="http://schema.org/Review"><span itemprop="description">The QStick is THE most efficient facial hair removal tool that has ever been created so far. In fact, now it is rapidly gaining popularity in Canada, the US, and other parts of the world. It is actually inspired by the threading hair removal method which has been around in the East for centuries now. Using The QStick is better than waxing, shaving or other methods of hair removal; Unlike the other methods, the QStick is natural and it uses no chemicals. Wax, for example is known to cause facial skin to sag over a period of time. While shaving causes the hair to become rough and damaged, The QStick efficiently removes the hair from the roots and leaves the skin smooth, silky, feminine and healthy!&nbsp;&mdash;&nbsp;<a href="http://originalqstick.com/info.html" target=_blank>The QStick - Tazlinc Products</a></span></li></ul></div>
+			</div>				
+		</div>				
+		<div class="dealBox" itemprop="offers" itemscope="itemscope" itemtype="http://schema.org/Offer">
+	<ul itemprop="itemOffered">
+		<li class="purchase">
+			<div class="left"><span itemprop="price" class="db_price">$16</span>
+        	</div>
+			<a href="/checkout.php?DealID=7069"></a>
+		</li>
+		<li class="timeLeft">
+			
+		    <div>
+		      
+		      
+		      <div class="dealCountdownTimer">
+		        Time remaining<br/>
+		        <span class="countdown"></span>
+		      </div>
+        </div>
+		</li>
+		<li class="purchased">				
+			<div class="di_1 vouchersPurchased" itemprop="interactionCount">6 purchased</div>
+			<div class="di_2 limitedQuantityAvailable">Limited quantity available.</div>
+			<div class="di_3 dealStatus">Purchase unlimited for yourself and unlimited as gifts.</div>
+			<div class="di_4 dealStatusDetails" itemprop="availability">The deal went live on 19-Sep-2011 5:00am (EDT)</div>      
+		</li>
+		<li class="price clearfix">				
+			<label>Regular Price:</label><strong>$32</strong>
+			<br/><label>You Save:</label><span><strong>$16</strong> (50%)</span>
+		</li>
+		<li class="gift">				
+			<div class="buyForFriend">
+          		<a class="giftCard" href="/checkout.php?DealID=7069&amp;Gift=1">Buy it as a gift</a>
+        	</div>        
+		</li>
+	</ul>	
+</div>			
+		<div class="mainBottom"></div>						
+	</div>
+
+	<!-- end of main deal -->
+	
+    <div class="side">
+      <div id="side-deals" class="padB10">
+      <h2 class="pngfix">More Great Deals For You</h2>
+      <div class="side-deal clearfix">
+          <a href="/kitchener-waterloo/thecuttingroomsalonandspa7">
+          <p class="black">Kitchener - Waterloo</p>
+              <p>$39 for a Haircut, Wash, Blow Out, Partial Highlights and a Redken Chemistry Hair Treatment at The Cutting Room Hair Studio ($177 Value)</p>
+              <img class="thumbnail" src="/img/thumbnails/tcrsalonandspa_com3AAA.jpg" width="70" alt="The Cutting Room Hair Studio"/>
+              </a>
+              <div class="stats border-radius-10 clearfix">
+                <div class="our-price" style="line-height:2em"><strong>$39</strong></div>
+                <div class="regular-price tiny">
+                    $177 value
+                </div>
+                <div class="number-sold"><strong>32</strong><br/>
+                    <span class="tiny">purchased</span>
+                </div>
+              </div>
+              <a href="/kitchener-waterloo/thecuttingroomsalonandspa7" class="view-deal"><img src="/i/view-deal.gif" alt="View Deal" width="105" height="23"/></a>
+          </div><div class="side-deal clearfix">
+          <a href="/kitchener-waterloo/jpshairandaesthetics">
+          <p class="black">Kitchener - Waterloo</p>
+              <p>$19 for a 30 Minute Manicure and 30 Minute Pedicure at JP&#039;s Hair &amp; Aesthetics ($82 Value)</p>
+              <img class="thumbnail" src="/img/thumbnails/JPsHairAesthetics.jpg" width="70" alt="JP&#039;s Hair &amp; Aesthetics"/>
+              </a>
+              <div class="stats border-radius-10 clearfix">
+                <div class="our-price" style="line-height:2em"><strong>$19</strong></div>
+                <div class="regular-price tiny">
+                    $82 value
+                </div>
+                <div class="number-sold"><strong>288</strong><br/>
+                    <span class="tiny">purchased</span>
+                </div>
+              </div>
+              <a href="/kitchener-waterloo/jpshairandaesthetics" class="view-deal"><img src="/i/view-deal.gif" alt="View Deal" width="105" height="23"/></a>
+          </div><div class="side-deal clearfix">
+          <a href="/kitchener-waterloo/acrosscanadatransmissions">
+          <p class="black">Kitchener - Waterloo</p>
+              <p>$19 for an Oil and Filter Change and a 20 Point Inspection at Across Canada Transmissions ($49 Value)</p>
+              <img class="thumbnail" src="/img/thumbnails/actransmissions_com.jpg" width="70" alt="Across Canada Transmissions"/>
+              </a>
+              <div class="stats border-radius-10 clearfix">
+                <div class="our-price" style="line-height:2em"><strong>$19</strong></div>
+                <div class="regular-price tiny">
+                    $49 value
+                </div>
+                <div class="number-sold"><strong>20</strong><br/>
+                    <span class="tiny">purchased</span>
+                </div>
+              </div>
+              <a href="/kitchener-waterloo/acrosscanadatransmissions" class="view-deal"><img src="/i/view-deal.gif" alt="View Deal" width="105" height="23"/></a>
+          </div><div class="side-deal clearfix">
+          <a href="/kitchener-waterloo/newportbeachsideresort55">
+          <p class="black">Kitchener - Waterloo</p>
+              <p>$259 for a 2 Night Stay in Miami in an Ocean View Room Including Daily Breakfasts, Nightly Valet Parking and Drinks at Newport Beachside Resort ($597 Value)</p>
+              <img class="thumbnail" src="/img/thumbnails/newportbeachsideresort_comCCC_18.JPG" width="70" alt="Newport Beachside Resort"/>
+              </a>
+              <div class="stats border-radius-10 clearfix">
+                <div class="our-price" style="line-height:2em"><strong>$259</strong></div>
+                <div class="regular-price tiny">
+                    $597 value
+                </div>
+                <div class="number-sold"><strong>0</strong><br/>
+                    <span class="tiny">purchased</span>
+                </div>
+              </div>
+              <a href="/kitchener-waterloo/newportbeachsideresort55" class="view-deal"><img src="/i/view-deal.gif" alt="View Deal" width="105" height="23"/></a>
+          </div><div class="side-deal clearfix">
+          <a href="/kitchener-waterloo/kuchenpops">
+          <p class="black">Kitchener - Waterloo</p>
+              <p>$18 for 2 Dozen Gourmet Cake Balls from Kuchen Pops ($36 Value)</p>
+              <img class="thumbnail" src="/img/thumbnails/kuchenpops_yolasite_com.jpg" width="70" alt="Kuchen Pops"/>
+              </a>
+              <div class="stats border-radius-10 clearfix">
+                <div class="our-price" style="line-height:2em"><strong>$18</strong></div>
+                <div class="regular-price tiny">
+                    $36 value
+                </div>
+                <div class="number-sold"><strong>26</strong><br/>
+                    <span class="tiny">purchased</span>
+                </div>
+              </div>
+              <a href="/kitchener-waterloo/kuchenpops" class="view-deal"><img src="/i/view-deal.gif" alt="View Deal" width="105" height="23"/></a>
+          </div><div class="side-deal clearfix">
+          <a href="/mississauga/autospaltd3">
+          <p class="black">Mississauga</p>
+              <p>$49 for a Dripless Oil Rust Protection Treatment for Your Vehicle at The Auto Spa Ltd. ($119 Value)</p>
+              <img class="thumbnail" src="/img/thumbnails/theautospa_ca2.jpg" width="70" alt="The Auto Spa Ltd."/>
+              </a>
+              <div class="stats border-radius-10 clearfix">
+                <div class="our-price" style="line-height:2em"><strong>$49</strong></div>
+                <div class="regular-price tiny">
+                    $119 value
+                </div>
+                <div class="number-sold"><strong>311</strong><br/>
+                    <span class="tiny">purchased</span>
+                </div>
+              </div>
+              <a href="/mississauga/autospaltd3" class="view-deal"><img src="/i/view-deal.gif" alt="View Deal" width="105" height="23"/></a>
+          </div><div class="side-deal clearfix">
+          <a href="/st-catharines-niagara/sqcleaningandorganizing">
+          <p class="black">St. Catharines - Niagara</p>
+              <p>$34 for 3 Hours of Professional Home or Office Cleaning Services from SQ Cleaning &amp; Organizing ($105 Value)</p>
+              <img class="thumbnail" src="/img/thumbnails/SQCleaningOrganizing.jpg" width="70" alt="SQ Cleaning &amp; Organizing"/>
+              </a>
+              <div class="stats border-radius-10 clearfix">
+                <div class="our-price" style="line-height:2em"><strong>$34</strong></div>
+                <div class="regular-price tiny">
+                    $105 value
+                </div>
+                <div class="number-sold"><strong>24</strong><br/>
+                    <span class="tiny">purchased</span>
+                </div>
+              </div>
+              <a href="/st-catharines-niagara/sqcleaningandorganizing" class="view-deal"><img src="/i/view-deal.gif" alt="View Deal" width="105" height="23"/></a>
+          </div><div class="side-deal clearfix">
+          <a href="/oakville-burlington/divacouturesalonandspa3">
+          <p class="black">Oakville - Burlington</p>
+              <p>$29 for a Full Set of Eyelash Extensions and Eyebrow Shaping at Diva Couture Salon and Spa ($210 Value)</p>
+              <img class="thumbnail" src="/img/thumbnails/divacouturesalonspa_com3AAA_1.JPG" width="70" alt="Diva Couture Salon and Spa"/>
+              </a>
+              <div class="stats border-radius-10 clearfix">
+                <div class="our-price" style="line-height:2em"><strong>$29</strong></div>
+                <div class="regular-price tiny">
+                    $210 value
+                </div>
+                <div class="number-sold"><strong>30</strong><br/>
+                    <span class="tiny">purchased</span>
+                </div>
+              </div>
+              <a href="/oakville-burlington/divacouturesalonandspa3" class="view-deal"><img src="/i/view-deal.gif" alt="View Deal" width="105" height="23"/></a>
+          </div><div class="side-deal clearfix">
+          <a href="/hamilton/nailstechbeauty">
+          <p class="black">Hamilton</p>
+              <p>$24 for a 45 Minute Shellac Manicure and a 45 Minute Pedicure at Nails Tech Beauty ($50 Value)</p>
+              <img class="thumbnail" src="/img/thumbnails/Nails Tech Beauty.jpg" width="70" alt="Nails Tech Beauty"/>
+              </a>
+              <div class="stats border-radius-10 clearfix">
+                <div class="our-price" style="line-height:2em"><strong>$24</strong></div>
+                <div class="regular-price tiny">
+                    $50 value
+                </div>
+                <div class="number-sold"><strong>287</strong><br/>
+                    <span class="tiny">purchased</span>
+                </div>
+              </div>
+              <a href="/hamilton/nailstechbeauty" class="view-deal"><img src="/i/view-deal.gif" alt="View Deal" width="105" height="23"/></a>
+          </div><div class="side-deal clearfix">
+          <a href="/mississauga/relaxrehabclinic">
+          <p class="black">Mississauga</p>
+              <p>$49 for 3 Thirty Minute Skin Rejuvenation Photofacial Treatments at Relax Rehab Clinic ($300 Value)</p>
+              <img class="thumbnail" src="/img/thumbnails/relax-clinic_com2.jpg" width="70" alt="Relax Rehab Clinic"/>
+              </a>
+              <div class="stats border-radius-10 clearfix">
+                <div class="our-price" style="line-height:2em"><strong>$49</strong></div>
+                <div class="regular-price tiny">
+                    $300 value
+                </div>
+                <div class="number-sold"><strong>14</strong><br/>
+                    <span class="tiny">purchased</span>
+                </div>
+              </div>
+              <a href="/mississauga/relaxrehabclinic" class="view-deal"><img src="/i/view-deal.gif" alt="View Deal" width="105" height="23"/></a>
+          </div><div class="side-deal clearfix">
+          <a href="/london/essencemedicalspa3">
+          <p class="black">London</p>
+              <p>$29 for 2 Thirty Minute Diamond Microdermabrasion Treatments at Essence Naturopathic Organic Medical Spa ($170 Value)</p>
+              <img class="thumbnail" src="/img/thumbnails/essence-medicalspa_com2AAA.jpg" width="70" alt="Essence Naturopathic Organic Medical Spa"/>
+              </a>
+              <div class="stats border-radius-10 clearfix">
+                <div class="our-price" style="line-height:2em"><strong>$29</strong></div>
+                <div class="regular-price tiny">
+                    $170 value
+                </div>
+                <div class="number-sold"><strong>164</strong><br/>
+                    <span class="tiny">purchased</span>
+                </div>
+              </div>
+              <a href="/london/essencemedicalspa3" class="view-deal"><img src="/i/view-deal.gif" alt="View Deal" width="105" height="23"/></a>
+          </div><div class="side-deal clearfix">
+          <a href="/mississauga/laserpromedspa">
+          <p class="black">Mississauga</p>
+              <p>$19 for a 30 Minute Diamond Tip Microdermabrasion Treatment or a 20 Minute PCA Chemical Peel at LaserPro Med Spa (Up to $175 Value)</p>
+              <img class="thumbnail" src="/img/thumbnails/laserpromedspa_com.jpg" width="70" alt="LaserPro Med Spa"/>
+              </a>
+              <div class="stats border-radius-10 clearfix">
+                <div class="our-price" style="line-height:2em"><strong>$19</strong></div>
+                <div class="regular-price tiny">
+                    $175 value
+                </div>
+                <div class="number-sold"><strong>397</strong><br/>
+                    <span class="tiny">purchased</span>
+                </div>
+              </div>
+              <a href="/mississauga/laserpromedspa" class="view-deal"><img src="/i/view-deal.gif" alt="View Deal" width="105" height="23"/></a>
+          </div><div class="side-deal clearfix">
+          <a href="/london/piccadillymotors2">
+          <p class="black">London</p>
+              <p>$39 for a Complete Interior and Exterior Auto Detailing Package at Piccadilly Motors ($80 Value)</p>
+              <img class="thumbnail" src="/img/thumbnails/PiccadillyMotors2.jpg" width="70" alt="Piccadilly Motors"/>
+              </a>
+              <div class="stats border-radius-10 clearfix">
+                <div class="our-price" style="line-height:2em"><strong>$39</strong></div>
+                <div class="regular-price tiny">
+                    $80 value
+                </div>
+                <div class="number-sold"><strong>220</strong><br/>
+                    <span class="tiny">purchased</span>
+                </div>
+              </div>
+              <a href="/london/piccadillymotors2" class="view-deal"><img src="/i/view-deal.gif" alt="View Deal" width="105" height="23"/></a>
+          </div><div class="side-deal clearfix">
+          <a href="/hamilton/laserspagroup7">
+          <p class="black">Hamilton</p>
+              <p>$19 for a 30 Minute Diamond Tip Microdermabrasion Treatment or a 20 Minute AFA Chemical Peel at the Laser Spa Group (Up to $100 Value)</p>
+              <img class="thumbnail" src="/img/thumbnails/LaserSpaGroup2_com_2.JPG" width="70" alt="Laser Spa Group"/>
+              </a>
+              <div class="stats border-radius-10 clearfix">
+                <div class="our-price" style="line-height:2em"><strong>$19</strong></div>
+                <div class="regular-price tiny">
+                    $100 value
+                </div>
+                <div class="number-sold"><strong>344</strong><br/>
+                    <span class="tiny">purchased</span>
+                </div>
+              </div>
+              <a href="/hamilton/laserspagroup7" class="view-deal"><img src="/i/view-deal.gif" alt="View Deal" width="105" height="23"/></a>
+          </div><div class="side-deal clearfix">
+          <a href="/hamilton/californialasermedspa5">
+          <p class="black">Hamilton</p>
+              <p>$99 for 3 VelaShape Slimming Sessions On Your Choice of Abdomen, Love Handles, Arms or Buttocks at California Laser Med Spa ($1,200 Value)</p>
+              <img class="thumbnail" src="/img/thumbnails/californialasermedspa_com2BBB_1.JPG" width="70" alt="California Laser Med Spa"/>
+              </a>
+              <div class="stats border-radius-10 clearfix">
+                <div class="our-price" style="line-height:2em"><strong>$99</strong></div>
+                <div class="regular-price tiny">
+                    $1,200 value
+                </div>
+                <div class="number-sold"><strong>2</strong><br/>
+                    <span class="tiny">purchased</span>
+                </div>
+              </div>
+              <a href="/hamilton/californialasermedspa5" class="view-deal"><img src="/i/view-deal.gif" alt="View Deal" width="105" height="23"/></a>
+          </div><div class="side-deal clearfix">
+          <a href="/mississauga/carlyleltdpropertymaintenance">
+          <p class="black">Mississauga</p>
+              <p>$49 for Leaf Pickup, Aeration, Fertilization and Weed Preventative Application for Your Lawn from Carlyle Ltd. Property Maintenance ($176 Value)</p>
+              <img class="thumbnail" src="/img/thumbnails/carlyleltd_caAAA.jpg" width="70" alt="Carlyle Ltd. Property Maintenance"/>
+              </a>
+              <div class="stats border-radius-10 clearfix">
+                <div class="our-price" style="line-height:2em"><strong>$49</strong></div>
+                <div class="regular-price tiny">
+                    $176 value
+                </div>
+                <div class="number-sold"><strong>27</strong><br/>
+                    <span class="tiny">purchased</span>
+                </div>
+              </div>
+              <a href="/mississauga/carlyleltdpropertymaintenance" class="view-deal"><img src="/i/view-deal.gif" alt="View Deal" width="105" height="23"/></a>
+          </div><div class="side-deal clearfix">
+          <a href="/london/savyinternational2">
+          <p class="black">London</p>
+              <p>$99 for One Year of Unlimited Yoga at SAVY International (Up to $1,400 Value)</p>
+              <img class="thumbnail" src="/img/thumbnails/savy-international_com_4.JPG" width="70" alt="SAVY International"/>
+              </a>
+              <div class="stats border-radius-10 clearfix">
+                <div class="our-price" style="line-height:2em"><strong>$99</strong></div>
+                <div class="regular-price tiny">
+                    $1,400 value
+                </div>
+                <div class="number-sold"><strong>1</strong><br/>
+                    <span class="tiny">purchased</span>
+                </div>
+              </div>
+              <a href="/london/savyinternational2" class="view-deal"><img src="/i/view-deal.gif" alt="View Deal" width="105" height="23"/></a>
+          </div><div class="side-deal clearfix">
+          <a href="/st-catharines-niagara/paulflemingsealingandlinepainting8">
+          <p class="black">St. Catharines - Niagara</p>
+              <p>$49 for Driveway Sealing for Your Home or Business from Paul Fleming Sealing and Linepainting ($130 Value)</p>
+              <img class="thumbnail" src="/img/thumbnails/paulfleminglinepaintingandsealing_ca_3_1.JPG" width="70" alt="Paul Fleming Sealing and Linepainting"/>
+              </a>
+              <div class="stats border-radius-10 clearfix">
+                <div class="our-price" style="line-height:2em"><strong>$49</strong></div>
+                <div class="regular-price tiny">
+                    $130 value
+                </div>
+                <div class="number-sold"><strong>18</strong><br/>
+                    <span class="tiny">purchased</span>
+                </div>
+              </div>
+              <a href="/st-catharines-niagara/paulflemingsealingandlinepainting8" class="view-deal"><img src="/i/view-deal.gif" alt="View Deal" width="105" height="23"/></a>
+          </div><div class="side-deal clearfix">
+          <a href="/st-catharines-niagara/coreana">
+          <p class="black">St. Catharines - Niagara</p>
+              <p>$15 for $40 Worth of Sushi, Drinks, Japanese and Korean Cuisine at Coreana</p>
+              <img class="thumbnail" src="/img/thumbnails/CoreanaAAA.jpg" width="70" alt="Coreana"/>
+              </a>
+              <div class="stats border-radius-10 clearfix">
+                <div class="our-price" style="line-height:2em"><strong>$15</strong></div>
+                <div class="regular-price tiny">
+                    $40 value
+                </div>
+                <div class="number-sold"><strong>53</strong><br/>
+                    <span class="tiny">purchased</span>
+                </div>
+              </div>
+              <a href="/st-catharines-niagara/coreana" class="view-deal"><img src="/i/view-deal.gif" alt="View Deal" width="105" height="23"/></a>
+          </div><div class="side-deal clearfix">
+          <a href="/st-catharines-niagara/luminescentteethwhitening24">
+          <p class="black">St. Catharines - Niagara</p>
+              <p>$39 for a Professional Take Home Teeth Whitening Kit from Luminescent Teeth Whitening ($300 Value)</p>
+              <img class="thumbnail" src="/img/thumbnails/luminescenttoothwhitening_com_4.JPG" width="70" alt="Luminescent Teeth Whitening"/>
+              </a>
+              <div class="stats border-radius-10 clearfix">
+                <div class="our-price" style="line-height:2em"><strong>$39</strong></div>
+                <div class="regular-price tiny">
+                    $300 value
+                </div>
+                <div class="number-sold"><strong>41</strong><br/>
+                    <span class="tiny">purchased</span>
+                </div>
+              </div>
+              <a href="/st-catharines-niagara/luminescentteethwhitening24" class="view-deal"><img src="/i/view-deal.gif" alt="View Deal" width="105" height="23"/></a>
+          </div><div class="side-deal clearfix">
+          <a href="/oakville-burlington/gourmetsecrets32">
+          <p class="black">Oakville - Burlington</p>
+              <p>$25 for $200 Worth of AAA Grain Fed Alberta Beef, Free-Range Chicken, and Seafood from Gourmet Secrets</p>
+              <img class="thumbnail" src="/img/thumbnails/gourmetsecrets_bizAAA_19.JPG" width="70" alt="Gourmet Secrets"/>
+              </a>
+              <div class="stats border-radius-10 clearfix">
+                <div class="our-price" style="line-height:2em"><strong>$25</strong></div>
+                <div class="regular-price tiny">
+                    $200 value
+                </div>
+                <div class="number-sold"><strong>36</strong><br/>
+                    <span class="tiny">purchased</span>
+                </div>
+              </div>
+              <a href="/oakville-burlington/gourmetsecrets32" class="view-deal"><img src="/i/view-deal.gif" alt="View Deal" width="105" height="23"/></a>
+          </div><div class="side-deal clearfix">
+          <a href="/oakville-burlington/tzoneoakville2">
+          <p class="black">Oakville - Burlington</p>
+              <p>$19 for 10 Ten Minute T-Zone Vibration Body Firming Sessions and a 30 Minute T-Zone Class at T-Zone Oakville ($165 Value)</p>
+              <img class="thumbnail" src="/img/thumbnails/tzonestudio_ca_1.JPG" width="70" alt="T-Zone Oakville"/>
+              </a>
+              <div class="stats border-radius-10 clearfix">
+                <div class="our-price" style="line-height:2em"><strong>$19</strong></div>
+                <div class="regular-price tiny">
+                    $165 value
+                </div>
+                <div class="number-sold"><strong>5</strong><br/>
+                    <span class="tiny">purchased</span>
+                </div>
+              </div>
+              <a href="/oakville-burlington/tzoneoakville2" class="view-deal"><img src="/i/view-deal.gif" alt="View Deal" width="105" height="23"/></a>
+          </div><div class="side-deal clearfix">
+          <a href="/london/bhtheatingandcooling">
+          <p class="black">London</p>
+              <p>$29 for $149 Worth of Furnace and Air-Conditioning Cleaning and Tune-Up Services from BHT Heating and Cooling</p>
+              <img class="thumbnail" src="/img/thumbnails/BHTHeatingCooling.jpg" width="70" alt="BHT Heating &amp; Cooling"/>
+              </a>
+              <div class="stats border-radius-10 clearfix">
+                <div class="our-price" style="line-height:2em"><strong>$29</strong></div>
+                <div class="regular-price tiny">
+                    $149 value
+                </div>
+                <div class="number-sold"><strong>165</strong><br/>
+                    <span class="tiny">purchased</span>
+                </div>
+              </div>
+              <a href="/london/bhtheatingandcooling" class="view-deal"><img src="/i/view-deal.gif" alt="View Deal" width="105" height="23"/></a>
+          </div><div class="side-deal clearfix">
+          <a href="/london/fairmontalgonquin5">
+          <p class="black">London</p>
+              <p>$119 for a 1 Night Getaway for Up to 4 People in a Deluxe Studio Room, with a $25 Dining Credit at The Fairmont Hotel Algonquin in New Brunswick (Up to $339 Value)</p>
+              <img class="thumbnail" src="/img/thumbnails/fairmont_com_Algonquin_4.JPG" width="70" alt="The Fairmont Algonquin"/>
+              </a>
+              <div class="stats border-radius-10 clearfix">
+                <div class="our-price" style="line-height:2em"><strong>$119</strong></div>
+                <div class="regular-price tiny">
+                    $339 value
+                </div>
+                <div class="number-sold"><strong>0</strong><br/>
+                    <span class="tiny">purchased</span>
+                </div>
+              </div>
+              <a href="/london/fairmontalgonquin5" class="view-deal"><img src="/i/view-deal.gif" alt="View Deal" width="105" height="23"/></a>
+          </div><div class="side-deal last-child clearfix">
+          <a href="/oakville-burlington/waterfronttrailleisurecomp2">
+          <p class="black">Oakville - Burlington</p>
+              <p>$19 for a Full Day Bike Rental at Waterfront Trail Leisure Company ($39 Value)</p>
+              <img class="thumbnail" src="/img/thumbnails/waterfronttrailleisure_com_1_1.JPG" width="70" alt="Waterfront Trail Leisure Company"/>
+              </a>
+              <div class="stats border-radius-10 clearfix">
+                <div class="our-price" style="line-height:2em"><strong>$19</strong></div>
+                <div class="regular-price tiny">
+                    $39 value
+                </div>
+                <div class="number-sold"><strong>0</strong><br/>
+                    <span class="tiny">purchased</span>
+                </div>
+              </div>
+              <a href="/oakville-burlington/waterfronttrailleisurecomp2" class="view-deal"><img src="/i/view-deal.gif" alt="View Deal" width="105" height="23"/></a>
+          </div>
+          <img class="pngfix" src="/i/right-column-bottom.png" width="227" height="15" alt="More Great Deals For You"/>
+    </div>
+      
+      <div id="side-box-dealfind-promise">
+        <img class="pngfix top-part" src="/i/ad-box-promise-top.png"/>
+        <div class="small">
+          <p><img src="/i/dealfind-promise.png" alt="The Dealfind Promise" width="113" height="101"/> Nothing is more important to us than ensuring all of our customers are happy.</p>
+          <p>If you feel disappointed with any&shy;thing you bought from Dealfind, let us know within 30 days and we'll return your purchase - it's that easy.</p>
+      </div>
+        <img class="pngfix bottom-part" src="/i/ad-box-promise-bottom.png"/>
+      </div>
+
+    <div id="side-box-verisign" class="pngfix clearfix" title="Click to Verify - This site chose VeriSign SSL for secure e-commerce and confidential communications.">
+        <div class="verisign" id="vs">
+        
+<script src="https://seal.verisign.com/getseal?host_name=www.dealfind.com&amp;size=L&amp;use_flash=YES&amp;use_transparent=YES&amp;lang=en" type="text/javascript"></script>
+<object width="130" height="88" align="" id="s_l" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000">
+<param value="https://seal.verisign.com/getseal?at=1&amp;sealid=0&amp;dn=www.dealfind.com&amp;lang=en" name="movie"/>
+<param value="false" name="loop"/>
+<param value="false" name="menu"/>
+<param value="best" name="quality"/>
+<param value="transparent" name="wmode"/>
+<param value="always" name="allowScriptAccess"/>
+<embed width="130" height="88" align="" allowscriptaccess="always" pluginspage="https://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" name="s_l" swliveconnect="FALSE" wmode="transparent" quality="best" menu="false" loop="false" src="https://seal.verisign.com/getseal?at=1&amp;sealid=0&amp;dn=www.dealfind.com&amp;lang=en"></embed>
+</object>
+        
+        </div>                
+        <a style="" target="_blank" href="http://www.verisign.com/ssl-certificate/">ABOUT SSL CERTIFICATES</a>          
+    </div>
+  </div>
+	
+	<div class="clear"></div>
+	<div class="footerBox padB10">	
+		<img alt="Dealfind For Business" src="/i/ad-box-dealfind-for-business.png" class="pngfix top-part"/>
+		<div class="footer-box-body"><div style="margin:0in 0in 0pt;">
+	<p>
+		Dealfind offers a targeted community of customers looking to spend money with your business. And your business is our business. For each Dealfind deal we sell, a piece stays with us, and the rest goes to you. Basically, we only make money when you make money. And you can track your offer every step of the way.</p>
+	<p>
+		Contact us today to have your business featured on Dealfind FOR FREE:  <a href="http://dealfindbusiness.com/form_getstarted.asp" target="_blank"><img alt="btn_runadeal.jpg" src="/img/btn_runadeal.jpg" style="vertical-align:middle;" /></a></p>
+	<p>
+		<a href="http://dealfindbusiness.com/" target="_blank"><img alt="logo_dfb_small.gif" height="33" src="/img/logo_dfb_small.gif" width="200" /></a><br /><br /><a href="http://dealfindbusiness.com/" target="_blank">Learn more »</a></p>
+</div>
+</div>
+		<img alt="Dealfind For Business" src="/i/ad-box-large-bottom.png" class="bFix"/>
+	
+	</div>
+	
+	<div class="footerBox padB10">
+		<img alt="Dealfind Has Been Featured On" src="/i/ad-box-dealfind-featured-on.png" class="pngfix top-part"/>
+		<!-- 
+     <div class="footer-box-body">
+			<img src="/i/CorpLogos.png" class="pngfix top-part" />
+		</div>
+    -->
+    <div class="footer-box-body" id="featured-on-div"><img src="http://c353875.r75.cf2.rackcdn.com/i/featured_logos10.gif" border="0" /><img src="http://c353875.r75.cf2.rackcdn.com/i/featured_logos5.gif" border="0" /><img src="http://c353875.r75.cf2.rackcdn.com/i/featured_logos33_nytimes.gif" border="0" /><img src="http://c353875.r75.cf2.rackcdn.com/i/featured_logos29_wsj.gif" border="0" /><img src="http://c353875.r75.cf2.rackcdn.com/i/featured_logos30_forbes.gif" border="0" /><img src="http://c353875.r75.cf2.rackcdn.com/i/featured_logos31_nationalpost.gif" border="0" /><img src="http://c353875.r75.cf2.rackcdn.com/i/featured_logos32_reuters.gif" border="0" /><img src="/i/Images/ProfitMagazine.png" border="0" /><img src="http://c353875.r75.cf2.rackcdn.com/i/featured_logos23.gif" border="0" /><img src="http://c353875.r75.cf2.rackcdn.com/i/featured_logos11.gif" border="0" /><img src="http://c353875.r75.cf2.rackcdn.com/i/featured_logos7.gif" border="0" /><img src="http://c353875.r75.cf2.rackcdn.com/i/featured_logos27_dowjones.gif" border="0" /><img src="http://c353875.r75.cf2.rackcdn.com/i/featured_logos16.gif" border="0" /><img src="http://c353875.r75.cf2.rackcdn.com/i/featured_logos13.gif" border="0" /><img src="http://c353875.r75.cf2.rackcdn.com/i/featured_logos20.gif" border="0" /><img src="http://c353875.r75.cf2.rackcdn.com/i/featured_logos25.gif" border="0" /><img src="http://c353875.r75.cf2.rackcdn.com/i/featured_logos17.gif" border="0" /><img src="http://c353875.r75.cf2.rackcdn.com/i/featured_logos4.gif" border="0" /><img src="http://c353875.r75.cf2.rackcdn.com/i/featured_logos18.gif" border="0" /><img src="http://c353875.r75.cf2.rackcdn.com/i/featured_logos12.gif" border="0" /><img src="http://c353875.r75.cf2.rackcdn.com/i/featured_logos6.gif" border="0" /><a href="http://www.menupalace.com/" target="_blank" class="featured_logos"><img src="http://c353875.r75.cf2.rackcdn.com/i/featured_logos2.gif" border="0" /></a><img src="http://c353875.r75.cf2.rackcdn.com/i/featured_logos14.gif" border="0" /><img src="http://c353875.r75.cf2.rackcdn.com/i/featured_logos15.gif" border="0" /><a href="http://www.torontorestaurants.com/" target="_blank" class="featured_logos"><img src="http://c353875.r75.cf2.rackcdn.com/i/featured_logos1.gif" border="0" /></a><img src="http://c353875.r75.cf2.rackcdn.com/i/featured_logos19.gif" border="0" /><img src="http://c353875.r75.cf2.rackcdn.com/i/featured_logos21.gif" border="0" /><img src="http://c353875.r75.cf2.rackcdn.com/i/featured_logos22.gif" border="0" /><img src="http://c353875.r75.cf2.rackcdn.com/i/featured_logos24.gif" border="0" /><img src="http://c353875.r75.cf2.rackcdn.com/i/featured_logos8.gif" border="0" /><img src="http://c353875.r75.cf2.rackcdn.com/i/featured_logos28_globeadvisor.gif" border="0" /><img src="http://c353875.r75.cf2.rackcdn.com/i/featured_logos26.gif" border="0" /></div>    	
+		<img src="/i/ad-box-large-bottom.png" class="bFix"/>
+	</div>        
+        
+        <div class="footer">
+        	<div class="bullets footerInner">
+				<ul>
+				  <li class="nb"><h4>Our Company</h4></li>
+				  <li><a href="/about-us.php">About Us</a></li>
+				  <li><a href="/how-it-works.php">How Dealfind Works</a></li>
+				  <li><a href="/contact-us.php">Contact Us</a></li>
+				  <li><a href="/jobs.php">Jobs</a></li>
+				</ul>
+		
+				<ul>
+				  <li class="nb"><h4>Learn More</h4></li>
+				  <li><a href="/making-money-with-us.php">Make Money with us!</a></li>
+				  <li><a href="/faq.php">FAQ</a></li>
+				  <li><a href="http://dealfindbusiness.com/" target="_blank">For Businesses</a></li>
+				  				  <li><a href="/recent-deals.php">Past Deals</a></li>
+				   				   <li><a href="/sitemap.php">Site Map</a></li>
+				</ul>
+				
+				<ul>
+				  <li class="nb"><h4>Legal Pages</h4></li>
+				  <li><a href="/privacy-policy.php">Privacy Policy</a></li>
+				  <li><a href="/shipping-policy.php">Shipping Policy</a></li>
+				  <li><a href="/refund-policy.php">Refund Policy</a></li>
+				  <li><a href="/terms-and-conditions.php">Terms and Conditions</a></li>
+				</ul>
+				
+				   				<ul>			
+		           <li class="nb"><h4>Follow Us</h4></li> 
+				   		               <li><a href="http://www.facebook.com/pages/x/103989262996082" target=_blank>Follow us on Facebook</a></li>
+		            		            		                <li><a href="http://twitter.com/dealfindwaterlo" target=_blank>Follow us on Twitter</a></li>
+		           		           		                <li><a href="/kitchener-waterloo/subscribe">E-mail Notifications</a></li>
+		           		           		                <li><a href="/rss/kitchener-waterloo.rss" target=_blank>Subscribe to our RSS</a></li>
+		            		            
+				</ul>
+				 				 <div class="clear"></div>				
+		</div>
+	</div>
+
+        
+      
+<!-- --><!-- -->
+                <div class="bottom_line pngfix">&copy; 2011 Dealfind. All Rights Reserved.</div>
+        
+        <!-- --><!- -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(["_setAccount", "UA-15981997-1"]);
+  _gaq.push(["_trackPageview"]);
+
+  (function() {
+    var ga = document.createElement("script"); ga.type = "text/javascript"; ga.async = true;
+    ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";
+    var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script type="text/javascript" src="/js/fb.js"></script>
+<!-- ClickTale Bottom part -->
+<div id="ClickTaleDiv" style="display: none;"></div>
+<script type="text/javascript">
+if(document.location.protocol!='https:')
+  document.write(unescape("%3Cscript%20src='http://s.clicktale.net/WRb6.js'%20type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+if(typeof ClickTale=='function') ClickTale(17280,0.006,"www02");
+</script>
+<!-- ClickTale end of Bottom part -->
+
+</body>
+</html>
+    

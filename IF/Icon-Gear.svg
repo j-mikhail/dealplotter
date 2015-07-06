@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink" width="29" height="30">
+    
+  <image width="29" height="30"
+     xlink:href="/IF/Icon-Gear-Out.png" />
+
+  <image x="4" y="4" width="20" height="20"
+     xlink:href="/IF/Icon-Gear-In.png" >
+     
+        <animateTransform
+            attributeName="transform"
+            begin="0s"
+            dur="4s"
+            type="rotate"
+            from="0 14 14"
+            to="360 14 14"
+            repeatCount="indefinite" 
+        />
+        
+  </image>
+    
+</svg>

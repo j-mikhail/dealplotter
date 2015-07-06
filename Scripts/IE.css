@@ -1,0 +1,64 @@
+.mvb    { left: 20px; width: 290px; }
+
+.splashleft,
+.splashright { height: 325px; }
+
+.big,
+.panl,
+.panr   { height: 85% !important; top: 10%; bottom: 10%; }
+.med    { height: 300px; }
+.small  { height: 100px; }
+
+.label  { clear: both; }
+.flr    { clear: both; }
+
+.fullb  { left: 20px; top: 70px; width: 100%; height: 85%; }
+.fulll  { left: 20px; top: 100px; width: 100%; height: 70%; }
+.fulls  { left: 20px; top: 70px; width: 100%; height: 90%; }
+.fullsb { left: 20px; top: 100px; width: 100%; height: 65%; }
+.fullx  { left: 20px; top: 20px; width: 100%; height: 90%; } 
+
+.ctrls  { width: 65px; }
+.wctrls { width: 110px; }
+
+#DetC   { left: 20px; width: 260px; }
+#PanLC  { left: 20px; width: 290px; }
+
+#DetB   { width: 290px; height: 30px; }
+
+.tbutt,
+.box    { border: 2px solid #000000; }
+
+.tbutt  { height: 20px; }
+
+.ttlw   { padding-bottom: 0px; }
+
+.panlt,
+.panltb { border-top: 2px solid #000000; border-right: 2px solid #000000; border-bottom: 2px solid #000000; }
+
+.panlt  { height: 115px; }
+.panltb { height: 80px; }
+
+.fdm    { border-left: 2px solid #808080; }
+
+.fdm,
+.fdh    { background-color: #EEEEEE; }
+ 
+.tibyl,
+.tihil,
+.tirel,
+.tiexl  { width: 80px; float: left; }
+
+.cbox,
+.errbox,
+.errmsg,
+.nfomsg,
+.qbox,
+.wrnmsg { width: 100%; min-height: 35px; }
+
+.label  { width: 90px; }
+
+.med    { width: 325px; height: 370px; }
+.big    { width: 550px; }
+
+.iesux  { display: none; }

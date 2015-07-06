@@ -1,0 +1,444 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+    <meta charset="utf-8">
+	<meta property="og:title" content="$58 FOR THE "URBAN GETAWAY" PACKAGE INCLUDING FACIAL/ MASSAGE/ HAMMAM AT RAINSPA IN THE HOTEL PLACE D'ARMES ($145 VALUE)"/>
+	<meta property="og:type" content="article"/>
+	<meta property="og:url" content="http://www.citylinked.com/offre-du-jour.php?deal=91&city=Montreal&pagetype=sidedeal"/>
+	<meta property="og:image" content="http://www.vieurbaine.com/deal_images/deal_91_1.jpg"/>
+	<meta property="og:description" content="&nbsp;
+Rainspa is an oasis of tranquility, serenity and relaxation located in the H&ocirc;tel Place dArmes in the heart of Old Montreal. Rainspa has put together an Urban Getaway package at an exceptional value, exclusively for City Linked members. This package includes a 30 minute facial, an exfoliating massage of 30 minutes and finally, access to 90 minutes of Montreals first Hammam bath. FACIAL: To restore a glow to your complexion or to diminish the appearance of wrinkles, the facial offered at Rainspa is tailored to the needs of your skin and only high quality products are used (essential oils, plants and oxygen). EXFOLIATING MASSAGE: This massage is designed to moisturize and rejuvenate your skin, making it softer and more flexible. It combines the benefits of three treatments: exfoliation with a rich cream, aroma therapy with essential oils and a therapeutic massage that relieves muscle tension and stimulates blood circulation. HAMMAM: Dive into the warm fragrant vapors of a traditional Middle East bath. Healing and relaxation ritual , let the steam envelop you in a soothing warmth that will help your body release muscle tension and toxins. This unique steam bath activates blood circulation for better cleaning and softening of your skin. Source of relaxation, HAMMAM baths help to create the perfect atmosphere to let your concerns slip away. Rainspa offers locker, robe, herbal tea, and bottled water... Treat yourself and your loved ones to this &laquo;&nbsp;urban getaway&nbsp;&raquo; in one of Montreal&rsquo;s finest spas.
+&nbsp;"/>
+
+        <META NAME="Geography" CONTENT="Montreal">
+<meta name="designer" CONTENT="hipdesign sindustries info@hdsgn.com">
+<meta name="designer" CONTENT="HTML/CSS Framework-  Face3Media face3media.com">
+<meta name="author" content="Jean-Claude Renaud Lacombe info@citylinked.com" />
+<link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico"> 
+<meta http-equiv="Content-Language" content="en"/> 
+<meta name="author" content="HTML/CSS Customization, Web Developement & Programming by Shyam Ramani shyamramani@gmail.com" />
+<meta name="copyright" content="© City Linked Networks Inc." />
+
+<script type="text/javascript"> 
+ 
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-19776474-2']);
+  _gaq.push(['_trackPageview']);
+ 
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+ 
+</script> 
+        <META name="description" content=" Today's Deal for Daily Deals in your city! Get 50 to 90% off the best restaurants, spas, concerts and other activities to do in your city." /> 
+        <META name="keywords" content="Today's Deal, Coupons, coupon, Daily coupon, Daily deals, deal, deals, daily coupons, 24 hour coupons, city coupons, group buying, restaurants, spas, spa, restaurant, Montreal" /> 
+        <link rel="canonical" href="http://www.citylinked.com/todays-deal.php?city=Montreal">
+
+    
+    <title>Today's deal | City Linked | Montreal</title>
+    <script src="js/modernizr-1.7.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="css/reset.css" media="screen" title="html5doctor.com Reset Stylesheet" />
+    <link rel="stylesheet" type="text/css" href="css/css3.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="css/general.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="css/grid.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="css/styles.css" media="screen" />
+    <link rel="stylesheet" href="css/nivo-slider.css" type="text/css" media="screen" />    
+    <script src="js/cufon-yui.js" type="text/javascript"></script>
+	<script src="js/Gotham_Book_400.font.js" type="text/javascript"></script>
+	<script type="text/javascript">Cufon.replace('.gotham');</script>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script> 
+	<script src="js/jquery.nivo.slider.pack.js" type="text/javascript"></script>
+    <link rel="stylesheet" href="css/slider-style.css" type="text/css" media="screen" />  
+	<script src="js/countdowntimer.js" type="text/javascript"></script>
+    
+	<script type="text/javascript">
+	$(window).load(function() {
+    $('#slider').nivoSlider({
+        effect:'fade', // Specify sets like: 'fold,fade,sliceDown'
+        startSlide:0, // Set starting Slide (0 index)
+        directionNav:true, // Next & Prev navigation
+        directionNavHide:false, // Only show on hover
+        controlNav:true, // 1,2,3... navigation
+        controlNavThumbs:true, // Use thumbnails for Control Nav
+        controlNavThumbsFromRel:true, // Use image rel for thumbs
+        controlNavThumbsSearch: '.jpg', // Replace this with...
+        controlNavThumbsReplace: '_thumb.jpg', // ...this in thumb Image src
+        keyboardNav:true, // Use left & right arrows
+        pauseOnHover:true, // Stop animation while hovering
+        pauseTime: 5000, //number of ms before transition
+        manualAdvance:false, // Force manual transitions
+        captionOpacity:0.8, // Universal caption opacity
+        prevText: 'Previous', // Prev directionNav text
+        nextText: 'Next'
+    	});
+	});	
+
+	$(document).ready(function() {
+		setInterval("countDownTimer()",1000);
+
+		});		
+
+	</script>
+	<script type="text/javascript" src="fancybox/jquery.fancybox-1.3.4.1.js"></script>    
+	<script type="text/javascript" src="fancybox/jquery.easing-1.3.pack.js"></script>
+	<link rel="stylesheet" href="fancybox/jquery.fancybox-1.3.4.css" type="text/css" media="screen" />	
+	<script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php" type="text/javascript"></script>
+	
+	<script type="text/javascript" src="js/scripts.js"></script>
+
+    <script src="http://maps.google.com/maps?file=api&amp;v=2&amp;key=ABQIAAAAMJ3W5ERves0imsfAGzXS5RSkBuzfseHZkdKkGFo8G323m1R0wxTMa6dYMauqc0A-AjFA4szf6-EC4w" type="text/javascript" charset="utf-8"></script>    <script type="text/javascript" charset="utf-8">
+//<![CDATA[
+/*************************************************
+ * Created with GoogleMapAPI 2.5
+ * Author: Monte Ohrt <monte AT ohrt DOT com>
+ * Copyright 2005-2006 New Digital Group
+ * http://www.phpinsider.com/php/code/GoogleMapAPI/
+ *************************************************/
+var points = [];
+var markers = [];
+var counter = 0;
+var to_htmls = [];
+var from_htmls = [];
+var map = null;
+function onLoad() {
+if (GBrowserIsCompatible()) {
+var mapObj = document.getElementById("gmap");
+if (mapObj != "undefined" && mapObj != null) {
+map = new GMap2(document.getElementById("gmap"));
+map.setCenter(new GLatLng(45.505467, -73.557400), 15, G_NORMAL_MAP);
+map.addControl(new GLargeMapControl());
+map.addControl(new GMapTypeControl());
+map.addControl(new GScaleControl());
+var point = new GLatLng(45.5054670,-73.5574000);
+var marker = createMarker(point,"RAINSPA","<div id=\"gmapmarker\"><b>RAINSPA<\/b><br \/>55 rue St Jacques, 3iÃ¨me Ã©tage, <br \/>Montreal, Quebec, H2Y 3X2<\/div>", 0,"RAINSPA");
+map.addOverlay(marker);
+}
+} else {
+alert("Sorry, the Google Maps API is not compatible with this browser.");
+}
+}
+function createMarker(point, title, html, n, tooltip) {
+if(n >= 0) { n = -1; }
+var marker = new GMarker(point,{'title': tooltip});
+var tabFlag = isArray(html);
+if(!tabFlag) { html = [{"contentElem": html}]; }
+to_htmls[counter] = html[0].contentElem + '<form class="gmapDir" id="gmapDirTo" style="white-space: nowrap;" action="http://maps.google.com/maps" method="get" target="_blank">' +
+                     '<span class="gmapDirHead" id="gmapDirHeadTo">Directions: <strong>To here</strong> - <a href="javascript:fromhere(' + counter + ')">From here</a></span>' +
+                     '<p class="gmapDirItem" id="gmapDirItemTo"><label for="gmapDirSaddr" class="gmapDirLabel" id="gmapDirLabelTo">Start address: (include addr, city st/region)<br /></label>' +
+                     '<input type="text" size="40" maxlength="40" name="saddr" class="gmapTextBox" id="gmapDirSaddr" value="" onfocus="this.style.backgroundColor = \'#e0e0e0\';" onblur="this.style.backgroundColor = \'#ffffff\';" />' +
+                     '<span class="gmapDirBtns" id="gmapDirBtnsTo"><input value="Get Directions" type="submit" class="gmapDirButton" id="gmapDirButtonTo" /></span></p>' +
+                     '<input type="hidden" name="daddr" value="' +
+                     point.y + ',' + point.x + "(" + title.replace(new RegExp(/"/g),'&quot;') + ")" + '" /></form>';
+                      from_htmls[counter] = html[0].contentElem + '<p /><form class="gmapDir" id="gmapDirFrom" style="white-space: nowrap;" action="http://maps.google.com/maps" method="get" target="_blank">' +
+                     '<span class="gmapDirHead" id="gmapDirHeadFrom">Directions: <a href="javascript:tohere(' + counter + ')">To here</a> - <strong>From here</strong></span>' +
+                     '<p class="gmapDirItem" id="gmapDirItemFrom"><label for="gmapDirSaddr" class="gmapDirLabel" id="gmapDirLabelFrom">End address: (include addr, city st/region)<br /></label>' +
+                     '<input type="text" size="40" maxlength="40" name="daddr" class="gmapTextBox" id="gmapDirSaddr" value="" onfocus="this.style.backgroundColor = \'#e0e0e0\';" onblur="this.style.backgroundColor = \'#ffffff\';" />' +
+                     '<span class="gmapDirBtns" id="gmapDirBtnsFrom"><input value="Get Directions" type="submit" class="gmapDirButton" id="gmapDirButtonFrom" /></span></p>' +
+                     '<input type="hidden" name="saddr" value="' +
+                     point.y + ',' + point.x + encodeURIComponent("(" + title.replace(new RegExp(/"/g),'&quot;') + ")") + '" /></form>';
+                     html[0].contentElem = html[0].contentElem + '<p /><div id="gmapDirHead" class="gmapDir" style="white-space: nowrap;">Directions: <a href="javascript:tohere(' + counter + ')">To here</a> - <a href="javascript:fromhere(' + counter + ')">From here</a></div>';
+if(!tabFlag) { html = html[0].contentElem; }if(isArray(html)) { GEvent.addListener(marker, "mouseover", function() { marker.openInfoWindowTabsHtml(html); }); }
+else { GEvent.addListener(marker, "mouseover", function() { marker.openInfoWindowHtml(html); }); }
+points[counter] = point;
+markers[counter] = marker;
+counter++;
+return marker;
+}
+function isArray(a) {return isObject(a) && a.constructor == Array;}
+function isObject(a) {return (a && typeof a == 'object') || isFunction(a);}
+function isFunction(a) {return typeof a == 'function';}
+function showInfoWindow(idx,html) {
+map.centerAtLatLng(points[idx]);
+markers[idx].openInfoWindowHtml(html);
+}
+function tohere(idx) {
+markers[idx].openInfoWindowHtml(to_htmls[idx]);
+}
+function fromhere(idx) {
+markers[idx].openInfoWindowHtml(from_htmls[idx]);
+}
+//]]>
+</script>
+    <!-- necessary for google maps polyline drawing in IE -->
+    <style type="text/css">
+      v\:* {
+        behavior:url(#default#VML);
+      }
+    </style>		
+    </head>
+<body>
+
+<div class="row" style="margin-bottom:-12px;">
+	<header>
+        <div class="logo col_12 col-no-margin"><img src="img/cl_logo.png" alt="City Linked" /></div>
+        <div class="col_4 left">
+        	<div class="tdropdown">
+				<ul>
+					<li><a href="#" class="gotham white">Montreal <img id="arrow" src="img/ddarrowb.jpg" style="vertical-align: bottom;" /></a>    
+						<ul>						
+							<li class="title"><a href="#">CITIES</a></li>
+																																										<li><a href= "http://www.vieurbaine.com/todays-deal.php?city=Quebec">Quebec</a></li>
+																												<li><a href= "http://www.citylinked.com/todays-deal.php?city=Ottawa">Ottawa</a></li>
+													</ul>
+					</li> 
+				</ul>
+			</div>
+        </div>
+        <div class="clear"></div><!-- clear -->
+        <nav class="col_full col-no-margin" style="height:36px;">
+        	<ul style="height:36px;">
+        		<li><a href="todays-deal.php?city=Montreal" alt="Today's Deal" >TODAY'S DEAL</a></li>
+        		<li><a href="todays-deal.php?city=Montreal&pagetype=escape" alt="Escapes" >ESCAPES</a></li>
+        		<li><a href="recent-offers.php" alt="Recent Offers">RECENT OFFERS</a></li>
+        		<li><a href="how-it-works.php" alt="How It Works">HOW IT WORKS</a></li>
+        		<li><a href="comingsoon.php?pagekey=blogazine">BLOGAZINE</a></li>
+        		<li style="float:right;">
+        		<a style="font-size:10px; color:#c2c2c2;" href="http://www.vieurbaine.com/todays-deal.php?pagetype=sidedeal">français</a>        		</li>
+        	</ul>
+        </nav>
+        <div class="clear"></div><!-- clear -->
+        
+        <div class="col-no-margin white member" style="width:620px">
+	        			        	<div class="left" style="line-height:54px;padding-left:10px;font-weight: normal;">			
+			<iframe src="fbclogin.php?lang=en&setbgcolor=true" id="frame2" width="89px" height="21px" frameborder="0" scrolling="no"></iframe>
+			</div>
+			        	<div class="left" style="line-height:42px;padding-left:10px;font-weight: normal;">			
+			<a href= "fancyboxconnect.php" id="frame1" alt="Log In" class="iframe" style="color:white;padding:5px">Log In</a>or<a href= "sign-up.php" alt="Sign Up" class="white">Sign Up</a>					
+        	</div>			
+        	        </div>
+		<input type="hidden" id="lang_ctl" name="lang_control" value="en" />
+		<input type="hidden" id="city_ctl" name="city" value="42464" />
+		<input type="hidden" id="city_name_ctl" name="city" value="Montreal" />
+		
+		
+		        
+		<div class="col_6 col-no-margin">
+			<div id="SignUp" style="margin:7px;text-align:right;background-image:url(img/txtSignUp_btnSubmit.jpg);">
+				<div class="col" style="margin:0;padding:0;">
+				
+					<input type="text" id="subscribeinputemail2" value="Enter your email address to receive our offers" style="width:221px;height:27px;margin:0;padding:0 8px;border:none;background:none;line-height:27px;font-size:9px;color:#f6f6f6;font-family:tahoma;" />
+				</div>
+				<div class="col-no-margin" style="width:80px;line-height:27px;">
+					<p style="font-weight:bold;color:#fff;cursor:pointer;padding:0;margin:0;font-size:16px;text-align:center;">
+					<a href="javascript:{}" class="iframe" onmouseout="document.getElementById('SignUp').style.backgroundImage = 'url(img/txtSignUp_btnSubmit.jpg)';" onmouseover="document.getElementById('SignUp').style.backgroundImage = 'url(img/txtSignUp_btnSubmit-orange.jpg)';" id="subscription_submit" onclick="submitForm()" style="border:none;font-weight:bold;color:#fff;cursor:pointer;padding:0;margin:0;font-size:16px;text-decoration:none;">
+					Join					</a>
+					</p>
+				</div>
+			</div>
+		</div>
+    </header></div><!-- row -->
+
+<!-- content -->
+<section id="test" style="padding:0 0 10px 0;margin:0;width:100%;">
+	
+	<!--<div id="background"><img src="img/background.jpg" class="stretch" alt="" /></div>-->
+
+	<div class="row" itemscope itemtype="http://data-vocabulary.org/Product">
+	
+	    <div id="news" class="white"><p class="underline title">RAINSPA</p><p style="text-align:justify;"><span itemprop="name">$58 FOR THE "URBAN GETAWAY" PACKAGE INCLUDING FACIAL/ MASSAGE/ HAMMAM AT RAINSPA IN THE HOTEL PLACE D'ARMES ($145 VALUE)</span></p></div>
+	    
+	    <div class="clear"></div><!-- clear -->
+	    
+	    <div class="col-no-margin" style="width:767px;">
+			<div style="margin-bottom:3px;background-color:#d7d7d7;">
+				<div id="slideshow" style="width:496px;border:1px solid #b2b2b2;" class="left">
+				<div id="slider" class="nivoSlider">
+				<img src="deal_images/deal_91_1.jpg" itemprop="image" rel="deal_images/deal_91_1.jpg" width="496" height="302" alt="$58 FOR THE "URBAN GETAWAY" PACKAGE INCLUDING FACIAL/ MASSAGE/ HAMMAM AT RAINSPA IN THE HOTEL PLACE D'ARMES ($145 VALUE)" /><img src="deal_images/deal_91_2.jpg" itemprop="image" rel="deal_images/deal_91_2.jpg" width="496" height="302" alt="$58 FOR THE "URBAN GETAWAY" PACKAGE INCLUDING FACIAL/ MASSAGE/ HAMMAM AT RAINSPA IN THE HOTEL PLACE D'ARMES ($145 VALUE)" /><img src="deal_images/deal_91_3.jpg" itemprop="image" rel="deal_images/deal_91_3.jpg" width="496" height="302" alt="$58 FOR THE "URBAN GETAWAY" PACKAGE INCLUDING FACIAL/ MASSAGE/ HAMMAM AT RAINSPA IN THE HOTEL PLACE D'ARMES ($145 VALUE)" /><img src="deal_images/deal_91_4.jpg" itemprop="image" rel="deal_images/deal_91_4.jpg" width="496" height="302" alt="$58 FOR THE "URBAN GETAWAY" PACKAGE INCLUDING FACIAL/ MASSAGE/ HAMMAM AT RAINSPA IN THE HOTEL PLACE D'ARMES ($145 VALUE)" />				</div>
+				
+					<div style="width:100%;margin-left:212px;margin-right:100%;">
+						<div id="sprite" class="on" style="visibility:hidden"></div>
+						<div id="sprite" class="off" style="visibility:hidden"></div>
+						<div id="sprite" class="off" style="visibility:hidden"></div>
+						<div id="sprite" class="off" style="visibility:hidden"></div>
+					</div>
+				</div>
+				<form name="cart" method="POST" id="cart_form" action="first_cart.php">
+				<input type="hidden" name="deal" value="91" />
+				<input type="hidden" name="type" id="cart_type" value="0" />
+				</form>			
+				<div itemprop="offerDetails" itemscope itemtype="http://data-vocabulary.org/Offer" style="width:264px;height:100%;border:1px solid #b2b2b2;background-color:#fff;" class="left">
+					<div class="left" style="width:131px;height:84px;font-size:60px;line-height:84px;font-weight:bold;"><p class="align_center" style="margin:0;color:#2d2d2a;line-height:84px;font-weight: normal;font-size:56px;"><meta itemprop="currency" content="CAD" /><span itemprop="price">58$</span></p></div>
+					<div class="left btnBuy align_center" ><p><a href="javascript:{}" onclick="document.getElementById('cart_form').submit()" style="border:none;text-decoration:none;color:#FFFFFF;text-transform:uppercase;">BUY</a></p></div>
+					<div class="clear"></div><!-- clear -->
+					<div class="left detail-day-offer">
+						<div class="top" style="">
+							<div class="left" id="value"><p class="" style="font-size:15px;color:#2d2d2a;margin-top:-2px;text-transform:uppercase">RETAIL <span style="text-decoration: line-through;">145$</span></p></div><div class="left" id="save"><p class="" style="font-size:15px;color:#2d2d2a;margin-top:-2px;text-transform:uppercase;text-align:center">SAVE 60%</p></div>
+							<div class="clear"></div><!-- clear -->
+						</div>
+						<div class="clear"></div><!-- clear -->
+						<div style="height:42px;text-align: center;line-height:40px;margin-bottom:-5px;" class="nomber"><p class="" style="font-size:15px;color:#2d2d2a;text-transform:uppercase">purchases 213</p></div>
+						<div class="clear"></div><!-- clear -->
+						
+						
+						<div class="align_center" style="padding-top:5px;">
+						<table style="text-align:center;width:80%;margin:0 auto;">
+						<tr>
+						<td><h2 class="nounderline" id="hours" style="font-size:26px;padding:0;margin:0;">37</h2></td>
+						<td><h2 class="nounderline" style="font-size:26px;padding:0;margin:0;">:</h2></td>
+						<td><h2 class="nounderline" id="mins" style="font-size:26px;padding:0;margin:0;">26</h2></td>
+						<td><h2 class="nounderline" style="font-size:26px;padding:0;margin:0;">:</h2></td>
+						<td><h2 class="nounderline" id="secs" style="font-size:26px;padding:0;margin:0;">24</h2></td>						
+						</tr>
+						<tr>
+						<td><h2 class="nounderline" style="font-size:10px;padding:0;margin:0;">hh</h2></td>
+						<td><h2 class="nounderline" style="font-size:10px;padding:0;margin:0;">:</h2></td>
+						<td><h2 class="nounderline" style="font-size:10px;padding:0;margin:0;">mm</h2></td>
+						<td><h2 class="nounderline" style="font-size:10px;padding:0;margin:0;">:</h2></td>
+						<td><h2 class="nounderline" style="font-size:10px;padding:0;margin:0;">ss</h2></td>						
+						</tr>
+						</table>
+						
+</div>
+					</div>
+					
+					<div class="clear"></div><!-- clear -->
+					<div class="left social">
+						<p class="align_center" style="font-size:20px;line-height:30px;margin:0;">Share this deal</p>
+						<p class="align_center"><a style="margin:0 9px;" onclick="track_referral('','t')" href="http://twitter.com/home?status=%2458+FOR+THE+%22URBAN+GETAWAY%22+PACKAGE+INCLUDING+FACIAL%2F+MASSAGE%2F+HAMMAM+AT+RAINSPA+IN+THE+HOTEL+PLACE+D%27ARMES+%28%24145+VALUE%29+ - http://bit.ly/kqOLOn" target="_blank"><img src="img/twitter-icon.jpg" alt="twitter"/></a><a style="margin:0 9px;" onclick="track_referral('','f')" target="_blank" href="http://www.facebook.com/sharer.php?s=100&amp;p[title]=%2458+FOR+THE+%22URBAN+GETAWAY%22+PACKAGE+INCLUDING+FACIAL%2F+MASSAGE%2F+HAMMAM+AT+RAINSPA+IN+THE+HOTEL+PLACE+D%27ARMES+%28%24145+VALUE%29&amp;p[summary]=%26nbsp%3B%0D%0ARainspa+is+an+oasis+of+tranquility%2C+serenity+and+relaxation+located+in+the+H%26ocirc%3Btel+Place+d%27Armes+in+the+heart+of+Old+Montreal.+Rainspa+has+put+together+an+%22Urban+Getaway%22+package+at+an+exceptional+value%2C+exclusive&amp;p[url]=http%3A%2F%2Fwww.citylinked.com%2Foffre-du-jour.php%3Fsubtype%3Df%26userid%3D%26city%3DMontreal%26pagetype%3Dsidedeal&amp;p[images][0]=http%3A%2F%2Fwww.vieurbaine.com%2Fdeal_images%2Fdeal_91_1.jpg"><img src="img/facebook-icon.jpg" alt="facebook"/></a><a style="margin:0 9px;" href="emailafriend.php?pagetype=sidedeal"><img style="margin:0 9px;" src="img/mail-icon.jpg" alt="email"/></a></p>
+					</div>
+				</div>
+			</div>
+			<div class="clear" style="height:3px;"></div><!-- clear -->
+			<div class="left" style="border:1px solid #b2b2b2;background-color:#e9e9e9;width:762px;font-family: Tahoma;">
+				<div class="background-top-content"></div>
+				<div class="clear"></div><!-- clear -->
+				<div class="left" style="width:428px;padding:0 10px 10px 10px;">
+				<div style="font-size:14px;">
+					<h2 class="underline">Description</h2>
+					<p><span itemprop="description">&nbsp;
+Rainspa is an oasis of tranquility, serenity and relaxation located in the H&ocirc;tel Place d'Armes in the heart of Old Montreal. Rainspa has put together an "Urban Getaway" package at an exceptional value, exclusively for City Linked members. This package includes a 30 minute facial, an exfoliating massage of 30 minutes and finally, access to 90 minutes of Montreal's first Hammam bath. FACIAL: To restore a glow to your complexion or to diminish the appearance of wrinkles, the facial offered at Rainspa is tailored to the needs of your skin and only high quality products are used (essential oils, plants and oxygen). EXFOLIATING MASSAGE: This massage is designed to moisturize and rejuvenate your skin, making it softer and more flexible. It combines the benefits of three treatments: exfoliation with a rich cream, aroma therapy with essential oils and a therapeutic massage that relieves muscle tension and stimulates blood circulation. HAMMAM: Dive into the warm fragrant vapors of a traditional Middle East bath. Healing and relaxation ritual , let the steam envelop you in a soothing warmth that will help your body release muscle tension and toxins. This unique steam bath activates blood circulation for better cleaning and softening of your skin. Source of relaxation, HAMMAM baths help to create the perfect atmosphere to let your concerns slip away. Rainspa offers locker, robe, herbal tea, and bottled water... Treat yourself and your loved ones to this &laquo;&nbsp;urban getaway&nbsp;&raquo; in one of Montreal&rsquo;s finest spas.
+&nbsp;</span></p>
+					</div>
+					<div class="hr"><hr /></div>
+					
+					<h2 class="underline">Localisation</h2>
+					<span id="googlemap" class="right">
+					<script type="text/javascript" charset="utf-8">
+//<![CDATA[
+if (GBrowserIsCompatible()) {
+document.write('<div id="gmap" style="width: 264px; height: 178px;"><\/div>');
+} else {
+document.write('<b>Javascript must be enabled in order to use Google Maps.<\/b>');
+}
+//]]>
+</script>
+<noscript><b>Javascript must be enabled in order to use Google Maps.</b></noscript>
+					</span>
+					<p itemprop="brand" itemscope itemtype="http://data-vocabulary.org/Organization"><span itemprop="name">RAINSPA</span> <span itemprop="address" itemscope itemtype="http://data-vocabulary.org/Address"><span itemprop="street-address">55 rue St Jacques, 3ième étage, </span> <span itemprop="locality">Montreal, Quebec, H2Y 3X2</span></span> <span itemprop="tel">(514)282-2727</span> <span itemprop="url"><a href="http://www.rainspa.ca/" target="_blank">http://www.rainspa.ca/</a></span> </p>
+				</div>
+				<div class="left" style="width:1px;padding:0;margin:0;">
+					<img src="img/slip.png" />
+				</div>
+				<div class="left" style="width:292px;padding:0 10px;margin-bottom:-52px">
+					<h2 class="underline">You Obtain</h2>
+					<ul class="content">
+										<li>An exclusive experience for City Linked members in one of Montreal's finest spas. The package includes : </li>
+										<li>A 30 minute EXFOLIATING MASSAGE : includes exfoliation with a rich cream, aroma therapy with essential oils and a therapeutic massage that relieves muscle tension and stimulates blood circulation. </li>
+										<li>FACIAL: To give a glow to your complexion or to diminish the appearance of wrinkles, the Rainspa facial is tailored to the needs of your skin and use only high quality products. </li>
+										<li>90 minute access to the HAMMAM BATHS : to release muscle tension and toxins and activate blood circulation.</li>
+										</ul>
+					
+					<h2 class="underline">Offer Details</h2>
+					<ul class="content">
+										<li>No purchase limit.</li>
+										<li>Reservations required. You must mention this offer.</li>
+										<li>Promotional value expires October 5th, 2011.</li>
+										<li>Taxes and gratuities not included.</li>
+										<li>No cash value, can't be combined with any other offers or promotion.</li>
+										</ul>
+				</div>
+				<div class="clear"></div>
+				<div class="background-bottom-content"></div>
+			</div>
+	    </div>
+	    <div id="sidebar" class="col-no-margin">
+	    	    	<div class="container" style="border:1px solid #b2b2b2;">
+<div style="height:83px;"><a href="share.php" style="border:none"><img src="img/en-sidebar-refer.jpg" alt="Invite Friends, Accumulate City Dollars" width="187"/></a></div>		    	
+<div class="clear"></div><!-- clear -->
+			     		    	
+		    	<div class="box-sidebar">
+			    	<div class="title-box-sidebar"><p>Side deal</p></div>
+			    	<div class="desc-box-sidebar"><p>
+			    	<a href="offre-du-jour.php" style="text-decoration:none; border:none">$199 FOR UNLIMITED PULSED LIGHT(IPL) HAIR REMOVAL FOR 2 BODY REGIONS (VALUE OF $1000 TO $1600 DEPENDING ON YOUR CHOICE OF REGIONS)</a>				    </p></div>
+		    	</div>
+		    	<div class="clear"></div><!-- clear -->
+		    	<div style="background-color: #898888;">
+		    	<a href="offre-du-jour.php" style="border:none"><img alt="Side deal: $199 FOR UNLIMITED PULSED LIGHT(IPL) HAIR REMOVAL FOR 2 BODY REGIONS (VALUE OF $1000 TO $1600 DEPENDING ON YOUR CHOICE OF REGIONS)" src="deal_images/deal_92_1.jpg" width="200px"/></a>
+		    	</div>
+		    	<div class="clear"></div><!-- clear -->
+		    			    	
+			    		    	
+	    	</div>	    	
+	    				<div class="clear" style="height:3px;"></div><!-- clear -->			
+			<div class="container" style="border:1px solid #b2b2b2;">
+		    	<div style="height:168px;background-color:#e9e9e9;">
+				<iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2F%23%21%2Fpages%2FMontreal-par-VieUrbainecom%2F116919175037174&amp;width=192&amp;colorscheme=light&amp;connections=8&amp;stream=false&amp;header=true&amp;height=168" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:192px; height:168px;" allowTransparency="false"></iframe>		    	
+		    	</div>
+	    	</div>	
+	    				<div class="clear" style="height:3px;"></div><!-- clear -->			
+	    	<div class="container" style="border:1px solid #b2b2b2;">
+		    	<div class="en-twitter-follow"><a id="box-link" href="http://twitter.com/#!/VieUrbaineMTL" target="_blank"></a><p>
+				For special offers, updates and promotions, please follow us on Twitter.	    	
+		    	</p></div>
+	    	</div>	    </div>
+    </div>
+</section><!-- row -->
+
+<footer>
+	<div class="row">
+		<div class="col_16 col" style="padding-top:10px;">
+			<div class="left f1">
+				<dl>
+					<dt>COMPANY</dt>
+					<dd><a href="todays-deal.php">Home</a></dd>
+					<dd><a href="about-us.php">About Us</a></dd>
+					<dd><a href="contact-us.php">Contact Us</a></dd>
+					<dd>
+											<a href="privacy-policy.php">Privacy Policy</a>
+										</dd>
+				</dl>
+			</div>
+			<div class="left f2">
+				<dl>
+					<dt>Learn More</dt>
+					<dd>
+													<a href="terms-and-conditions.php">Terms and conditions</a>
+									
+					</dd>
+					<dd><a href="comingsoon.php?pagekey=feature">Feature Your Business</a></dd>
+					<dd>
+								<a href="comingsoon.php?pagekey=suggest">Suggest A Business</a>
+					</dd>
+					<dd><a href="comingsoon.php?pagekey=program">Affiliate Program</a></dd>
+				</dl>
+			</div>
+			<div class="left f3">
+				<dl>
+					<dt>Categories</dt>
+					<dd><a href="http://www.vieurbaine.com/recent-offers.php?page=Restaurants">Restaurants</a></dd>
+					<dd><a href="http://www.vieurbaine.com/recent-offers.php?page=Spas">Spas</a></dd>
+					<dd><a href="http://www.vieurbaine.com/recent-offers.php?page=Concerts">Concerts</a></dd>
+					<dd><a href="http://www.vieurbaine.com/recent-offers.php?page=Other%20Activities">Autres Activités</a></dd>
+				</dl>
+			</div>
+						<div class="left f4">
+				<dl>
+					<dt>Social</dt>
+					<dd><a href="http://www.facebook.com/pages/Montreal-par-VieUrbainecom/116919175037174">Facebook</a></dd>
+					<dd><a href="http://twitter.com/#!/VieUrbaineMTL">Twitter</a></dd>
+					<dd><a href="comingsoon.php?pagekey=rss">Rss Feed</a></dd>
+					<dd><a href="http://www.citylinked.com/todays-deal.php?pagetype=sidedeal">English</a> / <a href="http://www.vieurbaine.com/todays-deal.php?pagetype=sidedeal">Français</a></dd>
+				</dl>
+			</div>
+			<div class="left f5">
+			<a href="http://www.hdsgn.com/"><img src="img/en-footerlogo.png" alt="Citylinked psd design by hdsgn" id="footerlogo" /></a>
+						</div>
+		</div>
+	</div>
+</footer><script type="text/javascript" src="js/jquery.fullbg.js"></script>
+<script type="text/javascript" src="js/jquery.main.js"></script>
+<script type="text/javascript">Cufon.now();</script>
+</body>
+</html>

@@ -1,0 +1,814 @@
+http://www.pricedodger.com/toronto
+
+
+<!-- Design Skin: Sameer Haque -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head>
+<meta http-equiv="Content-Type" content="charset=utf-8" >
+
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>PriceDodger.com | Toronto Deal of the day | Toronto Daily Deals | Toronto Group buying | Save money on Spa’s, restaurant’s, salons, activities and much more</title>
+	<link href="/favicon.ico" type="image/x-icon" rel="icon" /><link href="/favicon.ico" type="image/x-icon" rel="shortcut icon" />
+<meta name="keywords" content="PriceDodger, groupon, coupon, daily deal, savings"/>
+<meta name="description" content="Your city&#039;s best deals at 50% to 90% off. Don&#039;t forget to sign up to our DodgerDollar program and start earning money today!"/>
+	<link href="http://www.pricedodger.com/toronto.rss" type="application/rss+xml" rel="alternate" title="RSS Feeds" target="_blank" />
+	<script type="text/javascript" defer="defer">
+    <script type="text/javascript">
+//<![CDATA[
+var cfg = {"cfg":{"is_geo_redirect_enabled":1,"path_relative":"\/","path_absolute":"http:\/\/www.pricedodger.com\/","date_format":"M d, Y","today_date":"2011-08-23","site_name":"pricedodger_com"}}
+//]]>
+</script><link rel="stylesheet" type="text/css" href="/css/8f0eb9532f8c4d616b6fc94bf0608398_1310743344.css" />
+	<script type="text/javascript" src="/js/878ca5953ef690689ec37965cb6efad3_1313619334.js"></script>      <script type="text/javascript" defer="defer">
+          var _gaq = _gaq || [];
+          _gaq.push(['_setAccount', 'UA-19203466-1']);
+          _gaq.push(['_trackPageview']);
+
+          (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+          })();
+        </script>
+	<script type="text/javascript" src="/js/tinybox.js" defer="defer"></script>
+	<script defer="defer" src="http://www.pricedodger.com/js/jquery.tools.min.js"></script>
+    
+</head>
+
+<body>
+	
+        <script defer="defer" type="text/javascript">
+            function addCookie(){
+                var date = new Date();
+                date.setTime(date.getTime()+(7*24*60*60*1000));
+                document.cookie = "popup=no; expires="+date.toGMTString()+ "; path=/;";
+            }
+            //subscription popup
+
+        </script>
+
+
+	
+	<div id="deals-index" class="content">
+
+						<!--[if gt IE 5]>
+                        <table align="center">
+                        <tr>
+                        <td>
+                        <![endif]-->
+
+<div >
+    
+		<div id="header">
+						<div id="logo">
+                        <div class="pondabing" >
+                        
+	<!--[if gt IE 5]>	
+    <div id='basic-modal'> 
+    <span style="padding-right:26px; font-size: 12px; font-weight: bold; text-shadow: 0 1px #000; cursor: pointer" class="basic" >Visit More Cities</span> 
+    </div>
+    <![endif]-->   
+	<!--[if !IE]><!-->
+                       	<span style="padding-right:26px; font-size: 12px; font-weight: bold; text-shadow: 0 1px #000; cursor: pointer" rel="#petrol">Visit More Cities</span> 
+                 <script defer="defer">
+$(function() {
+		$("span[rel]").overlay({mask: '#000', effect: 'apple'});
+});
+</script> 
+
+	<!--<![endif]-->
+
+                    	</div>
+                  
+                  		<div class="pondaping" >
+                        
+                        <a href="/toronto/deals/todays" title="Toronto"><span class="c">Toronto</span></a>                            
+                            </div>
+                  
+                  <div class="apple_overlay" id="petrol"> 
+	<p style=" font-size: 26px; color: white; text-shadow: black 1px 1px 2px; margin-left:15px; font-weight: bold;">Explore deals in other cities</p> 
+ 
+                         <br /><br /><br />
+
+ <div class="cities-info-block" style="font-size: 16px;">
+    <p><b><i><font color="Grey" size = "5">Canada</font></i></b></p>
+	<ol class="cities-list clearfix" start="1">
+					<li  >
+					<a href="/aurora" class="" title="Aurora">Aurora</a>				</li>
+						<li  >
+					<a href="/barrie" class="" title="Barrie">Barrie</a>				</li>
+						<li  >
+					<a href="/brampton" class="" title="Brampton">Brampton</a>				</li>
+						<li  >
+					<a href="/calgary" class="" title="Calgary">Calgary</a><img style="float:left; margin-left: 6px;" src = "http://www.pricedodger.com/img/checkred.png">				</li>
+						<li  >
+					<a href="/durham-region" class="" title="Durham Region">Durham Region</a>				</li>
+						<li  >
+					<a href="/edmonton" class="" title="Edmonton">Edmonton</a><img style="float:left; margin-left: 6px;" src = "http://www.pricedodger.com/img/checkred.png">				</li>
+						<li  >
+					<a href="/halifax" class="" title="Halifax">Halifax</a>				</li>
+						<li  >
+					<a href="/hamilton" class="" title="Hamilton">Hamilton</a>				</li>
+						<li  >
+					<a href="/mississauga" class="" title="Mississauga">Mississauga</a><img style="float:left; margin-left: 6px;" src = "http://www.pricedodger.com/img/checkred.png">				</li>
+						<li  >
+					<a href="/montreal" class="" title="Montreal">Montreal</a><img style="float:left; margin-left: 6px;" src = "http://www.pricedodger.com/img/checkred.png">				</li>
+						<li  >
+					<a href="/niagara" class="" title="Niagara">Niagara</a>				</li>
+						<li  >
+					<a href="/quebec-city" class="" title="Quebec City">Quebec City</a>				</li>
+						<li class="active" >
+					<a href="/toronto" class="class=&quot;active&quot;" title="Toronto">Toronto</a><img style="float:left; margin-left: 6px;" src = "http://www.pricedodger.com/img/checkred.png">				</li>
+						<li  >
+					<a href="/vancouver" class="" title="Vancouver">Vancouver</a>				</li>
+						<li  >
+					<a href="/victoria" class="" title="Victoria">Victoria</a>				</li>
+						<li  >
+					<a href="/york-region" class="" title="York Region">York Region</a>				</li>
+		</ol><br><p><b><i><font color="Grey" size = "5">US</font></i></b></p><ol class="cities-list clearfix" start="1">				<li  >
+					<a href="/ft.-lauderdale" class="" title="Ft. Lauderdale">Ft. Lauderdale</a><img style="float:left; margin-left: 6px;" src = "http://www.pricedodger.com/img/checkred.png">				</li>
+						<li  >
+					<a href="/miami" class="" title="Miami">Miami</a><img style="float:left; margin-left: 6px;" src = "http://www.pricedodger.com/img/checkred.png">				</li>
+						<li  >
+					<a href="/treasure-coast" class="" title="Treasure Coast">Treasure Coast</a><img style="float:left; margin-left: 6px;" src = "http://www.pricedodger.com/img/checkred.png">				</li>
+		</ol>
+<p class="suggestion-link"><a href="/toronto/city_suggestions/new" title="Suggest a City">Don't see your city?</a></p>
+</div> 
+ 
+				  </div> 
+                 
+                  
+                        <br /><br /><br />
+                        
+                        <a href="http://www.pricedodger.com/">
+                        <img src="/img/blue-theme/clearpixel.gif" height="130" width="297" style="float:left;" alt="" />                        
+                        </a>
+                        
+                        
+                         <!--[if gt IE 5]>	
+                            <ul class="top_header_list" style="margin-top: -47px">
+
+    <![endif]-->   
+		<!--[if !IE]><!-->	<ul class="top_header_list" style="margin-top: -40px">
+
+									    				        <!--<![endif]-->
+	  				
+						
+                        <li>
+																			   <span class="welcome-info">Hi, Guest									  
+									 
+
+										   <span ><a href="/toronto/users/login" title="Login" class="login-link">Login</a></span>
+										   / <span  style="background: #D20000; text-shadow: none; padding: 4px; margin-left: 8px; -moz-border-radius: 15px; border-radius: 15px; font-size: 14px; font-weight: bold; "><a href="/toronto/users/register" title="Login" class="login-link">Register Now</a></span></li>
+										   
+															
+                        <li> 											<a href="https://www.facebook.com/login.php?api_key=7f1eec90f96a3708a60474f601d04263&cancel_url=http%3A%2F%2Fwww.pricedodger.com%2Ftoronto%2Fusers%2Fregister&display=page&fbconnect=1&next=http%3A%2F%2Fwww.pricedodger.com%2Ftoronto%2Fusers%2Fregister&return_session=1&session_version=3&v=1.0&req_perms=email%2Cpublish_stream" class="facebook-link"><img src="/img/connect.gif" alt="[Image: Facebook Connect]" /></a>																</li>
+
+									
+										 										 </span>
+												
+							
+							</span>
+			   
+               
+          <li>                   
+        </div>
+        <div class="menu-block1 clearfix">
+     </li>
+     
+                        </ul>
+                        
+                        <div style="float:right; width: 624px;">                              
+
+                         <div class="statsn">            
+	
+                     			
+							<span style="font-weight:bold;color: #333;">Total Saved: </span>
+							<strong>$<span class="c cr" title="Seven Hundred Thirty-three Thousand Sixty-four Canadian Dollars">733,064.00</span></strong>
+					<span>&nbsp;&nbsp;|&nbsp;&nbsp;</span>
+						<span style="font-weight:bold;color: #333;">Total Vouchers Bought: </span>
+					<strong><span class="c" title="six thousand five hundred twenty-six">6,526</span></strong>
+                                              
+     				    </div> 
+                        
+                        
+                        <div class="hatiticker">
+                        <p style="color:#690; float:right; padding-top:22px;  letter-spacing: 10.1px; text-shadow: #999 0 1px 1px; font-weight: bold; text-align:right;">
+                        0009394
+                        </p>
+                        
+                        </div>
+                        </div>
+                        
+                        
+                </div>
+                <br />
+                
+                
+            </div>
+ <!--[if gt IE 5]>	
+                                           	<div style="padding-left: 333px;" >
+    <![endif]-->   
+		<!--[if !IE]><!-->	<div  style="padding-left: 333px; " >
+									    				        <!--<![endif]-->
+
+                        
+       		                   <!--[if gt IE 5]>
+                                               	<table style="margin-bottom: 0px; margin-top: -86px;">
+	
+    <![endif]-->   
+		<!--[if !IE]><!-->
+                        	<table style="margin-top: -80px">
+
+									    				        <!--<![endif]-->
+
+
+                    
+                    <tr >
+		<td colspan="3" height="80" width="160" class="logged_10">
+        
+        
+        <a href="/toronto/deals/todays"><img src="/images/logged_10.png" alt="Todays Deal" /></a>        
+        
+        </td>
+		<td><a width="152" height="80" class="logged_11" href="http://www.pricedodger.com/deals/recent">
+        <img src="/images/logged_11.png" height="80" width="152" border="0" alt="" />        </a></td>
+		<td colspan="2" width="157" height="80" class="logged_12"><a href="http://www.pricedodger.com/page/learn">
+        <img src="/images/logged_12.png" height="80" width="157" border="0" alt="" />        
+        </a></td>
+         		<td width="192" height="80" class="logged_13"><a href="http://www.pricedodger.com/page/DD">
+    <img src="/images/logged_14.png" height="80" width="192" border="0" alt="" />
+        </a></td>
+
+	</tr>
+                    
+                    </table>
+                
+                </div>
+
+                        
+                        
+
+        <div id="main" class="clearfix">
+          											
+				            		              
+		<script defer="defer" type="text/javascript">
+           if (document.cookie.indexOf("popup") < 0){
+            //    setTimeout(window.event = function(){TINY.box.show('/users/add_pop',1,0,0,1)}, 10000);
+            }
+		</script>
+	<!-- Start New CODE -->
+<div class="jp_wrapper">
+<div class="jp_left">
+<!-- left bar -->
+
+<!-- DEAL AREA -->
+<div class="jp_deal">
+
+<div class="deal-view-inner-block" >
+
+
+  <div id="deal_intro">
+      
+
+					<p style="font-size:18px; width: 483px; ">
+                    <a href="/toronto/deal/large-vegan-platter,-value-$20,-from-akram’s-shoppe-plus-10-off-groceries-for-only-$10!" title="Large Vegan Platter, Value $20, from Akram’s Shoppe PLUS 10% Off Groceries for Only $10!">Large Vegan Platter, Value $20, from Akram’s Shoppe PLUS 10% Off Groceries for Only $10!</a>	
+                    </p>
+                    
+
+			</div>
+
+
+        <div class="section1" style="margin-left: -23px;">
+          <div class="price-block clearfix">
+            <div class="tag">
+              <p class="price">$<span class="c" title="ten">10</span></p>
+											 
+    <div>
+	<!--[if gt IE 5]>	
+<a href="/toronto/deals/buy/958" class="buttonie" title="Buy The Deal"></a>    <![endif]-->   
+	<!--[if !IE]><!-->
+<a href="/toronto/deals/buy/958" class="button" title="Buy The Deal"></a>	<!--<![endif]-->
+					</div>
+									</div>
+				
+				
+					<div id="stats_values">
+								<div class="deal_info_container">
+									  <div class="value">$<span class="c" title="twenty">20</span></div>
+									  
+									  <div class="discount"><span class="c" title="fifty">50</span>%</div>
+									  
+									  <div class="savings">$<span class="c" title="ten">10</span></div>
+								  </div>
+								  									
+                                    
+                                                                                       	 
+	<!--[if gt IE 5]>	
+<div class="buy_for_friend_ie">
+    <![endif]-->   
+	<!--[if !IE]><!-->
+<div class="buy_for_friend">	<!--<![endif]-->
+                                    
+                                    
+                                    <a href="/deals/buy/958/type:gift/city:toronto" title="Buy it for a friend" class="buy_for_friend">Buy it for a friend!</a>                                    								 </div>
+                                                                     
+                  
+
+
+								                                  
+								 </div>
+		  <div  style="margin-top:50px; margin-left: 52px;">
+
+		   
+
+
+<!--[if gt IE 5]>
+
+<div class="shary_ie">  	<![endif]-->
+<!--[if !IE]><!-->
+
+<div class="shary">
+
+<!--<![endif]-->
+           
+
+<table  width="222" height="39" border="0" >
+  <tr >
+    <td>
+    
+    <table width="102" border="0" style="float:right">
+  <tr >
+      <td width="26" ><a href="http://twitter.com/home?status=Large%20Vegan%20Platter%2C%20Value%20%2420%2C%20from%20Akram%E2%80%99s%20Shoppe%20PLUS%2010%25%20Off%20Groceries%20for%20Only%20%2410%21%20-%20http://www.pricedodger.com/toronto" target="blank" title="Tweet this deal" class="tweet">.</a></td>
+    <td width="26"><a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.pricedodger.com%2Ffacebook-share.php%3Fcs%3Dtoronto%26cn%3DToronto%26dt%3DLarge_Vegan_Platter%2C_Value_%2420%2C_from_Akram%E2%80%99s_Shoppe_PLUS_10%25_Off_Groceries_for_Only_%2410%21" target="_blank"><img border="0" style="margin-top: 6px" src="http://pricedodger.com/img/blue-theme/clearpixel.gif" width="25" height="18" /></a> </td>
+    <td width="26"><a href="mailto:?body=Check out today's great deal on PriceDodger.com, I thought it would be something you'd be interested in  - http://www.pricedodger.com/toronto&amp;subject=Large%20Vegan%20Platter%2C%20Value%20%2420%2C%20from%20Akram%E2%80%99s%20Shoppe%20PLUS%2010%25%20Off%20Groceries%20for%20Only%20%2410%21" target="blank" title="Share this deal with your friend " class="quick">.</a></td>
+  </tr>
+</table>
+</td>
+  </tr>
+</table>
+
+                 </div>        
+            
+	
+           
+      </div>
+          </div>
+
+                 
+                              <div  id="time_left">
+<div style="margin-top: -25px; padding-bottom: 10px; color: #364f5c;">Time Left To Buy</div>
+                        
+                                5H&nbsp;:&nbsp;0M
+                    <div></div>
+                                  </div>
+          
+
+          
+
+                                        
+ 
+              <div id="total_bought">
+
+                <p style="text-align: center; color: red;"><span class="c" title="forty-two">42</span> <span style="color:#364f5c;">Bought</span></p>  
+              </div>
+                                    
+          
+
+
+        </div>
+        
+
+
+
+      
+       
+      <div class="section2"> 
+
+      
+  
+      <span class="dealimage">
+               <img src="/img/medium_big_thumb/Deal/984.8c4631ddcb11b8a46eb4332ef09b5c5c.jpg" class="" alt="[Image: Large Vegan Platter, Value $20, from Akram’s Shoppe PLUS 10% Off Groceries for Only $10!]" title="Large Vegan Platter, Value $20, from Akram’s Shoppe PLUS 10% Off Groceries for Only $10!" width="481" height="244" />          
+          
+          </span>
+
+         
+   <span class="deallist">
+
+          <div class="content_box" > 
+	 <p>Highlights
+								 </p>
+    
+          
+            				            <ul><li><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:normal;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;">Platter  includes: Vegan Stew, Basmati Rice, Hummus, tahini sauce, </span><span style="font-size:10pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:normal;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;">Baba Ghannuge</span><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:normal;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;">,  Hot Sauce, 2 Salads of your choice, 2 stuffed Grape Leaves</span></li>
+<li><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:normal;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;">Grocery Store in the Heart of the Kensington Market</span></li>
+<li><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:normal;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;">Unlimited vouchers may be purchased as gifts</span></li>
+<li><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:normal;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;">Interac Online Now Available!<br /></span></li>
+</ul>				</div>
+                
+                
+
+
+
+
+          		<div class="content_box2">
+                                 <p>The Dodger Deal
+								 </p>
+    
+
+<ul><li><strong><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;">Expires March 30, 2012</span></strong></li>
+<li><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:normal;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;">Limit 1 voucher for personal use</span></li>
+<li><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:normal;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;">10% for Groceries only not Vegan Platter</span></li>
+<li><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:normal;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;">Platter purchase and grocery discount must be used in same visit</span></li>
+</ul>
+
+
+                </div>
+</span>
+        </div>
+      </div>
+    
+            <!--Earn $0.25 for each refer--></div>
+
+<!-- HIGHLIGHT AREA -->
+<div class="jp_highlight">
+      
+	
+<!-- Desc -->
+      
+
+    <div id="content_container">
+   
+                	<div id="deal_desc">
+      <img src="http://pricedodger.com/img/deal_desc.png"  width="173" height="42px"  />
+      </div>
+
+<span style=" font: Arial, Helvetica, sans-serif; font-size:14px; font-family:Arial, Helvetica, sans-serif;  color:#333; width: 554px; float:right; padding-left: 1px; padding-right: 28px;   margin-top: 13px;  line-height: 20px;">
+
+                         <p><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:normal;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;">It’s  the season of sharing. New friends are being made. Old friends are  being reunited and everyone wants to hang out as much as possible in the  time that they have. There’s just one thing to keep in mind, you need  to eat! Today we have something that will help you feed the crew and  fill the cupboards with this great deal: </span><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:bold;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;">Large Vegan Platter, Value $20, from Akram’s Shoppe PLUS 10% Off Groceries for Only $10!</span><br /><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:normal;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;"><br /><br /> Akram’s  Shoppe is proudly located in the heart of Kensington Market and is  happy to serve all Torontonians whenever they are hungry or the  cupboards are bare. Their vegan platter is great for sharing  with friends and family with stew, salads, rice, hummus and more. And as  a great bonus on this offer you will also receive 10% off your grocery  bill when you come in for your platter. It’s the perfect deal for today  and tomorrow, all at the same time.</span><br /><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:normal;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;"><br /><br /> The  staff and family at Akram’s Shoppe are excited to welcome neighbours,  students, families and visitors with this special offer. Get your  voucher and see why they have become a fixture in Kensington Market.  Don’t wait though. This deal won’t last long and we don’t want you to  miss out on the taste!</span></p>                                     </span>
+                                     
+                                     
+                                     <div style=" float:left; margin-top: 3px; width: 166px; padding-left:15px; padding-right:15px; padding-top: 16px; ">
+            
+    
+		   
+		   
+		  <span class="company_link	">
+          
+          <a href="http://akramsshoppe.com" title="http://akramsshoppe.com" target="_new"><span class="c">Akram’s Shoppe</span></a>
+          
+          </span>
+           
+                 <br  />
+                 
+                <span style="font-size:12px; line-height: 15px; font-weight: bold;"><u><a href ="http://akramsshoppe.com" title="http://akramsshoppe.com" target="_new">Website</a></u>
+                 <br />
+            <span class="c">191 Baldwin St</span>            <span class="c">Toronto</span>, <span class="c">Ontario</span> <span class="c">M5T 1M1</span><br /><span class="c">647-351-3116</span>			
+
+                 
+            
+            </span><br />
+			
+			<img src="http://maps.google.com/maps/api/staticmap?center=43.6546,-79.4014&zoom=14&size=150x130&markers=color:pink|label:M|43.6546,-79.4014&sensor=false" alt="" />            
+        
+
+        </div>
+            
+                                     
+                                     
+          <div style="z-index: 0; float: right; width: 549px; padding-top: 23px; padding-left: 15px; padding-right:23px;  margin-right: 34px; " class="reviewss">
+        
+            	
+<blockquote style="background:#C8DEE3;border:1px solid #17789B; -moz-border-radius: 10px; -webkit-border-radius: 10px;padding:10px 45px;color:#363636; font-size:12px; font-weight:normal; z-index: 1;">
+<h3 style="color:#333; font-size: 15px; font-weight: bold; z-index: 0;">Reviews</h3><br />
+<span style="line-height: 15px"><p><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:normal;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;">“Great  food, great prices! I'm vegan, so it's always nice to find new places  that offer lots of options for me (especially clearly-labeled and well  informed ones). The sandwiches are awesome and so fast and cheap.”<br class="kix-line-break" /><em>Lisa O. (yelp.ca)</em></span></p>
+<p><br /><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:normal;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;">“Akram's Shoppe has a simple philosophy: delicious, fresh and healthy food at prices affordable to everyone.”<br class="kix-line-break" /><em>blogto.com</em></span></p></span>
+<div style="clear:both; z-index: 0;"></div>
+    
+
+
+
+</blockquote>
+            
+            
+ 
+
+</div>
+
+
+</div></div>
+
+<!-- END NEW RIGHT SIDE -->
+
+</div>
+<!-- END WRAPPER -->
+<!-- Justins New Code -->
+<div class="jp_right">
+      <!--Side Deals -->
+      
+    <div class="right_container">
+            	    	<!--[if gt IE 5]>	
+    			<div id="middle_right_ie">
+
+    <![endif]-->   
+	<!--[if !IE]><!-->
+        <div id="middle_right">
+        <!--<![endif]-->
+<span style=" float:right; padding-right: 7px; font-size:10px; font-weight: bold; text-shadow: #0C0 1px 1px; padding-top: 3px; color: #C00"><span class="c" title="zero">0</span></span>
+                <div style="padding-top:43px; padding-left: 5px; padding-right: 17px;font-size:11px; ">
+
+						<span ></span>
+                        
+                </div>
+                        	<!--[if gt IE 5]>	
+					<div class="discussion-block" style="margin-top: -42px;">
+
+    <![endif]-->   
+	<!--[if !IE]><!-->
+					<div class="discussion-block">
+
+	<!--<![endif]-->
+						
+						<p>
+							<a href="/toronto/topic_discussions/index/866" title="Join the discussion!">Comment Now!</a>						</p>
+					</div>
+				
+								             </div>
+	                
+	
+        
+        
+    <br>
+        <table cellpadding ="0" cellspacing = "0" width="147px" style="">
+            <tr>
+                <td>
+                    <img src ="http://www.pricedodger.com/img/sidedealhead.png">
+                </td>
+            </tr>
+                        <tr>
+                    <td style="background: url(http://www.pricedodger.com/img/slicegradient.png) repeat-y;">
+                    <br>    			<!--div id="side_deal"-->
+                    <a href="http://www.pricedodger.com/deal/8-boot-camp-sessions,-fitness-assessment-with-personal-training-session-and-nutritional-planning,-va" style="font-size: 12px; text-shadow: none; text-align: center; color: #C00; font-weight: bold; padding-top: 8px;  line-height: 12px; padding-right: 13px; padding-left: 13px;">8 Boot Camp Sessions, Fitness Assessment with Personal ...</a>
+
+                    <p><a href="http://www.pricedodger.com/deal/8-boot-camp-sessions,-fitness-assessment-with-personal-training-session-and-nutritional-planning,-va" style="border: none"><img src="/img/side/Deal/980.d226f45e163cde6a9171ab40a815f569.jpg" class="" alt="[Image: 8 Boot Camp Sessions, Fitness Assessment with Personal Training Session and Nutritional Planning, Value $399, from Pro Style Fitness for Only $79!]" title="8 Boot Camp Sessions, Fitness Assessment with Personal Training Session and Nutritional Planning, Value $399, from Pro Style Fitness for Only $79!" width="133" height="67" /></a></p>
+                    <div  style="margin-top: 5px;"><span style=" color:#09C; font-size: 22px; text-shadow: 0 1px  #333; text-align:left; font-weight: bold; padding-left: 8px; float:left ">$79</span>
+                    <span style=" color:#333; font-size: 15px; padding-top: 3px; text-align: right;  font-weight: bold; padding-right: 13px; float:right "> Save 80%</span></div>
+                    <!--/div-->
+                    </td>
+                </tr>
+                <tr>
+                    <td style="background: url(http://www.pricedodger.com/img/slicegradient.png) repeat-y;">
+                    <br>    			<!--div id="side_deal"-->
+                    <a href="http://www.pricedodger.com/deal/1-month-unlimited-tanning-plus-1-wash,-treatment,-cut-and-style,-value-$265,-from-tropicana-tanning" style="font-size: 12px; text-shadow: none; text-align: center; color: #C00; font-weight: bold; padding-top: 8px;  line-height: 12px; padding-right: 13px; padding-left: 13px;">1 Month Unlimited Tanning PLUS 1 Wash, Treatment, Cut a...</a>
+
+                    <p><a href="http://www.pricedodger.com/deal/1-month-unlimited-tanning-plus-1-wash,-treatment,-cut-and-style,-value-$265,-from-tropicana-tanning" style="border: none"><img src="/img/side/Deal/995.0e889e96a99aff51416e08e87b5befd3.jpg" class="" alt="[Image: 1 Month Unlimited Tanning PLUS 1 Wash, Treatment, Cut and Style, Value $265, from Tropicana Tanning and Hair Salon for Only $100!]" title="1 Month Unlimited Tanning PLUS 1 Wash, Treatment, Cut and Style, Value $265, from Tropicana Tanning and Hair Salon for Only $100!" width="133" height="67" /></a></p>
+                    <div  style="margin-top: 5px;"><span style=" color:#09C; font-size: 22px; text-shadow: 0 1px  #333; text-align:left; font-weight: bold; padding-left: 8px; float:left ">$100</span>
+                    <span style=" color:#333; font-size: 15px; padding-top: 3px; text-align: right;  font-weight: bold; padding-right: 13px; float:right "> Save 62%</span></div>
+                    <!--/div-->
+                    </td>
+                </tr>
+                <tr>
+                    <td style="background: url(http://www.pricedodger.com/img/slicegradient.png) repeat-y;">
+                    <br>    			<!--div id="side_deal"-->
+                    <a href="http://www.pricedodger.com/deal/$200-worth-of-customized-web-design-and-hosting-plus-30-off-any-upgrade-at-nexiety-for-only-$49!" style="font-size: 12px; text-shadow: none; text-align: center; color: #C00; font-weight: bold; padding-top: 8px;  line-height: 12px; padding-right: 13px; padding-left: 13px;">$200 Worth of Customized Web Design and Hosting PLUS 30...</a>
+
+                    <p><a href="http://www.pricedodger.com/deal/$200-worth-of-customized-web-design-and-hosting-plus-30-off-any-upgrade-at-nexiety-for-only-$49!" style="border: none"><img src="/img/side/Deal/1008.a366c905a0a65806ad7ef7b2a8266090.jpg" class="" alt="[Image: $200 Worth of Customized Web Design and Hosting PLUS 30% Off Any Upgrade at Nexiety for Only $49!]" title="$200 Worth of Customized Web Design and Hosting PLUS 30% Off Any Upgrade at Nexiety for Only $49!" width="133" height="67" /></a></p>
+                    <div  style="margin-top: 5px;"><span style=" color:#09C; font-size: 22px; text-shadow: 0 1px  #333; text-align:left; font-weight: bold; padding-left: 8px; float:left ">$49</span>
+                    <span style=" color:#333; font-size: 15px; padding-top: 3px; text-align: right;  font-weight: bold; padding-right: 13px; float:right "> Save 75%</span></div>
+                    <!--/div-->
+                    </td>
+                </tr>
+                <tr>
+                    <td style="background: url(http://www.pricedodger.com/img/slicegradient.png) repeat-y;">
+                    <br>    			<!--div id="side_deal"-->
+                    <a href="http://www.pricedodger.com/deal/three-month-gym-membership-and-100-tanning-minutes,-value-$189,-from-fitness-plus-canada-for-only-$4" style="font-size: 12px; text-shadow: none; text-align: center; color: #C00; font-weight: bold; padding-top: 8px;  line-height: 12px; padding-right: 13px; padding-left: 13px;">Three Month Gym Membership and 100 Tanning Minutes, Val...</a>
+
+                    <p><a href="http://www.pricedodger.com/deal/three-month-gym-membership-and-100-tanning-minutes,-value-$189,-from-fitness-plus-canada-for-only-$4" style="border: none"><img src="/img/side/Deal/1013.f0daee99b3678fadb91a371c3a1d571f.jpg" class="" alt="[Image: Three Month Gym Membership and 100 Tanning Minutes, Value $189, from Fitness Plus Canada for Only $49!]" title="Three Month Gym Membership and 100 Tanning Minutes, Value $189, from Fitness Plus Canada for Only $49!" width="133" height="67" /></a></p>
+                    <div  style="margin-top: 5px;"><span style=" color:#09C; font-size: 22px; text-shadow: 0 1px  #333; text-align:left; font-weight: bold; padding-left: 8px; float:left ">$49</span>
+                    <span style=" color:#333; font-size: 15px; padding-top: 3px; text-align: right;  font-weight: bold; padding-right: 13px; float:right "> Save 74%</span></div>
+                    <!--/div-->
+                    </td>
+                </tr>
+                <tr>
+                    <td style="background: url(http://www.pricedodger.com/img/slicegradient.png) repeat-y;">
+                    <br>    			<!--div id="side_deal"-->
+                    <a href="http://www.pricedodger.com/deal/20-kung-fu-classes-with-strength-training,-value-$160,-at-bamboo-kung-fu-for-only-$20!" style="font-size: 12px; text-shadow: none; text-align: center; color: #C00; font-weight: bold; padding-top: 8px;  line-height: 12px; padding-right: 13px; padding-left: 13px;">20 Kung Fu Classes with Strength Training, Value $160, ...</a>
+
+                    <p><a href="http://www.pricedodger.com/deal/20-kung-fu-classes-with-strength-training,-value-$160,-at-bamboo-kung-fu-for-only-$20!" style="border: none"><img src="/img/side/Deal/944.6d11f8762fa5c0beac1a48dd09cd15e7.jpg" class="" alt="[Image: 20 Kung Fu Classes with Strength Training, Value $160, at Bamboo Kung Fu for Only $20!]" title="20 Kung Fu Classes with Strength Training, Value $160, at Bamboo Kung Fu for Only $20!" width="133" height="67" /></a></p>
+                    <div  style="margin-top: 5px;"><span style=" color:#09C; font-size: 22px; text-shadow: 0 1px  #333; text-align:left; font-weight: bold; padding-left: 8px; float:left ">$20</span>
+                    <span style=" color:#333; font-size: 15px; padding-top: 3px; text-align: right;  font-weight: bold; padding-right: 13px; float:right "> Save 87%</span></div>
+                    <!--/div-->
+                    </td>
+                </tr>
+                <tr>
+                    <td style="background: url(http://www.pricedodger.com/img/slicegradient.png) repeat-y;">
+                    <br>    			<!--div id="side_deal"-->
+                    <a href="http://www.pricedodger.com/deal/30-class-pass-for-salsa,-ballroom,-latin-and-more,-value-$413,-from-john-howardson-dance-company-for" style="font-size: 12px; text-shadow: none; text-align: center; color: #C00; font-weight: bold; padding-top: 8px;  line-height: 12px; padding-right: 13px; padding-left: 13px;">30 Class Pass for Salsa, Ballroom, Latin and More, Valu...</a>
+
+                    <p><a href="http://www.pricedodger.com/deal/30-class-pass-for-salsa,-ballroom,-latin-and-more,-value-$413,-from-john-howardson-dance-company-for" style="border: none"><img src="/img/side/Deal/986.4b89029383454ae27ed96bd4621398be.jpg" class="" alt="[Image: 30 Class Pass for Salsa, Ballroom, Latin and More, Value $413, from John Howardson Dance Company for Only $20!]" title="30 Class Pass for Salsa, Ballroom, Latin and More, Value $413, from John Howardson Dance Company for Only $20!" width="133" height="67" /></a></p>
+                    <div  style="margin-top: 5px;"><span style=" color:#09C; font-size: 22px; text-shadow: 0 1px  #333; text-align:left; font-weight: bold; padding-left: 8px; float:left ">$20</span>
+                    <span style=" color:#333; font-size: 15px; padding-top: 3px; text-align: right;  font-weight: bold; padding-right: 13px; float:right "> Save 95%</span></div>
+                    <!--/div-->
+                    </td>
+                </tr>
+<tr>
+                <td>
+                   <img src ="http://www.pricedodger.com/img/roundedbottom.png" height ="31" width ="157">
+                </td>
+            </tr>
+        </table>
+        
+              </div>
+     <!--<![endif]-->
+    
+
+
+
+
+</div>
+
+    				               
+
+		</div>
+
+        
+        
+        
+		<!--FOOTER BEGINS -->
+		<!------------------------------------------------------------------------------------------------>
+				<div id="footerie">
+			<div class="footer-wrapper-innerie">
+				<div class="footer-section1">
+					<h6 style="color:#B8CCD6; text-shadow:#474F54 0 1px 1px;">Company</h6><br>
+					
+				
+					
+					<table class="footer_links" width="200" border="0" align="center">
+						<tr>
+						<td><a href="/toronto/page/about" title="About">About</a></td>
+						</tr>
+						<tr>
+						<td><br /><a href="/toronto/page/contact" title="Contact Us">Contact Us</a></td>
+						</tr>
+						<tr>
+						<td><br /><a href="/toronto/page/learn" title="How It All works">How Price Dodger Works</a></td>
+						</tr>
+						<tr>
+						<!--td><br /><a href="/toronto/page/jobs" title="jobs">Jobs</a></td-->
+						</tr>
+					</table>
+					
+				</div>
+				<div class="footer-section2">
+					<h6 style="color:#B8CCD6; text-shadow:#474F54 0 1px 1px;">Learn More</h6><br />
+					
+					
+					
+					
+					<table class="footer_links" width="200" border="0" align="center">
+						<tr>
+						<td><a href="/toronto/page/DD" title="Earn Dodger Dollars">Earn Dodger Dollars</a></td>
+						</tr>
+						<tr>
+						<td><br /><a href="/toronto/page/biz" title="Be featured on PriceDodger">For Business</a></td>
+						</tr>
+						<tr>
+						<td><br /><a href="/toronto/page/faq" title="FAQ">FAQ</a></td>
+						</tr>
+						<tr>
+						<td><br /><a href="/toronto/deals/recent" title="Recent Deals">Recent Deals</a></td>
+						</tr>
+					</table>
+					
+					
+				</div>
+				<div class="footer-section4">
+					<h6 style="color:#B8CCD6; text-shadow:#474F54 0 1px 1px;">PriceDodger Policy</h6><br>
+				<table class="footer_links" width="200" border="0" align="center">
+						<tr>
+						<td><a href="/toronto/page/term-and-conditions" title="Terms &amp; Privacy Policy">Terms &amp; Policies</a></td>
+						</tr>
+						<tr>
+						<td><br /><a href="/toronto/page/policy" title="Refund Policy">Refund Policy</a></td>
+						</tr>
+						
+					</table>
+
+
+				</div>
+				<div class="footer-section5">
+					<h6 style="color:#B8CCD6; text-shadow:#474F54 0 1px 1px; font-size:18px;">Stay Informed</h6><br>
+
+
+<table class="footer_links" width="200" border="0" align="center">
+						<tr>
+						<td><a href="https://www.facebook.com/pricedodgercom" title="See Our Profile in Facebook" target="_blank">Facebook</a></td>
+						</tr>
+						<tr>
+						<td><br /><a href="https://twitter.com/pricedodger" title="Follow Us in Twitter" target="_blank">Twitter</a></td>
+						</tr>
+						<tr>
+						<td><br /><a href="/toronto/subscribe" title="Email Notifications">Email Notifications</a></td>
+						</tr>
+					</table>
+
+				</div>
+
+			</div>
+			
+			
+            	<!--[if gt IE 5]>	
+			<div id="agriyaie" class="clearffix">
+    <![endif]-->   
+	<!--[if !IE]><!-->
+			<div id="agriya" class="clearffix">
+	<!--<![endif]-->
+				<p>&copy;2011 <a href="http://www.pricedodger.com/" title="PriceDodger.com">PriceDodger.com</a>. All rights reserved.</p>
+			</div>
+			
+		</div>
+	</div>
+
+
+
+
+
+<!-- as -->
+	</div>
+   </div>
+   
+   
+   <!--[if gt IE 5]>	
+
+<div id="basic-modal-content">
+<p style=" font-size: 26px; color: white; text-shadow: black 1px 1px 2px; margin-left:15px; font-weight: bold;">Explore deals in other cities</p><br><br>
+			<p> <div class="cities-info-block" style="font-size: 16px;">
+    <p><b><i><font color="Grey" size = "5">Canada</font></i></b></p>
+	<ol class="cities-list clearfix" start="1">
+					<li  >
+					<a href="/aurora" class="" title="Aurora">Aurora</a>				</li>
+						<li  >
+					<a href="/barrie" class="" title="Barrie">Barrie</a>				</li>
+						<li  >
+					<a href="/brampton" class="" title="Brampton">Brampton</a>				</li>
+						<li  >
+					<a href="/calgary" class="" title="Calgary">Calgary</a><img style="float:left; margin-left: 6px;" src = "http://www.pricedodger.com/img/checkred.png">				</li>
+						<li  >
+					<a href="/durham-region" class="" title="Durham Region">Durham Region</a>				</li>
+						<li  >
+					<a href="/edmonton" class="" title="Edmonton">Edmonton</a><img style="float:left; margin-left: 6px;" src = "http://www.pricedodger.com/img/checkred.png">				</li>
+						<li  >
+					<a href="/halifax" class="" title="Halifax">Halifax</a>				</li>
+						<li  >
+					<a href="/hamilton" class="" title="Hamilton">Hamilton</a>				</li>
+						<li  >
+					<a href="/mississauga" class="" title="Mississauga">Mississauga</a><img style="float:left; margin-left: 6px;" src = "http://www.pricedodger.com/img/checkred.png">				</li>
+						<li  >
+					<a href="/montreal" class="" title="Montreal">Montreal</a><img style="float:left; margin-left: 6px;" src = "http://www.pricedodger.com/img/checkred.png">				</li>
+						<li  >
+					<a href="/niagara" class="" title="Niagara">Niagara</a>				</li>
+						<li  >
+					<a href="/quebec-city" class="" title="Quebec City">Quebec City</a>				</li>
+						<li class="active" >
+					<a href="/toronto" class="class=&quot;active&quot;" title="Toronto">Toronto</a><img style="float:left; margin-left: 6px;" src = "http://www.pricedodger.com/img/checkred.png">				</li>
+						<li  >
+					<a href="/vancouver" class="" title="Vancouver">Vancouver</a>				</li>
+						<li  >
+					<a href="/victoria" class="" title="Victoria">Victoria</a>				</li>
+						<li  >
+					<a href="/york-region" class="" title="York Region">York Region</a>				</li>
+		</ol><br><p><b><i><font color="Grey" size = "5">US</font></i></b></p><ol class="cities-list clearfix" start="1">				<li  >
+					<a href="/ft.-lauderdale" class="" title="Ft. Lauderdale">Ft. Lauderdale</a><img style="float:left; margin-left: 6px;" src = "http://www.pricedodger.com/img/checkred.png">				</li>
+						<li  >
+					<a href="/miami" class="" title="Miami">Miami</a><img style="float:left; margin-left: 6px;" src = "http://www.pricedodger.com/img/checkred.png">				</li>
+						<li  >
+					<a href="/treasure-coast" class="" title="Treasure Coast">Treasure Coast</a><img style="float:left; margin-left: 6px;" src = "http://www.pricedodger.com/img/checkred.png">				</li>
+		</ol>
+<p class="suggestion-link"><a href="/toronto/city_suggestions/new" title="Suggest a City">Don't see your city?</a></p>
+</div></p>
+		</div>
+
+
+</td></tr></table>    
+<script  defer="defer" type='text/javascript' src='js/jquery.js'></script>
+<script  defer="defer" type='text/javascript' src='js/jquery.simplemodal.js'></script>
+<script  defer="defer" type='text/javascript' src='js/basic.js'></script>
+<![endif]-->   
+
+	<script type="text/javascript">
+            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+            document.write(unescape("%3Cscript src=\'" + gaJsHost + "google-analytics.com/ga.js\' type=\'text/javascript\'%3E%3C/script%3E"));
+        </script>
+
+        <script type="text/javascript">
+            var pageTracker = _gat._getTracker("UA-4819298-1");
+            pageTracker._initData();
+            pageTracker._trackPageview();
+        </script>
+
+
+
+
+	
+</body>
+</html>

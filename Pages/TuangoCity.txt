@@ -1,0 +1,787 @@
+
+
+	
+
+
+		
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+	<title>Tuango - Today's Deal - Canada's Group Buying Website </title>
+
+
+<meta name="Description" content="">
+<link href="/default/includes/themes/tuango/css/global.css" rel="stylesheet" type="text/css">
+<link href="/default/includes/themes/tuango/css/edit.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="/default/includes/themes/tuango/js/jquery-1.4.1.min.js"></script>
+<script type="text/javascript" src="/default/includes/themes/tuango/js/slickerEN.js"></script>
+<script type="text/javascript">
+ 
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-16332291-1']);
+  
+  	
+  
+  _gaq.push(['_trackPageview']);
+  
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+ 
+</script>
+
+				
+
+
+
+<script type="text/javascript">
+var dtExample="2012-11-10";
+var dtCh="-";
+var dtFormat =[1,2,0];
+</script>
+	
+<script type="text/javascript" src="/default/js/global.js"></script>
+<script type="text/javascript">
+var loginURL="?display=login";
+var siteid="default"; 
+var siteID="default"; 
+var context=""; 
+var jslib="jquery";
+var assetpath="/default";
+var themepath="/default/includes/themes/tuango";
+</script>
+
+		</head>
+<body id="home">
+
+
+<script>
+	$().ready(function() {
+		
+		$("#newsemail").click(function(){ $(this).attr({ value: '' }); });
+		
+	});
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+	
+
+
+
+
+
+	
+	
+
+
+
+<div id="options" >
+  <div id="slickcity" style='display:none;'>
+    <div id="listCity">
+      <table width="740" border="0" cellpadding="8" cellspacing="8">
+        <tr>
+          <td align="left"><h1>Choose your city: </h1></td>
+          <td ><a href="#" id="slick-up-montreal" onclick="location.href = '/en/montreal'">Montreal</a></td>
+          <td ><a href="#" id="slick-up-quebec" onclick="location.href = '/en/quebec'">Quebec City</a></td>
+          <td ><a href="#" id="slick-up-ottawa" onclick="location.href = '/en/ottawa'">Ottawa</a></td>
+          <td ><a href="#" id="slick-up-city">Close</a> </td>
+        </tr>
+      </table> 
+    </div>
+  </div>
+  <div id="slicklanguage" style='display:none;'>
+    <div id="listlanguage">
+      <table width="740" border="0" cellpadding="8" cellspacing="8">
+        <tr>
+          <td align="left"><h1>Choose your Language: </h1></td>
+          <td ><a href="#" id="slick-up-english" onclick="location.href = '/en/montreal/'">English</a></td>
+          <td ><a href="#" id="slick-up-french" onclick="location.href = '/fr/montreal/'">Fran&ccedil;ais</a></td>
+          <td ><a href="#" id="slick-up-language">Close</a> </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+  <div id='slicksocial' style='display:none;'>
+    <form action="?noCache=1" method="post">
+      <input type="hidden" name="social" value="1"/>
+      <div id="listSocial">
+        <table width="960" border="0" cellpadding="0" cellspacing="8">
+          <tr>
+            <td><h1>Deals in your inbox </h1></td>
+            <td class="field"><input name='user_email' type='text' class='email' title='Enter your email address' value="Type your email here" />
+            </td>
+            <td class="field"><input name='user_postalcode' type='text' class='email' title='Enter your postal code' value="Type your postal code here" />
+            </td>
+            <td><input id="subscription_submit" name="dailyalertbutton" type="submit" value="Send me Daily deals" />
+            </td>
+            
+            <td></td>
+            <td><span class="hide never_miss"><a href="#" id="slick-up-alerts">Close</a></span></td>
+          </tr>
+          
+        </table>
+      </div>
+    </form>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="header">
+  <div class="inner">
+    <div id="logo"><a href="/en/montreal/" ><img src="/default/includes/themes/tuango/img/spacer.gif" alt="tuango" width="172" height="175" /></a></div>
+    <div id="headerDisplay">
+      <div id="navOptions">
+        <ul>
+          <li> <a href="#" id="slick-toggle-city">Change City</a></li>
+          
+          	<li> <a href="/fr/montreal/" class="longx" >Fran&ccedil;ais</a></li>
+          
+          <li> <a href="/en/montreal/dailydeal/">Get Daily Alerts</a></li>
+          
+          <li><a href="/en/contact-us/">Contact Us</a></li>
+          <li><a href="/en/how-it-works-for-business/#bizform">Get featured on Tuango!</a></li>
+        </ul>
+      </div>
+ 
+
+      <div id="scrubNav">
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            
+            <td width="69%" align="left" valign="top"><div class="cityName"><a href="#" id="slick-toggle-city-big">Montreal</a></div></td>
+            
+            <td width="31%" align="left" valign="top">
+            
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			    	
+			    
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+        
+            	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+            	    <tr>
+            	      <td><p class="minText">Dollars saved: <span class="highlight">$8,735,432.00</span></p></td>
+            	    </tr>
+            	    <tr>
+            	      <td><p class="minText">Deals sold: <span class="highlight">148297</span></p></td>
+            	    </tr>
+            	    <form id="frmEmailMaster" name="frmEmailMaster" action="http://www.tuango.ca/en/montreal/dailydeal/?nocache=1&subscribe=1" method="post" onsubmit="return validate(this);">
+    				<input type="hidden" name="mlid" value="EEB6DCD1-E665-4D44-BCAD858A1E75712D"/>
+            	    <tr>
+            	      <td class="minText"><table border="0" cellpadding="0" cellspacing="0" class="signUpSmall">
+            	          <tr>
+            	            <td align="left" valign="middle"><input id="newsemail" name="email" type="text" value="Register for our daily deal in your inbox" size="25" required="true" validate="email" message="You have to enter a valid email"/></td>
+            	            
+            	        <td align="left" valign="middle">
+            	              <a href="#" onclick="javascript:document.frmEmailMaster.submit();"><img src="/default/includes/themes/tuango/img/minigo.gif" alt="Inscrivez-vous" width="28" height="30" /></a></td>
+            	          </tr>
+            	        </table></td>
+            	    </tr>
+            	    </form>
+            	  </table>
+            </td>
+          </tr>
+        </table>
+      </div>
+
+      <div id="nav">
+        <ul>
+          <li><a href="/en/montreal/" >Today's&nbsp;Deal</a></li>
+          <li><a href="/en/montreal/recent-deals/" >Recent&nbsp;Deals</a> </li>
+          <li><a href="/en/how-it-works/" >How&nbsp;it&nbsp;Works</a> </li>
+        </ul>
+      </div>
+
+        
+      	<div class="signin">
+      	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td><a href="/en/sign-in/?doAction=login" class="big">Sign&nbsp;In &raquo;</a></td>
+            <td class="facebookSignin">
+            	<fb:login-button></fb:login-button>
+            </td>
+          </tr>
+        </table>
+        </div>        
+      	
+
+      
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="bg-content">
+  <div class="main" >
+    <div id="content">
+      <div class="w720">
+      	
+      	
+      	
+        
+        
+
+ 
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+
+	
+	
+		
+	
+	
+	
+
+<div class="g720 deal">
+          <p class="dealName"><span class="emphasize">Today's Deal: </span><a href="/en/montreal/79-for-a-beauty-package-at-the-lise-watier-institute-value-of-180">$79 for a beauty package at the Lise Watier Institute (Value of $180)</a></p>
+          <div class="g240">
+            <div class="buy">
+              <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                
+                <tr>
+                	<td><div class="dealPrice">$79 </div></td>
+                  	<td><a href="/en/purchase?dealid=28077123-8A98-4DA3-895D341A10A7B1AF" class="bigButton" >BUY</a></td>
+                </tr>
+                
+                
+               
+              </table>
+            </div>
+            <div class="buyforfriend">
+            	<a href="/en/purchase?dealid=28077123-8A98-4DA3-895D341A10A7B1AF" class="infoNumbers"><img src="http://c455536.r36.cf2.rackcdn.com/img/icon-gift.gif" alt="" width="36" height="24" align="absmiddle" />or buy it for a friend</a>
+            </div>
+            <div class="info">
+              <h3>Your Savings!</h3>
+              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tr class="infoLabels">
+                  <td class="third">Value</td>
+                  <td class="third">Discount</td>
+                  <td class="third">Savings</td>
+                </tr>
+                <tr class="infoNumbers">
+                  <td>
+                  	
+                  	
+                  		<div> $180</div>
+                  	
+                  </td>
+                  <td><p>56%</p></td>
+                  <td>
+                  	
+                  	
+                  		<div> $101</div>
+                  	
+                  </td>
+                </tr>
+              </table>
+            </div>
+            
+            <div class="info">
+               <h3>Time Left To Buy</h3>
+               
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       
+
+
+
+              
+              <div class="timeLeft">
+                <div class="third">Days</div>
+                <div class="third">Hours</div>
+                <div class="third">Minutes</div>
+                <div id="cntdwn">
+                	<script language="JavaScript">
+					TargetDate = "5/1/2011 11:59:00 PM";
+					CountActive = true;
+					CountStepper = -1;
+					LeadingZero = true;
+					DisplayFormat = "<div class='timeLeftBox'>%%D%%</div><div class='timeLeftBox'>%%H%%</div><div class='timeLeftBox'>%%M%%</div>";				
+					FinishMessage = "<div class='timeLeftBox'>00</div><div class='timeLeftBox'>00</div><div class='timeLeftBox'>00</div>";	
+					</script>
+					<script language="JavaScript" src="/default/includes/themes/tuango/js/countdown.js"></script>
+                </div>
+              </div>
+              
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            </div>
+            
+           
+ 
+            
+            
+            
+            <div class="info blank">
+            	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       
+
+
+
+              <h3>Deal Status</h3>
+                            		
+              		
+              			<p class="infoStatus">Deal is On</p>
+              			<p class="infoLabels"><strong>261 bought</strong></p>
+              			<p class="infoLabels">Deal activated at  with 10 vouchers sold</p>
+              			
+     
+              		            		
+              	
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            </div>
+            
+            
+
+            <div class="info share">
+              <h3> Share This Deal!</h3>
+              
+              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tr class="infoLabels">
+                  <td class="third"><a href="#" onclick="shareonfacebook('Check out this deal! : $79 for a beauty package at the Lise Watier Institute (Value of $180)','http://www.tuango.ca/en/montreal/79-for-a-beauty-package-at-the-lise-watier-institute-value-of-180','Get this deal','Tuango offers one fantastic deal every day with discounts of up to 90% at local restaurants\, bars\, spas\, theaters\, and more.','http://www.tuango.ca/tasks/render/file/?fileid='); return false;">Facebook</a></td>
+                  <td class="third"><a href="http://twitter.com/home?status=%2479%20for%20a%20beauty%20package%20at%20the%20Lise%20Watier%20Institute%20%28Value%20of%20%24180%29.+www.tuango.ca" target="_blank">Twitter</a></td>
+                  <td class="third"><a href="mailto:?body=$79 for a beauty package at the Lise Watier Institute (Value of $180)%0A%0ATuango offers one fantastic deal every day with discounts of up to 90%25 at local restaurants, bars, spas, theaters, and more.%0A%0AGet this deal by following the link below%0A%0Ahttp://www.tuango.ca/en/montreal/79-for-a-beauty-package-at-the-lise-watier-institute-value-of-180&subject=$79 for a beauty package at the Lise Watier Institute (Value of $180)" target="_blank">Email</a></td>
+                </tr>
+                <tr class="infoNumbers">
+                  <td><a href="#" onclick="shareonfacebook('Check out this deal! : $79 for a beauty package at the Lise Watier Institute (Value of $180)','http://www.tuango.ca/en/montreal/79-for-a-beauty-package-at-the-lise-watier-institute-value-of-180','Get this deal','Tuango offers one fantastic deal every day with discounts of up to 90% at local restaurants\, bars\, spas\, theaters\, and more.','http://www.tuango.ca/tasks/render/file/?fileid='); return false;"><img src="http://c455536.r36.cf2.rackcdn.com/img/icon-facebook-small.png" alt="facebook" width="16" height="16" align="absmiddle" /></a></td>
+                  <td><a href="http://twitter.com/home?status=%2479%20for%20a%20beauty%20package%20at%20the%20Lise%20Watier%20Institute%20%28Value%20of%20%24180%29.+www.tuango.ca" target="_blank"><img src="http://c455536.r36.cf2.rackcdn.com/img/icon-twitter-small.png" alt="twitter" width="16" height="16" align="absmiddle" /></a></td>
+                  <td><a href="mailto:?body=$79 for a beauty package at the Lise Watier Institute (Value of $180)%0A%0ATuango offers one fantastic deal every day with discounts of up to 90%25 at local restaurants, bars, spas, theaters, and more.%0A%0AGet this deal by following the link below%0A%0Ahttp://www.tuango.ca/en/montreal/79-for-a-beauty-package-at-the-lise-watier-institute-value-of-180&subject=$79 for a beauty package at the Lise Watier Institute (Value of $180)" target="_blank"><img src="http://c455536.r36.cf2.rackcdn.com/img/icon-email-small.png" alt="*" width="16" height="16" align="absmiddle" /></a></td>
+                </tr>
+              </table>
+            </div>
+            
+            
+          </div>
+          <div class="g480"> 
+          	
+          		<img src="http://c0011785.cdn2.cloudfiles.rackspacecloud.com/lisewatieren.jpg" width="460" height="306"/>
+          	
+            <div class="dealDetails">
+              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td valign="top" class="g240"><h3>What you get</h3><br><ul>
+	<li>Right on time for Mother&rsquo;s Day:
+	<ul>
+		<li>A mani-pedi of approximately 1 hour and 30 minutes</li>
+		<li>An energizing Vitamin-C facial</li>
+	</ul>
+	</li>
+	<li>A renowned institute with more than 20 years of experience</li>
+	<li>Ideally located on Laurier Street</li>
+	<li>Indoor parking free for the first three hours</li>
+	<li>Valid at the Montreal location only</li>
+</ul></td>
+                  <td valign="top" class="g240"><h3>Details</h3><br><ul>
+	<li>1 coupon per person</li>
+	<li>May buy multiple to offer as gifts</li>
+	<li>Valid from May 3, 2011 / Ends November 30, 2011</li>
+	<li>New customers only</li>
+	<li>Appointment required / 48-h cancelation policy applicable (otherwise, the coupon will loose 25% of its value)</li>
+	<li>Tax and tip not included</li>
+	<li>Cannot be combined with any other offer / No cash value</li>
+</ul></td>
+                </tr>
+              </table>
+            </div>
+          </div>
+          <div class="space">&nbsp;</div>
+          <div class="g720center"><center>All prices are in Canadian Dollars ($CAN )</center></div>
+          <div class="space">&nbsp;</div>
+        </div>
+        <div class="space">&nbsp;</div>
+        <div class="g720 deal">&nbsp;
+          <div class="g240 companyName">
+            <h2>Institut Lise Watier</h2>
+            392, av Laurier West, Montreal, QC H2V 2K7 (514) 270-9296
+            <br><br>
+            
+            <a href="http://www.institutlisewatier.com" target="_blank">www.institutlisewatier.com</a>
+            
+          </div>
+          <div class="g480 companyDetails">
+             <p>Every woman deserves to be treated like a queen everyday! Alas, we can&rsquo;t all be Kate Middleton and yes, handsome William is already taken.  But even if we don&rsquo;t have royal blood, there is at least one day a year where women deserve to be adored and pampered: Mother&rsquo;s day. Tuango and the Lise Watier institute have the perfect gift idea to treasure the important woman in your life or why not, to spoil yourself! For only $79, get a mani-pedi and an energizing Vitamin C facial (a value of $180)!</p>
+<p>The Lise Watier institute, undeniable pioneer in Quebec has been up and running for 20 years. Renowned for its impeccable service and the quality of its treatments, the Lise Watier institute is the ideal pampering destination. The company, proudly Qu&eacute;b&eacute;coise, has its erected its home on beautiful Laurier street.</p>
+<p>Come and take advantage of a complete mani and pedi! Your extremities will be massaged, polished, exfoliated, cleaned and softened. Then, you will choose the color of your choice, and you can even opt for a French manicure and French pedicure at no extra charge.</p>
+<p>For Mother&rsquo;s Day, spoil yourself.  Or, treat the ones that are close to your heart. You deserve it! Who knows, maybe you will come out with such a happy glow, that you will impress Harry?</p>
+          </div>
+        </div>
+</div>
+
+
+      <div class="g240 sidebar">
+      
+
+
+     
+		
+		
+		
+	
+     
+
+     
+     
+     	
+     
+     	
+
+		
+		
+	
+
+	
+
+
+	
+		
+		
+	
+      
+       <div class="forumCallout">
+          <div class="forumTitle"><a href="/en/montreal/79-for-a-beauty-package-at-the-lise-watier-institute-value-of-180/discuss/">Latest Comment</a></div>
+          <div class="forumQuote"><a href="/en/montreal/79-for-a-beauty-package-at-the-lise-watier-institute-value-of-180/discuss/">&quot;Talk about this deals in our forum.&quot;</a>...<a href="/en/montreal/79-for-a-beauty-package-at-the-lise-watier-institute-value-of-180/discuss/"> more</a></div>
+          <div class="forumWho"><a href="/en/montreal/79-for-a-beauty-package-at-the-lise-watier-institute-value-of-180/discuss/">by Tuango</a></div>
+<div class="forumLink"><a href="/en/montreal/79-for-a-beauty-package-at-the-lise-watier-institute-value-of-180/discuss/">Discuss this offer</a></div>
+          <div class="forumMore"><a href="/en/montreal/79-for-a-beauty-package-at-the-lise-watier-institute-value-of-180/discuss/">0 Comment</a></div>
+        </div>
+      
+      
+      
+      
+      
+      		<div class="g240 card">
+      			<h5><em><a href="/en/montreal/18-for-a-magical-day-at-siberia-station-spa-value-of-37">Extra Deal</a></em></h5><br>
+      			<a href="/en/montreal/18-for-a-magical-day-at-siberia-station-spa-value-of-37">
+        		  		<img src="http://c0011785.cdn2.cloudfiles.rackspacecloud.com/siberia.jpg" width="220" border="0"/>
+        		  	</a>
+      			<h3><a href="/en/montreal/18-for-a-magical-day-at-siberia-station-spa-value-of-37">$18 for a magical day at Sibéria Station Spa (value of $37)</a></h3>
+      		</div>
+      	
+ 	  
+      
+      
+      		<div class="g240 card">
+      			<h5><em><a href="/en/montreal/119-for-a-pearl-and-diamond-gift-set-at-aqua-jewellery-value-of-399">Extra Deal</a></em></h5><br>
+      			<a href="/en/montreal/119-for-a-pearl-and-diamond-gift-set-at-aqua-jewellery-value-of-399">
+        		  		<img src="http://c0011785.cdn2.cloudfiles.rackspacecloud.com/aquajewelry.jpg" width="220" border="0"/>
+        		  	</a>
+      			<h3><a href="/en/montreal/119-for-a-pearl-and-diamond-gift-set-at-aqua-jewellery-value-of-399">$119 for a pearl and diamond gift set at Aqua Jewellery (value of $399)</a></h3>
+      		</div>
+      	
+ 	  
+      
+      
+      
+      <div class="g240 card"> <img src="/default/includes/themes/tuango/img/paypal.gif" alt="" /></div>
+      <div class="g240 card">
+      <iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Ftuangodeals&amp;width=240&amp;colorscheme=light&amp;show_faces=true&amp;stream=false&amp;header=true&amp;height=285" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:240px; height:285px;" allowTransparency="true"></iframe>
+      </div>
+      
+      
+      <div class="g240 card">
+      	<div class="promoSidebar">
+          <h2>As Featured on</h2>
+          <a href="http://lapresseaffaires.cyberpresse.ca/economie/technologie/201103/04/01-4376028-la-pme-montrealaise-tuango-compte-resister-a-groupon.php" target="_blank"><img src="/default/includes/themes/tuango/logos/cyberpresselogo.png" alt="" width="198" height="39" /></a>
+          <hr />
+          <a href="http://www.montrealgazette.com/business/Strength+numbers/3481173/story.html" target="_blank"><img src="/default/includes/themes/tuango/logos/gazette.png" alt="" width="200" height="44" />
+          <hr />
+          <a href="http://techno.branchez-vous.com/actualite/2010/07/magasinage_en_ligne_team_buying.html" target="_blank"><img src="/default/includes/themes/tuango/logos/branchez-vous.png" alt="" width="217" height="47" /></a>
+          <hr />
+          <a href="http://www.calgaryherald.com/business/Coupon+concept+evolves+Internet/3512841/story.html" target="_blank"><img src="/default/includes/themes/tuango/logos/calgary_herald_logo.png" alt="" width="200" height="47" /></a>
+          <hr />
+          <a href="http://www.journalmetro.com/plus/article/576355--magasinage-en-ligne-3-sites-dedies-au-commerce-social--page2" target="_blank"><img src="/default/includes/themes/tuango/logos/metro.png" alt="" width="260" height="72" /></a>
+          <hr />
+          <a href="/default/includes/themes/tuango/mp3/choiradiox.mp3" target="_blank"><img src="/default/includes/themes/tuango/logos/choi_radiox.png" alt="" width="200" height="80" /></a>
+	
+        </div>
+       </div>
+      
+      <div class="space">&nbsp;</div>
+    </div>  </div>
+  </div>
+</div>
+
+<img src="http://r.casalemedia.com/j.gif?u=160389&s=2" width="1" height="1" alt="">
+
+
+
+
+
+
+<div id="footer">
+  <div class="inner">
+    <div id="footerTagline">Canada's Group Buying Website</div>
+    <div class="g640">
+      <div class="shareThisDealFooter">FOLLOW US! <a href="http://www.facebook.com/Tuangodeals" target="_blank"><img src="/default/includes/themes/tuango/img/icon-facebook-small.png" alt="facebook" width="16" height="16" align="absmiddle" /></a><a href="http://www.facebook.com/Tuangodeals" target="_blank">Facebook</a> <a href="http://twitter.com/tuango"><img src="/default/includes/themes/tuango/img/icon-twitter-small.png" alt="twitter" width="16" height="16" align="absmiddle" /></a><a href="http://twitter.com/tuango">Twitter</a> </div>
+    </div>
+    <div class="g240"></div>
+    <div class="legal">Copyright � 2011 Tuango | <a href="/en/privacy-policy/">Privacy Policy</a> | <a href="/en/refund-policy/">Refund Policy</a> | <a href="/en/security-policy/">Security Policy</a> | <a href="/en/terms-of-service/">Terms of Service</a> | <a href="/en/faq/">FAQ</a> | <a href="/en/how-it-works-for-business/">How it works for business</a> | <a href="/en/how-it-works-for-business/#bizform">Get featured on Tuango!</a> | <a href="/en/employment">Employment</a> | <a href="/en/aboutus">About us</a> | <a href="http://www.tuango.ca">http://www.tuango.ca</a><br />
+    </div>
+  </div>
+</div>
+
+
+<div id="fb-root"></div>
+<script src="http://connect.facebook.net/en_US/all.js"></script>
+<script>
+  FB.init({appId: 'c383515ab56c768095476dbbcc22f4e8', status: true, cookie: true, xfbml: true});
+  FB.Event.subscribe('auth.login', function(response) {
+       //alert('DEV : LOGIN');
+       window.location.reload();
+  });
+  FB.Event.subscribe('auth.logout', function(response) {
+        //alert('Thanks You');
+        window.location = '?doaction=logout' ;
+  });
+  function shareonfacebook(facebookmessage,facebooklink,facebooktitle,facebookdescription,imagesource) 
+  {
+  FB.ui(
+   {
+     method: 'stream.publish',
+     message: facebookmessage,
+     attachment: {
+       name: facebooktitle,
+       description: (
+         facebookdescription
+       ),
+       href: facebooklink,
+       media: [{ 'type': 'image', 'href': facebooklink, 'src': imagesource}]
+     },
+     action_links: [
+       { text: 'Code', href: facebooklink }
+     ],
+     user_prompt_message: 'Share this deal'
+   }
+  );
+}
+</script>
+
+
+<script type="text/javascript">
+//<![CDATA[
+(function() {
+	var links = document.getElementsByTagName('a');
+	var query = '?';
+	for(var i = 0; i < links.length; i++) {
+	if(links[i].href.indexOf('#disqus_thread') >= 0) {
+		query += 'url' + i + '=' + encodeURIComponent(links[i].href) + '&';
+	}
+	}
+	document.write('<script charset="utf-8" type="text/javascript" src="http://disqus.com/forums/tuangoen/get_num_replies.js' + query + '"></' + 'script>');
+})();
+//]]>
+</script>
+
+<script type="text/javascript" src="http://dnn506yrbagrg.cloudfront.net/pages/scripts/0011/3210.js"> </script>
+<!--
+www.tuango.ca server is running fine : {ts '2011-04-29 22:16:34'}
+-->
+</body>
+</html>
+
+	
+

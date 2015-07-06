@@ -1,0 +1,1056 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en_CA"
+      lang="en_CA">
+<head><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()])</script>
+    <title>
+        $299 for a Lipolysis Injection and OneThermagik Radiofrequency Treatment ($1110 Value)</title>
+
+    <meta name="title" content="$299 for a Lipolysis Injection and OneThermagik Radiofrequency Treatment ($1110 Value)"/>
+
+                <meta name="description" content="$299 for a Lipolysis Injection and One Thermagik Radiofrequency Treatment at Destination Beauté ($1075 Value)"/>
+                    <meta name="keywords" content="Lipolysis Injection and One Thermagik Radiofrequency Treatment at Destination Beauté"/>
+                <link rel="image_src" href="http://static.ca.groupon-content.net/07/68/1321269756807.jpg"/>
+                <meta name="geo.region" content="CA"/>
+                <meta name="geo.placename" content="Montreal"/>
+                <meta name="geo.position"
+                      content="45.5194614;-73.56888879999997"/>
+                <meta name="ICBM"
+                      content="45.5194614, -73.56888879999997"/>
+            <link rel="canonical" href="http://www.groupon.ca/deals/montreal/destination-beaute/1588454"/>
+                        <link rel="alternate"
+          type="application/rss+xml"
+          title="RSS-News"
+          href="http://api.groupon.de/feed/api/v1/deals/oftheday/CA/montreal"/>
+
+
+    <meta name="viewport" content="max-scale=1.0, user-scalable=yes"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+
+    <link rel="stylesheet" type="text/css" media="all" href="http://static.ca.groupon-content.net/s/cdn3191370652/bundles/layout_bundle.css" />
+<link rel="stylesheet" type="text/css" media="all" href="http://static.ca.groupon-content.net/s/cdn3191370652/bundles/custom.jquery.autocomplete_bundle.css" />
+<script type="text/javascript" src="http://static.ca.groupon-content.net/s/cdn3191370652/bundles/general_bundle.js" ></script>
+<script type="text/javascript" src="http://static.ca.groupon-content.net/s/cdn3191370652/bundles/additionalJS_bundle.js" ></script>
+<script type="text/javascript" src="http://static.ca.groupon-content.net/s/cdn3191370652/bundles/jquery_validate.pack.js" ></script>
+<script type="text/javascript">
+        
+        Groupon.debug = false;
+        var GrouponCountry = 'CA';
+    </script>
+
+    <script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+
+    <link rel="shortcut icon" href="http://static.ca.groupon-content.net/s/images/layout/favicon_groupon.ico"
+          type="image/x-icon"/>
+    <link rel="icon" href="http://static.ca.groupon-content.net/s/images/layout/favicon_groupon.ico" type="image/x-icon"/>
+</head>
+
+
+<body class="bodyHome   en_CA en_XX xx_CA ">
+
+<div class="wrapAll">
+
+    <div id="specialDynamix">
+       <div class="pagewrap">
+	    <div id="citySelectBox" style="display:none;">
+	        <ul id="jCitiesSelectBox">
+	            <li class=" active" onclick="window.location = 'http://www.groupon.ca/deals/montreal' "><span>Montreal</span></li>
+	            <li class="" onclick="window.location = 'http://www.groupon.ca/deals/drummondville' "><span>Drummondville</span></li>
+	            <li class="" onclick="window.location = 'http://www.groupon.ca/deals/trois-rivieres' "><span>Trois-Rivières</span></li>
+	            <li class="" onclick="window.location = 'http://www.groupon.ca/deals/terrebonne' "><span>Terrebonne</span></li>
+	            <li class="" onclick="window.location = 'http://www.groupon.ca/deals/levis' "><span>Lévis</span></li>
+	            <li class="mostRight" onclick="window.location = 'http://www.groupon.ca/deals/saguenay' "><span>Saguenay</span></li>
+	            <li class="" onclick="window.location = 'http://www.groupon.ca/deals/sherbrooke' "><span>Sherbrooke</span></li>
+	            <li class="" onclick="window.location = 'http://www.groupon.ca/deals/longueuil' "><span>Longueuil</span></li>
+	            <li class="" onclick="window.location = 'http://www.groupon.ca/deals/gatineau' "><span>Gatineau</span></li>
+	            <li class="" onclick="window.location = 'http://www.groupon.ca/deals/quebec' "><span>Québec</span></li>
+	            <li class="" onclick="window.location = 'http://www.groupon.ca/deals/laval' "><span>Laval</span></li>
+	            <li class="mostRight" onclick="window.location = 'http://www.groupon.ca/deals/national-deal' "><span>National Deal</span></li>
+	            </ul>
+	        <div class="wrapper"></div>
+	    </div>
+	    <div class="wrapper"></div>
+	</div></div>
+    <div id="header">
+        <div class="pagewrap">
+            <a id="logo" title="Coupons, Deals by Groupon" href="http://www.groupon.ca/"><img src="http://static.ca.groupon-content.net/s/cdn3191370652/images/layout/groupon.png" height="110" alt="Groupon" width="265" /></a><div class="headerTopBar">
+                <a id="jRecommend" class="highlightedArea" rel="nofollow" href="/recommendation"><span class="partLeft"><!-- &nbsp; --></span><span class="partMiddle">Register now and get C$10 for every recommendation!</span><span class="partRight"><!-- &nbsp; --></span></a></div>
+
+            <div class="headerCityCaption">
+            	Choose Your City:</div>
+            <div class="header-bottom-line">
+                <div id="headerCityButton">
+                    <a id="jAllCitiesButton" href="" rel="nofollow" class="button"><span class="partMiddle">Montreal</span><span class="partRight"><!-- &nbsp; --></span></a>
+                </div>
+
+                <div id="headerSubscribeNewsletter">
+
+                    <form id="jHeaderNlRegisterForm" action="/Newsletter.action" method="post"><div><strong>
+                            Receive deals for Montreal:</strong></div>
+                        <input id="emailaddress" name="email" value="Enter your e-mail address" class="email predefinedInput textDefault" type="text" /><button class="button06 button06a" name="subscribeNewsletter" id="newsletterSubmitBtn" type="submit" value=""><span></span></button>
+                    <div style="display: none;"><input type="hidden" name="_sourcePage" value="rIcpJOht48rIC_a9U_X6VlAjePsX9lu_D2OJ7KfEeEZb8EwixVnJuQ==" /><input type="hidden" name="__fp" value="PrDftHkwuK0=" /></div></form></div>
+            </div>
+            <div class="wrapper"></div>
+        </div>
+    </div>
+
+    <div id="navigation">
+        <div class="pagewrap">
+            <div class="linkArea">
+                <a id="jDealOfTheDay" title="Today’s Deal Montreal" class="link linkCurrent" href="http://www.groupon.ca/deals/montreal">Today’s Deal</a><a id="jRecentDeals" title="Deals Montreal" class="link  jRecentDeals" href="http://www.groupon.ca/missed-deals/montreal">Previous Deals</a><a id="jHowDoesItWork" title="How Groupon works" class="link " href="http://www.groupon.ca/how-does-groupon-work">How it works</a></div>
+            <div id="jUserAreaLoggedOut" class="userArea">
+                    <a id="jRegisterLink" class="link" rel="nofollow" href="https://www.groupon.ca/register">Register</a><a id="jLoginLink" class="link" rel="nofollow" href="https://www.groupon.ca/login">Login</a></div>
+            <div class="languageSelector">
+                    <div class="languageSelectorText"></div>
+                    <div class="languageSelectorBox">
+                        <ul id="jLanguageSelectorBox"> 
+                            <li class="first current "><a id="jCurrentLanguage" href="/switchLanguage/en_CA"><span>EN</span></a></li>
+                            <li class="last"><a id="" href="/switchLanguage/fr_CA"><span>FR</span></a></li>
+                            </ul>
+                    </div>
+                </div>
+            <div class="wrapper"></div>
+        </div>
+    </div>
+
+
+<script type="text/javascript">
+
+    $(document).ready(function() {
+        Header.start('Please enter an e-mail address', 'You have successfully subscribed to the Groupon newsletter for {0} with the following email address: {1}.','An error occurred. Please try again later.', 'Please enter a valid e-mail address: xxx@yyy.zzz. This e-mail provider is not valid.');
+        
+
+    });
+</script>
+
+<script type="text/javascript">
+    <!--
+    function closeMsg(elem) {
+        $(elem).parents('.statusMessage').slideUp('slow');
+    }
+    //-->
+</script>
+
+<div class="statusMessage statusMessageError" id="jStatusMessageError">
+    </div>
+
+<div class="statusMessage statusMessageSuccess" id="jStatusMessageSuccess">
+    </div>
+
+<div class="statusMessage statusMessageInfo" id="jStatusMessageInfo">
+    </div><div style="display: none">
+	<!-- media plex start -->
+	<!-- // media plex end -->
+	</div>
+<script type="text/javascript">
+	
+		$('.tooLateSubscribe .tooLateSubscribeButton a').click(function(){$('#noDeal_regForNewsletter').submit();});
+	
+	</script>
+
+    <div class="pagewrap" id="additionalArea">
+
+		<div class="adtRecommendTab">
+			<div class="part partLeft"><!-- &nbsp; --></div>
+			<div class="part partMiddle">
+				<ul class="adtRecommendTabLinks">
+					<li class="label">
+							Recommend this deal:</li>
+					<li>
+					</li>
+					<li><a href="http://www.facebook.com/share.php?u=http://www.groupon.ca/deals/montreal/destination-beaute/1588454"  class="addIcon addIconFb jRAF jFacebook" rel="nofollow" trackingUrl="/Recommendation.action" dotdId="1588454" >Facebook</a></li>
+   			    	<li><a href="http://twitter.com/intent/tweet?url=http://www.groupon.ca/in/,1588454&amp;text=%24299+for+a+Lipolysis+Injection+and+OneThermagik+Radiofrequency+Treatment+%28%2411...+-+"  class="addIcon addIconTwitter jTwitter" rel="nofollow" trackingUrl="/Recommendation.action" dotdId="1588454" >Twitter</a></li>
+	   			    <li></li>
+	                <li></li>
+	                <li></li>
+	                <li></li>
+					<li></li>
+					<li>
+						<a href="/recommendation?keepDotd=1588454" class="addIcon addIconEmail" rel="nofollow" trackingUrl="/Recommendation.action" dotdId="1588454" >E-Mail</a></li>
+				</ul>
+			</div>
+			<div class="part partRight"></div>
+		</div>
+
+	</div>
+	
+
+<div class="pagewrap maincontent">
+        <script type="text/javascript" src="http://static.ca.groupon-content.net/s/cdn3191370652/bundles/index_bundle.js" ></script>
+<script type="text/javascript">
+
+                    <!--
+                    $(document).ready(function() {
+
+                        Index.start('http://www.groupon.ca', 'Please enter an e-mail address', 'You have successfully subscribed to the Groupon newsletter for {0} with the following email address: {1}.', 'An error occurred. Please try again later.', 'Please enter a valid e-mail address: xxx@yyy.zzz. This e-mail provider is not valid.', 'Already', 'Participants:', 'Deal is on!', 'The deal was completed!', '{0} more buyers needed', 'more buyers!', '<span id=&#034;jDealSoldAmount&#034;>{0}</span> Bought!', 'Deal successful', 'Sold Out', '1 more buyer needed');
+                    });
+                    // -->
+                </script>
+            <div id="content" class="contentAnd1Sidebar">
+
+            <div class="boxContentMain">
+
+                <div id="deal">
+
+                    <div id="contentDealTitle">
+
+                                <noscript></noscript>
+
+                                        <a id="jBuyDealTitleLink"
+                                           href="http://www.groupon.ca/payment?dotdId=1588454&noJS=true" ><span> </span></a>
+
+                                        <h1><a href="http://www.groupon.ca/payment?dotdId=1588454&noJS=true">$299 for a Lipolysis Injection and One Thermagik Radiofrequency Treatment at DestinationBeauté ($1110 Value)</a></h1>
+                                    </div>
+
+                            <div id="contentBoxLeftContainer">
+
+    <form id="buyTheDeal" action="https://www.groupon.ca/payment" class="formLeft" method="post" onsubmit=""><div id="contentDealBuyBox" class="contentBoxLeft boxBlue">
+
+        <div class="priceTag " id="jpriceTagMultiDeal">
+            <noscript><input type="hidden" name="noJS" value="true"/></noscript>
+                    <input type="hidden" id="dotdId" name="dotdId" value="1588454" class="hidden"/>
+                    <input type="hidden" name="buyAsGift" value="false" id="buyAsGift"/>
+                    <input style="display:block;" name="sdds" value="Buy Now!" class="btn btnBuy" type="submit" /></div>
+
+            <span class="price">
+
+                Amount:&#32;<span class="noWrap">C$299.00</span></span>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0" class="savings">
+                <tr class="row1">
+                    <td class="col1">
+                        Discount</td>
+                    <td>
+                        You save</td>
+                </tr>
+                <tr class="row2">
+                    <td class="col1">
+                            73%</td>
+                    <td>
+                        C$811.00</td>
+                </tr>
+            </table>
+        </div>
+
+    <div class="contentBoxLeft buyAsGiftBox boxBlue">
+
+            <button id="jBuyAsGi" type="submit"
+                    onclick="$('#buyAsGift').val('true'); ">
+                Buy it for a friend!</button>
+        </div>
+    <div style="display: none;"><input type="hidden" name="_sourcePage" value="jaAwzQOlMbLIC_a9U_X6VlAjePsX9lu_D2OJ7KfEeEZb8EwixVnJuQ==" /><input type="hidden" name="__fp" value="hYwwr9-ONMA=" /></div></form><div class="countdownBox contentBoxLeft boxGreen" style="display:block;">
+        <div class="subHeadline">This deal can be bought <br/> over the next:</div>
+        <div class="counter">
+            <ul>
+                <li id="hoursLeft">-</li>
+                <li id="minutesLeft">-</li>
+                <li id="secondsLeft">-</li>
+            </ul>
+        </div>
+        <div class="label">
+            <ul>
+                <li>Hrs.</li>
+                <li>Min.</li>
+                <li>Sec.</li>
+            </ul>
+        </div>
+        <div class="wrapper"></div>
+    </div>
+<div id="contentDealStatusBox" class="contentBoxLeft boxGreen">
+
+    <div class="soldAmount" >
+            <span id="jDealSoldAmount">1</span> Bought!</div>
+
+
+    <div id="dealSuccessful" class="dealSuccessful">
+        <span id="dealTookPlace" style="display:none">
+            The deal was completed!</span>
+        <span id="dealTakePlace" >
+            Deal is on!</span>
+    </div>
+
+    <div id="dealUnsuccessful" class="dealUnsuccessful">
+        <span id="dealUnsuccessfulText" style="display:none">
+            The deal is finished.</span>
+    </div>
+</div>
+
+
+    <div id="contentDealRecommendBox" class="contentBoxLeft boxGreen lastItem">
+
+    <div class="additionalNewsfeed">
+        <div class="subHeadline">Recommend to friends!</div>
+        <ul class="dealRecommendButtons">
+            <li>
+                <a href="http://www.facebook.com/share.php?u=http://www.groupon.ca/deals/montreal/destination-beaute/1588454"  class="addIcon addIconFb jRAF jFacebook" trackingUrl="/Recommendation.action" dotdId="1588454" ><span><!-- &nbsp; --></span>
+                    Facebook</a></li>
+            <li>
+                <a href="http://twitter.com/intent/tweet?url=http://www.groupon.ca/in/,1588454&amp;text=%24299+for+a+Lipolysis+Injection+and+OneThermagik+Radiofrequency+Treatment+%28%2411...+-+"  class="addIcon addIconTwitter jTwitter" rel="nofollow" trackingUrl="/Recommendation.action" dotdId="1588454" ><span><!-- &nbsp; --></span>
+                    Twitter</a></li>
+            <li>
+                <a href="/recommendation?keepDotd=1588454" class="addIcon addIconEmail" rel="nofollow" trackingUrl="/Recommendation.action" dotdId="1588454" ><span><!-- &nbsp; --></span>
+                        E-Mail</a></li>
+        </ul>
+        <div class="wrapper"></div>
+    </div>
+</div>
+</div>
+<div id="contentBoxRightContainer">
+
+		<div id="contentDealDescription">
+			
+			<form id="buyTheDealBig" title="coupon from Destination Beauté Montreal" action="https://www.groupon.ca/payment" class="formLeft" method="post"><noscript><input type="hidden" name="noJS" value="true"/></noscript>
+						<input type="hidden" id="dotdId" name="dotdId" value="1588454" class="hidden"/>
+						<input type="hidden" name="buyAsGift" value="false" id="buyAsGiftBig"/>
+
+                        <button id="jBuyDealBigImage" type="submit" class="nobg" >
+							<img src="http://static.ca.groupon-content.net/89/67/1321269756789.jpg" width="450" height="300" alt="coupon from Destination Beauté Montreal"/>
+						</button>
+					<div style="display: none;"><input type="hidden" name="_sourcePage" value="9rGWJcC0yTXIC_a9U_X6VlAjePsX9lu_D2OJ7KfEeEZb8EwixVnJuQ==" /><input type="hidden" name="__fp" value="oegIqCRoBU0=" /></div></form><div class="contentDealDescriptionFacts">
+                <div class="viewHalfWidthSize">
+                     <div class="subHeadline">Highlights</div>
+                     <div>
+<ul>
+<li>Subcutaneous treatment without needles</li>
+<li>Evacuates fat deposits</li>
+<li>One nutritionist consultation</li>
+<li>Two days of <a href="http://www.nutrisaveurs.fr" target="_blank">Nutrisaveurs</a> meals</li>
+</ul>
+</div></div>
+                <div class="viewHalfWidthSize">
+                    <div class="subHeadline">Fine Print</div>
+                    <div>
+<p>Expires May 16, 2012.<br />Limit 1 per person. Reservation required and
+subject to availability. Call (514) 371-8882 and mention your Groupon. <a href="http://www.groupon.com/pages/universal-fine-print" target="_blank">See the
+rules</a> that apply to all deals.</p>
+</div></div>
+                <div class="wrapper"></div>
+            </div>
+		</div>
+	</div>
+<div class="wrapper"></div>
+
+                </div>
+
+            </div>
+
+            <div class="wrapper"></div>
+
+            <div class="contentBoxNormal contentBoxNormalTwoColumns">
+	
+		<div class="boxPart boxTop"></div>
+	
+		<div class="boxPart boxMid contentDealData">
+			<div class="contentBoxNormalRight">
+               <div class="merchantContact">
+    <img src="http://static.ca.groupon-content.net/90/95/1321268869590.jpg" alt=""/>
+    <h2 class="subHeadline">Destination Beauté</h2>
+    521&nbsp;rue Cherrier<br/>
+    QC H2L 1H4&nbsp;Montreal<br />
+    <a onclick="window.open(this.href); return false;" href="http://www.destinationbeaute.net/">Company Website</a><br/>
+    </div>
+
+<div class="googleMap jGoogleMap">
+    <img src="http://maps.google.com/maps/api/staticmap?center=45.5194614,-73.56888879999997&amp;zoom=14&amp;size=189x172&amp;maptype=roadmap&amp;markers=color:orange|45.5194614,-73.56888879999997&amp;sensor=false"
+                            alt="Destination Beauté, Montreal, QC H2L 1H4, 521&nbsp;rue Cherrier"
+                            title="Destination Beauté, Montreal, QC H2L 1H4, 521&nbsp;rue Cherrier" />
+                    </div>
+<div class="merchantPresents">
+    Destination Beauté  presented by Groupon.ca</div></div>
+	
+			<div class="contentBoxNormalLeft">
+				<h3 class="subHeadline">$299 for a Lipolysis Injection and One Thermagik Radiofrequency Treatment at DestinationBeauté ($1110 Value)</h3>
+				<p><div>
+<p>The whole package (a $1075 total value) includes the following:</p>
+<ul>
+<li>One Lipolysis Injection ($850 Value)</li>
+<li>One Thermagik Radiofrequency ($125 Value)</li>
+<li>One nutritionist consultation ($100 Value)</li>
+<li>Two days of <a href="http://www.nutrisaveurs.fr" target="_blank">Nutrisaveurs</a> meals</li>
+</ul>
+<p>Doctors at <a href="http://www.destinationbeaute.net" target="_blank">Destination Beauté</a> attack
+unwanted fat deposits in targeted areas by injecting an active substance under
+the skin for long-lasting results. The treatment consists of a substance naturally
+present in the liver and acts by dissolving the fat stored in cells. The
+resulting deposits evacuate the body naturally through the lymphatic system. Three weeks after the injection, a Thermagik Radiofrequency treatment builds upon results. In addition, a nutritionist guides clients toward healthy eating choices, made manifest in two days of <a href="http://www.nutrisaveurs.fr/" target="_blank">Nutrisaveurs</a> meals that include two dinners, two suppers, four biscuits, and two puddings.</p>
+<p>Destination Beauté's experts recommend that
+patients consult a doctor before receiving injections, which can treat various
+body areas, such as faces, hips, waist, or thighs. Some patients experience side
+effects, including redness, a localized bruise, or an increased sensitivity to
+pressure, all of which usually cease after a few days.</p>
+<p>This Groupon is valid at three locations:</p>
+<ul>
+<li>521 rue Cherrier, Montréal</li>
+<li>2001 avenue McGill College, Montréal</li>
+<li>2763 chemin Sainte Marie, Mascouche </li>
+</ul>
+</div></p>
+				<div class="wrapper"></div>
+				<div class="merchantContact">
+					<h3 class="subHeadline">Destination Beauté</h3>
+					521&nbsp;rue Cherrier, QC H2L 1H4&nbsp;Montreal<br />
+					 <a onclick="window.open(this.href); return false;" href="http://www.destinationbeaute.net/">Company Website</a><br/>
+	                  </div>
+				
+			</div>
+			<div class="wrapper"></div>
+		</div>
+		<div class="boxPart boxBot"></div>
+	</div>
+
+<!-- END OF DEAL -->
+        </div>
+
+        <input type="hidden" id="currentTimeLeft" value="26569845"/>
+        <input type="hidden" id="participantIdHidden" value="1829"/>
+        <input type="hidden" id="currentParticipantsPercent" value="100"/>
+        <input type="hidden" id="minimumParticipantsPercent" value="0"/>
+
+        <input type="hidden" id="currentParticipants" value="1"/>
+        <div id="sidebar">
+
+		<div class="sidebarBoxMain sidebarBoxMainShoppingTravel">
+<a href="http://itunes.apple.com/ca/app/id352683833" target="_blank">
+<img src="http://static.ca.groupon-content.net/98/98/1319548769898.jpg" alt="Groupon mobile" width="231" height="111" />
+</a></div><div class="boxExtraDealMulti boxExtraDealOnline sidebarBoxMain">
+
+			<div class="boxPart boxTop"></div>
+
+			<div class="boxPart boxMid">
+
+					<div class="sidebarBoxHeader"><span class="headline">National Deal:</span></div>
+	    <div class="sidebarBoxContent">
+			<div class="extraDealMulti extraDealMultiFirst">
+				<div class="extraDealDescription">
+					<h3><a title="coupon from Sküüzi National Deal" href="/deals/national-deal/skuuzi/1611258"><span class="original"><span class="noWrap">C$15.00</span> instead of <span class="noWrap">C$30.28</span>:</span> Sküüzi Scandinavian Koozie</a></h3>
+				</div>
+				<div class="extraDealData">
+					<div class="price">
+						<a title="coupon from Sküüzi National Deal" href="/deals/national-deal/skuuzi/1611258"><span class="priceIcon"><!-- &nbsp; --></span>
+							C$15.00</a></div>
+
+                    <div class="value">
+                                <a title="coupon from Sküüzi National Deal" href="http://www.groupon.ca/deals/national-deal/skuuzi/1611258">instead of <span>C$30.28</span></a></div>
+                        <div class="extraDealView">
+						<a title="coupon from Sküüzi National Deal" href="http://www.groupon.ca/deals/national-deal/skuuzi/1611258">View</a></div>
+					
+					<div class="extraDealImage">
+						<a title="coupon from Sküüzi National Deal" class="jNationalDeal" href="http://www.groupon.ca/deals/national-deal/skuuzi/1611258"><img src="http://static.ca.groupon-content.net/41/37/1321370593741.jpg" width="108" height="72" alt="coupon from Sküüzi National Deal"/></a></div>
+					<div class="wrapper"></div>
+				</div>
+			</div>
+		</div>
+	<div class="wrapper"><!-- nbsp; --></div>
+
+			</div>
+
+			<div class="boxPart boxBot"></div>
+			
+		</div>
+               
+<div class="boxExtraDealMulti sidebarBoxMain">
+
+        <div class="sidebarBoxHeader">
+            <span class="headline">More Deals</span>
+        </div>
+        <div class="sidebarBoxContent">
+        <div class="extraDealMulti extraDealMultiFirst">
+                   <div class="extraDealDescription">
+                       <h3>
+                           <a title="coupon from Action 500 Karting &amp; Paintball Montreal" href="/deals/montreal/action-500/1616562"><span class="saving">
+                               <span class="noWrap">C$15.00</span> instead of <span class="noWrap">C$35.99</span>:
+                             </span> Paintball Outing with Equipment Rental and 100
+Balls for One or Two</a></h3>
+                   </div>
+
+                   <div class="extraDealData">
+                       <div class="price">
+                           <a title="coupon from Action 500 Karting &amp; Paintball Montreal" href="/deals/montreal/action-500/1616562"><span class="priceIcon"></span>
+                            C$15.00</a></div>
+                   <div class="value">
+                           <a title="coupon from Action 500 Karting &amp; Paintball Montreal" href="http://www.groupon.ca/deals/montreal/action-500/1616562">instead of <span>C$35.99</span></a></div>
+                       <div class="extraDealView">
+                         <a title="coupon from Action 500 Karting &amp; Paintball Montreal" href="http://www.groupon.ca/deals/montreal/action-500/1616562">View</a></div>
+                       <div class="extraDealImage">
+                            <a title="coupon from Action 500 Karting &amp; Paintball Montreal" class="jSideDeal" href="http://www.groupon.ca/deals/montreal/action-500/1616562"><img width="108" height="72" src="http://static.ca.groupon-content.net/56/38/1321469153856.jpg" alt="coupon from Action 500 Karting & Paintball Montreal"/></a></div>
+                   </div>
+                   <div class="wrapper">
+                       <!-- &nbsp; -->
+                   </div>
+               </div>
+        <div class="extraDealMulti">
+                   <div class="extraDealDescription">
+                       <h3>
+                           <a title="coupon from Spa Aurora Montreal" href="/deals/montreal/spa-aurora/1605049"><span class="saving">
+                               <span class="noWrap">C$39.00</span> instead of <span class="noWrap">C$93.00</span>:
+                             </span> Aqua Massage Spa Session and a Complete
+Facial at Spa Aurora</a></h3>
+                   </div>
+
+                   <div class="extraDealData">
+                       <div class="price">
+                           <a title="coupon from Spa Aurora Montreal" href="/deals/montreal/spa-aurora/1605049"><span class="priceIcon"></span>
+                            C$39.00</a></div>
+                   <div class="value">
+                           <a title="coupon from Spa Aurora Montreal" href="http://www.groupon.ca/deals/montreal/spa-aurora/1605049">instead of <span>C$93.00</span></a></div>
+                       <div class="extraDealView">
+                         <a title="coupon from Spa Aurora Montreal" href="http://www.groupon.ca/deals/montreal/spa-aurora/1605049">View</a></div>
+                       <div class="extraDealImage">
+                            <a title="coupon from Spa Aurora Montreal" class="jSideDeal" href="http://www.groupon.ca/deals/montreal/spa-aurora/1605049"><img width="108" height="72" src="http://static.ca.groupon-content.net/52/87/1321364468752.jpg" alt="coupon from Spa Aurora Montreal"/></a></div>
+                   </div>
+                   <div class="wrapper">
+                       <!-- &nbsp; -->
+                   </div>
+               </div>
+        <div class="extraDealMulti">
+                   <div class="extraDealDescription">
+                       <h3>
+                           <a title="coupon from La Prunelle Montreal" href="/deals/montreal/la-prunelle/1626783"><span class="saving">
+                               <span class="noWrap">C$19.00</span> instead of <span class="noWrap">C$40.00</span>:
+                             </span> $40 Worth of Seasonal French Dinner Fare
+at La Prunelle</a></h3>
+                   </div>
+
+                   <div class="extraDealData">
+                       <div class="price">
+                           <a title="coupon from La Prunelle Montreal" href="/deals/montreal/la-prunelle/1626783"><span class="priceIcon"></span>
+                            C$19.00</a></div>
+                   <div class="value">
+                           <a title="coupon from La Prunelle Montreal" href="http://www.groupon.ca/deals/montreal/la-prunelle/1626783">instead of <span>C$40.00</span></a></div>
+                       <div class="extraDealView">
+                         <a title="coupon from La Prunelle Montreal" href="http://www.groupon.ca/deals/montreal/la-prunelle/1626783">View</a></div>
+                       <div class="extraDealImage">
+                            <a title="coupon from La Prunelle Montreal" class="jSideDeal" href="http://www.groupon.ca/deals/montreal/la-prunelle/1626783"><img width="108" height="72" src="http://static.ca.groupon-content.net/87/13/1321364371387.jpg" alt="coupon from La Prunelle Montreal"/></a></div>
+                   </div>
+                   <div class="wrapper">
+                       <!-- &nbsp; -->
+                   </div>
+               </div>
+        <div class="extraDealMulti">
+                   <div class="extraDealDescription">
+                       <h3>
+                           <a title="coupon from Hôtel de Glace Montreal" href="/deals/montreal/hoteldeglace/1627207"><span class="saving">
+                               <span class="noWrap">C$299.00</span> instead of <span class="noWrap">C$600.00</span>:
+                             </span> A one-night stay for two with nordic spa access, welcome cocktails at the Ice Bar, and breakfast</a></h3>
+                   </div>
+
+                   <div class="extraDealData">
+                       <div class="price">
+                           <a title="coupon from Hôtel de Glace Montreal" href="/deals/montreal/hoteldeglace/1627207"><span class="priceIcon"></span>
+                            C$299.00</a></div>
+                   <div class="value">
+                           <a title="coupon from Hôtel de Glace Montreal" href="http://www.groupon.ca/deals/montreal/hoteldeglace/1627207">instead of <span>C$600.00</span></a></div>
+                       <div class="extraDealView">
+                         <a title="coupon from Hôtel de Glace Montreal" href="http://www.groupon.ca/deals/montreal/hoteldeglace/1627207">View</a></div>
+                       <div class="extraDealImage">
+                            <a title="coupon from Hôtel de Glace Montreal" class="jSideDeal" href="http://www.groupon.ca/deals/montreal/hoteldeglace/1627207"><img width="108" height="72" src="http://static.ca.groupon-content.net/19/57/1321289205719.jpg" alt="coupon from Hôtel de Glace Montreal"/></a></div>
+                   </div>
+                   <div class="wrapper">
+                       <!-- &nbsp; -->
+                   </div>
+               </div>
+        <div class="wrapper"></div>
+        </div>
+         <div class="boxPart boxBot"></div>
+    </div>
+<div class="boxCity sidebarBoxNormal">
+
+			<div class="boxPart boxTop"></div>
+
+			<div class="boxPart boxMid">
+
+					<div class="sidebarBoxHeader sidebarBoxHeaderInput">
+							<input type="text" class="inputSearch" id="jSidebarCitySelectAutoComplete" value="Find your city"/>
+							<button id="jSearchSubmitButton" type="submit" value="" class="button06 button06b"><span></span></button>
+							<div class="wrapper"></div>
+					</div>
+
+			<div class="selectCityRange selectCityRangeGroups5">
+				<ul>
+					<li class=" jGroupSelector" id="ABCDEF" ><a href="?jGroupSelector=true&ABCDEF=true">A-F</a></li>
+			        <li class=" jGroupSelector" id="GHIJKL" ><a href="?jGroupSelector=true&GHIJKL=true">G-L</a></li>
+			        <li class=" jGroupSelector" id="MNOPQR" ><a href="?jGroupSelector=true&MNOPQR=true">M-R</a></li>
+			        <li class=" jGroupSelector" id="STUVWX" ><a href="?jGroupSelector=true&STUVWX=true">S-X</a></li>
+			        <li class=" jGroupSelector" id="YZ" ><a href="?jGroupSelector=true&YZ=true">Y-Z</a></li>
+			        </ul>
+			</div>
+
+			<ul class="listCityHalfWidth jCityGroupContainer jCityGroupContainerTopCities" style="">
+              			<li>
+							<a class="jTopCityLink" href="http://www.groupon.ca/deals/gatineau">Gatineau</a></li>
+					<li>
+							<a class="jTopCityLink" href="http://www.groupon.ca/deals/laval">Laval</a></li>
+					<li>
+							<a class="jTopCityLink" href="http://www.groupon.ca/deals/montreal">Montreal</a></li>
+					<li>
+							<a class="jTopCityLink" href="http://www.groupon.ca/deals/national-deal">National Deal</a></li>
+					</ul>
+
+               	<ul class="listCityHalfWidth jCityGroupContainer jCityGroupContainerTopCities" style="">
+              			<li>
+							<a class="jTopCityLink" href="http://www.groupon.ca/deals/quebec">Québec</a></li>
+					<li>
+							<a class="jTopCityLink" href="http://www.groupon.ca/deals/sherbrooke">Sherbrooke</a></li>
+					<li>
+							<a class="jTopCityLink" href="http://www.groupon.ca/deals/trois-rivieres">Trois-Rivières</a></li>
+					</ul>
+			<ul class="jCityGroupContainer listCityHalfWidth" style="display:none;" id="jCityGroupContainerABCDEF">
+	               			<li >
+									<a class="jCityLink" href="http://www.groupon.ca/deals/drummondville">Drummondville</a></li>
+							</ul>
+
+						<ul class="jCityGroupContainer listCityHalfWidth" style="display:none;" id="jCityGroupContainerABCDEF">
+	               			</ul>
+	               	<div class="wrapper"><!-- nbsp; --></div>
+
+						<div class="linkTopCities jTopCitiesSelector" style="display:none;" id="jTopCitiesSelectorABCDEF"><a href="?">
+							Top 40 cities</a></div>
+					<ul class="jCityGroupContainer listCityHalfWidth" style="display:none;" id="jCityGroupContainerGHIJKL">
+	               			<li >
+									<a class="jCityLink" href="http://www.groupon.ca/deals/gatineau">Gatineau</a></li>
+							<li >
+									<a class="jCityLink" href="http://www.groupon.ca/deals/laval">Laval</a></li>
+							</ul>
+
+						<ul class="jCityGroupContainer listCityHalfWidth" style="display:none;" id="jCityGroupContainerGHIJKL">
+	               			<li >
+									<a class="jCityLink" href="http://www.groupon.ca/deals/longueuil">Longueuil</a></li>
+							<li >
+									<a class="jCityLink" href="http://www.groupon.ca/deals/levis">Lévis</a></li>
+							</ul>
+	               	<div class="wrapper"><!-- nbsp; --></div>
+
+						<div class="linkTopCities jTopCitiesSelector" style="display:none;" id="jTopCitiesSelectorGHIJKL"><a href="?">
+							Top 40 cities</a></div>
+					<ul class="jCityGroupContainer listCityHalfWidth" style="display:none;" id="jCityGroupContainerMNOPQR">
+	               			<li >
+									<a class="jCityLink" href="http://www.groupon.ca/deals/montreal">Montreal</a></li>
+							<li >
+									<a class="jCityLink" href="http://www.groupon.ca/deals/national-deal">National Deal</a></li>
+							</ul>
+
+						<ul class="jCityGroupContainer listCityHalfWidth" style="display:none;" id="jCityGroupContainerMNOPQR">
+	               			<li >
+									<a class="jCityLink" href="http://www.groupon.ca/deals/quebec">Québec</a></li>
+							</ul>
+	               	<div class="wrapper"><!-- nbsp; --></div>
+
+						<div class="linkTopCities jTopCitiesSelector" style="display:none;" id="jTopCitiesSelectorMNOPQR"><a href="?">
+							Top 40 cities</a></div>
+					<ul class="jCityGroupContainer listCityHalfWidth" style="display:none;" id="jCityGroupContainerSTUVWX">
+	               			<li >
+									<a class="jCityLink" href="http://www.groupon.ca/deals/sherbrooke">Sherbrooke</a></li>
+							<li >
+									<a class="jCityLink" href="http://www.groupon.ca/deals/saguenay">Saguenay</a></li>
+							</ul>
+
+						<ul class="jCityGroupContainer listCityHalfWidth" style="display:none;" id="jCityGroupContainerSTUVWX">
+	               			<li >
+									<a class="jCityLink" href="http://www.groupon.ca/deals/terrebonne">Terrebonne</a></li>
+							<li >
+									<a class="jCityLink" href="http://www.groupon.ca/deals/trois-rivieres">Trois-Rivières</a></li>
+							</ul>
+	               	<div class="wrapper"><!-- nbsp; --></div>
+
+						<div class="linkTopCities jTopCitiesSelector" style="display:none;" id="jTopCitiesSelectorSTUVWX"><a href="?">
+							Top 40 cities</a></div>
+					<div class="wrapper"><!-- nbsp; --></div>
+
+						<div class="linkTopCities jTopCitiesSelector" style="display:none;" id="jTopCitiesSelectorYZ"><a href="?">
+							Top 40 cities</a></div>
+					<div class="wrapper"><!-- nbsp; --></div>
+
+			</div>
+
+			<div class="boxPart boxBot"></div>
+			
+		</div>
+               
+<div class="boxCustomerService sidebarBoxSpecial">
+
+			<div class="boxPart boxTop"></div>
+
+			<div class="boxPart boxMid">
+
+					<div class="sidebarBoxHeader"><span class="headline" id="jcustomerServiceBoxTitle">Groupon Customer Service</span></div>
+
+        <div class="boxInfo">Whatever the query, we’ll take care of it:</div>
+
+        <ul>
+                        <br>
+                        <li class="contact"><span class="icoContact contactEmail"><!-- &nbsp; --></span>support@groupon.ca</li>
+                        </ul>
+                    <div class="boxInfo">
+                            Check out our <a id="jcustomerServiceBoxContactEmail" class="underline" href="http://www.groupon.ca/faq">FAQs</a> too!</div>
+                    <div class="wrapper"><!-- nbsp; --></div>
+
+			</div>
+
+			<div class="boxPart boxBot"></div>
+			
+		</div>
+               
+<div class="boxBookmarks sidebarBoxNormal">
+
+			<div class="boxPart boxTop"></div>
+
+			<div class="boxPart boxMid">
+
+					<div class="sidebarBoxHeader"><span class="headline">Enjoy Groupon with Friends</span></div>
+
+				<iframe id="jfacebookframe" width="200" height="300"
+						class="facebookframe"
+						scrolling="no" 
+						frameborder="0" 
+						src="http://www.connect.facebook.com/widgets/fan.php?id=166020530087381&amp;connections=6&amp;stream=false&amp;header=true" 
+						allowtransparency="true" 
+						style="border: none; width: 200px; height:300px; padding-left:7px;"
+						target="_blank" >
+				</iframe>
+			<ul> 
+					<li class="bookmark">	
+							<a id="jSidebarTwitter" href="http://www.twitter.com/@grouponmontreal" rel="nofollow" onclick="window.open(this.href); return false;">
+								<span class="icoBookmark bookmarkTwitter"><!-- &nbsp; --></span>Follow Groupon on Twitter</a>
+						</li>				
+					</ul>
+
+	<div class="wrapper"><!-- nbsp; --></div>
+
+			</div>
+
+			<div class="boxPart boxBot"></div>
+			
+		</div>
+               
+</div>
+
+	<div class="wrapper"></div>
+</div>
+
+    <div id="footer">
+        <div class="footerTop">
+    <div class="pagewrap">
+        <div class="footerTopLeft">
+        <div class="footerMore">
+                    <grouponMobilefmt:message key="stardeals.main.footer.index.works.link" var="worksLink"/>
+                <div class="footerMoreItem grouponJobs">
+                        <a href="http://www.groupon.ca/jobs" title="Jobs" target="_blank">
+                            <img src="http://static.ca.groupon-content.net/s/cdn3191370652/images/layout/jobs.png" height="44" alt="Jobs" width="43" />Official Groupon Job Site</a>
+                    </div><div class="wrapper"></div>
+                </div>
+            <div class="footerSText">
+                        <strong>Unbeatable Deals for Local Adventures!</strong><br>Groupon is an easy way to get huge discounts while discovering fun activities in your city. Our daily deals consist of restaurants, spas, massages, theaters, hotels, and a whole lot more, in dozens of cities across the country.</div>
+
+        </div>
+
+        <div class="footerTopRight">
+
+            <div class="followBox">
+                <ul class="followBoxLinks">
+                    <li class="label">Follow Us:</li>
+                        <li><a onclick="window.open(this.href); return false;" class="addIcon addIconTwitter" rel="nofollow" href="http://www.twitter.com/@grouponmontreal">Twitter</a></li>
+                        <li>
+                            <a href="http://www.facebook.com/groupon.ca" rel="nofollow" class="addIcon addIconFb">Facebook</a>
+                                </li>
+                    <li>
+                        <a href="http://api.groupon.de/feed/api/v1/deals/oftheday/CA/montreal" class="addIcon addIconRss"  id="jaddIconRss" rel="nofollow" onclick="window.open(this.href); return false;">RSS</a>
+                    </li>
+                    </ul>
+            </div>
+
+            </div>
+
+        <div class="wrapper"></div>
+
+    </div>
+
+</div><div id="footerBottom">
+
+			<div class="pagewrap">
+
+                <div id="jFooterStandardLinks">
+				    <div class="listLinkBox listLinkBoxLeft">
+
+					<div class="listLink">
+						<div class="headline">Company</div>
+						<ul>
+							<li><a href="http://www.groupon.ca/about-us">About Groupon.ca</a></li>
+							<li><a rel="nofollow" href="http://www.groupon.ca/contact">Contact</a></li>
+							
+							<li><a rel="nofollow" href="http://www.groupon.ca/data_privacy">Privacy Policy</a></li>
+							<li><a rel="nofollow" href="http://www.groupon.ca/terms_and_conditions">T&Cs</a></li>
+						</ul>
+						<div class="wrapper"></div>
+					</div>
+
+					<div class="listLink">
+						<div class="headline">Learn More</div>
+						<ul>
+                            <li><a href="http://www.groupon.ca/universal-fine-print-en">Universal Fine Print</a></li>
+							<li><a href="http://www.groupon.ca/faq">FAQ</a></li>
+							<li><a rel="nofollow" href="http://www.groupon.ca/jobs">Jobs</a></li>
+							<li><a href="http://www.groupon.ca/how-does-groupon-work">How Groupon works?</a></li>
+							</ul>
+						<div class="wrapper"></div>
+					</div>
+
+					<div class="wrapper"></div>
+
+				</div></div>
+
+				<div class="listLinkBox listLinkBoxRight">
+
+					<div class="listLink listLinkCountry">
+
+						<div class="headline">Groupon Countries</div>
+						<ul>
+							<li><span onclick="window.location='http://www.groupon.com.ar'">Argentina</span></li>
+								<li><span onclick="window.location='http://www.groupon.com.au'">Australia</span></li>
+								<li><span onclick="window.location='http://www.groupon.at'">Austria</span></li>
+								<li><span onclick="window.location='http://www.groupon.be'">Belgium</span></li>
+								<li><span onclick="window.location='http://www.groupon.com.br'">Brazil</span></li>
+								<li><span onclick="window.location='http://www.groupon.cl'">Chile</span></li>
+								<li><span onclick="window.location='http://www.gaopeng.com'">China</span></li>
+								<li><span onclick="window.location='http://www.groupon.com.co'">Colombia</span></li>
+								<li><span onclick="window.location='http://www.groupon.dk'">Denmark</span></li>
+								<li><span onclick="window.location='http://www.citydeal.fi'">Finland</span></li>
+								<li><span onclick="window.location='http://www.groupon.fr'">France</span></li>
+								</ul>
+									<ul>
+								<li><span onclick="window.location='http://www.groupon.de'">Germany</span></li>
+								<li><span onclick="window.location='http://www.groupon.gr'">Greece</span></li>
+								<li><span onclick="window.location='http://www.groupon.hk'">Hong Kong</span></li>
+								<li><span onclick="window.location='http://www.crazeal.com'">India</span></li>
+								<li><span onclick="window.location='http://www.citydeal.ie'">Ireland</span></li>
+								<li><span onclick="window.location='http://www.groupon.co.il'">Israel</span></li>
+								<li><span onclick="window.location='http://www.groupon.it'">Italy</span></li>
+								<li><span onclick="window.location='http://www.qpod.jp'">Japan</span></li>
+								<li><span onclick="window.location='http://www.groupon.my'">Malaysia</span></li>
+								<li><span onclick="window.location='http://www.groupon.com.mx'">Mexico</span></li>
+								<li><span onclick="window.location='http://www.groupon.nl'">Netherlands</span></li>
+								</ul>
+									<ul>
+								<li><span onclick="window.location='http://www.grouponnz.co.nz'">New Zealand</span></li>
+								<li><span onclick="window.location='http://www.groupon.no'">Norway</span></li>
+								<li><span onclick="window.location='http://www.groupon.com.pe'">Peru</span></li>
+								<li><span onclick="window.location='http://www.beeconomic.com.ph'">Philippines</span></li>
+								<li><span onclick="window.location='http://www.groupon.pl'">Poland</span></li>
+								<li><span onclick="window.location='http://www.groupon.pt'">Portugal</span></li>
+								<li><span onclick="window.location='http://www.groupon.ro'">Romania</span></li>
+								<li><span onclick="window.location='http://www.darberry.ru'">Russia</span></li>
+								<li><span onclick="window.location='http://www.groupon.sg'">Singapore</span></li>
+								<li><span onclick="window.location='http://www.mycitydeal.co.za'">South Africa</span></li>
+								<li><span onclick="window.location='http://www.groupon.kr'">South Korea</span></li>
+								</ul>
+									<ul>
+								<li><span onclick="window.location='http://www.groupon.es'">Spain</span></li>
+								<li><span onclick="window.location='http://www.groupon.se'">Sweden</span></li>
+								<li><span onclick="window.location='http://www.groupon.ch'">Switzerland</span></li>
+								<li><span onclick="window.location='http://www.atlaspost.com/buy.php'">Taiwan</span></li>
+								<li><span onclick="window.location='http://www.sehirfirsati.com'">Turkey</span></li>
+								<li><span onclick="window.location='http://www.groupon.ae'">United Arab Emirates</span></li>
+								<li><span onclick="window.location='http://www.groupon.co.uk'">United Kingdom</span></li>
+								<li><span onclick="window.location='http://www.groupon.com.uy'">Uruguay</span></li>
+								<li><span onclick="window.location='http://www.groupon.com'">USA</span></li>
+								</ul>
+						<div class="wrapper"></div>
+					</div>
+					<div class="wrapper"></div>
+				</div>
+
+				<div class="wrapper"></div>
+
+				<div class="footerCopyright">
+					<div class="footerCopy">
+						© 2011 Groupon, Inc. All Rights Reserved.</div>
+				</div>
+			</div>
+
+		</div>
+
+	</div>
+<div id="blend" style="display:none;"><!-- &nbsp; --></div>
+    <script type="text/javascript">
+	function lpCheckmail() {
+		
+		var email = $('#email');
+
+		
+		var filter = /^[a-zA-Z0-9._-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,4}$/;
+		if (email.val() == document.registerForm.email.defaultValue || !filter.test(email.val())) {
+			email.css('borderColor', "#FF0000");
+			email.css('backgroundColor', "#FEE9E9");
+			$('.boxError').show();
+			return false;
+		}
+	}
+
+	$('#blend').fadeIn("fast");
+
+	$(function() {
+		// if city select is changed the selected city is inserted into the headline
+		$('#insideCityId').change(
+			function(event) {
+				var value = $(this).val();
+				var city = '';
+
+				$('#insideCityId option').each(
+					function(i) {
+						if (value == $(this).attr('value')) {
+							city = $(this).text();
+						}
+					}
+				);
+				
+				$('#lp_city_span').text(city);
+			}
+		);
+
+		loadPopup('#landing_popup');
+	});
+</script>
+
+<div class="horizon canDisable" style="display:none;" id="landing_popup">
+	<div id="popup" class="popup popupWidth820 signin signinV02">
+		<div class="popupPart popupTop"></div>
+		<div class="popupPart popupContent">
+			<div class="signInHeader">
+				<div class="signInHeaderLogos">
+					<div class="wrapper"></div>
+				</div>
+				<span class="subHeadline">Save up to 90% in <span id="lp_city_span">Montreal</span></span><br/>
+				<span class="subText">Get access to restaurants, spas, sporting events, cinemas and much more...</span>
+				<div class="wrapper"></div>
+			</div>
+			
+			
+			<div class="boxError" style="display:none;">
+				<ul>
+					<li>Please provide a valid e-mail address</li>
+				</ul>
+			</div>
+			
+			<div class="signInFormContainer">
+				<div class="signInForm">
+					<div class="signInFormTop"></div>
+					<table class="signInFormHeader" cellspacing="0">
+						<tr>
+							<td>
+								Explore Groupon for <span class="highlight">FREE!</span></td>
+						</tr>
+					</table>
+					<div class="signInFormFieldContainer">
+						<form id="landingPageForm" name="registerForm" action="/citynews/subscribe" method="post" onsubmit="return lpCheckmail();"><input type="hidden" name="landingPageSubscribe" value="true" />
+							<div class="signInFormField">
+								<div class="signInFormFieldEmail">
+									<input id="email" name="email" value="e.g. joe@gmail.com" class="text textDefault predefinedInput" type="text" /><label for="email">Your email</label><div class="wrapper"></div>
+								</div>
+								<div class="signInFormFieldCity">
+									<select id="insideCityId" name="insideCityId"><option value="1829">Montreal</option><option value="2498">Drummondville</option><option value="2496">Trois-Rivières</option><option value="2497">Terrebonne</option><option value="2495">Lévis</option><option value="2494">Saguenay</option><option value="2493">Sherbrooke</option><option value="2492">Longueuil</option><option selected="selected" value="2491">Gatineau</option><option value="2489">Québec</option><option value="2490">Laval</option><option value="2483">National Deal</option></select><label for="insideCityId">Your city</label><div class="wrapper"></div>
+								</div>
+							</div>
+							<div class="signInNote"></div>
+							<div class="signInFormButton">
+								<button name="subscribeNewsletter" id="subscribeNewsletter" class="button03 button03a" type="submit" value="Sign up!"><span>Sign up!</span></button>
+							</div>							
+						<div style="display: none;"><input type="hidden" name="_sourcePage" value="UG4LoQUeoh7IC_a9U_X6VlAjePsX9lu_D2OJ7KfEeEZb8EwixVnJuQ==" /><input type="hidden" name="__fp" value="lGRIYdlEoRwvciJn6o2cI437SwaG7CA8" /></div></form></div>
+					
+					<div class="signInFormBot"></div>
+					<div class="wrapper"></div>
+				</div>
+				<div class="signInTeaserContainer">
+                    <div class="signInTeaserLeft">
+						<div class="signInTeaser">
+							<img src="http://static.ca.groupon-content.net/s/cdn3191370652/images/layout/teaser_restaurants.jpg" height="113" alt="Restaurants and Bars" width="137" /><span>Restaurants and Bars</span>
+                            <div>&nbsp;</div>
+						</div>
+						<div class="signInTeaser">
+							<img src="http://static.ca.groupon-content.net/s/cdn3191370652/images/layout/teaser_beauty.jpg" height="113" alt="Beauty and Wellbeing" width="137" /><span>Beauty and Wellbeing</span>
+                            <div>&nbsp;</div>
+						</div>
+						<div class="wrapper"></div>
+					</div>
+                    <div class="signInTeaserMid">
+                        <div class="signInTeaser">
+							<img src="http://static.ca.groupon-content.net/s/cdn3191370652/images/layout/teaser_travel.jpg" height="113" alt="Hotel &amp; Travel" width="137" /><span>Hotel &amp; Travel</span>
+                            <div>&nbsp;</div>
+						</div>
+                        <div class="signInTeaser">
+							<img src="http://static.ca.groupon-content.net/s/cdn3191370652/images/layout/teaser_shopping.jpg" height="113" alt="Shopping &amp; Lifestyle" width="137" /><span>Shopping &amp; Lifestyle</span>
+                            <div>&nbsp;</div>
+						</div>
+						<div class="wrapper"></div>
+                    </div>
+					<div class="signInTeaserRight">
+						<div class="signInTeaser signInTeaserRight">
+							<img src="http://static.ca.groupon-content.net/s/cdn3191370652/images/layout/teaser_cinema.jpg" height="113" alt="Film and Entertainment" width="137" /><span>Film and Entertainment</span>
+                            <div>&nbsp;</div>
+						</div>
+						<div class="signInTeaser signInTeaserRight">
+							<img src="http://static.ca.groupon-content.net/s/cdn3191370652/images/layout/teaser_sport.jpg" height="113" alt="Sport and Leisure" width="137" /><span>Sport and Leisure</span>
+                            <div>&nbsp;</div>
+						</div>
+						<div class="wrapper"></div>
+					</div>
+					<div class="wrapper"></div>
+				</div>
+				<div class="wrapper"></div>
+			</div>
+			<div class="signInAlreadySignedIn">
+				<a onclick="disablePopup(); return false;" href="#">Already registered? | <a href="http://www.groupon.ca/data_privacy">Privacy Policy</a></a></div>
+			<div class="wrapper"></div>
+		</div>
+		<div class="popupPart popupBot"></div>
+	</div>
+</div>
+<script type="text/javascript" src="http://static.ca.groupon-content.net/s/cdn3191370652/bundles/postPageLoad_bundle.js" ></script>
+<script type="text/javascript">
+        smsSuccessText = '???stardeals.main.popup.sms.verified_successful???';
+    </script>
+
+    <script type='text/javascript'>
+		var _vis_opt_account_id = 1447;
+		var _vis_opt_protocol = (('https:' == document.location.protocol) ? 'https://' : 'http://');
+		document.write('<span id="jVisOptLink1"><script src="' + _vis_opt_protocol + 'd5phz18u4wuww.cloudfront.net/vis_opt.js" type="text/javascript">' + '<\/s' + 'cript>' + '<\/s' + 'pan>');
+		</script>
+	
+    <script type='text/javascript'>
+        if(typeof(_vis_opt_top_initialize) == "function") { document.write('<span id="jVisOptLink2"><script src="' + _vis_opt_protocol + 'dev.visualwebsiteoptimizer.com/deploy/js_visitor_settings.php?v=1&a='+_vis_opt_account_id+'&url='+encodeURIComponent(document.URL)+'&random='+Math.random()+'" type="text/javascript">' + '<\/s' + 'cript>' + '<\/s' + 'pan>'); }
+    </script>
+
+	<script type='text/javascript'>
+		if(typeof(_vis_opt_settings_loaded) == "boolean" && typeof(_vis_opt_top_initialize) == "function"){ _vis_opt_top_initialize(); }
+	</script>
+	<script type='text/javascript'>
+	if(typeof(_vwo_exp_ids) != "undefined") {
+		for(var l=0;l<_vwo_exp_ids.length;l++) {
+			id = _vwo_exp_ids[l];
+		
+			for(_vwo_goal_id in _vwo_exp[id].goals)	{
+				if(_vwo_exp[id].goals[_vwo_goal_id].type=='CUSTOM_GOAL') {
+					 _vis_opt_register_conversion(_vwo_goal_id, id); 
+				}
+			}
+		}
+	}
+	</script>
+	
+	<script type='text/javascript'>
+	if(typeof(_vis_opt_settings_loaded) == "boolean" && typeof(_vis_opt_bottom_initialize) == "function")
+	{_vis_opt_bottom_initialize();}
+	</script>
+	<script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(decodeURI("%3Cscript src=\"" + gaJsHost + "google-analytics.com/ga.js\" type=\"text/javascript\"%3E%3C/script%3E"));
+</script>
+
+<script type="text/javascript">
+	try {
+		var pageTracker = _gat._getTracker("UA-19368928-3");
+
+		
+		pageTracker._trackPageview();
+        
+	} catch(err) {}
+</script></div>
+
+<script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/24/eum/rum-staging.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrf2","beacon-1.newrelic.com","a8d28b7671",184098,"ZAZbYxZWV0RSVk1cC11Mc2Q0GG5ycRhweyIcCUpHS0dYUFZGFlwKVwZBGQ5ESQ==",0,59,new Date().getTime()])</script></body>
+</html>

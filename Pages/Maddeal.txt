@@ -1,0 +1,1618 @@
+http://www.maddeal.com/Canada/ON/Toronto/?did=216
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+	MadDeal Deal of the Day in Toronto
+</title>
+
+    <script src="http://maps.google.com/maps?file=api&amp;v=2&amp;key=ABQIAAAAXQ1MRHc4XCRkTc0lS-UyXhS48nrX2WGAOMzVZUdo3987lPLoLhRAXZfTuqVSqYdBy4au4TJKdauLHw&sensor=false"
+        type="text/javascript"></script>
+
+    <script type="text/javascript">
+        function changeMap(lat, lng) {
+            document.getElementById("ctl00_cphBody_hLat").value = lat;
+            document.getElementById("ctl00_cphBody_hLng").value = lng;
+            initialize();
+        }
+
+        function initialize() {
+            var lat = document.getElementById("ctl00_cphBody_hLat").value;
+            var lng = document.getElementById("ctl00_cphBody_hLng").value;
+            if (lat.replace(' ', '') != "") {
+                var map = new GMap2(document.getElementById("map_canvas"));
+                map.setCenter(new GLatLng(lat, lng), 15);
+                map.addControl(new GSmallMapControl());
+
+
+                var point;
+                point = new GLatLng(lat, lng);
+                var marker;
+                marker = new GMarker(point);
+                map.addOverlay(marker);
+            }
+        }
+            
+    </script>
+
+<link href="/css/default.css" rel="stylesheet" type="text/css" /><link href="/css/default_new.css" rel="stylesheet" type="text/css" /><link rel="shortcut icon" href="/images/front/maddealfav.ico" /><meta name="keywords" content="discount, sale, sales, coupons, voucher, restaurants, theater tickets, activities, deal of the day, save money, daily deal, discount offer, Toronto deals, Canada deals" /><meta name="Description" content="Local Daily Deals from MadDeal. $45 for 2 Weeks of Childrens or Adult Classes at Fred Villari's Studio Of Self Defense - Including Uniform (Regular Price $110)" /></head>
+
+
+<script type="text/javascript" src="/js/javascript_cookies.js"></script> 
+<script type="text/javascript">
+<!--
+    
+
+    function copy_link() {
+
+        var meintext = document.getElementById('ctl00_txtMailLink').value;
+        if (window.clipboardData) {
+            window.clipboardData.setData("Text", meintext);
+        }
+        else if (window.netscape) {
+
+            netscape.security.PrivilegeManager.enablePrivilege('UniversalXPConnect');
+            var clip = Components.classes['@mozilla.org/widget/clipboard;1'].createInstance(Components.interfaces.nsIClipboard);
+            if (!clip) return;
+            var trans = Components.classes['@mozilla.org/widget/transferable;1'].createInstance(Components.interfaces.nsITransferable);
+            if (!trans) return;
+            trans.addDataFlavor('text/unicode');
+
+            var str = new Object();
+            var len = new Object();
+
+            var str = Components.classes["@mozilla.org/supports-string;1"].createInstance(Components.interfaces.nsISupportsString);
+
+            var copytext = meintext;
+
+            str.data = copytext;
+
+            trans.setTransferData("text/unicode", str, copytext.length * 2);
+
+            var clipid = Components.interfaces.nsIClipboard;
+
+            if (!clip) return false;
+
+            clip.setData(trans, null, clipid.kGlobalClipboard);
+
+        }
+        return false;
+    }
+
+    function emailPopup(subject, body) {
+        var mailto_link = "mailto:?subject=" + subject + "&body=" + body;
+        win = window.open(mailto_link, "emailWindow");
+        if (win && win.open && !win.closed) {
+            win.close();
+            alert("There is no default mail client installed");
+        }
+    }
+
+    function arrowClick() {
+        if (document.getElementById("CitySelector").style.display == "none")
+            openCities();
+        else
+            closeCities();
+    }
+
+    function closeSubscribe() {
+        document.getElementById("divSubscribe").style.display = "none";
+        document.getElementById("trContentPH").style.display = "block";
+    }
+
+    function openSubscribe() {
+        document.getElementById("divSubscribe").style.display = "block";
+        document.getElementById("trContentPH").style.display = "none";
+        document.getElementById("CitySelector").style.display = "none";
+    }
+
+    function openCities() {
+        document.getElementById("CitySelector").style.display = "block";
+        document.getElementById("divSubscribe").style.display = "none";
+        document.getElementById("trContentPH").style.display = "block";
+    }
+
+    function closeCities() {
+        document.getElementById("CitySelector").style.display = "none";
+        document.getElementById("trContentPH").style.display = "block";
+    }
+
+    function closeThanx() {
+        document.getElementById("thanks").style.display = "none";
+        document.getElementById("overlay").style.display = "none";
+    }
+    function openThanx() {
+        //   document.getElementById('thanksCity.ClientID').innerHTML = document.getElementById('ctl00_lblCitySubscribe').innerHTML;
+        document.getElementById("thanks").style.display = "block";
+        document.getElementById("overlay").style.display = "block";
+    }
+
+    function closeMailProviders() {
+        document.getElementById("mailproviders").style.display = "none";
+        document.getElementById("overlay").style.display = "none";
+    }
+    function openMailProviders() {
+        document.getElementById("agmail").href = document.getElementById('ctl00_hgmail').value;
+        document.getElementById("ayahoo").href = document.getElementById('ctl00_hyahoo').value;
+        document.getElementById("aoutlook").href = document.getElementById('ctl00_hemail').value;
+        document.getElementById("mailproviders").style.display = "block";
+        document.getElementById("overlay").style.display = "block";
+    }
+
+
+    function closeLogin() {
+        document.getElementById("login").style.display = "none";
+        document.getElementById("overlay").style.display = "none";
+    }
+    function showLogin(type) {
+        if (type != "hemail") {
+            document.getElementById("ashare").target = "_blank";
+            document.getElementById("ashare").href = document.getElementById('ctl00_' + type).value;
+        }
+        else {
+            document.getElementById("ashare").href = "javascript:openMailProviders();";
+            document.getElementById("ashare").target = "";
+        }
+        document.getElementById("login").style.display = "block";
+        document.getElementById("overlay").style.display = "block";
+    }
+
+    function closePopup() {
+        document.getElementById("popup").style.display = "none";
+        document.getElementById("overlay").style.display = "none";
+
+        //  document.location.href = "/Canada/ON/Toronto/";
+    }
+    function openPopup() {
+        if (document.getElementById("ctl00_hnocookies").value != "1") {
+            document.getElementById("popup").style.display = "block";
+            document.getElementById("overlay").style.display = "block";
+        }
+            
+    }
+
+    function MM_preloadImages() { //v3.0
+        var d = document; if (d.images) {
+            if (!d.MM_p) d.MM_p = new Array();
+            var i, j = d.MM_p.length, a = MM_preloadImages.arguments; for (i = 0; i < a.length; i++)
+                if (a[i].indexOf("#") != 0) { d.MM_p[j] = new Image; d.MM_p[j++].src = a[i]; }
+        }
+    }
+    function MM_swapImgRestore() { //v3.0
+        var i, x, a = document.MM_sr; for (i = 0; a && i < a.length && (x = a[i]) && x.oSrc; i++) x.src = x.oSrc;
+    }
+    function MM_findObj(n, d) { //v4.01
+        var p, i, x; if (!d) d = document; if ((p = n.indexOf("?")) > 0 && parent.frames.length) {
+            d = parent.frames[n.substring(p + 1)].document; n = n.substring(0, p);
+        }
+        if (!(x = d[n]) && d.all) x = d.all[n]; for (i = 0; !x && i < d.forms.length; i++) x = d.forms[i][n];
+        for (i = 0; !x && d.layers && i < d.layers.length; i++) x = MM_findObj(n, d.layers[i].document);
+        if (!x && d.getElementById) x = d.getElementById(n); return x;
+    }
+
+    function MM_swapImage() { //v3.0
+        var i, j = 0, x, a = MM_swapImage.arguments; document.MM_sr = new Array; for (i = 0; i < (a.length - 2); i += 3)
+            if ((x = MM_findObj(a[i])) != null) { document.MM_sr[j++] = x; if (!x.oSrc) x.oSrc = x.src; x.src = a[i + 2]; }
+    }
+    function MM_showHideLayers() { //v9.0
+        var i, p, v, obj, args = MM_showHideLayers.arguments;
+        for (i = 0; i < (args.length - 2); i += 3)
+            with (document) if (getElementById && ((obj = getElementById(args[i])) != null)) {
+            v = args[i + 2];
+            if (obj.style) { obj = obj.style; v = (v == 'show') ? 'visible' : (v == 'hide') ? 'hidden' : v; }
+            obj.visibility = v;
+        }
+    }
+//-->
+</script>
+
+<body id="ctl00_masterBody" onload="javascript: initialize();" onunload="javascript: GUnload();">
+    <form name="aspnetForm" method="post" action="?country=Canada&amp;state=ON&amp;city=Toronto&amp;did=216" onsubmit="javascript:return WebForm_OnSubmit();" id="aspnetForm">
+<div>
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMzY1NjEwNjc4D2QWAmYPZBYCAgEPFgQeBm9ubG9hZAUZamF2YXNjcmlwdDogaW5pdGlhbGl6ZSgpOx4Ib251bmxvYWQFFmphdmFzY3JpcHQ6IEdVbmxvYWQoKTsWAmYPZBYkAgEPDxYCHgRUZXh0BQdUb3JvbnRvZGQCAw8PFgIfAgUHVG9yb250b2RkAgUPFgIeBGhyZWYFPWh0dHA6Ly93d3cuZmFjZWJvb2suY29tL3BhZ2VzL01hZERlYWwtVG9yb250by8xMDg4NDA3NjkxOTI5NTJkAgcPFgIfAwUhaHR0cDovL3R3aXR0ZXIuY29tL21hZGRlYWx0b3JvbnRvZAIJDxYCHwMFEC9yc3MvVG9yb250by54bWxkAgsPZBYEAgEPDxYCHwIFOTxhIGhyZWY9Jy9sb2dpbi5hc3B4JyBzdHlsZT0iY29sb3I6ICNmZmZmZmY7Ij5TaWduIEluPC9hPmRkAgMPDxYCHwIFPTxhIGhyZWY9Jy9yZWdpc3Rlci5hc3B4JyBzdHlsZT0iY29sb3I6ICNmZmZmZmY7Ij5SZWdpc3RlcjwvYT5kZAIPDxYCHgdWaXNpYmxlZ2QCEQ8WAh8EZxYCZg9kFgICAQ9kFgYCAQ8PFgIfAgUCJDZkZAIDDw8WAh8CBQIkNmRkAgUPDxYCHwIFBCQxMjBkZAIVDxYCHwMFFy9kZWFsUWFuZEEuYXNweD9kaWQ9MjE2ZAIXD2QWAgIFDxYCHglpbm5lcmh0bWwFnQ08dGFibGUgd2lkdGg9IjI5OCIgY2VsbHBhZGRpbmc9IjAiIGNlbGxzcGFjaW5nPSIwIj48dHI+PHRkIGJhY2tncm91bmQ9Ii9pbWFnZXMvZnJvbnRfbmV3L2JsdWVzaWRlYmFjay5wbmciPjx0YWJsZSB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIyOXB4IiBib3JkZXI9IjAiIGNlbGxzcGFjaW5nPSIwIiBjZWxscGFkZGluZz0iMCI+PHRyPjx0ZCBhbGlnbj0iY2VudGVyIiB2YWxpZ249Im1pZGRsZSI+PHNwYW4gY2xhc3M9ImZ1dHVyYWdyZXl0ZXh0Ij5BY3RpdmUgRGVhbHM8L3NwYW4+PC90ZD48L3RyPjwvdGFibGU+PC90ZD48L3RyPjx0cj48dGQgYmFja2dyb3VuZD0iL2ltYWdlcy9mcm9udF9uZXcvY291cG9ubGluZXMucG5nIiBiZ2NvbG9yPSIjRkZGRkZGIiBvbmNsaWNrPSJkb2N1bWVudC5sb2NhdGlvbi5ocmVmPScvQ2FuYWRhL09OL1Rvcm9udG8vP2RpZD0yMTgnIiBhbGlnbj0iY2VudGVyIj48YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOm5vbmU7IiBocmVmPSIvQ2FuYWRhL09OL1Rvcm9udG8vP2RpZD0yMTgiPjx0YWJsZSB3aWR0aD0iMTAwJSIgYm9yZGVyPSIwIiBjZWxsc3BhY2luZz0iMCIgY2VsbHBhZGRpbmc9IjAiPjx0cj48dGQgYWxpZ249ImxlZnQiIHZhbGlnbj0idG9wIj48dGFibGUgd2lkdGg9IjEwMCUiIGJvcmRlcj0iMCIgY2VsbHNwYWNpbmc9IjAiIGNlbGxwYWRkaW5nPSIxMiI+PHRyPjx0ZCBhbGlnbj0ibGVmdCIgdmFsaWduPSJ0b3AiPiQ1OSBmb3IgMSBOaWdodCBTdGF5IGZvciAyIFBlb3BsZSBpbiBhIEphY3V6emkgU3VpdGUgKFJlZ3VsYXIgUHJpY2UgJDE1NSk8L3RkPjwvdHI+PC90YWJsZT48L3RkPjwvdHI+PHRyPjx0ZCBhbGlnbj0ibGVmdCIgdmFsaWduPSJ0b3AiPjx0YWJsZSB3aWR0aD0iMTAwJSIgYm9yZGVyPSIwIiBjZWxsc3BhY2luZz0iMCIgY2VsbHBhZGRpbmc9IjAiPjx0cj48dGQgd2lkdGg9IjExNiIgYWxpZ249ImxlZnQiIHZhbGlnbj0idG9wIj48dGFibGUgd2lkdGg9IjExNiIgYm9yZGVyPSIwIiBjZWxsc3BhY2luZz0iMCIgY2VsbHBhZGRpbmc9IjUiPjx0ciBoZWlnaHQ9IjQ1IiB3aWR0aD0iMTA2Ij48dGQgYWxpZ249ImNlbnRlciIgdmFsaWduPSJtaWRkbGUiIGNsYXNzPSJzbWFsbHRhZyI+JDU5PC90ZD48L3RyPjx0cj48dGQgYWxpZ249InJpZ2h0IiB2YWxpZ249InRvcCI+PHNwYW4gY2xhc3M9ImFyaWFsYmx1ZWJvbGQiPiQxNTUgVmFsdWU8YnIgLz42MSUgU2F2aW5nczwvc3Bhbj48L3RkPjwvdHI+PHRyPjx0ZCBhbGlnbj0icmlnaHQiIHZhbGlnbj0idG9wIj48c3BhbiBjbGFzcz0iYXJpYWxibHVlYm9sZCI+PGltZyBib3JkZXI9IjAiIHNyYz0iL2ltYWdlcy9mcm9udF9uZXcvbGVhcm5tb3JlLnBuZyIgd2lkdGg9IjgwIiBoZWlnaHQ9IjI1IiAvPjwvc3Bhbj48L3RkPjwvdHI+PC90YWJsZT48L3RkPjx0ZCB3aWR0aD0iMTcxIiBhbGlnbj0ibGVmdCIgdmFsaWduPSJ0b3AiPjx0YWJsZSB3aWR0aD0iMTAwJSIgYm9yZGVyPSIwIiBjZWxsc3BhY2luZz0iMCIgY2VsbHBhZGRpbmc9IjciPjx0cj48dGQgd2lkdGg9IjE3MCIgYWxpZ249ImxlZnQiIHZhbGlnbj0idG9wIj48aW1nIHNyYz0iL2ltYWdlcy9idXNpbmVzcy8yMTguanBnIiB3aWR0aD0iMTYxIiBoZWlnaHQ9IjEyMCIgLz48L3RkPjwvdHI+PC90YWJsZT48L3RkPjwvdHI+PC90YWJsZT48L3RkPjwvdHI+PC90YWJsZT48L2E+PGhyIC8+PC90ZD48L3RyPjwvdGFibGU+PGJyIC8+ZAIZDxYCHwUFopEBPHRhYmxlIHdpZHRoPSIxMDAlIiBib3JkZXI9IjAiIGNlbGxzcGFjaW5nPSIwIiBjZWxscGFkZGluZz0iMCI+PHRyIGhlaWdodD0iMjAiPjx0ZCBjb2xzcGFuPSI0IiBhbGlnbj0ibGVmdCIgdmFsaWduPSJ0b3AiPjxzcGFuIGNsYXNzPSJDaXR5SGVhZGVycyI+Q2FuYWRhPC9zcGFuPjwvdGQ+PC90cj48dHI+PHRkIHdpZHRoPSIyNSUiPjxhIGNsYXNzPSJhY3RpdmVkZWFsIiBzdHlsZT0iZm9udC1mYW1pbHk6IEFyaWFsO3RleHQtZGVjb3JhdGlvbjpub25lOyIgaHJlZj0iL0NhbmFkYS9PTi9CYXJyaWUvIj48c3BhbiBjbGFzcz0iYWN0aXZlZGVhbCI+QmFycmllPC9zcGFuPjwvYT48L3RkPjx0ZCB3aWR0aD0iMjUlIj48YSBjbGFzcz0iYWN0aXZlZGVhbCIgc3R5bGU9ImZvbnQtZmFtaWx5OiBBcmlhbDt0ZXh0LWRlY29yYXRpb246bm9uZTsiIGhyZWY9Ii9DYW5hZGEvT04vQnJhbXB0b24vIj48c3BhbiBjbGFzcz0iYWN0aXZlZGVhbCI+QnJhbXB0b248L3NwYW4+PC9hPjwvdGQ+PHRkIHdpZHRoPSIyNSUiPjxhIGNsYXNzPSJjaXRpZXMiIHN0eWxlPSJmb250LWZhbWlseTogQXJpYWw7dGV4dC1kZWNvcmF0aW9uOm5vbmU7IiBocmVmPSIvQ2FuYWRhL0FCL0NhbGdhcnkvIj48c3BhbiBjbGFzcz0iY2l0aWVzIj5DYWxnYXJ5PC9zcGFuPjwvYT48L3RkPjx0ZCB3aWR0aD0iMjUlIj48YSBjbGFzcz0iYWN0aXZlZGVhbCIgc3R5bGU9ImZvbnQtZmFtaWx5OiBBcmlhbDt0ZXh0LWRlY29yYXRpb246bm9uZTsiIGhyZWY9Ii9DYW5hZGEvT04vRHVyaGFtX1JlZ2lvbi8iPjxzcGFuIGNsYXNzPSJhY3RpdmVkZWFsIj5EdXJoYW0gUmVnaW9uPC9zcGFuPjwvYT48L3RkPjwvdHI+PHRyPjx0ZCB3aWR0aD0iMjUlIj48YSBjbGFzcz0iY2l0aWVzIiBzdHlsZT0iZm9udC1mYW1pbHk6IEFyaWFsO3RleHQtZGVjb3JhdGlvbjpub25lOyIgaHJlZj0iL0NhbmFkYS9BQi9FZG1vbnRvbi8iPjxzcGFuIGNsYXNzPSJjaXRpZXMiPkVkbW9udG9uPC9zcGFuPjwvYT48L3RkPjx0ZCB3aWR0aD0iMjUlIj48YSBjbGFzcz0iY2l0aWVzIiBzdHlsZT0iZm9udC1mYW1pbHk6IEFyaWFsO3RleHQtZGVjb3JhdGlvbjpub25lOyIgaHJlZj0iL0NhbmFkYS9OUy9IYWxpZmF4LyI+PHNwYW4gY2xhc3M9ImNpdGllcyI+SGFsaWZheDwvc3Bhbj48L2E+PC90ZD48dGQgd2lkdGg9IjI1JSI+PGEgY2xhc3M9ImFjdGl2ZWRlYWwiIHN0eWxlPSJmb250LWZhbWlseTogQXJpYWw7dGV4dC1kZWNvcmF0aW9uOm5vbmU7IiBocmVmPSIvQ2FuYWRhL09OL0hhbWlsdG9uLyI+PHNwYW4gY2xhc3M9ImFjdGl2ZWRlYWwiPkhhbWlsdG9uPC9zcGFuPjwvYT48L3RkPjx0ZCB3aWR0aD0iMjUlIj48YSBjbGFzcz0iY2l0aWVzIiBzdHlsZT0iZm9udC1mYW1pbHk6IEFyaWFsO3RleHQtZGVjb3JhdGlvbjpub25lOyIgaHJlZj0iL0NhbmFkYS9PTi9LaXRjaGVuZXJfLV9XYXRlcmxvby8iPjxzcGFuIGNsYXNzPSJjaXRpZXMiPktpdGNoZW5lciAtIFdhdGVybG9vPC9zcGFuPjwvYT48L3RkPjwvdHI+PHRyPjx0ZCB3aWR0aD0iMjUlIj48YSBjbGFzcz0iYWN0aXZlZGVhbCIgc3R5bGU9ImZvbnQtZmFtaWx5OiBBcmlhbDt0ZXh0LWRlY29yYXRpb246bm9uZTsiIGhyZWY9Ii9DYW5hZGEvT04vTG9uZG9uLyI+PHNwYW4gY2xhc3M9ImFjdGl2ZWRlYWwiPkxvbmRvbjwvc3Bhbj48L2E+PC90ZD48dGQgd2lkdGg9IjI1JSI+PGEgY2xhc3M9ImFjdGl2ZWRlYWwiIHN0eWxlPSJmb250LWZhbWlseTogQXJpYWw7dGV4dC1kZWNvcmF0aW9uOm5vbmU7IiBocmVmPSIvQ2FuYWRhL09OL01pc3Npc3NhdWdhLyI+PHNwYW4gY2xhc3M9ImFjdGl2ZWRlYWwiPk1pc3Npc3NhdWdhPC9zcGFuPjwvYT48L3RkPjx0ZCB3aWR0aD0iMjUlIj48YSBjbGFzcz0iY2l0aWVzIiBzdHlsZT0iZm9udC1mYW1pbHk6IEFyaWFsO3RleHQtZGVjb3JhdGlvbjpub25lOyIgaHJlZj0iL0NhbmFkYS9RQy9Nb250cmVhbC8iPjxzcGFuIGNsYXNzPSJjaXRpZXMiPk1vbnRyZWFsPC9zcGFuPjwvYT48L3RkPjx0ZCB3aWR0aD0iMjUlIj48YSBjbGFzcz0iYWN0aXZlZGVhbCIgc3R5bGU9ImZvbnQtZmFtaWx5OiBBcmlhbDt0ZXh0LWRlY29yYXRpb246bm9uZTsiIGhyZWY9Ii9DYW5hZGEvT04vTmlhZ2FyYV9SZWdpb24vIj48c3BhbiBjbGFzcz0iYWN0aXZlZGVhbCI+TmlhZ2FyYSBSZWdpb248L3NwYW4+PC9hPjwvdGQ+PC90cj48dHI+PHRkIHdpZHRoPSIyNSUiPjxhIGNsYXNzPSJjaXRpZXMiIHN0eWxlPSJmb250LWZhbWlseTogQXJpYWw7dGV4dC1kZWNvcmF0aW9uOm5vbmU7IiBocmVmPSIvQ2FuYWRhL09OL090dGF3YS8iPjxzcGFuIGNsYXNzPSJjaXRpZXMiPk90dGF3YTwvc3Bhbj48L2E+PC90ZD48dGQgd2lkdGg9IjI1JSI+PGEgY2xhc3M9ImNpdGllcyIgc3R5bGU9ImZvbnQtZmFtaWx5OiBBcmlhbDt0ZXh0LWRlY29yYXRpb246bm9uZTsiIGhyZWY9Ii9DYW5hZGEvUUMvUXVlYmVjLyI+PHNwYW4gY2xhc3M9ImNpdGllcyI+UXVlYmVjPC9zcGFuPjwvYT48L3RkPjx0ZCB3aWR0aD0iMjUlIj48YSBjbGFzcz0iY2l0aWVzIiBzdHlsZT0iZm9udC1mYW1pbHk6IEFyaWFsO3RleHQtZGVjb3JhdGlvbjpub25lOyIgaHJlZj0iL0NhbmFkYS9TSy9SZWdpbmEvIj48c3BhbiBjbGFzcz0iY2l0aWVzIj5SZWdpbmE8L3NwYW4+PC9hPjwvdGQ+PHRkIHdpZHRoPSIyNSUiPjxhIGNsYXNzPSJjaXRpZXMiIHN0eWxlPSJmb250LWZhbWlseTogQXJpYWw7dGV4dC1kZWNvcmF0aW9uOm5vbmU7IiBocmVmPSIvQ2FuYWRhL1NLL1Nhc2thdG9vbi8iPjxzcGFuIGNsYXNzPSJjaXRpZXMiPlNhc2thdG9vbjwvc3Bhbj48L2E+PC90ZD48L3RyPjx0cj48dGQgd2lkdGg9IjI1JSI+PGEgY2xhc3M9ImFjdGl2ZWRlYWwiIHN0eWxlPSJmb250LWZhbWlseTogQXJpYWw7dGV4dC1kZWNvcmF0aW9uOm5vbmU7IiBocmVmPSIvQ2FuYWRhL09OL1Rvcm9udG8vIj48c3BhbiBjbGFzcz0iYWN0aXZlZGVhbCI+VG9yb250bzwvc3Bhbj48L2E+PC90ZD48dGQgd2lkdGg9IjI1JSI+PGEgY2xhc3M9ImNpdGllcyIgc3R5bGU9ImZvbnQtZmFtaWx5OiBBcmlhbDt0ZXh0LWRlY29yYXRpb246bm9uZTsiIGhyZWY9Ii9DYW5hZGEvQkMvVmFuY291dmVyLyI+PHNwYW4gY2xhc3M9ImNpdGllcyI+VmFuY291dmVyPC9zcGFuPjwvYT48L3RkPjx0ZCB3aWR0aD0iMjUlIj48YSBjbGFzcz0iY2l0aWVzIiBzdHlsZT0iZm9udC1mYW1pbHk6IEFyaWFsO3RleHQtZGVjb3JhdGlvbjpub25lOyIgaHJlZj0iL0NhbmFkYS9CQy9WaWN0b3JpYS8iPjxzcGFuIGNsYXNzPSJjaXRpZXMiPlZpY3RvcmlhPC9zcGFuPjwvYT48L3RkPjx0ZCB3aWR0aD0iMjUlIj48YSBjbGFzcz0iYWN0aXZlZGVhbCIgc3R5bGU9ImZvbnQtZmFtaWx5OiBBcmlhbDt0ZXh0LWRlY29yYXRpb246bm9uZTsiIGhyZWY9Ii9DYW5hZGEvT04vV2luZHNvci8iPjxzcGFuIGNsYXNzPSJhY3RpdmVkZWFsIj5XaW5kc29yPC9zcGFuPjwvYT48L3RkPjwvdHI+PHRyPjx0ZCB3aWR0aD0iMjUlIj48YSBjbGFzcz0iY2l0aWVzIiBzdHlsZT0iZm9udC1mYW1pbHk6IEFyaWFsO3RleHQtZGVjb3JhdGlvbjpub25lOyIgaHJlZj0iL0NhbmFkYS9NQi9XaW5uaXBlZy8iPjxzcGFuIGNsYXNzPSJjaXRpZXMiPldpbm5pcGVnPC9zcGFuPjwvYT48L3RkPjx0ZCB3aWR0aD0iMjUlIj48YSBjbGFzcz0iYWN0aXZlZGVhbCIgc3R5bGU9ImZvbnQtZmFtaWx5OiBBcmlhbDt0ZXh0LWRlY29yYXRpb246bm9uZTsiIGhyZWY9Ii9DYW5hZGEvT04vWW9ya19SZWdpb24vIj48c3BhbiBjbGFzcz0iYWN0aXZlZGVhbCI+WW9yayBSZWdpb248L3NwYW4+PC9hPjwvdGQ+PC90cj48dHIgaGVpZ2h0PSIyMCI+PHRkIGNvbHNwYW49IjQiIGFsaWduPSJsZWZ0IiB2YWxpZ249Im1pZGRsZSI+PGltZyBzcmM9Ii9pbWFnZXMvZnJvbnRfbmV3L2NpdHlydWxlLmpwZyIgd2lkdGg9IjU5NSIgaGVpZ2h0PSIxIiAvPjwvdGQ+PC90cj48dHIgaGVpZ2h0PSIyMCI+PHRkIGNvbHNwYW49IjQiIGFsaWduPSJsZWZ0IiB2YWxpZ249InRvcCI+PHNwYW4gY2xhc3M9IkNpdHlIZWFkZXJzIj5VSzwvc3Bhbj48L3RkPjwvdHI+PHRyPjx0ZCB3aWR0aD0iMjUlIj48YSBjbGFzcz0iYWN0aXZlZGVhbCIgc3R5bGU9ImZvbnQtZmFtaWx5OiBBcmlhbDt0ZXh0LWRlY29yYXRpb246bm9uZTsiIGhyZWY9Ii9VSy9BYmVyZGVlbi8iPjxzcGFuIGNsYXNzPSJhY3RpdmVkZWFsIj5BYmVyZGVlbjwvc3Bhbj48L2E+PC90ZD48dGQgd2lkdGg9IjI1JSI+PGEgY2xhc3M9ImFjdGl2ZWRlYWwiIHN0eWxlPSJmb250LWZhbWlseTogQXJpYWw7dGV4dC1kZWNvcmF0aW9uOm5vbmU7IiBocmVmPSIvVUsvQmF0aC8iPjxzcGFuIGNsYXNzPSJhY3RpdmVkZWFsIj5CYXRoPC9zcGFuPjwvYT48L3RkPjx0ZCB3aWR0aD0iMjUlIj48YSBjbGFzcz0iYWN0aXZlZGVhbCIgc3R5bGU9ImZvbnQtZmFtaWx5OiBBcmlhbDt0ZXh0LWRlY29yYXRpb246bm9uZTsiIGhyZWY9Ii9VSy9CZWxmYXN0LyI+PHNwYW4gY2xhc3M9ImFjdGl2ZWRlYWwiPkJlbGZhc3Q8L3NwYW4+PC9hPjwvdGQ+PHRkIHdpZHRoPSIyNSUiPjxhIGNsYXNzPSJhY3RpdmVkZWFsIiBzdHlsZT0iZm9udC1mYW1pbHk6IEFyaWFsO3RleHQtZGVjb3JhdGlvbjpub25lOyIgaHJlZj0iL1VLL0Jpcm1pbmdoYW0vIj48c3BhbiBjbGFzcz0iYWN0aXZlZGVhbCI+QmlybWluZ2hhbTwvc3Bhbj48L2E+PC90ZD48L3RyPjx0cj48dGQgd2lkdGg9IjI1JSI+PGEgY2xhc3M9ImFjdGl2ZWRlYWwiIHN0eWxlPSJmb250LWZhbWlseTogQXJpYWw7dGV4dC1kZWNvcmF0aW9uOm5vbmU7IiBocmVmPSIvVUsvQm91cm5lbW91dGgvIj48c3BhbiBjbGFzcz0iYWN0aXZlZGVhbCI+Qm91cm5lbW91dGg8L3NwYW4+PC9hPjwvdGQ+PHRkIHdpZHRoPSIyNSUiPjxhIGNsYXNzPSJhY3RpdmVkZWFsIiBzdHlsZT0iZm9udC1mYW1pbHk6IEFyaWFsO3RleHQtZGVjb3JhdGlvbjpub25lOyIgaHJlZj0iL1VLL0JyYWRmb3JkLyI+PHNwYW4gY2xhc3M9ImFjdGl2ZWRlYWwiPkJyYWRmb3JkPC9zcGFuPjwvYT48L3RkPjx0ZCB3aWR0aD0iMjUlIj48YSBjbGFzcz0iYWN0aXZlZGVhbCIgc3R5bGU9ImZvbnQtZmFtaWx5OiBBcmlhbDt0ZXh0LWRlY29yYXRpb246bm9uZTsiIGhyZWY9Ii9VSy9CcmlnaHRvbi8iPjxzcGFuIGNsYXNzPSJhY3RpdmVkZWFsIj5CcmlnaHRvbjwvc3Bhbj48L2E+PC90ZD48dGQgd2lkdGg9IjI1JSI+PGEgY2xhc3M9ImFjdGl2ZWRlYWwiIHN0eWxlPSJmb250LWZhbWlseTogQXJpYWw7dGV4dC1kZWNvcmF0aW9uOm5vbmU7IiBocmVmPSIvVUsvQnJpc3RvbC8iPjxzcGFuIGNsYXNzPSJhY3RpdmVkZWFsIj5CcmlzdG9sPC9zcGFuPjwvYT48L3RkPjwvdHI+PHRyPjx0ZCB3aWR0aD0iMjUlIj48YSBjbGFzcz0iYWN0aXZlZGVhbCIgc3R5bGU9ImZvbnQtZmFtaWx5OiBBcmlhbDt0ZXh0LWRlY29yYXRpb246bm9uZTsiIGhyZWY9Ii9VSy9DYW1icmlkZ2UvIj48c3BhbiBjbGFzcz0iYWN0aXZlZGVhbCI+Q2FtYnJpZGdlPC9zcGFuPjwvYT48L3RkPjx0ZCB3aWR0aD0iMjUlIj48YSBjbGFzcz0iYWN0aXZlZGVhbCIgc3R5bGU9ImZvbnQtZmFtaWx5OiBBcmlhbDt0ZXh0LWRlY29yYXRpb246bm9uZTsiIGhyZWY9Ii9VSy9DYXJkaWZmLyI+PHNwYW4gY2xhc3M9ImFjdGl2ZWRlYWwiPkNhcmRpZmY8L3NwYW4+PC9hPjwvdGQ+PHRkIHdpZHRoPSIyNSUiPjxhIGNsYXNzPSJhY3RpdmVkZWFsIiBzdHlsZT0iZm9udC1mYW1pbHk6IEFyaWFsO3RleHQtZGVjb3JhdGlvbjpub25lOyIgaHJlZj0iL1VLL0NvdmVudHJ5LyI+PHNwYW4gY2xhc3M9ImFjdGl2ZWRlYWwiPkNvdmVudHJ5PC9zcGFuPjwvYT48L3RkPjx0ZCB3aWR0aD0iMjUlIj48YSBjbGFzcz0iYWN0aXZlZGVhbCIgc3R5bGU9ImZvbnQtZmFtaWx5OiBBcmlhbDt0ZXh0LWRlY29yYXRpb246bm9uZTsiIGhyZWY9Ii9VSy9EZXJieS8iPjxzcGFuIGNsYXNzPSJhY3RpdmVkZWFsIj5EZXJieTwvc3Bhbj48L2E+PC90ZD48L3RyPjx0cj48dGQgd2lkdGg9IjI1JSI+PGEgY2xhc3M9ImFjdGl2ZWRlYWwiIHN0eWxlPSJmb250LWZhbWlseTogQXJpYWw7dGV4dC1kZWNvcmF0aW9uOm5vbmU7IiBocmVmPSIvVUsvRWRpbmJ1cmdoLyI+PHNwYW4gY2xhc3M9ImFjdGl2ZWRlYWwiPkVkaW5idXJnaDwvc3Bhbj48L2E+PC90ZD48dGQgd2lkdGg9IjI1JSI+PGEgY2xhc3M9ImFjdGl2ZWRlYWwiIHN0eWxlPSJmb250LWZhbWlseTogQXJpYWw7dGV4dC1kZWNvcmF0aW9uOm5vbmU7IiBocmVmPSIvVUsvRXNzZXgvIj48c3BhbiBjbGFzcz0iYWN0aXZlZGVhbCI+RXNzZXg8L3NwYW4+PC9hPjwvdGQ+PHRkIHdpZHRoPSIyNSUiPjxhIGNsYXNzPSJhY3RpdmVkZWFsIiBzdHlsZT0iZm9udC1mYW1pbHk6IEFyaWFsO3RleHQtZGVjb3JhdGlvbjpub25lOyIgaHJlZj0iL1VLL0V4ZXRlci8iPjxzcGFuIGNsYXNzPSJhY3RpdmVkZWFsIj5FeGV0ZXI8L3NwYW4+PC9hPjwvdGQ+PHRkIHdpZHRoPSIyNSUiPjxhIGNsYXNzPSJhY3RpdmVkZWFsIiBzdHlsZT0iZm9udC1mYW1pbHk6IEFyaWFsO3RleHQtZGVjb3JhdGlvbjpub25lOyIgaHJlZj0iL1VLL0dsYXNnb3cvIj48c3BhbiBjbGFzcz0iYWN0aXZlZGVhbCI+R2xhc2dvdzwvc3Bhbj48L2E+PC90ZD48L3RyPjx0cj48dGQgd2lkdGg9IjI1JSI+PGEgY2xhc3M9ImFjdGl2ZWRlYWwiIHN0eWxlPSJmb250LWZhbWlseTogQXJpYWw7dGV4dC1kZWNvcmF0aW9uOm5vbmU7IiBocmVmPSIvVUsvSHVsbC8iPjxzcGFuIGNsYXNzPSJhY3RpdmVkZWFsIj5IdWxsPC9zcGFuPjwvYT48L3RkPjx0ZCB3aWR0aD0iMjUlIj48YSBjbGFzcz0iYWN0aXZlZGVhbCIgc3R5bGU9ImZvbnQtZmFtaWx5OiBBcmlhbDt0ZXh0LWRlY29yYXRpb246bm9uZTsiIGhyZWY9Ii9VSy9JcHN3aWNoLyI+PHNwYW4gY2xhc3M9ImFjdGl2ZWRlYWwiPklwc3dpY2g8L3NwYW4+PC9hPjwvdGQ+PHRkIHdpZHRoPSIyNSUiPjxhIGNsYXNzPSJhY3RpdmVkZWFsIiBzdHlsZT0iZm9udC1mYW1pbHk6IEFyaWFsO3RleHQtZGVjb3JhdGlvbjpub25lOyIgaHJlZj0iL1VLL0tlbnQvIj48c3BhbiBjbGFzcz0iYWN0aXZlZGVhbCI+S2VudDwvc3Bhbj48L2E+PC90ZD48dGQgd2lkdGg9IjI1JSI+PGEgY2xhc3M9ImFjdGl2ZWRlYWwiIHN0eWxlPSJmb250LWZhbWlseTogQXJpYWw7dGV4dC1kZWNvcmF0aW9uOm5vbmU7IiBocmVmPSIvVUsvTGVlZHMvIj48c3BhbiBjbGFzcz0iYWN0aXZlZGVhbCI+TGVlZHM8L3NwYW4+PC9hPjwvdGQ+PC90cj48dHI+PHRkIHdpZHRoPSIyNSUiPjxhIGNsYXNzPSJhY3RpdmVkZWFsIiBzdHlsZT0iZm9udC1mYW1pbHk6IEFyaWFsO3RleHQtZGVjb3JhdGlvbjpub25lOyIgaHJlZj0iL1VLL0xlaWNlc3Rlci8iPjxzcGFuIGNsYXNzPSJhY3RpdmVkZWFsIj5MZWljZXN0ZXI8L3NwYW4+PC9hPjwvdGQ+PHRkIHdpZHRoPSIyNSUiPjxhIGNsYXNzPSJhY3RpdmVkZWFsIiBzdHlsZT0iZm9udC1mYW1pbHk6IEFyaWFsO3RleHQtZGVjb3JhdGlvbjpub25lOyIgaHJlZj0iL1VLL0xpdmVycG9vbC8iPjxzcGFuIGNsYXNzPSJhY3RpdmVkZWFsIj5MaXZlcnBvb2w8L3NwYW4+PC9hPjwvdGQ+PHRkIHdpZHRoPSIyNSUiPjxhIGNsYXNzPSJhY3RpdmVkZWFsIiBzdHlsZT0iZm9udC1mYW1pbHk6IEFyaWFsO3RleHQtZGVjb3JhdGlvbjpub25lOyIgaHJlZj0iL1VLL0xvbmRvbi8iPjxzcGFuIGNsYXNzPSJhY3RpdmVkZWFsIj5Mb25kb248L3NwYW4+PC9hPjwvdGQ+PHRkIHdpZHRoPSIyNSUiPjxhIGNsYXNzPSJhY3RpdmVkZWFsIiBzdHlsZT0iZm9udC1mYW1pbHk6IEFyaWFsO3RleHQtZGVjb3JhdGlvbjpub25lOyIgaHJlZj0iL1VLL01hbmNoZXN0ZXIvIj48c3BhbiBjbGFzcz0iYWN0aXZlZGVhbCI+TWFuY2hlc3Rlcjwvc3Bhbj48L2E+PC90ZD48L3RyPjx0cj48dGQgd2lkdGg9IjI1JSI+PGEgY2xhc3M9ImFjdGl2ZWRlYWwiIHN0eWxlPSJmb250LWZhbWlseTogQXJpYWw7dGV4dC1kZWNvcmF0aW9uOm5vbmU7IiBocmVmPSIvVUsvTWlsdG9uX0tleW5lcy8iPjxzcGFuIGNsYXNzPSJhY3RpdmVkZWFsIj5NaWx0b24gS2V5bmVzPC9zcGFuPjwvYT48L3RkPjx0ZCB3aWR0aD0iMjUlIj48YSBjbGFzcz0iYWN0aXZlZGVhbCIgc3R5bGU9ImZvbnQtZmFtaWx5OiBBcmlhbDt0ZXh0LWRlY29yYXRpb246bm9uZTsiIGhyZWY9Ii9VSy9OZXdjYXN0bGUvIj48c3BhbiBjbGFzcz0iYWN0aXZlZGVhbCI+TmV3Y2FzdGxlPC9zcGFuPjwvYT48L3RkPjx0ZCB3aWR0aD0iMjUlIj48YSBjbGFzcz0iYWN0aXZlZGVhbCIgc3R5bGU9ImZvbnQtZmFtaWx5OiBBcmlhbDt0ZXh0LWRlY29yYXRpb246bm9uZTsiIGhyZWY9Ii9VSy9OZXdwb3J0LyI+PHNwYW4gY2xhc3M9ImFjdGl2ZWRlYWwiPk5ld3BvcnQ8L3NwYW4+PC9hPjwvdGQ+PHRkIHdpZHRoPSIyNSUiPjxhIGNsYXNzPSJhY3RpdmVkZWFsIiBzdHlsZT0iZm9udC1mYW1pbHk6IEFyaWFsO3RleHQtZGVjb3JhdGlvbjpub25lOyIgaHJlZj0iL1VLL05vcndpY2gvIj48c3BhbiBjbGFzcz0iYWN0aXZlZGVhbCI+Tm9yd2ljaDwvc3Bhbj48L2E+PC90ZD48L3RyPjx0cj48dGQgd2lkdGg9IjI1JSI+PGEgY2xhc3M9ImFjdGl2ZWRlYWwiIHN0eWxlPSJmb250LWZhbWlseTogQXJpYWw7dGV4dC1kZWNvcmF0aW9uOm5vbmU7IiBocmVmPSIvVUsvTm90dGluZ2hhbS8iPjxzcGFuIGNsYXNzPSJhY3RpdmVkZWFsIj5Ob3R0aW5naGFtPC9zcGFuPjwvYT48L3RkPjx0ZCB3aWR0aD0iMjUlIj48YSBjbGFzcz0iYWN0aXZlZGVhbCIgc3R5bGU9ImZvbnQtZmFtaWx5OiBBcmlhbDt0ZXh0LWRlY29yYXRpb246bm9uZTsiIGhyZWY9Ii9VSy9PeGZvcmQvIj48c3BhbiBjbGFzcz0iYWN0aXZlZGVhbCI+T3hmb3JkPC9zcGFuPjwvYT48L3RkPjx0ZCB3aWR0aD0iMjUlIj48YSBjbGFzcz0iYWN0aXZlZGVhbCIgc3R5bGU9ImZvbnQtZmFtaWx5OiBBcmlhbDt0ZXh0LWRlY29yYXRpb246bm9uZTsiIGhyZWY9Ii9VSy9QbHltb3V0aC8iPjxzcGFuIGNsYXNzPSJhY3RpdmVkZWFsIj5QbHltb3V0aDwvc3Bhbj48L2E+PC90ZD48dGQgd2lkdGg9IjI1JSI+PGEgY2xhc3M9ImFjdGl2ZWRlYWwiIHN0eWxlPSJmb250LWZhbWlseTogQXJpYWw7dGV4dC1kZWNvcmF0aW9uOm5vbmU7IiBocmVmPSIvVUsvUG9ydHNtb3V0aC8iPjxzcGFuIGNsYXNzPSJhY3RpdmVkZWFsIj5Qb3J0c21vdXRoPC9zcGFuPjwvYT48L3RkPjwvdHI+PHRyPjx0ZCB3aWR0aD0iMjUlIj48YSBjbGFzcz0iYWN0aXZlZGVhbCIgc3R5bGU9ImZvbnQtZmFtaWx5OiBBcmlhbDt0ZXh0LWRlY29yYXRpb246bm9uZTsiIGhyZWY9Ii9VSy9SZWFkaW5nLyI+PHNwYW4gY2xhc3M9ImFjdGl2ZWRlYWwiPlJlYWRpbmc8L3NwYW4+PC9hPjwvdGQ+PHRkIHdpZHRoPSIyNSUiPjxhIGNsYXNzPSJhY3RpdmVkZWFsIiBzdHlsZT0iZm9udC1mYW1pbHk6IEFyaWFsO3RleHQtZGVjb3JhdGlvbjpub25lOyIgaHJlZj0iL1VLL1NoZWZmaWVsZC8iPjxzcGFuIGNsYXNzPSJhY3RpdmVkZWFsIj5TaGVmZmllbGQ8L3NwYW4+PC9hPjwvdGQ+PHRkIHdpZHRoPSIyNSUiPjxhIGNsYXNzPSJhY3RpdmVkZWFsIiBzdHlsZT0iZm9udC1mYW1pbHk6IEFyaWFsO3RleHQtZGVjb3JhdGlvbjpub25lOyIgaHJlZj0iL1VLL1NvdXRoYW1wdG9uLyI+PHNwYW4gY2xhc3M9ImFjdGl2ZWRlYWwiPlNvdXRoYW1wdG9uPC9zcGFuPjwvYT48L3RkPjx0ZCB3aWR0aD0iMjUlIj48YSBjbGFzcz0iYWN0aXZlZGVhbCIgc3R5bGU9ImZvbnQtZmFtaWx5OiBBcmlhbDt0ZXh0LWRlY29yYXRpb246bm9uZTsiIGhyZWY9Ii9VSy9TdG9rZS1vbi1UcmVudC8iPjxzcGFuIGNsYXNzPSJhY3RpdmVkZWFsIj5TdG9rZS1vbi1UcmVudDwvc3Bhbj48L2E+PC90ZD48L3RyPjx0cj48dGQgd2lkdGg9IjI1JSI+PGEgY2xhc3M9ImFjdGl2ZWRlYWwiIHN0eWxlPSJmb250LWZhbWlseTogQXJpYWw7dGV4dC1kZWNvcmF0aW9uOm5vbmU7IiBocmVmPSIvVUsvU3VycmV5LyI+PHNwYW4gY2xhc3M9ImFjdGl2ZWRlYWwiPlN1cnJleTwvc3Bhbj48L2E+PC90ZD48dGQgd2lkdGg9IjI1JSI+PGEgY2xhc3M9ImFjdGl2ZWRlYWwiIHN0eWxlPSJmb250LWZhbWlseTogQXJpYWw7dGV4dC1kZWNvcmF0aW9uOm5vbmU7IiBocmVmPSIvVUsvU3dhbnNlYS8iPjxzcGFuIGNsYXNzPSJhY3RpdmVkZWFsIj5Td2Fuc2VhPC9zcGFuPjwvYT48L3RkPjx0ZCB3aWR0aD0iMjUlIj48YSBjbGFzcz0iYWN0aXZlZGVhbCIgc3R5bGU9ImZvbnQtZmFtaWx5OiBBcmlhbDt0ZXh0LWRlY29yYXRpb246bm9uZTsiIGhyZWY9Ii9VSy9Zb3JrLyI+PHNwYW4gY2xhc3M9ImFjdGl2ZWRlYWwiPllvcms8L3NwYW4+PC9hPjwvdGQ+PC90cj48dHIgaGVpZ2h0PSIyMCI+PHRkIGNvbHNwYW49IjQiIGFsaWduPSJsZWZ0IiB2YWxpZ249Im1pZGRsZSI+PGltZyBzcmM9Ii9pbWFnZXMvZnJvbnRfbmV3L2NpdHlydWxlLmpwZyIgd2lkdGg9IjU5NSIgaGVpZ2h0PSIxIiAvPjwvdGQ+PC90cj48dHIgaGVpZ2h0PSIyMCI+PHRkIGNvbHNwYW49IjQiIGFsaWduPSJsZWZ0IiB2YWxpZ249InRvcCI+PHNwYW4gY2xhc3M9IkNpdHlIZWFkZXJzIj5VU0E8L3NwYW4+PC90ZD48L3RyPjx0cj48dGQgd2lkdGg9IjI1JSI+PGEgY2xhc3M9ImNpdGllcyIgc3R5bGU9ImZvbnQtZmFtaWx5OiBBcmlhbDt0ZXh0LWRlY29yYXRpb246bm9uZTsiIGhyZWY9Ii9VU0EvR0EvQXRsYW50YS8iPjxzcGFuIGNsYXNzPSJjaXRpZXMiPkF0bGFudGE8L3NwYW4+PC9hPjwvdGQ+PHRkIHdpZHRoPSIyNSUiPjxhIGNsYXNzPSJjaXRpZXMiIHN0eWxlPSJmb250LWZhbWlseTogQXJpYWw7dGV4dC1kZWNvcmF0aW9uOm5vbmU7IiBocmVmPSIvVVNBL1RYL0F1c3Rpbi8iPjxzcGFuIGNsYXNzPSJjaXRpZXMiPkF1c3Rpbjwvc3Bhbj48L2E+PC90ZD48dGQgd2lkdGg9IjI1JSI+PGEgY2xhc3M9ImNpdGllcyIgc3R5bGU9ImZvbnQtZmFtaWx5OiBBcmlhbDt0ZXh0LWRlY29yYXRpb246bm9uZTsiIGhyZWY9Ii9VU0EvTUQvQmFsdGltb3JlLyI+PHNwYW4gY2xhc3M9ImNpdGllcyI+QmFsdGltb3JlPC9zcGFuPjwvYT48L3RkPjx0ZCB3aWR0aD0iMjUlIj48YSBjbGFzcz0iY2l0aWVzIiBzdHlsZT0iZm9udC1mYW1pbHk6IEFyaWFsO3RleHQtZGVjb3JhdGlvbjpub25lOyIgaHJlZj0iL1VTQS9NQS9Cb3N0b24vIj48c3BhbiBjbGFzcz0iY2l0aWVzIj5Cb3N0b248L3NwYW4+PC9hPjwvdGQ+PC90cj48dHI+PHRkIHdpZHRoPSIyNSUiPjxhIGNsYXNzPSJjaXRpZXMiIHN0eWxlPSJmb250LWZhbWlseTogQXJpYWw7dGV4dC1kZWNvcmF0aW9uOm5vbmU7IiBocmVmPSIvVVNBL05ZL0J1ZmZhbG8vIj48c3BhbiBjbGFzcz0iY2l0aWVzIj5CdWZmYWxvPC9zcGFuPjwvYT48L3RkPjx0ZCB3aWR0aD0iMjUlIj48YSBjbGFzcz0iY2l0aWVzIiBzdHlsZT0iZm9udC1mYW1pbHk6IEFyaWFsO3RleHQtZGVjb3JhdGlvbjpub25lOyIgaHJlZj0iL1VTQS9OQy9DaGFybG90dGUvIj48c3BhbiBjbGFzcz0iY2l0aWVzIj5DaGFybG90dGU8L3NwYW4+PC9hPjwvdGQ+PHRkIHdpZHRoPSIyNSUiPjxhIGNsYXNzPSJjaXRpZXMiIHN0eWxlPSJmb250LWZhbWlseTogQXJpYWw7dGV4dC1kZWNvcmF0aW9uOm5vbmU7IiBocmVmPSIvVVNBL0lML0NoaWNhZ28vIj48c3BhbiBjbGFzcz0iY2l0aWVzIj5DaGljYWdvPC9zcGFuPjwvYT48L3RkPjx0ZCB3aWR0aD0iMjUlIj48YSBjbGFzcz0iY2l0aWVzIiBzdHlsZT0iZm9udC1mYW1pbHk6IEFyaWFsO3RleHQtZGVjb3JhdGlvbjpub25lOyIgaHJlZj0iL1VTQS9PSC9DaW5jaW5uYXRpLyI+PHNwYW4gY2xhc3M9ImNpdGllcyI+Q2luY2lubmF0aTwvc3Bhbj48L2E+PC90ZD48L3RyPjx0cj48dGQgd2lkdGg9IjI1JSI+PGEgY2xhc3M9ImNpdGllcyIgc3R5bGU9ImZvbnQtZmFtaWx5OiBBcmlhbDt0ZXh0LWRlY29yYXRpb246bm9uZTsiIGhyZWY9Ii9VU0EvT0gvQ2xldmVsYW5kLyI+PHNwYW4gY2xhc3M9ImNpdGllcyI+Q2xldmVsYW5kPC9zcGFuPjwvYT48L3RkPjx0ZCB3aWR0aD0iMjUlIj48YSBjbGFzcz0iY2l0aWVzIiBzdHlsZT0iZm9udC1mYW1pbHk6IEFyaWFsO3RleHQtZGVjb3JhdGlvbjpub25lOyIgaHJlZj0iL1VTQS9PSC9Db2x1bWJ1cy8iPjxzcGFuIGNsYXNzPSJjaXRpZXMiPkNvbHVtYnVzPC9zcGFuPjwvYT48L3RkPjx0ZCB3aWR0aD0iMjUlIj48YSBjbGFzcz0iY2l0aWVzIiBzdHlsZT0iZm9udC1mYW1pbHk6IEFyaWFsO3RleHQtZGVjb3JhdGlvbjpub25lOyIgaHJlZj0iL1VTQS9UWC9EYWxsYXMvIj48c3BhbiBjbGFzcz0iY2l0aWVzIj5EYWxsYXM8L3NwYW4+PC9hPjwvdGQ+PHRkIHdpZHRoPSIyNSUiPjxhIGNsYXNzPSJjaXRpZXMiIHN0eWxlPSJmb250LWZhbWlseTogQXJpYWw7dGV4dC1kZWNvcmF0aW9uOm5vbmU7IiBocmVmPSIvVVNBL0NPL0RlbnZlci8iPjxzcGFuIGNsYXNzPSJjaXRpZXMiPkRlbnZlcjwvc3Bhbj48L2E+PC90ZD48L3RyPjx0cj48dGQgd2lkdGg9IjI1JSI+PGEgY2xhc3M9ImNpdGllcyIgc3R5bGU9ImZvbnQtZmFtaWx5OiBBcmlhbDt0ZXh0LWRlY29yYXRpb246bm9uZTsiIGhyZWY9Ii9VU0EvTUkvRGV0cm9pdC8iPjxzcGFuIGNsYXNzPSJjaXRpZXMiPkRldHJvaXQ8L3NwYW4+PC9hPjwvdGQ+PHRkIHdpZHRoPSIyNSUiPjxhIGNsYXNzPSJjaXRpZXMiIHN0eWxlPSJmb250LWZhbWlseTogQXJpYWw7dGV4dC1kZWNvcmF0aW9uOm5vbmU7IiBocmVmPSIvVVNBL0ZML0ZvcnRfTGF1ZGVyZGFsZS8iPjxzcGFuIGNsYXNzPSJjaXRpZXMiPkZvcnQgTGF1ZGVyZGFsZTwvc3Bhbj48L2E+PC90ZD48dGQgd2lkdGg9IjI1JSI+PGEgY2xhc3M9ImNpdGllcyIgc3R5bGU9ImZvbnQtZmFtaWx5OiBBcmlhbDt0ZXh0LWRlY29yYXRpb246bm9uZTsiIGhyZWY9Ii9VU0EvVFgvSG91c3Rvbi8iPjxzcGFuIGNsYXNzPSJjaXRpZXMiPkhvdXN0b248L3NwYW4+PC9hPjwvdGQ+PHRkIHdpZHRoPSIyNSUiPjxhIGNsYXNzPSJjaXRpZXMiIHN0eWxlPSJmb250LWZhbWlseTogQXJpYWw7dGV4dC1kZWNvcmF0aW9uOm5vbmU7IiBocmVmPSIvVVNBL0lOL0luZGlhbmFwb2xpcy8iPjxzcGFuIGNsYXNzPSJjaXRpZXMiPkluZGlhbmFwb2xpczwvc3Bhbj48L2E+PC90ZD48L3RyPjx0cj48dGQgd2lkdGg9IjI1JSI+PGEgY2xhc3M9ImNpdGllcyIgc3R5bGU9ImZvbnQtZmFtaWx5OiBBcmlhbDt0ZXh0LWRlY29yYXRpb246bm9uZTsiIGhyZWY9Ii9VU0EvRkwvSmFja3NvbnZpbGxlLyI+PHNwYW4gY2xhc3M9ImNpdGllcyI+SmFja3NvbnZpbGxlPC9zcGFuPjwvYT48L3RkPjx0ZCB3aWR0aD0iMjUlIj48YSBjbGFzcz0iY2l0aWVzIiBzdHlsZT0iZm9udC1mYW1pbHk6IEFyaWFsO3RleHQtZGVjb3JhdGlvbjpub25lOyIgaHJlZj0iL1VTQS9LUy9LYW5zYXMvIj48c3BhbiBjbGFzcz0iY2l0aWVzIj5LYW5zYXM8L3NwYW4+PC9hPjwvdGQ+PHRkIHdpZHRoPSIyNSUiPjxhIGNsYXNzPSJjaXRpZXMiIHN0eWxlPSJmb250LWZhbWlseTogQXJpYWw7dGV4dC1kZWNvcmF0aW9uOm5vbmU7IiBocmVmPSIvVVNBL05WL0xhc19WZWdhcy8iPjxzcGFuIGNsYXNzPSJjaXRpZXMiPkxhcyBWZWdhczwvc3Bhbj48L2E+PC90ZD48dGQgd2lkdGg9IjI1JSI+PGEgY2xhc3M9ImNpdGllcyIgc3R5bGU9ImZvbnQtZmFtaWx5OiBBcmlhbDt0ZXh0LWRlY29yYXRpb246bm9uZTsiIGhyZWY9Ii9VU0EvQ0EvTG9zX0FuZ2VsZXMvIj48c3BhbiBjbGFzcz0iY2l0aWVzIj5Mb3MgQW5nZWxlczwvc3Bhbj48L2E+PC90ZD48L3RyPjx0cj48dGQgd2lkdGg9IjI1JSI+PGEgY2xhc3M9ImNpdGllcyIgc3R5bGU9ImZvbnQtZmFtaWx5OiBBcmlhbDt0ZXh0LWRlY29yYXRpb246bm9uZTsiIGhyZWY9Ii9VU0EvRkwvTWlhbWkvIj48c3BhbiBjbGFzcz0iY2l0aWVzIj5NaWFtaTwvc3Bhbj48L2E+PC90ZD48dGQgd2lkdGg9IjI1JSI+PGEgY2xhc3M9ImNpdGllcyIgc3R5bGU9ImZvbnQtZmFtaWx5OiBBcmlhbDt0ZXh0LWRlY29yYXRpb246bm9uZTsiIGhyZWY9Ii9VU0EvTU4vTWlubmVhcG9saXNfLV9TdF9QYXVsLyI+PHNwYW4gY2xhc3M9ImNpdGllcyI+TWlubmVhcG9saXMgLSBTdCBQYXVsPC9zcGFuPjwvYT48L3RkPjx0ZCB3aWR0aD0iMjUlIj48YSBjbGFzcz0iY2l0aWVzIiBzdHlsZT0iZm9udC1mYW1pbHk6IEFyaWFsO3RleHQtZGVjb3JhdGlvbjpub25lOyIgaHJlZj0iL1VTQS9UTi9OYXNodmlsbGUvIj48c3BhbiBjbGFzcz0iY2l0aWVzIj5OYXNodmlsbGU8L3NwYW4+PC9hPjwvdGQ+PHRkIHdpZHRoPSIyNSUiPjxhIGNsYXNzPSJjaXRpZXMiIHN0eWxlPSJmb250LWZhbWlseTogQXJpYWw7dGV4dC1kZWNvcmF0aW9uOm5vbmU7IiBocmVmPSIvVVNBL05KL05ld19KZXJzZXkvIj48c3BhbiBjbGFzcz0iY2l0aWVzIj5OZXcgSmVyc2V5PC9zcGFuPjwvYT48L3RkPjwvdHI+PHRyPjx0ZCB3aWR0aD0iMjUlIj48YSBjbGFzcz0iY2l0aWVzIiBzdHlsZT0iZm9udC1mYW1pbHk6IEFyaWFsO3RleHQtZGVjb3JhdGlvbjpub25lOyIgaHJlZj0iL1VTQS9MQS9OZXdfT3JsZWFucy8iPjxzcGFuIGNsYXNzPSJjaXRpZXMiPk5ldyBPcmxlYW5zPC9zcGFuPjwvYT48L3RkPjx0ZCB3aWR0aD0iMjUlIj48YSBjbGFzcz0iY2l0aWVzIiBzdHlsZT0iZm9udC1mYW1pbHk6IEFyaWFsO3RleHQtZGVjb3JhdGlvbjpub25lOyIgaHJlZj0iL1VTQS9OWS9OZXdfWW9ya19DaXR5LyI+PHNwYW4gY2xhc3M9ImNpdGllcyI+TmV3IFlvcmsgQ2l0eTwvc3Bhbj48L2E+PC90ZD48dGQgd2lkdGg9IjI1JSI+PGEgY2xhc3M9ImNpdGllcyIgc3R5bGU9ImZvbnQtZmFtaWx5OiBBcmlhbDt0ZXh0LWRlY29yYXRpb246bm9uZTsiIGhyZWY9Ii9VU0EvRkwvT3JsYW5kby8iPjxzcGFuIGNsYXNzPSJjaXRpZXMiPk9ybGFuZG88L3NwYW4+PC9hPjwvdGQ+PHRkIHdpZHRoPSIyNSUiPjxhIGNsYXNzPSJjaXRpZXMiIHN0eWxlPSJmb250LWZhbWlseTogQXJpYWw7dGV4dC1kZWNvcmF0aW9uOm5vbmU7IiBocmVmPSIvVVNBL1BBL1BoaWxhZGVscGhpYS8iPjxzcGFuIGNsYXNzPSJjaXRpZXMiPlBoaWxhZGVscGhpYTwvc3Bhbj48L2E+PC90ZD48L3RyPjx0cj48dGQgd2lkdGg9IjI1JSI+PGEgY2xhc3M9ImNpdGllcyIgc3R5bGU9ImZvbnQtZmFtaWx5OiBBcmlhbDt0ZXh0LWRlY29yYXRpb246bm9uZTsiIGhyZWY9Ii9VU0EvQVovUGhvZW5peC8iPjxzcGFuIGNsYXNzPSJjaXRpZXMiPlBob2VuaXg8L3NwYW4+PC9hPjwvdGQ+PHRkIHdpZHRoPSIyNSUiPjxhIGNsYXNzPSJjaXRpZXMiIHN0eWxlPSJmb250LWZhbWlseTogQXJpYWw7dGV4dC1kZWNvcmF0aW9uOm5vbmU7IiBocmVmPSIvVVNBL1BBL1BpdHRzYnVyZ2gvIj48c3BhbiBjbGFzcz0iY2l0aWVzIj5QaXR0c2J1cmdoPC9zcGFuPjwvYT48L3RkPjx0ZCB3aWR0aD0iMjUlIj48YSBjbGFzcz0iY2l0aWVzIiBzdHlsZT0iZm9udC1mYW1pbHk6IEFyaWFsO3RleHQtZGVjb3JhdGlvbjpub25lOyIgaHJlZj0iL1VTQS9PUi9Qb3J0bGFuZC8iPjxzcGFuIGNsYXNzPSJjaXRpZXMiPlBvcnRsYW5kPC9zcGFuPjwvYT48L3RkPjx0ZCB3aWR0aD0iMjUlIj48YSBjbGFzcz0iY2l0aWVzIiBzdHlsZT0iZm9udC1mYW1pbHk6IEFyaWFsO3RleHQtZGVjb3JhdGlvbjpub25lOyIgaHJlZj0iL1VTQS9SSS9Qcm92aWRlbmNlLyI+PHNwYW4gY2xhc3M9ImNpdGllcyI+UHJvdmlkZW5jZTwvc3Bhbj48L2E+PC90ZD48L3RyPjx0cj48dGQgd2lkdGg9IjI1JSI+PGEgY2xhc3M9ImNpdGllcyIgc3R5bGU9ImZvbnQtZmFtaWx5OiBBcmlhbDt0ZXh0LWRlY29yYXRpb246bm9uZTsiIGhyZWY9Ii9VU0EvTkMvUmFsZWlnaC8iPjxzcGFuIGNsYXNzPSJjaXRpZXMiPlJhbGVpZ2g8L3NwYW4+PC9hPjwvdGQ+PHRkIHdpZHRoPSIyNSUiPjxhIGNsYXNzPSJjaXRpZXMiIHN0eWxlPSJmb250LWZhbWlseTogQXJpYWw7dGV4dC1kZWNvcmF0aW9uOm5vbmU7IiBocmVmPSIvVVNBL1ZBL1JpY2htb25kLyI+PHNwYW4gY2xhc3M9ImNpdGllcyI+UmljaG1vbmQ8L3NwYW4+PC9hPjwvdGQ+PHRkIHdpZHRoPSIyNSUiPjxhIGNsYXNzPSJjaXRpZXMiIHN0eWxlPSJmb250LWZhbWlseTogQXJpYWw7dGV4dC1kZWNvcmF0aW9uOm5vbmU7IiBocmVmPSIvVVNBL0NBL1NhY3JhbWVudG8vIj48c3BhbiBjbGFzcz0iY2l0aWVzIj5TYWNyYW1lbnRvPC9zcGFuPjwvYT48L3RkPjx0ZCB3aWR0aD0iMjUlIj48YSBjbGFzcz0iY2l0aWVzIiBzdHlsZT0iZm9udC1mYW1pbHk6IEFyaWFsO3RleHQtZGVjb3JhdGlvbjpub25lOyIgaHJlZj0iL1VTQS9VVC9TYWx0X0xha2VfQ2l0eS8iPjxzcGFuIGNsYXNzPSJjaXRpZXMiPlNhbHQgTGFrZSBDaXR5PC9zcGFuPjwvYT48L3RkPjwvdHI+PHRyPjx0ZCB3aWR0aD0iMjUlIj48YSBjbGFzcz0iY2l0aWVzIiBzdHlsZT0iZm9udC1mYW1pbHk6IEFyaWFsO3RleHQtZGVjb3JhdGlvbjpub25lOyIgaHJlZj0iL1VTQS9UWC9TYW5fQW50b25pby8iPjxzcGFuIGNsYXNzPSJjaXRpZXMiPlNhbiBBbnRvbmlvPC9zcGFuPjwvYT48L3RkPjx0ZCB3aWR0aD0iMjUlIj48YSBjbGFzcz0iY2l0aWVzIiBzdHlsZT0iZm9udC1mYW1pbHk6IEFyaWFsO3RleHQtZGVjb3JhdGlvbjpub25lOyIgaHJlZj0iL1VTQS9DQS9TYW5fRGllZ28vIj48c3BhbiBjbGFzcz0iY2l0aWVzIj5TYW4gRGllZ288L3NwYW4+PC9hPjwvdGQ+PHRkIHdpZHRoPSIyNSUiPjxhIGNsYXNzPSJjaXRpZXMiIHN0eWxlPSJmb250LWZhbWlseTogQXJpYWw7dGV4dC1kZWNvcmF0aW9uOm5vbmU7IiBocmVmPSIvVVNBL0NBL1Nhbl9GcmFuY2lzY28vIj48c3BhbiBjbGFzcz0iY2l0aWVzIj5TYW4gRnJhbmNpc2NvPC9zcGFuPjwvYT48L3RkPjx0ZCB3aWR0aD0iMjUlIj48YSBjbGFzcz0iY2l0aWVzIiBzdHlsZT0iZm9udC1mYW1pbHk6IEFyaWFsO3RleHQtZGVjb3JhdGlvbjpub25lOyIgaHJlZj0iL1VTQS9XQS9TZWF0dGxlLyI+PHNwYW4gY2xhc3M9ImNpdGllcyI+U2VhdHRsZTwvc3Bhbj48L2E+PC90ZD48L3RyPjx0cj48dGQgd2lkdGg9IjI1JSI+PGEgY2xhc3M9ImNpdGllcyIgc3R5bGU9ImZvbnQtZmFtaWx5OiBBcmlhbDt0ZXh0LWRlY29yYXRpb246bm9uZTsiIGhyZWY9Ii9VU0EvTU8vU3RfTG91aXMvIj48c3BhbiBjbGFzcz0iY2l0aWVzIj5TdCBMb3Vpczwvc3Bhbj48L2E+PC90ZD48dGQgd2lkdGg9IjI1JSI+PGEgY2xhc3M9ImNpdGllcyIgc3R5bGU9ImZvbnQtZmFtaWx5OiBBcmlhbDt0ZXh0LWRlY29yYXRpb246bm9uZTsiIGhyZWY9Ii9VU0EvRkwvVGFtcGEvIj48c3BhbiBjbGFzcz0iY2l0aWVzIj5UYW1wYTwvc3Bhbj48L2E+PC90ZD48dGQgd2lkdGg9IjI1JSI+PGEgY2xhc3M9ImNpdGllcyIgc3R5bGU9ImZvbnQtZmFtaWx5OiBBcmlhbDt0ZXh0LWRlY29yYXRpb246bm9uZTsiIGhyZWY9Ii9VU0EvREMvV2FzaGluZ3Rvbi8iPjxzcGFuIGNsYXNzPSJjaXRpZXMiPldhc2hpbmd0b248L3NwYW4+PC9hPjwvdGQ+PC90cj48dHIgaGVpZ2h0PSIyMCI+PHRkIGNvbHNwYW49IjQiIGFsaWduPSJsZWZ0IiB2YWxpZ249Im1pZGRsZSI+PGltZyBzcmM9Ii9pbWFnZXMvZnJvbnRfbmV3L2NpdHlydWxlLmpwZyIgd2lkdGg9IjU5NSIgaGVpZ2h0PSIxIiAvPjwvdGQ+PC90cj48dHIgaGVpZ2h0PSIyMCI+PHRkIGNvbHNwYW49IjQiIGFsaWduPSJsZWZ0IiB2YWxpZ249InRvcCI+PHNwYW4gY2xhc3M9IkNpdHlIZWFkZXJzIj5Db3N0YSBSaWNhPC9zcGFuPjwvdGQ+PC90cj48dHI+PHRkIHdpZHRoPSIyNSUiPjxhIGNsYXNzPSJjaXRpZXMiIHN0eWxlPSJmb250LWZhbWlseTogQXJpYWw7dGV4dC1kZWNvcmF0aW9uOm5vbmU7IiBocmVmPSIvQ29zdGFfUmljYS9BbGFqdWVsYS8iPjxzcGFuIGNsYXNzPSJjaXRpZXMiPkFsYWp1ZWxhPC9zcGFuPjwvYT48L3RkPjx0ZCB3aWR0aD0iMjUlIj48YSBjbGFzcz0iY2l0aWVzIiBzdHlsZT0iZm9udC1mYW1pbHk6IEFyaWFsO3RleHQtZGVjb3JhdGlvbjpub25lOyIgaHJlZj0iL0Nvc3RhX1JpY2EvQ2FydGFnby8iPjxzcGFuIGNsYXNzPSJjaXRpZXMiPkNhcnRhZ288L3NwYW4+PC9hPjwvdGQ+PHRkIHdpZHRoPSIyNSUiPjxhIGNsYXNzPSJjaXRpZXMiIHN0eWxlPSJmb250LWZhbWlseTogQXJpYWw7dGV4dC1kZWNvcmF0aW9uOm5vbmU7IiBocmVmPSIvQ29zdGFfUmljYS9HdWFuYWNhc3RlLyI+PHNwYW4gY2xhc3M9ImNpdGllcyI+R3VhbmFjYXN0ZTwvc3Bhbj48L2E+PC90ZD48dGQgd2lkdGg9IjI1JSI+PGEgY2xhc3M9ImNpdGllcyIgc3R5bGU9ImZvbnQtZmFtaWx5OiBBcmlhbDt0ZXh0LWRlY29yYXRpb246bm9uZTsiIGhyZWY9Ii9Db3N0YV9SaWNhL0hlcmVkaWEvIj48c3BhbiBjbGFzcz0iY2l0aWVzIj5IZXJlZGlhPC9zcGFuPjwvYT48L3RkPjwvdHI+PHRyPjx0ZCB3aWR0aD0iMjUlIj48YSBjbGFzcz0iY2l0aWVzIiBzdHlsZT0iZm9udC1mYW1pbHk6IEFyaWFsO3RleHQtZGVjb3JhdGlvbjpub25lOyIgaHJlZj0iL0Nvc3RhX1JpY2EvTGltb24vIj48c3BhbiBjbGFzcz0iY2l0aWVzIj5MaW1vbjwvc3Bhbj48L2E+PC90ZD48dGQgd2lkdGg9IjI1JSI+PGEgY2xhc3M9ImNpdGllcyIgc3R5bGU9ImZvbnQtZmFtaWx5OiBBcmlhbDt0ZXh0LWRlY29yYXRpb246bm9uZTsiIGhyZWY9Ii9Db3N0YV9SaWNhL1B1bnRhcmVuYXMvIj48c3BhbiBjbGFzcz0iY2l0aWVzIj5QdW50YXJlbmFzPC9zcGFuPjwvYT48L3RkPjx0ZCB3aWR0aD0iMjUlIj48YSBjbGFzcz0iY2l0aWVzIiBzdHlsZT0iZm9udC1mYW1pbHk6IEFyaWFsO3RleHQtZGVjb3JhdGlvbjpub25lOyIgaHJlZj0iL0Nvc3RhX1JpY2EvU2FuX0pvc2UvIj48c3BhbiBjbGFzcz0iY2l0aWVzIj5TYW4gSm9zZTwvc3Bhbj48L2E+PC90ZD48L3RyPjwvdGFibGU+ZAIdDxAPFgIeC18hRGF0YUJvdW5kZ2QQFRYGQmFycmllCEJyYW1wdG9uB0NhbGdhcnkNRHVyaGFtIFJlZ2lvbghFZG1vbnRvbgdIYWxpZmF4CEhhbWlsdG9uFEtpdGNoZW5lciAtIFdhdGVybG9vBkxvbmRvbgtNaXNzaXNzYXVnYQhNb250cmVhbA5OaWFnYXJhIFJlZ2lvbgZPdHRhd2EGUXVlYmVjBlJlZ2luYQlTYXNrYXRvb24HVG9yb250bwlWYW5jb3V2ZXIIVmljdG9yaWEHV2luZHNvcghXaW5uaXBlZwtZb3JrIFJlZ2lvbhUWATEBMgEzATQBNQE2ATcBOAE5AjEwAjExAjEyAjEzAjE0AjE1AjE2AjE3AjE4AjE5AjIxAjIwAjIyFCsDFmdnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dkZAIfDxAPFgIfBmdkEBUoCEFiZXJkZWVuBEJhdGgHQmVsZmFzdApCaXJtaW5naGFtC0JvdXJuZW1vdXRoCEJyYWRmb3JkCEJyaWdodG9uB0JyaXN0b2wJQ2FtYnJpZGdlB0NhcmRpZmYIQ292ZW50cnkFRGVyYnkJRWRpbmJ1cmdoBUVzc2V4BkV4ZXRlcgdHbGFzZ293BEh1bGwHSXBzd2ljaARLZW50BUxlZWRzCUxlaWNlc3RlcglMaXZlcnBvb2wGTG9uZG9uCk1hbmNoZXN0ZXINTWlsdG9uIEtleW5lcwlOZXdjYXN0bGUHTmV3cG9ydAdOb3J3aWNoCk5vdHRpbmdoYW0GT3hmb3JkCFBseW1vdXRoClBvcnRzbW91dGgHUmVhZGluZwlTaGVmZmllbGQLU291dGhhbXB0b24OU3Rva2Utb24tVHJlbnQGU3VycmV5B1N3YW5zZWECVUsEWW9yaxUoAjc2Ajc3Ajc4Ajc5AjgwAjgxAjgyAjgzAjg0Ajg1Ajg2Ajg3Ajg4Ajg5AjkwAjkxAjkyAjkzAzExNAI5NAI5NQI5NgI5NwI5OAI5OQMxMDADMTAxAzEwMgMxMDMDMTA0AzEwNQMxMDYDMTA3AzEwOAMxMDkDMTEwAzExMQMxMTICNzQDMTEzFCsDKGdnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dkZAIhDxAPFgIfBmdkEBUrB0F0bGFudGEGQXVzdGluCUJhbHRpbW9yZQZCb3N0b24HQnVmZmFsbwlDaGFybG90dGUHQ2hpY2FnbwpDaW5jaW5uYXRpCUNsZXZlbGFuZAhDb2x1bWJ1cwZEYWxsYXMGRGVudmVyB0RldHJvaXQPRm9ydCBMYXVkZXJkYWxlB0hvdXN0b24MSW5kaWFuYXBvbGlzDEphY2tzb252aWxsZQZLYW5zYXMJTGFzIFZlZ2FzC0xvcyBBbmdlbGVzBU1pYW1pFU1pbm5lYXBvbGlzIC0gU3QgUGF1bAlOYXNodmlsbGUKTmV3IEplcnNleQtOZXcgT3JsZWFucw1OZXcgWW9yayBDaXR5B09ybGFuZG8MUGhpbGFkZWxwaGlhB1Bob2VuaXgKUGl0dHNidXJnaAhQb3J0bGFuZApQcm92aWRlbmNlB1JhbGVpZ2gIUmljaG1vbmQKU2FjcmFtZW50bw5TYWx0IExha2UgQ2l0eQtTYW4gQW50b25pbwlTYW4gRGllZ28NU2FuIEZyYW5jaXNjbwdTZWF0dGxlCFN0IExvdWlzBVRhbXBhCldhc2hpbmd0b24VKwIyMwIyNAIyNQIyNgIyNwIyOAIyOQIzMAIzMQIzMgIzMwIzNAIzNQIzNgIzNwIzOAIzOQI0MAI0MQI0MgI0MwI0NAI0NQI0NwI0NgI0OAI0OQI1MAI1MQI1MgI1MwI1NAI1NQI1NgI1NwI1OQI2MAI2MQI2MgI2MwI1OAI2NAI2NRQrAytnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZGQCIw8QDxYCHwZnZBAVBwhBbGFqdWVsYQdDYXJ0YWdvCkd1YW5hY2FzdGUHSGVyZWRpYQVMaW1vbgpQdW50YXJlbmFzCFNhbiBKb3NlFQcCNjgCNzACNzMCNjkCNzICNzECNjcUKwMHZ2dnZ2dnZ2RkAisPZBYCAgEPZBYmAgEPFgIfBQV/JDQ1IGZvciAyIFdlZWtzIG9mIENoaWxkcmVucyBvciBBZHVsdCBDbGFzc2VzIGF0IEZyZWQgVmlsbGFyaSdzIFN0dWRpbyBPZiBTZWxmIERlZmVuc2UgLSBJbmNsdWRpbmcgVW5pZm9ybSAoUmVndWxhciBQcmljZSAkMTEwKWQCAw8WAh8FBQEkZAIEDxYCHwUFAjQ1ZAIFDxYCHwUFA0NBRGQCBw8WAh8DBRYvcHVyY2hhc2UuYXNweD9kaWQ9MjE2ZAILDxYEHgNzcmMFGX4vaW1hZ2VzL2J1c2luZXNzLzIxNi5qcGceA2FsdAU8R3JlYXQgRGVhbCBpbiBGcmVkIFZpbGxhcmkncyBTdHVkaW8gT2YgU2VsZiBEZWZlbnNlLCBUb3JvbnRvZAINDxYCHwUFBCQxMTBkAg8PFgIfBQUDNTklZAIRD2QWBAIBDw8WAh8CBQ1RVFkgUmVtYWluaW5nZGQCAw8WAh8FBQI0N2QCEw9kFgJmD2QWAgIBD2QWAgIBDxYCHwMFGi9wdXJjaGFzZS5hc3B4P2c9MSZkaWQ9MjE2ZAIVDxYCHwUFCDM3OjM4OjI1ZAIdDxYCHwUF0wE8dWw+DQoJPGxpPg0KCQlMZWFybiBzZWxmIGRlZmVuc2U8L2xpPg0KCTxsaT4NCgkJSW5jcmVhc2UgY29uZmlkZW5jZSBhbmQgc2VsZiBkaXNjaXBsaW5lPC9saT4NCgk8bGk+DQoJCUZ1biB3YXkgdG8gZXhlcmNpc2U8L2xpPg0KCTxsaT4NCgkJQmxhY2sgYmVsdCBpbnN0cnVjdG9yczwvbGk+DQoJPGxpPg0KCQlVTklGT1JNIElOQ0xVREVEJm5ic3A7PC9saT4NCjwvdWw+ZAIfDxYCHwUFkgI8dWw+DQoJPGxpPg0KCQkxIHZvdWNoZXIgcGVyIGN1c3RvbWVyLCAxIHZvdWNoZXIgYXMgZ2lmdDwvbGk+DQoJPGxpPg0KCQlUYXhlcyBpbmNsdWRlZDwvbGk+DQoJPGxpPg0KCQlObyBjYXNoIHZhdWUsIG5vIGNhc2ggYmFjazwvbGk+DQoJPGxpPg0KCQlOb3QgdmFsaWQgd2l0aCBhbnkgb3RoZXIgb2ZmZXJzIG9yIHByb21vdGlvbnM8L2xpPg0KCTxsaT4NCgkJVmFsaWQgYXQgMiBsb2NhdGlvbnM6IEJhdGh1cnN0L1NoZXBwYXJkICZhbXA7IEphbmUvV2lsc29uPC9saT4NCjwvdWw+ZAIjDxYCHwUFJUZyZWQgVmlsbGFyaSdzIFN0dWRpbyBPZiBTZWxmIERlZmVuc2VkAiUPFgIfBWVkAicPFgIfBQWaATxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246bm9uZTsiIGhyZWY9ImphdmFzY3JpcHQ6Y2hhbmdlTWFwKDQzLjc1NTMzNywtNzkuNDM5OTA5KSI+NjI2IFNoZXBwYXJkIEF2ZW51ZSBXZXN0PGJyIC8+VG9yb250bywgT04gTTNIIDJTMTxiciAvPjQxNiA2MzMgNDEzMTwvYT5kAikPFgQfAwU+aHR0cDovL21hcHMuZ29vZ2xlLmNvbS8/cT02MjYgU2hlcHBhcmQgQXZlbnVlIFdlc3QrVG9yb250bytPTiIfBGdkAi8PFgIfBGhkAjEPFgIfBQXQCjxwPg0KCVdoeSBraWNrIGEgaGVhdnkgYmFnIHdoZW4geW91IGNhbiBraWNrIGJ1dHQ/IFdoeSBsaWZ0IHdlaWdodHMgd2hlbiB5b3UgY2FuIGxpZnQgYW4gb3Bwb25lbnQ/IEFuZCB3aHkgc2V0dGxlIGZvciBhIGJvcmluZyB3b3Jrb3V0IHdoZW4geW91IGNhbiBkbyBLYXJhdGU/IElmIHlvdSZyc3F1bztyZSBib3JlZCB3aXRoIHRoZSBjb252ZW50aW9uYWwgd2F5cyBvZiBleGVyY2lzaW5nIHRoZW4gdGhpcyBkZWFsIGZvciBGcmVkIFZpbGxhcmkmIzM5O3MgU3R1ZGlvIE9mIFNlbGYgRGVmZW5zZSBpcyBmb3IgeW91LiBDaGVjayBpdCBvdXQgeW91bmcgZ3Jhc3Nob3BwZXIuPC9wPg0KPHA+DQoJUmlnaHQgbm93IHlvdSBjYW4gYmUgcGFydCBvZiAyIHdlZWtzIG9mIEthcmF0ZSBjbGFzc2VzJm5ic3A7YXQgNTklIG9mZiB0aGUgcmVndWxhciBwcmljZS4gRm9yIGFuIGF2ZXJhZ2Ugb2YgJDIyLjUwIGEgd2VlayB0aGlzIGRlYWwganVzdCBjYW4mcnNxdW87dCBiZSBiZWF0LiBOb3JtYWxseSB0aGVzZSBjbGFzc2VzIGZyb20gRnJlZCBWaWxsYXJpJiMzOTtzIFN0dWRpbyBPZiBTZWxmIERlZmVuc2Ugd291bGQgc2V0IHlvdSBiYWNrICQxMTAsIGJ1dCBub3Qgb24gTWFkRGVhbCwgeW91IHNpbXBseSB3b24mcnNxdW87dCBmaW5kIGEgYmV0dGVyIGRlYWwgYW55IHdoZXJlIGVsc2UuIEFzIHlvdSBjYW4gc2VlLCB0aGlzIGlzIGEgZGVhbCB0aGF0IHJlYWxseSBraWNrcyBidXR0ITwvcD4NCjxwPg0KCUxvb2tpbmcgZm9yIGEgZnVuIHdheSB0byBleGVyY2lzZT8gV2h5IG5vdCBnaXZlIEthcmF0ZSBhIGNoYW5jZT8gS2FyYXRlIGtlZXBzIHlvdXIgYm9keSBpbiBzaGFwZSBhbmQga2VlcHMgeW91ciBtaW5kIHNoYXJwLiBBZnRlciAyIHdlZWtzIGF0IEZyZWQgVmlsbGFyaSYjMzk7cyBTdHVkaW9zIE9mIFNlbGYgRGVmZW5zZSB5b3UmcnNxdW87bGwgYmUgZml0LCBmb2N1c2VkIGFuZCByZWFkeSBmb3IgYW55dGhpbmcgdGhhbmtzIHRvIHlvdXIgbmV3IHNlbGYgZGVmZW5zZSBza2lsbHMuIFRoZSBleHBlcmllbmNlZCBLYXJhdGUgaW5zdHJ1Y3RvcnMgYXJlIHByZXBhcmVkIGdldCB5b3Ugc3RhcnRlZCB3aXRoIHRoZSBiYXNpY3MgYnV0IGNhbiBhbHNvIHByb3ZpZGUgYSByb3V0aW5lIGZvciBtb3JlIHNlYXNvbmVkIEthcmF0ZSBzdHVkZW50cy4gSWYgWW9nYSBpcyB0b28gc2xvdyBhbmQgbWFjaGluZXMgaGF2ZSB5b3UgZmVlbGluZyBsaWtlIGEgaGFtc3RlciBvbiBhIHdoZWVsLCB0aGVuIGdpdmUgS2FyYXRlIGEgdHJ5LiBXaGVuIHlvdSBkbyB0aGVyZSZyc3F1bztzIG5vIGJldHRlciBwbGFjZSB0byBsZWFybiB0aGVuIEZyZWQgVmlsbGFyaSYjMzk7cyBTdHVkaW8gT2YgU2VsZiBEZWZlbnNlLjwvcD5kAi0PDxYCHwIFBDIwMTFkZAIvEBBkEBVwC1NlbGVjdCBDaXR5BkJhcnJpZQhCcmFtcHRvbgdDYWxnYXJ5DUR1cmhhbSBSZWdpb24IRWRtb250b24HSGFsaWZheAhIYW1pbHRvbhRLaXRjaGVuZXIgLSBXYXRlcmxvbwZMb25kb24LTWlzc2lzc2F1Z2EITW9udHJlYWwOTmlhZ2FyYSBSZWdpb24GT3R0YXdhBlF1ZWJlYwZSZWdpbmEJU2Fza2F0b29uB1Rvcm9udG8JVmFuY291dmVyCFZpY3RvcmlhB1dpbmRzb3IIV2lubmlwZWcLWW9yayBSZWdpb24IQWJlcmRlZW4EQmF0aAdCZWxmYXN0CkJpcm1pbmdoYW0LQm91cm5lbW91dGgIQnJhZGZvcmQIQnJpZ2h0b24HQnJpc3RvbAlDYW1icmlkZ2UHQ2FyZGlmZghDb3ZlbnRyeQVEZXJieQlFZGluYnVyZ2gFRXNzZXgGRXhldGVyB0dsYXNnb3cESHVsbAdJcHN3aWNoBEtlbnQFTGVlZHMJTGVpY2VzdGVyCUxpdmVycG9vbAZMb25kb24KTWFuY2hlc3Rlcg1NaWx0b24gS2V5bmVzCU5ld2Nhc3RsZQdOZXdwb3J0B05vcndpY2gKTm90dGluZ2hhbQZPeGZvcmQIUGx5bW91dGgKUG9ydHNtb3V0aAdSZWFkaW5nCVNoZWZmaWVsZAtTb3V0aGFtcHRvbg5TdG9rZS1vbi1UcmVudAZTdXJyZXkHU3dhbnNlYQRZb3JrB0F0bGFudGEGQXVzdGluCUJhbHRpbW9yZQZCb3N0b24HQnVmZmFsbwlDaGFybG90dGUHQ2hpY2FnbwpDaW5jaW5uYXRpCUNsZXZlbGFuZAhDb2x1bWJ1cwZEYWxsYXMGRGVudmVyB0RldHJvaXQPRm9ydCBMYXVkZXJkYWxlB0hvdXN0b24MSW5kaWFuYXBvbGlzDEphY2tzb252aWxsZQZLYW5zYXMJTGFzIFZlZ2FzC0xvcyBBbmdlbGVzBU1pYW1pFU1pbm5lYXBvbGlzIC0gU3QgUGF1bAlOYXNodmlsbGUKTmV3IEplcnNleQtOZXcgT3JsZWFucw1OZXcgWW9yayBDaXR5B09ybGFuZG8MUGhpbGFkZWxwaGlhB1Bob2VuaXgKUGl0dHNidXJnaAhQb3J0bGFuZApQcm92aWRlbmNlB1JhbGVpZ2gIUmljaG1vbmQKU2FjcmFtZW50bw5TYWx0IExha2UgQ2l0eQtTYW4gQW50b25pbwlTYW4gRGllZ28NU2FuIEZyYW5jaXNjbwdTZWF0dGxlCFN0IExvdWlzBVRhbXBhCldhc2hpbmd0b24IQWxhanVlbGEHQ2FydGFnbwpHdWFuYWNhc3RlB0hlcmVkaWEFTGltb24KUHVudGFyZW5hcwhTYW4gSm9zZRVwABEvQ2FuYWRhL09OL0JhcnJpZRMvQ2FuYWRhL09OL0JyYW1wdG9uEi9DYW5hZGEvQUIvQ2FsZ2FyeRgvQ2FuYWRhL09OL0R1cmhhbV9SZWdpb24TL0NhbmFkYS9BQi9FZG1vbnRvbhIvQ2FuYWRhL05TL0hhbGlmYXgTL0NhbmFkYS9PTi9IYW1pbHRvbh8vQ2FuYWRhL09OL0tpdGNoZW5lcl8tX1dhdGVybG9vES9DYW5hZGEvT04vTG9uZG9uFi9DYW5hZGEvT04vTWlzc2lzc2F1Z2ETL0NhbmFkYS9RQy9Nb250cmVhbBkvQ2FuYWRhL09OL05pYWdhcmFfUmVnaW9uES9DYW5hZGEvT04vT3R0YXdhES9DYW5hZGEvUUMvUXVlYmVjES9DYW5hZGEvU0svUmVnaW5hFC9DYW5hZGEvU0svU2Fza2F0b29uEi9DYW5hZGEvT04vVG9yb250bxQvQ2FuYWRhL0JDL1ZhbmNvdXZlchMvQ2FuYWRhL0JDL1ZpY3RvcmlhEi9DYW5hZGEvT04vV2luZHNvchMvQ2FuYWRhL01CL1dpbm5pcGVnFi9DYW5hZGEvT04vWW9ya19SZWdpb24ML1VLL0FiZXJkZWVuCC9VSy9CYXRoCy9VSy9CZWxmYXN0Di9VSy9CaXJtaW5naGFtDy9VSy9Cb3VybmVtb3V0aAwvVUsvQnJhZGZvcmQML1VLL0JyaWdodG9uCy9VSy9CcmlzdG9sDS9VSy9DYW1icmlkZ2ULL1VLL0NhcmRpZmYML1VLL0NvdmVudHJ5CS9VSy9EZXJieQ0vVUsvRWRpbmJ1cmdoCS9VSy9Fc3NleAovVUsvRXhldGVyCy9VSy9HbGFzZ293CC9VSy9IdWxsCy9VSy9JcHN3aWNoCC9VSy9LZW50CS9VSy9MZWVkcw0vVUsvTGVpY2VzdGVyDS9VSy9MaXZlcnBvb2wKL1VLL0xvbmRvbg4vVUsvTWFuY2hlc3RlchEvVUsvTWlsdG9uX0tleW5lcw0vVUsvTmV3Y2FzdGxlCy9VSy9OZXdwb3J0Cy9VSy9Ob3J3aWNoDi9VSy9Ob3R0aW5naGFtCi9VSy9PeGZvcmQML1VLL1BseW1vdXRoDi9VSy9Qb3J0c21vdXRoCy9VSy9SZWFkaW5nDS9VSy9TaGVmZmllbGQPL1VLL1NvdXRoYW1wdG9uEi9VSy9TdG9rZS1vbi1UcmVudAovVUsvU3VycmV5Cy9VSy9Td2Fuc2VhCC9VSy9Zb3JrDy9VU0EvR0EvQXRsYW50YQ4vVVNBL1RYL0F1c3RpbhEvVVNBL01EL0JhbHRpbW9yZQ4vVVNBL01BL0Jvc3Rvbg8vVVNBL05ZL0J1ZmZhbG8RL1VTQS9OQy9DaGFybG90dGUPL1VTQS9JTC9DaGljYWdvEi9VU0EvT0gvQ2luY2lubmF0aREvVVNBL09IL0NsZXZlbGFuZBAvVVNBL09IL0NvbHVtYnVzDi9VU0EvVFgvRGFsbGFzDi9VU0EvQ08vRGVudmVyDy9VU0EvTUkvRGV0cm9pdBcvVVNBL0ZML0ZvcnRfTGF1ZGVyZGFsZQ8vVVNBL1RYL0hvdXN0b24UL1VTQS9JTi9JbmRpYW5hcG9saXMUL1VTQS9GTC9KYWNrc29udmlsbGUOL1VTQS9LUy9LYW5zYXMRL1VTQS9OVi9MYXNfVmVnYXMTL1VTQS9DQS9Mb3NfQW5nZWxlcw0vVVNBL0ZML01pYW1pHS9VU0EvTU4vTWlubmVhcG9saXNfLV9TdF9QYXVsES9VU0EvVE4vTmFzaHZpbGxlEi9VU0EvTkovTmV3X0plcnNleRMvVVNBL0xBL05ld19PcmxlYW5zFS9VU0EvTlkvTmV3X1lvcmtfQ2l0eQ8vVVNBL0ZML09ybGFuZG8UL1VTQS9QQS9QaGlsYWRlbHBoaWEPL1VTQS9BWi9QaG9lbml4Ei9VU0EvUEEvUGl0dHNidXJnaBAvVVNBL09SL1BvcnRsYW5kEi9VU0EvUkkvUHJvdmlkZW5jZQ8vVVNBL05DL1JhbGVpZ2gQL1VTQS9WQS9SaWNobW9uZBIvVVNBL0NBL1NhY3JhbWVudG8WL1VTQS9VVC9TYWx0X0xha2VfQ2l0eRMvVVNBL1RYL1Nhbl9BbnRvbmlvES9VU0EvQ0EvU2FuX0RpZWdvFS9VU0EvQ0EvU2FuX0ZyYW5jaXNjbw8vVVNBL1dBL1NlYXR0bGUQL1VTQS9NTy9TdF9Mb3Vpcw0vVVNBL0ZML1RhbXBhEi9VU0EvREMvV2FzaGluZ3RvbhQvQ29zdGFfUmljYS9BbGFqdWVsYRMvQ29zdGFfUmljYS9DYXJ0YWdvFi9Db3N0YV9SaWNhL0d1YW5hY2FzdGUTL0Nvc3RhX1JpY2EvSGVyZWRpYREvQ29zdGFfUmljYS9MaW1vbhYvQ29zdGFfUmljYS9QdW50YXJlbmFzFC9Db3N0YV9SaWNhL1Nhbl9Kb3NlFCsDcGdnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dkZGQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFnYFIGN0bDAwJGNibENpdGllc0NhbmFkYVN1YnNjcmliZSQwBSBjdGwwMCRjYmxDaXRpZXNDYW5hZGFTdWJzY3JpYmUkMQUgY3RsMDAkY2JsQ2l0aWVzQ2FuYWRhU3Vic2NyaWJlJDIFIGN0bDAwJGNibENpdGllc0NhbmFkYVN1YnNjcmliZSQzBSBjdGwwMCRjYmxDaXRpZXNDYW5hZGFTdWJzY3JpYmUkNAUgY3RsMDAkY2JsQ2l0aWVzQ2FuYWRhU3Vic2NyaWJlJDUFIGN0bDAwJGNibENpdGllc0NhbmFkYVN1YnNjcmliZSQ2BSBjdGwwMCRjYmxDaXRpZXNDYW5hZGFTdWJzY3JpYmUkNwUgY3RsMDAkY2JsQ2l0aWVzQ2FuYWRhU3Vic2NyaWJlJDgFIGN0bDAwJGNibENpdGllc0NhbmFkYVN1YnNjcmliZSQ5BSFjdGwwMCRjYmxDaXRpZXNDYW5hZGFTdWJzY3JpYmUkMTAFIWN0bDAwJGNibENpdGllc0NhbmFkYVN1YnNjcmliZSQxMQUhY3RsMDAkY2JsQ2l0aWVzQ2FuYWRhU3Vic2NyaWJlJDEyBSFjdGwwMCRjYmxDaXRpZXNDYW5hZGFTdWJzY3JpYmUkMTMFIWN0bDAwJGNibENpdGllc0NhbmFkYVN1YnNjcmliZSQxNAUhY3RsMDAkY2JsQ2l0aWVzQ2FuYWRhU3Vic2NyaWJlJDE1BSFjdGwwMCRjYmxDaXRpZXNDYW5hZGFTdWJzY3JpYmUkMTYFIWN0bDAwJGNibENpdGllc0NhbmFkYVN1YnNjcmliZSQxNwUhY3RsMDAkY2JsQ2l0aWVzQ2FuYWRhU3Vic2NyaWJlJDE4BSFjdGwwMCRjYmxDaXRpZXNDYW5hZGFTdWJzY3JpYmUkMTkFIWN0bDAwJGNibENpdGllc0NhbmFkYVN1YnNjcmliZSQyMAUhY3RsMDAkY2JsQ2l0aWVzQ2FuYWRhU3Vic2NyaWJlJDIxBSFjdGwwMCRjYmxDaXRpZXNDYW5hZGFTdWJzY3JpYmUkMjEFHGN0bDAwJGNibENpdGllc1VLU3Vic2NyaWJlJDAFHGN0bDAwJGNibENpdGllc1VLU3Vic2NyaWJlJDEFHGN0bDAwJGNibENpdGllc1VLU3Vic2NyaWJlJDIFHGN0bDAwJGNibENpdGllc1VLU3Vic2NyaWJlJDMFHGN0bDAwJGNibENpdGllc1VLU3Vic2NyaWJlJDQFHGN0bDAwJGNibENpdGllc1VLU3Vic2NyaWJlJDUFHGN0bDAwJGNibENpdGllc1VLU3Vic2NyaWJlJDYFHGN0bDAwJGNibENpdGllc1VLU3Vic2NyaWJlJDcFHGN0bDAwJGNibENpdGllc1VLU3Vic2NyaWJlJDgFHGN0bDAwJGNibENpdGllc1VLU3Vic2NyaWJlJDkFHWN0bDAwJGNibENpdGllc1VLU3Vic2NyaWJlJDEwBR1jdGwwMCRjYmxDaXRpZXNVS1N1YnNjcmliZSQxMQUdY3RsMDAkY2JsQ2l0aWVzVUtTdWJzY3JpYmUkMTIFHWN0bDAwJGNibENpdGllc1VLU3Vic2NyaWJlJDEzBR1jdGwwMCRjYmxDaXRpZXNVS1N1YnNjcmliZSQxNAUdY3RsMDAkY2JsQ2l0aWVzVUtTdWJzY3JpYmUkMTUFHWN0bDAwJGNibENpdGllc1VLU3Vic2NyaWJlJDE2BR1jdGwwMCRjYmxDaXRpZXNVS1N1YnNjcmliZSQxNwUdY3RsMDAkY2JsQ2l0aWVzVUtTdWJzY3JpYmUkMTgFHWN0bDAwJGNibENpdGllc1VLU3Vic2NyaWJlJDE5BR1jdGwwMCRjYmxDaXRpZXNVS1N1YnNjcmliZSQyMAUdY3RsMDAkY2JsQ2l0aWVzVUtTdWJzY3JpYmUkMjEFHWN0bDAwJGNibENpdGllc1VLU3Vic2NyaWJlJDIyBR1jdGwwMCRjYmxDaXRpZXNVS1N1YnNjcmliZSQyMwUdY3RsMDAkY2JsQ2l0aWVzVUtTdWJzY3JpYmUkMjQFHWN0bDAwJGNibENpdGllc1VLU3Vic2NyaWJlJDI1BR1jdGwwMCRjYmxDaXRpZXNVS1N1YnNjcmliZSQyNgUdY3RsMDAkY2JsQ2l0aWVzVUtTdWJzY3JpYmUkMjcFHWN0bDAwJGNibENpdGllc1VLU3Vic2NyaWJlJDI4BR1jdGwwMCRjYmxDaXRpZXNVS1N1YnNjcmliZSQyOQUdY3RsMDAkY2JsQ2l0aWVzVUtTdWJzY3JpYmUkMzAFHWN0bDAwJGNibENpdGllc1VLU3Vic2NyaWJlJDMxBR1jdGwwMCRjYmxDaXRpZXNVS1N1YnNjcmliZSQzMgUdY3RsMDAkY2JsQ2l0aWVzVUtTdWJzY3JpYmUkMzMFHWN0bDAwJGNibENpdGllc1VLU3Vic2NyaWJlJDM0BR1jdGwwMCRjYmxDaXRpZXNVS1N1YnNjcmliZSQzNQUdY3RsMDAkY2JsQ2l0aWVzVUtTdWJzY3JpYmUkMzYFHWN0bDAwJGNibENpdGllc1VLU3Vic2NyaWJlJDM3BR1jdGwwMCRjYmxDaXRpZXNVS1N1YnNjcmliZSQzOAUdY3RsMDAkY2JsQ2l0aWVzVUtTdWJzY3JpYmUkMzkFHWN0bDAwJGNibENpdGllc1VLU3Vic2NyaWJlJDM5BR1jdGwwMCRjYmxDaXRpZXNVU0FTdWJzY3JpYmUkMAUdY3RsMDAkY2JsQ2l0aWVzVVNBU3Vic2NyaWJlJDEFHWN0bDAwJGNibENpdGllc1VTQVN1YnNjcmliZSQyBR1jdGwwMCRjYmxDaXRpZXNVU0FTdWJzY3JpYmUkMwUdY3RsMDAkY2JsQ2l0aWVzVVNBU3Vic2NyaWJlJDQFHWN0bDAwJGNibENpdGllc1VTQVN1YnNjcmliZSQ1BR1jdGwwMCRjYmxDaXRpZXNVU0FTdWJzY3JpYmUkNgUdY3RsMDAkY2JsQ2l0aWVzVVNBU3Vic2NyaWJlJDcFHWN0bDAwJGNibENpdGllc1VTQVN1YnNjcmliZSQ4BR1jdGwwMCRjYmxDaXRpZXNVU0FTdWJzY3JpYmUkOQUeY3RsMDAkY2JsQ2l0aWVzVVNBU3Vic2NyaWJlJDEwBR5jdGwwMCRjYmxDaXRpZXNVU0FTdWJzY3JpYmUkMTEFHmN0bDAwJGNibENpdGllc1VTQVN1YnNjcmliZSQxMgUeY3RsMDAkY2JsQ2l0aWVzVVNBU3Vic2NyaWJlJDEzBR5jdGwwMCRjYmxDaXRpZXNVU0FTdWJzY3JpYmUkMTQFHmN0bDAwJGNibENpdGllc1VTQVN1YnNjcmliZSQxNQUeY3RsMDAkY2JsQ2l0aWVzVVNBU3Vic2NyaWJlJDE2BR5jdGwwMCRjYmxDaXRpZXNVU0FTdWJzY3JpYmUkMTcFHmN0bDAwJGNibENpdGllc1VTQVN1YnNjcmliZSQxOAUeY3RsMDAkY2JsQ2l0aWVzVVNBU3Vic2NyaWJlJDE5BR5jdGwwMCRjYmxDaXRpZXNVU0FTdWJzY3JpYmUkMjAFHmN0bDAwJGNibENpdGllc1VTQVN1YnNjcmliZSQyMQUeY3RsMDAkY2JsQ2l0aWVzVVNBU3Vic2NyaWJlJDIyBR5jdGwwMCRjYmxDaXRpZXNVU0FTdWJzY3JpYmUkMjMFHmN0bDAwJGNibENpdGllc1VTQVN1YnNjcmliZSQyNAUeY3RsMDAkY2JsQ2l0aWVzVVNBU3Vic2NyaWJlJDI1BR5jdGwwMCRjYmxDaXRpZXNVU0FTdWJzY3JpYmUkMjYFHmN0bDAwJGNibENpdGllc1VTQVN1YnNjcmliZSQyNwUeY3RsMDAkY2JsQ2l0aWVzVVNBU3Vic2NyaWJlJDI4BR5jdGwwMCRjYmxDaXRpZXNVU0FTdWJzY3JpYmUkMjkFHmN0bDAwJGNibENpdGllc1VTQVN1YnNjcmliZSQzMAUeY3RsMDAkY2JsQ2l0aWVzVVNBU3Vic2NyaWJlJDMxBR5jdGwwMCRjYmxDaXRpZXNVU0FTdWJzY3JpYmUkMzIFHmN0bDAwJGNibENpdGllc1VTQVN1YnNjcmliZSQzMwUeY3RsMDAkY2JsQ2l0aWVzVVNBU3Vic2NyaWJlJDM0BR5jdGwwMCRjYmxDaXRpZXNVU0FTdWJzY3JpYmUkMzUFHmN0bDAwJGNibENpdGllc1VTQVN1YnNjcmliZSQzNgUeY3RsMDAkY2JsQ2l0aWVzVVNBU3Vic2NyaWJlJDM3BR5jdGwwMCRjYmxDaXRpZXNVU0FTdWJzY3JpYmUkMzgFHmN0bDAwJGNibENpdGllc1VTQVN1YnNjcmliZSQzOQUeY3RsMDAkY2JsQ2l0aWVzVVNBU3Vic2NyaWJlJDQwBR5jdGwwMCRjYmxDaXRpZXNVU0FTdWJzY3JpYmUkNDEFHmN0bDAwJGNibENpdGllc1VTQVN1YnNjcmliZSQ0MgUeY3RsMDAkY2JsQ2l0aWVzVVNBU3Vic2NyaWJlJDQyBSNjdGwwMCRjYmxDaXRpZXNDb3N0YVJpY2FTdWJzY3JpYmUkMAUjY3RsMDAkY2JsQ2l0aWVzQ29zdGFSaWNhU3Vic2NyaWJlJDEFI2N0bDAwJGNibENpdGllc0Nvc3RhUmljYVN1YnNjcmliZSQyBSNjdGwwMCRjYmxDaXRpZXNDb3N0YVJpY2FTdWJzY3JpYmUkMwUjY3RsMDAkY2JsQ2l0aWVzQ29zdGFSaWNhU3Vic2NyaWJlJDQFI2N0bDAwJGNibENpdGllc0Nvc3RhUmljYVN1YnNjcmliZSQ1BSNjdGwwMCRjYmxDaXRpZXNDb3N0YVJpY2FTdWJzY3JpYmUkNgUjY3RsMDAkY2JsQ2l0aWVzQ29zdGFSaWNhU3Vic2NyaWJlJDYFEmN0bDAwJGJ0blN1YnNjcmliZQUPY3RsMDAkYnRuU3VibWl00RZd9WwhDgdp8PyjlHQYTxEf7DM=" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=Jq-DlceTOxm79z2UBjQtmawUNUJBw5wIBVmVm8Hll8H9K96o8adrUPF6WStEG_3qLdXts5etEx0cPBm0mPoOlOS0dqU1&amp;t=634208633469717278" type="text/javascript"></script>
+
+
+<script src="/WebResource.axd?d=YXM0IxLKlX2a-kP0Xnrv1S4RbyrOYWIf8HDhlNuyrT2I77oS96HBZY4oFggnRRKgnLPuIFpPVnwVVEkxoxjsfhMHRn41&amp;t=634208633469717278" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+function WebForm_OnSubmit() {
+if (typeof(ValidatorOnSubmit) == "function" && ValidatorOnSubmit() == false) return false;
+return true;
+}
+//]]>
+</script>
+
+    <div class="overlay" id="overlay">
+    </div>
+    <table width="950" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tr>
+            <td align="left" valign="top">
+                <table width="950" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                        <td colspan="2" align="left" valign="top">
+                            <table width="950" border="0" cellspacing="0" cellpadding="0">
+                                <tr>
+                                    <td width="652" height="129" align="left" valign="top" background="/images/front_new/newheader_02.jpg">
+                                        <div class="menuPoslogo" id="maddeallogo">
+                                            <a href="/">
+                                                <img src="/images/front_new/newmaddeallogo.png" alt="MadDeal.com - Live MORE, Spend LESS"
+                                                    width="213" height="131" border="0" /></a><br />
+                                        </div>
+                                        <div class="menuPosCity" id="City">
+                                            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                <tr>
+                                                    <td valign="middle">
+                                                        <strong><span class="largegreyarial" onmousedown="openCities();">
+                                                            <span id="ctl00_lblCity" class="largearial">Toronto</span></span></strong><br />
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                            <a href="javascript:arrowClick();" style="text-decoration: none;"><span class="arialboldgrey">
+                                                more cities</span> <span class="largegreyarial">
+                                                    <img src="/images/front_new/arrowdown.png" width="16" height="8" border="0" /></span></a><br />
+                                        </div>
+                                        <div class="menuPosSubscribe" id="Follow">
+                                            <table width="100%" border="0" cellspacing="0" cellpadding="5">
+                                                <tr>
+                                                    <td width="152" align="left" valign="middle">
+                                                        <span class="futuragreysmall">Get Deals Sent by Email:</span> <span style="display: none;">
+                                                            <span id="ctl00_lblCitySubscribe">Toronto</span></span>
+                                                    </td>
+                                                    <td width="107" align="left" valign="middle">
+                                                        <a href="javascript:openSubscribe();">
+                                                            <img src="/images/front_new/subscribe.png" border="0" /></a>
+                                                    </td>
+                                                    <td width="84" align="left" valign="middle">
+                                                        <span class="futuragreysmall">or Follow Us:</span>
+                                                    </td>
+                                                    <td width="97" align="left" valign="middle">
+                                                        <span class="futuragreysmall"><a href="http://www.facebook.com/pages/MadDeal-Toronto/108840769192952" id="ctl00_aFollowFB" target="_blank">
+                                                            <img src="/images/front_new/facebooksmall.png" border="0" /></a> <a href="http://twitter.com/maddealtoronto" id="ctl00_aFollowTW" target="_blank">
+                                                                <img src="/images/front_new/twittersmall.png" border="0" /></a> <a href="/rss/Toronto.xml" id="ctl00_aRSS" target="_blank">
+                                                                    <img src="/images/front_new/rsssmall.png" alt="Subscribe to RSS Feed" border="0"
+                                                                        title="Subscribe to RSS Feed"></a> </span>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                            <br />
+                                        </div>
+                                        <div class="menuPosDT"><img src="/images/front_new/DT_logo.png" width="170" /></div>
+                                    </td>
+                                    <td width="298" height="129" align="right" valign="top" background="/images/front_new/newheader_03.jpg">
+                                        <div id="ctl00_divLoginReg" class="bluearialblue" style="margin-right: 10px;
+                                            margin-top: 30px;">
+                                            <font color="#FFFFFF">
+                                                <span id="ctl00_lblLogin"><a href='/login.aspx' style="color: #ffffff;">Sign In</a></span>
+                                                |
+                                                <span id="ctl00_lblRegister"><a href='/register.aspx' style="color: #ffffff;">Register</a></span>
+                                            </font>
+                                        </div>
+                                        
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td height="37" colspan="2" align="left" valign="top" background="/images/front_new/newheader_05.jpg">
+                                        <table width="950" height="37" border="0" cellspacing="0" cellpadding="0">
+                                            <tr>
+                                                <td width="135" align="left" valign="middle">
+                                                    <table id="ctl00_tblShareLinks" width="121" height="31" border="0" cellpadding="3" cellspacing="0">
+	<tr>
+		<td width="60" align="left" valign="middle">
+                                                                &nbsp;
+                                                            </td>
+		<td align="left" valign="middle">
+                                                                <div id="ctl00_divLnkShareFacebook">
+                                                                    <a href="javascript:showLogin('hfacebook');">
+                                                                        <img src="/images/front/facebook-24x24.png" border="0" width="24" height="24" /></a>
+                                                                </div>
+                                                            </td>
+		<td align="left" valign="middle">
+                                                                <div id="ctl00_divLnkShareTwitter">
+                                                                    <a href="javascript:showLogin('htwitter');">
+                                                                        <img src="/images/front/twitter-24x24.png" border="0" width="24" height="24" /></a>
+                                                                </div>
+                                                            </td>
+		<td align="left" valign="middle">
+                                                                <div id="ctl00_divLnkShareEmail">
+                                                                    <a href="javascript:showLogin('hemail');">
+                                                                        <img src="/images/front/email-24x24.png" border="0" width="24" height="24" /></a>
+                                                                </div>
+                                                            </td>
+	</tr>
+</table>
+
+                                                </td>
+                                                <td width="795" align="left" valign="top">
+                                                    <table id="ctl00_tblReferFriend" width="100%" height="37px" border="0" cellspacing="0" cellpadding="5">
+	<tr>
+		<td width="8" align="left" valign="middle">
+                                                                <img src="/images/front_new/arrowleft.png" width="8" height="16" />
+                                                            </td>
+		<td width="650" align="left" valign="middle">
+                                                                <span class="arialboldgrey">Share today's deal and get paid
+                                                                    <span id="ctl00_lblReferFee">$6</span>
+                                                                    when your friends buy (example: 20 friends x
+                                                                    <span id="ctl00_lblReferFee1">$6</span>
+                                                                    =
+                                                                    <span id="ctl00_lblReferTotal">$120</span>)</span>
+                                                            </td>
+		<td width="107" align="left" valign="middle">
+                                                                <span class="WhiteArialBold14"><a href="/make_money.aspx" style="color: #ffffff;">Learn
+                                                                    More</a></span>
+                                                            </td>
+	</tr>
+</table>
+
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="652" align="left" valign="top" style="height: 100%">
+                            <table width="652" border="0" cellspacing="0" cellpadding="0" style="height: 39px;">
+                                <tr style="height: 39px;">
+                                    <td align="left" valign="top">
+                                        <a href="/index.aspx" id="ctl00_aCurrentMaster" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image1','','/images/front_new/nav-on_07.png',1)">
+                                            <img src="/images/front_new/nav-on_07.png" alt="Today's Deal" name="Image1" width="160"
+                                                height="39" border="0" id="Image1" /></a>
+                                    </td>
+                                    <td align="left" valign="top">
+                                        <a href="/dealQandA.aspx?did=216" id="ctl00_aQAMaster" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image2','','/images/front_new/nav-on_08.png',1)">
+                                            <img src="/images/front_new/nav-off_08.png" alt="Deal Q&amp;A" name="Image2" width="161"
+                                                height="39" border="0" id="Image2" /></a>
+                                    </td>
+                                    <td align="left" valign="top">
+                                        <a href="/how_it_works.aspx" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image3','','/images/front_new/nav-on_09.png',1)">
+                                            <img src="/images/front_new/nav-off_09.png" alt="How it Works" name="Image3" width="161"
+                                                height="39" border="0" id="Image3" /></a>
+                                    </td>
+                                    <td align="left" valign="top">
+                                        <a href="/pastdeals.aspx" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image4','','/images/front_new/nav-on_10.png',1)">
+                                            <img src="/images/front_new/nav-off_10.png" alt="Past Deals" name="Image4" width="164"
+                                                height="39" border="0" id="Image4" /></a>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                        <td width="298" rowspan="2" align="left" valign="top">
+                            
+
+    
+
+    
+    
+    <div id="ctl00_cphBodyLeft_divLeft"><table width="298" cellpadding="0" cellspacing="0"><tr><td background="/images/front_new/bluesideback.png"><table width="100%" height="29px" border="0" cellspacing="0" cellpadding="0"><tr><td align="center" valign="middle"><span class="futuragreytext">Active Deals</span></td></tr></table></td></tr><tr><td background="/images/front_new/couponlines.png" bgcolor="#FFFFFF" onclick="document.location.href='/Canada/ON/Toronto/?did=218'" align="center"><a style="text-decoration:none;" href="/Canada/ON/Toronto/?did=218"><table width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="12"><tr><td align="left" valign="top">$59 for 1 Night Stay for 2 People in a Jacuzzi Suite (Regular Price $155)</td></tr></table></td></tr><tr><td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td width="116" align="left" valign="top"><table width="116" border="0" cellspacing="0" cellpadding="5"><tr height="45" width="106"><td align="center" valign="middle" class="smalltag">$59</td></tr><tr><td align="right" valign="top"><span class="arialbluebold">$155 Value<br />61% Savings</span></td></tr><tr><td align="right" valign="top"><span class="arialbluebold"><img border="0" src="/images/front_new/learnmore.png" width="80" height="25" /></span></td></tr></table></td><td width="171" align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="7"><tr><td width="170" align="left" valign="top"><img src="/images/business/218.jpg" width="161" height="120" /></td></tr></table></td></tr></table></td></tr></table></a><hr /></td></tr></table><br /></div>
+    
+    
+    <table width="298" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+            <td background="/images/front_new/bluesideback.png">
+                <table width="100%" height="29px" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                        <td align="center" valign="middle">
+                            <span class="futuragreytext">The MadDeal Promise</span>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td bgcolor="#FFFFFF">
+                <table width="100%" border="0" cellpadding="12" cellspacing="0" background="/images/front_new/couponline.png">
+                    <tr>
+                        <td width="100%" colspan="2" align="left" valign="top">
+                            <p>
+                                At MadDeal, we're passionate about what we do and truly care about your total satisfaction
+                                with our service. That's why we offer a 30 day money back guarantee. If you haven't
+                                redeemed your voucher within 30 days since the deal ran and you wish to return your
+                                purchase, simply email us the details and we'll fully refund your money. No questions,
+                                no hassle.
+                            </p>
+                            <p>
+                                If for any reason you are unsatisfied with your purchase after having redeemed the
+                                voucher, simply write to us and we will do our best to find an acceptable resolution.</p>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+    <br />
+    <table width="298" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+            <td background="/images/front_new/bluesideback.png">
+                <table width="100%" height="29px" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                        <td align="center" valign="middle">
+                            <span class="futuragreytext">Feature Your Business</span>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td bgcolor="#FFFFFF">
+                <table width="100%" border="0" cellpadding="12" cellspacing="0" background="/images/front_new/couponline.png">
+                    <tr>
+                        <td width="100%" colspan="2" align="left" valign="top">
+                            <p>
+                                Looking to grow your business? Find out how MadDeal can help.<br />
+                                <br />
+                                <a style="text-decoration: underline;" href="/feature_your_business.aspx">Click here
+                                    for Details</a></p>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+    <br />
+    <table width="298" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+            <td background="/images/front_new/bluesideback.png">
+                <table width="100%" height="29px" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                        <td align="center" valign="middle">
+                            <span class="futuragreytext">Join Our MadDeal Team</span>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td bgcolor="#FFFFFF">
+                <table width="100%" border="0" cellpadding="12" cellspacing="0" background="/images/front_new/couponline.png">
+                    <tr>
+                        <td width="100%" colspan="2" align="left" valign="top">
+                            <p>
+                                MadDeal is currently looking for outgoing, energetic and entrepreneurial people
+                                to become part of our ever-expanding team. If you feel you have what it takes to
+                                become a territory rep in your city for MadDeal, we want to speak to you.
+                                <br />
+                                <br />
+                                <a style="text-decoration: underline;" href="/join_maddeal.aspx">Click here for more
+                                    information</a></p>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td align="left" valign="top">
+                            <table border="0" cellpadding="0" cellspacing="0" style="z-index: 10000;">
+                            <tr id="trNoCookies" style="display:none;">
+                                    <td align="left" valign="top">
+
+                                                    <table width="645" border="0" cellspacing="0" cellpadding="0">
+                                                        <tr>
+                                                            <td width="*" align="left" valign="top" bgcolor="#FFFFFF" style="border-top: 2px;
+                                                                border-bottom: 2px; border-left: 2px; border-right: 2px; border-style: solid;
+                                                                border-color: #5E9732; border-collapse: collapse;">
+                                                                <table width="100%" cellspacing="0" cellpadding="10">
+                                                                    <tr>
+                                                                        <td align="left" valign="top">
+                                        Deal MadDeal Subscriber,<br />
+                                        It looks like the cookies are disabled in your browser which is preventing you from
+                                        accessing our system properly.<br />
+                                        You will need to enable this in your browser in order to login or make a purchase
+                                        on MadDeal.com.<br />
+                                        Our site is 100% secure, so this will not compromise your security in any way.<br />
+                                        If you have any further questions, please contact us at support@maddeal.com and
+                                        we'll be more than happy to guide you through this.<br />
+                                        To enable cookies in your browser, please follow the instructions in the links below
+                                        that are broken down based on the browser you are using:<br />
+                                        <br />
+                                        <a href="http://support.microsoft.com/kb/283185" style="text-decoration: underline;"
+                                            target="_blank">Internet Explorer 6</a><br />
+                                        <a href="http://windows.microsoft.com/en-CA/windows-vista/Block-or-allow-cookies"
+                                            style="text-decoration: underline;" target="_blank">Internet Explorer 7</a><br />
+                                        <a href="http://windows.microsoft.com/en-CA/windows-vista/Block-or-allow-cookies"
+                                            style="text-decoration: underline;" target="_blank">Internet Explorer 8</a><br />
+                                        <a href="http://windows7themes.net/how-to-enabledisable-cookies-in-internet-explorer-9.html#disable or enable cookies in ie9"
+                                            style="text-decoration: underline;" target="_blank">Internet Explorer 9</a><br />
+                                        <a href="http://support.mozilla.com/en-US/kb/Enabling%20and%20disabling%20cookies"
+                                            style="text-decoration: underline;" target="_blank">Firefox</a><br />
+                                        <a href="http://www.google.com/support/chrome/bin/answer.py?answer=95647" style="text-decoration: underline;"
+                                            target="_blank">Chrome</a><br />
+                                        <a href="http://www.usconsumernet.org/uscni/usconsumernetorg/phpbb2/enablecookies/safari.php"
+                                            style="text-decoration: underline;" target="_blank">Safari</a><br />
+                                        <a href="http://www.opera.com/browser/tutorials/security/privacy/" style="text-decoration: underline;"
+                                            target="_blank">Opera</a><br />
+                                        <br />
+                                        Thanks for being a MadDeal subscriber, and we hope this fixes any issues you are
+                                        having.
+                                        <br />
+                                        <br />
+                                        The MadDeal Team
+                                        </td></tr></table></td></tr></table>
+                                    </td>
+                                </tr>
+                                <tr id="CitySelector" style="display: none; z-index: 10000;">
+                                    <td valign="top">
+                                        <div style="z-index: 100;">
+                                            <table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
+                                                <tr>
+                                                    <td align="left" valign="middle">
+                                                        <table width="645" border="0" cellspacing="0" cellpadding="0">
+                                                            <tr>
+                                                                <td align="left" valign="top">
+                                                                    <div class="menuPosCityPop" id="dropdowncitypop">
+                                                                        <br />
+                                                                        <a href="javascript:closeCities();" style="color: #FFFFFF; font-weight: bold;">Close</a>&nbsp;&nbsp;&nbsp;
+                                                                        
+                                                                    </div>
+                                                                    <div class="smallorangetext" id="orangetext">
+                                                                        <div>
+                                                                            Cities with Active Deals appear in orange</div>
+                                                                    </div>
+                                                                    <table width="645" border="0" cellspacing="0" cellpadding="20">
+                                                                        <tr>
+                                                                            <td align="left" valign="top" bgcolor="blue" background="/images/front_new/backgradecity.png">
+                                                                                <div id="ctl00_divCities"><table width="100%" border="0" cellspacing="0" cellpadding="0"><tr height="20"><td colspan="4" align="left" valign="top"><span class="CityHeaders">Canada</span></td></tr><tr><td width="25%"><a class="activedeal" style="font-family: Arial;text-decoration:none;" href="/Canada/ON/Barrie/"><span class="activedeal">Barrie</span></a></td><td width="25%"><a class="activedeal" style="font-family: Arial;text-decoration:none;" href="/Canada/ON/Brampton/"><span class="activedeal">Brampton</span></a></td><td width="25%"><a class="cities" style="font-family: Arial;text-decoration:none;" href="/Canada/AB/Calgary/"><span class="cities">Calgary</span></a></td><td width="25%"><a class="activedeal" style="font-family: Arial;text-decoration:none;" href="/Canada/ON/Durham_Region/"><span class="activedeal">Durham Region</span></a></td></tr><tr><td width="25%"><a class="cities" style="font-family: Arial;text-decoration:none;" href="/Canada/AB/Edmonton/"><span class="cities">Edmonton</span></a></td><td width="25%"><a class="cities" style="font-family: Arial;text-decoration:none;" href="/Canada/NS/Halifax/"><span class="cities">Halifax</span></a></td><td width="25%"><a class="activedeal" style="font-family: Arial;text-decoration:none;" href="/Canada/ON/Hamilton/"><span class="activedeal">Hamilton</span></a></td><td width="25%"><a class="cities" style="font-family: Arial;text-decoration:none;" href="/Canada/ON/Kitchener_-_Waterloo/"><span class="cities">Kitchener - Waterloo</span></a></td></tr><tr><td width="25%"><a class="activedeal" style="font-family: Arial;text-decoration:none;" href="/Canada/ON/London/"><span class="activedeal">London</span></a></td><td width="25%"><a class="activedeal" style="font-family: Arial;text-decoration:none;" href="/Canada/ON/Mississauga/"><span class="activedeal">Mississauga</span></a></td><td width="25%"><a class="cities" style="font-family: Arial;text-decoration:none;" href="/Canada/QC/Montreal/"><span class="cities">Montreal</span></a></td><td width="25%"><a class="activedeal" style="font-family: Arial;text-decoration:none;" href="/Canada/ON/Niagara_Region/"><span class="activedeal">Niagara Region</span></a></td></tr><tr><td width="25%"><a class="cities" style="font-family: Arial;text-decoration:none;" href="/Canada/ON/Ottawa/"><span class="cities">Ottawa</span></a></td><td width="25%"><a class="cities" style="font-family: Arial;text-decoration:none;" href="/Canada/QC/Quebec/"><span class="cities">Quebec</span></a></td><td width="25%"><a class="cities" style="font-family: Arial;text-decoration:none;" href="/Canada/SK/Regina/"><span class="cities">Regina</span></a></td><td width="25%"><a class="cities" style="font-family: Arial;text-decoration:none;" href="/Canada/SK/Saskatoon/"><span class="cities">Saskatoon</span></a></td></tr><tr><td width="25%"><a class="activedeal" style="font-family: Arial;text-decoration:none;" href="/Canada/ON/Toronto/"><span class="activedeal">Toronto</span></a></td><td width="25%"><a class="cities" style="font-family: Arial;text-decoration:none;" href="/Canada/BC/Vancouver/"><span class="cities">Vancouver</span></a></td><td width="25%"><a class="cities" style="font-family: Arial;text-decoration:none;" href="/Canada/BC/Victoria/"><span class="cities">Victoria</span></a></td><td width="25%"><a class="activedeal" style="font-family: Arial;text-decoration:none;" href="/Canada/ON/Windsor/"><span class="activedeal">Windsor</span></a></td></tr><tr><td width="25%"><a class="cities" style="font-family: Arial;text-decoration:none;" href="/Canada/MB/Winnipeg/"><span class="cities">Winnipeg</span></a></td><td width="25%"><a class="activedeal" style="font-family: Arial;text-decoration:none;" href="/Canada/ON/York_Region/"><span class="activedeal">York Region</span></a></td></tr><tr height="20"><td colspan="4" align="left" valign="middle"><img src="/images/front_new/cityrule.jpg" width="595" height="1" /></td></tr><tr height="20"><td colspan="4" align="left" valign="top"><span class="CityHeaders">UK</span></td></tr><tr><td width="25%"><a class="activedeal" style="font-family: Arial;text-decoration:none;" href="/UK/Aberdeen/"><span class="activedeal">Aberdeen</span></a></td><td width="25%"><a class="activedeal" style="font-family: Arial;text-decoration:none;" href="/UK/Bath/"><span class="activedeal">Bath</span></a></td><td width="25%"><a class="activedeal" style="font-family: Arial;text-decoration:none;" href="/UK/Belfast/"><span class="activedeal">Belfast</span></a></td><td width="25%"><a class="activedeal" style="font-family: Arial;text-decoration:none;" href="/UK/Birmingham/"><span class="activedeal">Birmingham</span></a></td></tr><tr><td width="25%"><a class="activedeal" style="font-family: Arial;text-decoration:none;" href="/UK/Bournemouth/"><span class="activedeal">Bournemouth</span></a></td><td width="25%"><a class="activedeal" style="font-family: Arial;text-decoration:none;" href="/UK/Bradford/"><span class="activedeal">Bradford</span></a></td><td width="25%"><a class="activedeal" style="font-family: Arial;text-decoration:none;" href="/UK/Brighton/"><span class="activedeal">Brighton</span></a></td><td width="25%"><a class="activedeal" style="font-family: Arial;text-decoration:none;" href="/UK/Bristol/"><span class="activedeal">Bristol</span></a></td></tr><tr><td width="25%"><a class="activedeal" style="font-family: Arial;text-decoration:none;" href="/UK/Cambridge/"><span class="activedeal">Cambridge</span></a></td><td width="25%"><a class="activedeal" style="font-family: Arial;text-decoration:none;" href="/UK/Cardiff/"><span class="activedeal">Cardiff</span></a></td><td width="25%"><a class="activedeal" style="font-family: Arial;text-decoration:none;" href="/UK/Coventry/"><span class="activedeal">Coventry</span></a></td><td width="25%"><a class="activedeal" style="font-family: Arial;text-decoration:none;" href="/UK/Derby/"><span class="activedeal">Derby</span></a></td></tr><tr><td width="25%"><a class="activedeal" style="font-family: Arial;text-decoration:none;" href="/UK/Edinburgh/"><span class="activedeal">Edinburgh</span></a></td><td width="25%"><a class="activedeal" style="font-family: Arial;text-decoration:none;" href="/UK/Essex/"><span class="activedeal">Essex</span></a></td><td width="25%"><a class="activedeal" style="font-family: Arial;text-decoration:none;" href="/UK/Exeter/"><span class="activedeal">Exeter</span></a></td><td width="25%"><a class="activedeal" style="font-family: Arial;text-decoration:none;" href="/UK/Glasgow/"><span class="activedeal">Glasgow</span></a></td></tr><tr><td width="25%"><a class="activedeal" style="font-family: Arial;text-decoration:none;" href="/UK/Hull/"><span class="activedeal">Hull</span></a></td><td width="25%"><a class="activedeal" style="font-family: Arial;text-decoration:none;" href="/UK/Ipswich/"><span class="activedeal">Ipswich</span></a></td><td width="25%"><a class="activedeal" style="font-family: Arial;text-decoration:none;" href="/UK/Kent/"><span class="activedeal">Kent</span></a></td><td width="25%"><a class="activedeal" style="font-family: Arial;text-decoration:none;" href="/UK/Leeds/"><span class="activedeal">Leeds</span></a></td></tr><tr><td width="25%"><a class="activedeal" style="font-family: Arial;text-decoration:none;" href="/UK/Leicester/"><span class="activedeal">Leicester</span></a></td><td width="25%"><a class="activedeal" style="font-family: Arial;text-decoration:none;" href="/UK/Liverpool/"><span class="activedeal">Liverpool</span></a></td><td width="25%"><a class="activedeal" style="font-family: Arial;text-decoration:none;" href="/UK/London/"><span class="activedeal">London</span></a></td><td width="25%"><a class="activedeal" style="font-family: Arial;text-decoration:none;" href="/UK/Manchester/"><span class="activedeal">Manchester</span></a></td></tr><tr><td width="25%"><a class="activedeal" style="font-family: Arial;text-decoration:none;" href="/UK/Milton_Keynes/"><span class="activedeal">Milton Keynes</span></a></td><td width="25%"><a class="activedeal" style="font-family: Arial;text-decoration:none;" href="/UK/Newcastle/"><span class="activedeal">Newcastle</span></a></td><td width="25%"><a class="activedeal" style="font-family: Arial;text-decoration:none;" href="/UK/Newport/"><span class="activedeal">Newport</span></a></td><td width="25%"><a class="activedeal" style="font-family: Arial;text-decoration:none;" href="/UK/Norwich/"><span class="activedeal">Norwich</span></a></td></tr><tr><td width="25%"><a class="activedeal" style="font-family: Arial;text-decoration:none;" href="/UK/Nottingham/"><span class="activedeal">Nottingham</span></a></td><td width="25%"><a class="activedeal" style="font-family: Arial;text-decoration:none;" href="/UK/Oxford/"><span class="activedeal">Oxford</span></a></td><td width="25%"><a class="activedeal" style="font-family: Arial;text-decoration:none;" href="/UK/Plymouth/"><span class="activedeal">Plymouth</span></a></td><td width="25%"><a class="activedeal" style="font-family: Arial;text-decoration:none;" href="/UK/Portsmouth/"><span class="activedeal">Portsmouth</span></a></td></tr><tr><td width="25%"><a class="activedeal" style="font-family: Arial;text-decoration:none;" href="/UK/Reading/"><span class="activedeal">Reading</span></a></td><td width="25%"><a class="activedeal" style="font-family: Arial;text-decoration:none;" href="/UK/Sheffield/"><span class="activedeal">Sheffield</span></a></td><td width="25%"><a class="activedeal" style="font-family: Arial;text-decoration:none;" href="/UK/Southampton/"><span class="activedeal">Southampton</span></a></td><td width="25%"><a class="activedeal" style="font-family: Arial;text-decoration:none;" href="/UK/Stoke-on-Trent/"><span class="activedeal">Stoke-on-Trent</span></a></td></tr><tr><td width="25%"><a class="activedeal" style="font-family: Arial;text-decoration:none;" href="/UK/Surrey/"><span class="activedeal">Surrey</span></a></td><td width="25%"><a class="activedeal" style="font-family: Arial;text-decoration:none;" href="/UK/Swansea/"><span class="activedeal">Swansea</span></a></td><td width="25%"><a class="activedeal" style="font-family: Arial;text-decoration:none;" href="/UK/York/"><span class="activedeal">York</span></a></td></tr><tr height="20"><td colspan="4" align="left" valign="middle"><img src="/images/front_new/cityrule.jpg" width="595" height="1" /></td></tr><tr height="20"><td colspan="4" align="left" valign="top"><span class="CityHeaders">USA</span></td></tr><tr><td width="25%"><a class="cities" style="font-family: Arial;text-decoration:none;" href="/USA/GA/Atlanta/"><span class="cities">Atlanta</span></a></td><td width="25%"><a class="cities" style="font-family: Arial;text-decoration:none;" href="/USA/TX/Austin/"><span class="cities">Austin</span></a></td><td width="25%"><a class="cities" style="font-family: Arial;text-decoration:none;" href="/USA/MD/Baltimore/"><span class="cities">Baltimore</span></a></td><td width="25%"><a class="cities" style="font-family: Arial;text-decoration:none;" href="/USA/MA/Boston/"><span class="cities">Boston</span></a></td></tr><tr><td width="25%"><a class="cities" style="font-family: Arial;text-decoration:none;" href="/USA/NY/Buffalo/"><span class="cities">Buffalo</span></a></td><td width="25%"><a class="cities" style="font-family: Arial;text-decoration:none;" href="/USA/NC/Charlotte/"><span class="cities">Charlotte</span></a></td><td width="25%"><a class="cities" style="font-family: Arial;text-decoration:none;" href="/USA/IL/Chicago/"><span class="cities">Chicago</span></a></td><td width="25%"><a class="cities" style="font-family: Arial;text-decoration:none;" href="/USA/OH/Cincinnati/"><span class="cities">Cincinnati</span></a></td></tr><tr><td width="25%"><a class="cities" style="font-family: Arial;text-decoration:none;" href="/USA/OH/Cleveland/"><span class="cities">Cleveland</span></a></td><td width="25%"><a class="cities" style="font-family: Arial;text-decoration:none;" href="/USA/OH/Columbus/"><span class="cities">Columbus</span></a></td><td width="25%"><a class="cities" style="font-family: Arial;text-decoration:none;" href="/USA/TX/Dallas/"><span class="cities">Dallas</span></a></td><td width="25%"><a class="cities" style="font-family: Arial;text-decoration:none;" href="/USA/CO/Denver/"><span class="cities">Denver</span></a></td></tr><tr><td width="25%"><a class="cities" style="font-family: Arial;text-decoration:none;" href="/USA/MI/Detroit/"><span class="cities">Detroit</span></a></td><td width="25%"><a class="cities" style="font-family: Arial;text-decoration:none;" href="/USA/FL/Fort_Lauderdale/"><span class="cities">Fort Lauderdale</span></a></td><td width="25%"><a class="cities" style="font-family: Arial;text-decoration:none;" href="/USA/TX/Houston/"><span class="cities">Houston</span></a></td><td width="25%"><a class="cities" style="font-family: Arial;text-decoration:none;" href="/USA/IN/Indianapolis/"><span class="cities">Indianapolis</span></a></td></tr><tr><td width="25%"><a class="cities" style="font-family: Arial;text-decoration:none;" href="/USA/FL/Jacksonville/"><span class="cities">Jacksonville</span></a></td><td width="25%"><a class="cities" style="font-family: Arial;text-decoration:none;" href="/USA/KS/Kansas/"><span class="cities">Kansas</span></a></td><td width="25%"><a class="cities" style="font-family: Arial;text-decoration:none;" href="/USA/NV/Las_Vegas/"><span class="cities">Las Vegas</span></a></td><td width="25%"><a class="cities" style="font-family: Arial;text-decoration:none;" href="/USA/CA/Los_Angeles/"><span class="cities">Los Angeles</span></a></td></tr><tr><td width="25%"><a class="cities" style="font-family: Arial;text-decoration:none;" href="/USA/FL/Miami/"><span class="cities">Miami</span></a></td><td width="25%"><a class="cities" style="font-family: Arial;text-decoration:none;" href="/USA/MN/Minneapolis_-_St_Paul/"><span class="cities">Minneapolis - St Paul</span></a></td><td width="25%"><a class="cities" style="font-family: Arial;text-decoration:none;" href="/USA/TN/Nashville/"><span class="cities">Nashville</span></a></td><td width="25%"><a class="cities" style="font-family: Arial;text-decoration:none;" href="/USA/NJ/New_Jersey/"><span class="cities">New Jersey</span></a></td></tr><tr><td width="25%"><a class="cities" style="font-family: Arial;text-decoration:none;" href="/USA/LA/New_Orleans/"><span class="cities">New Orleans</span></a></td><td width="25%"><a class="cities" style="font-family: Arial;text-decoration:none;" href="/USA/NY/New_York_City/"><span class="cities">New York City</span></a></td><td width="25%"><a class="cities" style="font-family: Arial;text-decoration:none;" href="/USA/FL/Orlando/"><span class="cities">Orlando</span></a></td><td width="25%"><a class="cities" style="font-family: Arial;text-decoration:none;" href="/USA/PA/Philadelphia/"><span class="cities">Philadelphia</span></a></td></tr><tr><td width="25%"><a class="cities" style="font-family: Arial;text-decoration:none;" href="/USA/AZ/Phoenix/"><span class="cities">Phoenix</span></a></td><td width="25%"><a class="cities" style="font-family: Arial;text-decoration:none;" href="/USA/PA/Pittsburgh/"><span class="cities">Pittsburgh</span></a></td><td width="25%"><a class="cities" style="font-family: Arial;text-decoration:none;" href="/USA/OR/Portland/"><span class="cities">Portland</span></a></td><td width="25%"><a class="cities" style="font-family: Arial;text-decoration:none;" href="/USA/RI/Providence/"><span class="cities">Providence</span></a></td></tr><tr><td width="25%"><a class="cities" style="font-family: Arial;text-decoration:none;" href="/USA/NC/Raleigh/"><span class="cities">Raleigh</span></a></td><td width="25%"><a class="cities" style="font-family: Arial;text-decoration:none;" href="/USA/VA/Richmond/"><span class="cities">Richmond</span></a></td><td width="25%"><a class="cities" style="font-family: Arial;text-decoration:none;" href="/USA/CA/Sacramento/"><span class="cities">Sacramento</span></a></td><td width="25%"><a class="cities" style="font-family: Arial;text-decoration:none;" href="/USA/UT/Salt_Lake_City/"><span class="cities">Salt Lake City</span></a></td></tr><tr><td width="25%"><a class="cities" style="font-family: Arial;text-decoration:none;" href="/USA/TX/San_Antonio/"><span class="cities">San Antonio</span></a></td><td width="25%"><a class="cities" style="font-family: Arial;text-decoration:none;" href="/USA/CA/San_Diego/"><span class="cities">San Diego</span></a></td><td width="25%"><a class="cities" style="font-family: Arial;text-decoration:none;" href="/USA/CA/San_Francisco/"><span class="cities">San Francisco</span></a></td><td width="25%"><a class="cities" style="font-family: Arial;text-decoration:none;" href="/USA/WA/Seattle/"><span class="cities">Seattle</span></a></td></tr><tr><td width="25%"><a class="cities" style="font-family: Arial;text-decoration:none;" href="/USA/MO/St_Louis/"><span class="cities">St Louis</span></a></td><td width="25%"><a class="cities" style="font-family: Arial;text-decoration:none;" href="/USA/FL/Tampa/"><span class="cities">Tampa</span></a></td><td width="25%"><a class="cities" style="font-family: Arial;text-decoration:none;" href="/USA/DC/Washington/"><span class="cities">Washington</span></a></td></tr><tr height="20"><td colspan="4" align="left" valign="middle"><img src="/images/front_new/cityrule.jpg" width="595" height="1" /></td></tr><tr height="20"><td colspan="4" align="left" valign="top"><span class="CityHeaders">Costa Rica</span></td></tr><tr><td width="25%"><a class="cities" style="font-family: Arial;text-decoration:none;" href="/Costa_Rica/Alajuela/"><span class="cities">Alajuela</span></a></td><td width="25%"><a class="cities" style="font-family: Arial;text-decoration:none;" href="/Costa_Rica/Cartago/"><span class="cities">Cartago</span></a></td><td width="25%"><a class="cities" style="font-family: Arial;text-decoration:none;" href="/Costa_Rica/Guanacaste/"><span class="cities">Guanacaste</span></a></td><td width="25%"><a class="cities" style="font-family: Arial;text-decoration:none;" href="/Costa_Rica/Heredia/"><span class="cities">Heredia</span></a></td></tr><tr><td width="25%"><a class="cities" style="font-family: Arial;text-decoration:none;" href="/Costa_Rica/Limon/"><span class="cities">Limon</span></a></td><td width="25%"><a class="cities" style="font-family: Arial;text-decoration:none;" href="/Costa_Rica/Puntarenas/"><span class="cities">Puntarenas</span></a></td><td width="25%"><a class="cities" style="font-family: Arial;text-decoration:none;" href="/Costa_Rica/San_Jose/"><span class="cities">San Jose</span></a></td></tr></table></div>
+                                                                            </td>
+                                                                        </tr>
+                                                                    </table>
+                                                                </td>
+                                                            </tr>
+                                                        </table>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </div>
+                                        <br />
+                                    </td>
+                                </tr>
+                                <tr id="divSubscribe" style="display: none;">
+                                    <td valign="top">
+                                        <table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
+                                            <tr>
+                                                <td align="left" valign="middle">
+                                                    <table width="645" border="0" cellspacing="0" cellpadding="0">
+                                                        <tr>
+                                                            <td width="*" align="left" valign="top" bgcolor="#FFFFFF" style="border-top: 2px;
+                                                                border-bottom: 2px; border-left: 2px; border-right: 2px; border-style: solid;
+                                                                border-color: #5E9732; border-collapse: collapse;">
+                                                                <table width="100%" cellspacing="0" cellpadding="10">
+                                                                    <tr>
+                                                                        <td align="left" valign="top">
+                                                                            <span class="stylePP">Subscribe today and start receiving a daily email offering exclusive
+                                                                                promotions!</span>
+                                                                            <br />
+                                                                            <span class="stylePP">Experience your city at </span>&nbsp;<span class="orangebold">50-100%
+                                                                                OFF!</span>
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>
+                                                                            Email:
+                                                                            <input name="ctl00$txtEmailSubscribe" type="text" value="enter your email address" maxlength="100" id="ctl00_txtEmailSubscribe" tabindex="49" onfocus="if (this.value == 'enter your email address') {this.value = '';}" onblur="if (this.value == '') {this.value = 'enter your email address';}" style="width:300px;" />
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>
+                                                                            Select Cities:
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>
+                                                                            <fieldset style="width: 97%;">
+                                                                                <legend>&nbsp;<b>Canada</b>&nbsp;</legend>
+                                                                                <table id="ctl00_cblCitiesCanadaSubscribe" class="smallarial" cellpadding="2" border="0">
+	<tr>
+		<td><input id="ctl00_cblCitiesCanadaSubscribe_0" type="checkbox" name="ctl00$cblCitiesCanadaSubscribe$0" /><label for="ctl00_cblCitiesCanadaSubscribe_0">Barrie</label></td><td><input id="ctl00_cblCitiesCanadaSubscribe_1" type="checkbox" name="ctl00$cblCitiesCanadaSubscribe$1" /><label for="ctl00_cblCitiesCanadaSubscribe_1">Brampton</label></td><td><input id="ctl00_cblCitiesCanadaSubscribe_2" type="checkbox" name="ctl00$cblCitiesCanadaSubscribe$2" /><label for="ctl00_cblCitiesCanadaSubscribe_2">Calgary</label></td><td><input id="ctl00_cblCitiesCanadaSubscribe_3" type="checkbox" name="ctl00$cblCitiesCanadaSubscribe$3" /><label for="ctl00_cblCitiesCanadaSubscribe_3">Durham Region</label></td><td><input id="ctl00_cblCitiesCanadaSubscribe_4" type="checkbox" name="ctl00$cblCitiesCanadaSubscribe$4" /><label for="ctl00_cblCitiesCanadaSubscribe_4">Edmonton</label></td>
+	</tr><tr>
+		<td><input id="ctl00_cblCitiesCanadaSubscribe_5" type="checkbox" name="ctl00$cblCitiesCanadaSubscribe$5" /><label for="ctl00_cblCitiesCanadaSubscribe_5">Halifax</label></td><td><input id="ctl00_cblCitiesCanadaSubscribe_6" type="checkbox" name="ctl00$cblCitiesCanadaSubscribe$6" /><label for="ctl00_cblCitiesCanadaSubscribe_6">Hamilton</label></td><td><input id="ctl00_cblCitiesCanadaSubscribe_7" type="checkbox" name="ctl00$cblCitiesCanadaSubscribe$7" /><label for="ctl00_cblCitiesCanadaSubscribe_7">Kitchener - Waterloo</label></td><td><input id="ctl00_cblCitiesCanadaSubscribe_8" type="checkbox" name="ctl00$cblCitiesCanadaSubscribe$8" /><label for="ctl00_cblCitiesCanadaSubscribe_8">London</label></td><td><input id="ctl00_cblCitiesCanadaSubscribe_9" type="checkbox" name="ctl00$cblCitiesCanadaSubscribe$9" /><label for="ctl00_cblCitiesCanadaSubscribe_9">Mississauga</label></td>
+	</tr><tr>
+		<td><input id="ctl00_cblCitiesCanadaSubscribe_10" type="checkbox" name="ctl00$cblCitiesCanadaSubscribe$10" /><label for="ctl00_cblCitiesCanadaSubscribe_10">Montreal</label></td><td><input id="ctl00_cblCitiesCanadaSubscribe_11" type="checkbox" name="ctl00$cblCitiesCanadaSubscribe$11" /><label for="ctl00_cblCitiesCanadaSubscribe_11">Niagara Region</label></td><td><input id="ctl00_cblCitiesCanadaSubscribe_12" type="checkbox" name="ctl00$cblCitiesCanadaSubscribe$12" /><label for="ctl00_cblCitiesCanadaSubscribe_12">Ottawa</label></td><td><input id="ctl00_cblCitiesCanadaSubscribe_13" type="checkbox" name="ctl00$cblCitiesCanadaSubscribe$13" /><label for="ctl00_cblCitiesCanadaSubscribe_13">Quebec</label></td><td><input id="ctl00_cblCitiesCanadaSubscribe_14" type="checkbox" name="ctl00$cblCitiesCanadaSubscribe$14" /><label for="ctl00_cblCitiesCanadaSubscribe_14">Regina</label></td>
+	</tr><tr>
+		<td><input id="ctl00_cblCitiesCanadaSubscribe_15" type="checkbox" name="ctl00$cblCitiesCanadaSubscribe$15" /><label for="ctl00_cblCitiesCanadaSubscribe_15">Saskatoon</label></td><td><input id="ctl00_cblCitiesCanadaSubscribe_16" type="checkbox" name="ctl00$cblCitiesCanadaSubscribe$16" /><label for="ctl00_cblCitiesCanadaSubscribe_16">Toronto</label></td><td><input id="ctl00_cblCitiesCanadaSubscribe_17" type="checkbox" name="ctl00$cblCitiesCanadaSubscribe$17" /><label for="ctl00_cblCitiesCanadaSubscribe_17">Vancouver</label></td><td><input id="ctl00_cblCitiesCanadaSubscribe_18" type="checkbox" name="ctl00$cblCitiesCanadaSubscribe$18" /><label for="ctl00_cblCitiesCanadaSubscribe_18">Victoria</label></td><td><input id="ctl00_cblCitiesCanadaSubscribe_19" type="checkbox" name="ctl00$cblCitiesCanadaSubscribe$19" /><label for="ctl00_cblCitiesCanadaSubscribe_19">Windsor</label></td>
+	</tr><tr>
+		<td><input id="ctl00_cblCitiesCanadaSubscribe_20" type="checkbox" name="ctl00$cblCitiesCanadaSubscribe$20" /><label for="ctl00_cblCitiesCanadaSubscribe_20">Winnipeg</label></td><td><input id="ctl00_cblCitiesCanadaSubscribe_21" type="checkbox" name="ctl00$cblCitiesCanadaSubscribe$21" /><label for="ctl00_cblCitiesCanadaSubscribe_21">York Region</label></td><td></td><td></td><td></td>
+	</tr>
+</table>
+                                                                            </fieldset>
+                                                                            <br />
+                                                                            <fieldset style="width: 97%;">
+                                                                                <legend>&nbsp;<b>UK</b>&nbsp;</legend>
+                                                                                <table id="ctl00_cblCitiesUKSubscribe" class="smallarial" cellpadding="2" border="0">
+	<tr>
+		<td><input id="ctl00_cblCitiesUKSubscribe_0" type="checkbox" name="ctl00$cblCitiesUKSubscribe$0" /><label for="ctl00_cblCitiesUKSubscribe_0">Aberdeen</label></td><td><input id="ctl00_cblCitiesUKSubscribe_1" type="checkbox" name="ctl00$cblCitiesUKSubscribe$1" /><label for="ctl00_cblCitiesUKSubscribe_1">Bath</label></td><td><input id="ctl00_cblCitiesUKSubscribe_2" type="checkbox" name="ctl00$cblCitiesUKSubscribe$2" /><label for="ctl00_cblCitiesUKSubscribe_2">Belfast</label></td><td><input id="ctl00_cblCitiesUKSubscribe_3" type="checkbox" name="ctl00$cblCitiesUKSubscribe$3" /><label for="ctl00_cblCitiesUKSubscribe_3">Birmingham</label></td><td><input id="ctl00_cblCitiesUKSubscribe_4" type="checkbox" name="ctl00$cblCitiesUKSubscribe$4" /><label for="ctl00_cblCitiesUKSubscribe_4">Bournemouth</label></td>
+	</tr><tr>
+		<td><input id="ctl00_cblCitiesUKSubscribe_5" type="checkbox" name="ctl00$cblCitiesUKSubscribe$5" /><label for="ctl00_cblCitiesUKSubscribe_5">Bradford</label></td><td><input id="ctl00_cblCitiesUKSubscribe_6" type="checkbox" name="ctl00$cblCitiesUKSubscribe$6" /><label for="ctl00_cblCitiesUKSubscribe_6">Brighton</label></td><td><input id="ctl00_cblCitiesUKSubscribe_7" type="checkbox" name="ctl00$cblCitiesUKSubscribe$7" /><label for="ctl00_cblCitiesUKSubscribe_7">Bristol</label></td><td><input id="ctl00_cblCitiesUKSubscribe_8" type="checkbox" name="ctl00$cblCitiesUKSubscribe$8" /><label for="ctl00_cblCitiesUKSubscribe_8">Cambridge</label></td><td><input id="ctl00_cblCitiesUKSubscribe_9" type="checkbox" name="ctl00$cblCitiesUKSubscribe$9" /><label for="ctl00_cblCitiesUKSubscribe_9">Cardiff</label></td>
+	</tr><tr>
+		<td><input id="ctl00_cblCitiesUKSubscribe_10" type="checkbox" name="ctl00$cblCitiesUKSubscribe$10" /><label for="ctl00_cblCitiesUKSubscribe_10">Coventry</label></td><td><input id="ctl00_cblCitiesUKSubscribe_11" type="checkbox" name="ctl00$cblCitiesUKSubscribe$11" /><label for="ctl00_cblCitiesUKSubscribe_11">Derby</label></td><td><input id="ctl00_cblCitiesUKSubscribe_12" type="checkbox" name="ctl00$cblCitiesUKSubscribe$12" /><label for="ctl00_cblCitiesUKSubscribe_12">Edinburgh</label></td><td><input id="ctl00_cblCitiesUKSubscribe_13" type="checkbox" name="ctl00$cblCitiesUKSubscribe$13" /><label for="ctl00_cblCitiesUKSubscribe_13">Essex</label></td><td><input id="ctl00_cblCitiesUKSubscribe_14" type="checkbox" name="ctl00$cblCitiesUKSubscribe$14" /><label for="ctl00_cblCitiesUKSubscribe_14">Exeter</label></td>
+	</tr><tr>
+		<td><input id="ctl00_cblCitiesUKSubscribe_15" type="checkbox" name="ctl00$cblCitiesUKSubscribe$15" /><label for="ctl00_cblCitiesUKSubscribe_15">Glasgow</label></td><td><input id="ctl00_cblCitiesUKSubscribe_16" type="checkbox" name="ctl00$cblCitiesUKSubscribe$16" /><label for="ctl00_cblCitiesUKSubscribe_16">Hull</label></td><td><input id="ctl00_cblCitiesUKSubscribe_17" type="checkbox" name="ctl00$cblCitiesUKSubscribe$17" /><label for="ctl00_cblCitiesUKSubscribe_17">Ipswich</label></td><td><input id="ctl00_cblCitiesUKSubscribe_18" type="checkbox" name="ctl00$cblCitiesUKSubscribe$18" /><label for="ctl00_cblCitiesUKSubscribe_18">Kent</label></td><td><input id="ctl00_cblCitiesUKSubscribe_19" type="checkbox" name="ctl00$cblCitiesUKSubscribe$19" /><label for="ctl00_cblCitiesUKSubscribe_19">Leeds</label></td>
+	</tr><tr>
+		<td><input id="ctl00_cblCitiesUKSubscribe_20" type="checkbox" name="ctl00$cblCitiesUKSubscribe$20" /><label for="ctl00_cblCitiesUKSubscribe_20">Leicester</label></td><td><input id="ctl00_cblCitiesUKSubscribe_21" type="checkbox" name="ctl00$cblCitiesUKSubscribe$21" /><label for="ctl00_cblCitiesUKSubscribe_21">Liverpool</label></td><td><input id="ctl00_cblCitiesUKSubscribe_22" type="checkbox" name="ctl00$cblCitiesUKSubscribe$22" /><label for="ctl00_cblCitiesUKSubscribe_22">London</label></td><td><input id="ctl00_cblCitiesUKSubscribe_23" type="checkbox" name="ctl00$cblCitiesUKSubscribe$23" /><label for="ctl00_cblCitiesUKSubscribe_23">Manchester</label></td><td><input id="ctl00_cblCitiesUKSubscribe_24" type="checkbox" name="ctl00$cblCitiesUKSubscribe$24" /><label for="ctl00_cblCitiesUKSubscribe_24">Milton Keynes</label></td>
+	</tr><tr>
+		<td><input id="ctl00_cblCitiesUKSubscribe_25" type="checkbox" name="ctl00$cblCitiesUKSubscribe$25" /><label for="ctl00_cblCitiesUKSubscribe_25">Newcastle</label></td><td><input id="ctl00_cblCitiesUKSubscribe_26" type="checkbox" name="ctl00$cblCitiesUKSubscribe$26" /><label for="ctl00_cblCitiesUKSubscribe_26">Newport</label></td><td><input id="ctl00_cblCitiesUKSubscribe_27" type="checkbox" name="ctl00$cblCitiesUKSubscribe$27" /><label for="ctl00_cblCitiesUKSubscribe_27">Norwich</label></td><td><input id="ctl00_cblCitiesUKSubscribe_28" type="checkbox" name="ctl00$cblCitiesUKSubscribe$28" /><label for="ctl00_cblCitiesUKSubscribe_28">Nottingham</label></td><td><input id="ctl00_cblCitiesUKSubscribe_29" type="checkbox" name="ctl00$cblCitiesUKSubscribe$29" /><label for="ctl00_cblCitiesUKSubscribe_29">Oxford</label></td>
+	</tr><tr>
+		<td><input id="ctl00_cblCitiesUKSubscribe_30" type="checkbox" name="ctl00$cblCitiesUKSubscribe$30" /><label for="ctl00_cblCitiesUKSubscribe_30">Plymouth</label></td><td><input id="ctl00_cblCitiesUKSubscribe_31" type="checkbox" name="ctl00$cblCitiesUKSubscribe$31" /><label for="ctl00_cblCitiesUKSubscribe_31">Portsmouth</label></td><td><input id="ctl00_cblCitiesUKSubscribe_32" type="checkbox" name="ctl00$cblCitiesUKSubscribe$32" /><label for="ctl00_cblCitiesUKSubscribe_32">Reading</label></td><td><input id="ctl00_cblCitiesUKSubscribe_33" type="checkbox" name="ctl00$cblCitiesUKSubscribe$33" /><label for="ctl00_cblCitiesUKSubscribe_33">Sheffield</label></td><td><input id="ctl00_cblCitiesUKSubscribe_34" type="checkbox" name="ctl00$cblCitiesUKSubscribe$34" /><label for="ctl00_cblCitiesUKSubscribe_34">Southampton</label></td>
+	</tr><tr>
+		<td><input id="ctl00_cblCitiesUKSubscribe_35" type="checkbox" name="ctl00$cblCitiesUKSubscribe$35" /><label for="ctl00_cblCitiesUKSubscribe_35">Stoke-on-Trent</label></td><td><input id="ctl00_cblCitiesUKSubscribe_36" type="checkbox" name="ctl00$cblCitiesUKSubscribe$36" /><label for="ctl00_cblCitiesUKSubscribe_36">Surrey</label></td><td><input id="ctl00_cblCitiesUKSubscribe_37" type="checkbox" name="ctl00$cblCitiesUKSubscribe$37" /><label for="ctl00_cblCitiesUKSubscribe_37">Swansea</label></td><td><input id="ctl00_cblCitiesUKSubscribe_38" type="checkbox" name="ctl00$cblCitiesUKSubscribe$38" /><label for="ctl00_cblCitiesUKSubscribe_38">UK</label></td><td><input id="ctl00_cblCitiesUKSubscribe_39" type="checkbox" name="ctl00$cblCitiesUKSubscribe$39" /><label for="ctl00_cblCitiesUKSubscribe_39">York</label></td>
+	</tr>
+</table>
+                                                                            </fieldset>
+                                                                            <br />
+                                                                            <fieldset style="width: 97%;">
+                                                                                <legend>&nbsp;<b>USA</b>&nbsp;</legend>
+                                                                                <table id="ctl00_cblCitiesUSASubscribe" class="smallarial" cellpadding="2" border="0">
+	<tr>
+		<td><input id="ctl00_cblCitiesUSASubscribe_0" type="checkbox" name="ctl00$cblCitiesUSASubscribe$0" /><label for="ctl00_cblCitiesUSASubscribe_0">Atlanta</label></td><td><input id="ctl00_cblCitiesUSASubscribe_1" type="checkbox" name="ctl00$cblCitiesUSASubscribe$1" /><label for="ctl00_cblCitiesUSASubscribe_1">Austin</label></td><td><input id="ctl00_cblCitiesUSASubscribe_2" type="checkbox" name="ctl00$cblCitiesUSASubscribe$2" /><label for="ctl00_cblCitiesUSASubscribe_2">Baltimore</label></td><td><input id="ctl00_cblCitiesUSASubscribe_3" type="checkbox" name="ctl00$cblCitiesUSASubscribe$3" /><label for="ctl00_cblCitiesUSASubscribe_3">Boston</label></td><td><input id="ctl00_cblCitiesUSASubscribe_4" type="checkbox" name="ctl00$cblCitiesUSASubscribe$4" /><label for="ctl00_cblCitiesUSASubscribe_4">Buffalo</label></td>
+	</tr><tr>
+		<td><input id="ctl00_cblCitiesUSASubscribe_5" type="checkbox" name="ctl00$cblCitiesUSASubscribe$5" /><label for="ctl00_cblCitiesUSASubscribe_5">Charlotte</label></td><td><input id="ctl00_cblCitiesUSASubscribe_6" type="checkbox" name="ctl00$cblCitiesUSASubscribe$6" /><label for="ctl00_cblCitiesUSASubscribe_6">Chicago</label></td><td><input id="ctl00_cblCitiesUSASubscribe_7" type="checkbox" name="ctl00$cblCitiesUSASubscribe$7" /><label for="ctl00_cblCitiesUSASubscribe_7">Cincinnati</label></td><td><input id="ctl00_cblCitiesUSASubscribe_8" type="checkbox" name="ctl00$cblCitiesUSASubscribe$8" /><label for="ctl00_cblCitiesUSASubscribe_8">Cleveland</label></td><td><input id="ctl00_cblCitiesUSASubscribe_9" type="checkbox" name="ctl00$cblCitiesUSASubscribe$9" /><label for="ctl00_cblCitiesUSASubscribe_9">Columbus</label></td>
+	</tr><tr>
+		<td><input id="ctl00_cblCitiesUSASubscribe_10" type="checkbox" name="ctl00$cblCitiesUSASubscribe$10" /><label for="ctl00_cblCitiesUSASubscribe_10">Dallas</label></td><td><input id="ctl00_cblCitiesUSASubscribe_11" type="checkbox" name="ctl00$cblCitiesUSASubscribe$11" /><label for="ctl00_cblCitiesUSASubscribe_11">Denver</label></td><td><input id="ctl00_cblCitiesUSASubscribe_12" type="checkbox" name="ctl00$cblCitiesUSASubscribe$12" /><label for="ctl00_cblCitiesUSASubscribe_12">Detroit</label></td><td><input id="ctl00_cblCitiesUSASubscribe_13" type="checkbox" name="ctl00$cblCitiesUSASubscribe$13" /><label for="ctl00_cblCitiesUSASubscribe_13">Fort Lauderdale</label></td><td><input id="ctl00_cblCitiesUSASubscribe_14" type="checkbox" name="ctl00$cblCitiesUSASubscribe$14" /><label for="ctl00_cblCitiesUSASubscribe_14">Houston</label></td>
+	</tr><tr>
+		<td><input id="ctl00_cblCitiesUSASubscribe_15" type="checkbox" name="ctl00$cblCitiesUSASubscribe$15" /><label for="ctl00_cblCitiesUSASubscribe_15">Indianapolis</label></td><td><input id="ctl00_cblCitiesUSASubscribe_16" type="checkbox" name="ctl00$cblCitiesUSASubscribe$16" /><label for="ctl00_cblCitiesUSASubscribe_16">Jacksonville</label></td><td><input id="ctl00_cblCitiesUSASubscribe_17" type="checkbox" name="ctl00$cblCitiesUSASubscribe$17" /><label for="ctl00_cblCitiesUSASubscribe_17">Kansas</label></td><td><input id="ctl00_cblCitiesUSASubscribe_18" type="checkbox" name="ctl00$cblCitiesUSASubscribe$18" /><label for="ctl00_cblCitiesUSASubscribe_18">Las Vegas</label></td><td><input id="ctl00_cblCitiesUSASubscribe_19" type="checkbox" name="ctl00$cblCitiesUSASubscribe$19" /><label for="ctl00_cblCitiesUSASubscribe_19">Los Angeles</label></td>
+	</tr><tr>
+		<td><input id="ctl00_cblCitiesUSASubscribe_20" type="checkbox" name="ctl00$cblCitiesUSASubscribe$20" /><label for="ctl00_cblCitiesUSASubscribe_20">Miami</label></td><td><input id="ctl00_cblCitiesUSASubscribe_21" type="checkbox" name="ctl00$cblCitiesUSASubscribe$21" /><label for="ctl00_cblCitiesUSASubscribe_21">Minneapolis - St Paul</label></td><td><input id="ctl00_cblCitiesUSASubscribe_22" type="checkbox" name="ctl00$cblCitiesUSASubscribe$22" /><label for="ctl00_cblCitiesUSASubscribe_22">Nashville</label></td><td><input id="ctl00_cblCitiesUSASubscribe_23" type="checkbox" name="ctl00$cblCitiesUSASubscribe$23" /><label for="ctl00_cblCitiesUSASubscribe_23">New Jersey</label></td><td><input id="ctl00_cblCitiesUSASubscribe_24" type="checkbox" name="ctl00$cblCitiesUSASubscribe$24" /><label for="ctl00_cblCitiesUSASubscribe_24">New Orleans</label></td>
+	</tr><tr>
+		<td><input id="ctl00_cblCitiesUSASubscribe_25" type="checkbox" name="ctl00$cblCitiesUSASubscribe$25" /><label for="ctl00_cblCitiesUSASubscribe_25">New York City</label></td><td><input id="ctl00_cblCitiesUSASubscribe_26" type="checkbox" name="ctl00$cblCitiesUSASubscribe$26" /><label for="ctl00_cblCitiesUSASubscribe_26">Orlando</label></td><td><input id="ctl00_cblCitiesUSASubscribe_27" type="checkbox" name="ctl00$cblCitiesUSASubscribe$27" /><label for="ctl00_cblCitiesUSASubscribe_27">Philadelphia</label></td><td><input id="ctl00_cblCitiesUSASubscribe_28" type="checkbox" name="ctl00$cblCitiesUSASubscribe$28" /><label for="ctl00_cblCitiesUSASubscribe_28">Phoenix</label></td><td><input id="ctl00_cblCitiesUSASubscribe_29" type="checkbox" name="ctl00$cblCitiesUSASubscribe$29" /><label for="ctl00_cblCitiesUSASubscribe_29">Pittsburgh</label></td>
+	</tr><tr>
+		<td><input id="ctl00_cblCitiesUSASubscribe_30" type="checkbox" name="ctl00$cblCitiesUSASubscribe$30" /><label for="ctl00_cblCitiesUSASubscribe_30">Portland</label></td><td><input id="ctl00_cblCitiesUSASubscribe_31" type="checkbox" name="ctl00$cblCitiesUSASubscribe$31" /><label for="ctl00_cblCitiesUSASubscribe_31">Providence</label></td><td><input id="ctl00_cblCitiesUSASubscribe_32" type="checkbox" name="ctl00$cblCitiesUSASubscribe$32" /><label for="ctl00_cblCitiesUSASubscribe_32">Raleigh</label></td><td><input id="ctl00_cblCitiesUSASubscribe_33" type="checkbox" name="ctl00$cblCitiesUSASubscribe$33" /><label for="ctl00_cblCitiesUSASubscribe_33">Richmond</label></td><td><input id="ctl00_cblCitiesUSASubscribe_34" type="checkbox" name="ctl00$cblCitiesUSASubscribe$34" /><label for="ctl00_cblCitiesUSASubscribe_34">Sacramento</label></td>
+	</tr><tr>
+		<td><input id="ctl00_cblCitiesUSASubscribe_35" type="checkbox" name="ctl00$cblCitiesUSASubscribe$35" /><label for="ctl00_cblCitiesUSASubscribe_35">Salt Lake City</label></td><td><input id="ctl00_cblCitiesUSASubscribe_36" type="checkbox" name="ctl00$cblCitiesUSASubscribe$36" /><label for="ctl00_cblCitiesUSASubscribe_36">San Antonio</label></td><td><input id="ctl00_cblCitiesUSASubscribe_37" type="checkbox" name="ctl00$cblCitiesUSASubscribe$37" /><label for="ctl00_cblCitiesUSASubscribe_37">San Diego</label></td><td><input id="ctl00_cblCitiesUSASubscribe_38" type="checkbox" name="ctl00$cblCitiesUSASubscribe$38" /><label for="ctl00_cblCitiesUSASubscribe_38">San Francisco</label></td><td><input id="ctl00_cblCitiesUSASubscribe_39" type="checkbox" name="ctl00$cblCitiesUSASubscribe$39" /><label for="ctl00_cblCitiesUSASubscribe_39">Seattle</label></td>
+	</tr><tr>
+		<td><input id="ctl00_cblCitiesUSASubscribe_40" type="checkbox" name="ctl00$cblCitiesUSASubscribe$40" /><label for="ctl00_cblCitiesUSASubscribe_40">St Louis</label></td><td><input id="ctl00_cblCitiesUSASubscribe_41" type="checkbox" name="ctl00$cblCitiesUSASubscribe$41" /><label for="ctl00_cblCitiesUSASubscribe_41">Tampa</label></td><td><input id="ctl00_cblCitiesUSASubscribe_42" type="checkbox" name="ctl00$cblCitiesUSASubscribe$42" /><label for="ctl00_cblCitiesUSASubscribe_42">Washington</label></td><td></td><td></td>
+	</tr>
+</table>
+                                                                            </fieldset>
+                                                                            <br />
+                                                                            <fieldset style="width: 97%;">
+                                                                                <legend>&nbsp;<b>Costa Rica</b>&nbsp;</legend>
+                                                                                <table id="ctl00_cblCitiesCostaRicaSubscribe" class="smallarial" cellpadding="2" border="0">
+	<tr>
+		<td><input id="ctl00_cblCitiesCostaRicaSubscribe_0" type="checkbox" name="ctl00$cblCitiesCostaRicaSubscribe$0" /><label for="ctl00_cblCitiesCostaRicaSubscribe_0">Alajuela</label></td><td><input id="ctl00_cblCitiesCostaRicaSubscribe_1" type="checkbox" name="ctl00$cblCitiesCostaRicaSubscribe$1" /><label for="ctl00_cblCitiesCostaRicaSubscribe_1">Cartago</label></td><td><input id="ctl00_cblCitiesCostaRicaSubscribe_2" type="checkbox" name="ctl00$cblCitiesCostaRicaSubscribe$2" /><label for="ctl00_cblCitiesCostaRicaSubscribe_2">Guanacaste</label></td><td><input id="ctl00_cblCitiesCostaRicaSubscribe_3" type="checkbox" name="ctl00$cblCitiesCostaRicaSubscribe$3" /><label for="ctl00_cblCitiesCostaRicaSubscribe_3">Heredia</label></td><td><input id="ctl00_cblCitiesCostaRicaSubscribe_4" type="checkbox" name="ctl00$cblCitiesCostaRicaSubscribe$4" /><label for="ctl00_cblCitiesCostaRicaSubscribe_4">Limon</label></td>
+	</tr><tr>
+		<td><input id="ctl00_cblCitiesCostaRicaSubscribe_5" type="checkbox" name="ctl00$cblCitiesCostaRicaSubscribe$5" /><label for="ctl00_cblCitiesCostaRicaSubscribe_5">Puntarenas</label></td><td><input id="ctl00_cblCitiesCostaRicaSubscribe_6" type="checkbox" name="ctl00$cblCitiesCostaRicaSubscribe$6" /><label for="ctl00_cblCitiesCostaRicaSubscribe_6">San Jose</label></td><td></td><td></td><td></td>
+	</tr>
+</table>
+                                                                            </fieldset>
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td align="center">
+                                                                            <input type="image" name="ctl00$btnSubscribe" id="ctl00_btnSubscribe" tabindex="50" src="/images/front_new/subscribe.png" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$btnSubscribe&quot;, &quot;&quot;, true, &quot;subscribe&quot;, &quot;&quot;, false, false))" style="border-width:0px;" />
+                                                                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="javascript:closeSubscribe();">
+                                                                                <img src="/images/front/cancel.png" border="0" /></a><br />
+                                                                            <span id="ctl00_revSubscribe" style="color:White;visibility:hidden;">Email Address is not valid</span>
+                                                                            <div id="ctl00_vsSubscribe" style="color:Red;display:none;">
+
+</div>
+                                                                        </td>
+                                                                    </tr>
+                                                                </table>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                        <br />
+                                    </td>
+                                </tr>
+                                
+                                <tr id="trContentPH" >
+                                    <td valign="top">
+                                        
+    <div id="ctl00_cphBody_dealContent">
+        <table width="648" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+                <td bgcolor="#FFFFFF">
+                    <table width="100%" border="0" cellspacing="0" cellpadding="20">
+                        <tr>
+                            <td align="left" valign="top">
+                                <div id="ctl00_cphBody_dealTitle" class="boldheaderarial">$45 for 2 Weeks of Childrens or Adult Classes at Fred Villari's Studio Of Self Defense - Including Uniform (Regular Price $110)</div>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td bgcolor="#FFFFFF">
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <tr>
+                            <td height="98" align="left" valign="top" bgcolor="e4f4fd">
+                                <div class="menuPostagxl" id="tagxl">
+                                    <table width="100%">
+                                        <tr height="98">
+                                            <td align="right" style="font-size: 55px; color: White;" valign="middle" width="60%">
+                                                <span id="ctl00_cphBody_currencySymbol" style="font-size: 40px">$</span><span id="ctl00_cphBody_dealPrice">45</span><span id="ctl00_cphBody_currencyName" style="font-size: 18px;">CAD</span>
+                                            </td>
+                                            <td rowspan="2" align="center" style="font-size: 35px; color: White;" valign="middle">
+                                                <a href="/purchase.aspx?did=216" id="ctl00_cphBody_lnkPurchase">
+                                                    <img src="/images/front_new/buyxl.png" id="ctl00_cphBody_imgBuy" border="0" /></a>
+                                                
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </div>
+                            </td>
+                            <td width="403" rowspan="5" align="left" valign="top">
+                                <img src="../../../images/business/216.jpg" id="ctl00_cphBody_imgBusiness" width="403" height="311" alt="Great Deal in Fred Villari's Studio Of Self Defense, Toronto" />
+                            </td>
+                        </tr>
+                        <tr>
+                            <td height="53" align="left" valign="top" background="/images/front_new/blueback.jpg"
+                                bgcolor="e4f4fd">
+                                <table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
+                                    <tr>
+                                        <td width="33%" align="center" valign="middle">
+                                            <span class="smallboldarial">Value<br />
+                                                <span id="ctl00_cphBody_dealValue" class="arial22">$110</span></span>
+                                        </td>
+                                        <td width="33%" align="center" valign="middle">
+                                            <span class="smallboldarial">Savings<br />
+                                                <span id="ctl00_cphBody_savings" class="arial22">59%</span> </span>
+                                        </td>
+                                        <td width="33%" align="center" valign="middle">
+                                            <div id="ctl00_cphBody_divPurchased" class="smallboldarial">
+                                                <span id="ctl00_cphBody_lblPurchased">QTY Remaining</span><br />
+                                                <span id="ctl00_cphBody_purchased" class="arial22">47</span></div>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td height="53" align="center" valign="middle" background="/images/front_new/blueback.jpg"
+                                bgcolor="e4f4fd">
+                                <table id="ctl00_cphBody_tbGift" width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td width="33%" align="center" valign="middle">
+                                            <img src="/images/front_new/bluegift.png" width="38" height="43" />
+                                        </td>
+		<td align="center" valign="middle">
+                                            <a href="/purchase.aspx?g=1&did=216" id="ctl00_cphBody_lnkGift"><span class="futurablacktext">
+                                                Buy it for a friend</span></a>
+                                        </td>
+	</tr>
+</table>
+
+                            </td>
+                        </tr>
+                        <tr>
+                            <td height="53" align="center" valign="middle" background="/images/front_new/blueback.jpg"
+                                bgcolor="e4f4fd">
+                                <table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
+                                    <tr>
+                                        <td width="33%" align="center" valign="middle">
+                                            <img src="/images/front_new/smallclock.png" width="44" height="45" />
+                                        </td>
+                                        <td align="center" valign="middle">
+                                            <span class="smallboldarial">Time Left to Buy<br />
+                                                <span id="ctl00_cphBody_remaining" class="arial22">37:38:25</span> </span>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td height="54" align="left" valign="top" background="/images/front_new/blueback.jpg"
+                                bgcolor="e4f4fd">
+                                <table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
+                                    <tr>
+                                        <td width="33%" align="center" valign="middle">
+                                            <span class="futurablacktext">Share:</span>
+                                        </td>
+                                        <td align="center" valign="middle">
+                                            <table width="114" border="0" cellspacing="0" cellpadding="3">
+                                                <tr>
+                                                    <td align="left" valign="middle">
+                                                        <div id="ctl00_cphBody_divLnkShareFacebookI">
+                                                            <a href="javascript:showLogin('hfacebook');">
+                                                                <img border="0" src="/images/front_new/facebook-32x32.png" width="32" height="32" /></a>
+                                                        </div>
+                                                    </td>
+                                                    <td align="left" valign="middle">
+                                                        <div id="ctl00_cphBody_divLnkShareTwitterI">
+                                                            <a href="javascript:showLogin('htwitter');">
+                                                                <img border="0" src="/images/front_new/twitter-32x32.png" width="32" height="32" /></a>
+                                                        </div>
+                                                    </td>
+                                                    <td align="left" valign="middle">
+                                                        <div id="ctl00_cphBody_divLnkShareEmailI">
+                                                            <a href="javascript:showLogin('hemail');">
+                                                                <img border="0" src="/images/front_new/email-32x32.png" width="32" height="32" /></a>
+                                                        </div>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td bgcolor="#FFFFFF">
+                    <table width="100%" border="0" cellspacing="0" cellpadding="10">
+                        <tr>
+                            <td width="50%" align="left" valign="top">
+                                <p class="subheadertextorange">
+                                    Deal Highlights</p>
+                                <div id="ctl00_cphBody_dealHighlights"><ul>
+	<li>
+		Learn self defense</li>
+	<li>
+		Increase confidence and self discipline</li>
+	<li>
+		Fun way to exercise</li>
+	<li>
+		Black belt instructors</li>
+	<li>
+		UNIFORM INCLUDED&nbsp;</li>
+</ul></div>
+                            </td>
+                            <td width="50%" align="left" valign="top">
+                                <p class="subheadertextorange">
+                                    The Fine Print</p>
+                                <div id="ctl00_cphBody_dealFinePrint"><ul>
+	<li>
+		1 voucher per customer, 1 voucher as gift</li>
+	<li>
+		Taxes included</li>
+	<li>
+		No cash vaue, no cash back</li>
+	<li>
+		Not valid with any other offers or promotions</li>
+	<li>
+		Valid at 2 locations: Bathurst/Sheppard &amp; Jane/Wilson</li>
+</ul></div>
+                            </td>
+                        </tr>
+                        
+                    </table>
+                </td>
+            </tr>
+        </table>
+        <br />
+        <table width="648" border="0" cellpadding="10" cellspacing="0" bgcolor="#FFFFFF">
+            <tr>
+                <td width="50%" align="left" valign="top">
+                    <p class="subheadertextorange">
+                        Company Info</p>
+                    <strong>
+                        <div id="ctl00_cphBody_busName">Fred Villari's Studio Of Self Defense</div>
+                    </strong>
+                    <br />
+                    <div id="ctl00_cphBody_busWebsite"></div>
+                    <br />
+                    <div id="ctl00_cphBody_busLocation"><a style="text-decoration:none;" href="javascript:changeMap(43.755337,-79.439909)">626 Sheppard Avenue West<br />Toronto, ON M3H 2S1<br />416 633 4131</a></div>
+                    <br />
+                    <div id="map_canvas" style="width: 265px; height: 265px">
+                    </div>
+                    <div>
+                        <small><a href="http://maps.google.com/?q=626 Sheppard Avenue West+Toronto+ON"" id="ctl00_cphBody_aLargerMap" target="_blank" style="color: #0000FF;
+                            text-align: left">View Larger Map</a></small>
+                    </div>
+                    <br />
+                    
+                    <br />
+                    
+                </td>
+                <td width="50%" align="left" valign="top">
+                    <p class="subheadertextorange">
+                        Deal Overview</p>
+                    
+                    <div id="ctl00_cphBody_decription"><p>
+	Why kick a heavy bag when you can kick butt? Why lift weights when you can lift an opponent? And why settle for a boring workout when you can do Karate? If you&rsquo;re bored with the conventional ways of exercising then this deal for Fred Villari&#39;s Studio Of Self Defense is for you. Check it out young grasshopper.</p>
+<p>
+	Right now you can be part of 2 weeks of Karate classes&nbsp;at 59% off the regular price. For an average of $22.50 a week this deal just can&rsquo;t be beat. Normally these classes from Fred Villari&#39;s Studio Of Self Defense would set you back $110, but not on MadDeal, you simply won&rsquo;t find a better deal any where else. As you can see, this is a deal that really kicks butt!</p>
+<p>
+	Looking for a fun way to exercise? Why not give Karate a chance? Karate keeps your body in shape and keeps your mind sharp. After 2 weeks at Fred Villari&#39;s Studios Of Self Defense you&rsquo;ll be fit, focused and ready for anything thanks to your new self defense skills. The experienced Karate instructors are prepared get you started with the basics but can also provide a routine for more seasoned Karate students. If Yoga is too slow and machines have you feeling like a hamster on a wheel, then give Karate a try. When you do there&rsquo;s no better place to learn then Fred Villari&#39;s Studio Of Self Defense.</p></div>
+                    <p>
+                        &nbsp;</p>
+                </td>
+            </tr>
+        </table>
+    </div>
+    
+    
+    
+    <span id="ctl00_cphBody_rxpEmailSubscribeNoDeal" style="color:Red;display:none;"></span>
+    <div id="ctl00_cphBody_vsNoDeal" style="color:Red;display:none;">
+
+</div>
+    <input type="hidden" name="ctl00$cphBody$hLat" id="ctl00_cphBody_hLat" value="43.755337" />
+    <input type="hidden" name="ctl00$cphBody$hLng" id="ctl00_cphBody_hLng" value="-79.439909" />
+    
+    <div id="ctl00_cphBody_divLON1"></div>
+    <script type="text/javascript">
+        var tt = document.getElementById("ctl00_cphBody_remaining");
+        if (tt != null) {
+            var spl = tt.innerHTML.split(':');
+            var hh = parseInt(spl[0]);
+            var mm = parseInt(spl[1]);
+            var ss = parseInt(spl[2]);
+            var refreshIntervalId = setInterval("updateClock()", 1000);
+
+        }
+        function updateClock() {
+            var str;
+            ss = ss - 1;
+            if (ss == -1) {
+                ss = 59;
+                mm = mm - 1;
+                if (mm == -1) {
+                    mm = 59;
+                    hh = hh - 1;
+                    if (hh == -1) {
+                        hh = 0;
+                        mm = 0;
+                        ss = 0;
+                        clearInterval(refreshIntervalId);
+                        tt.innerHTML = "Expired";
+                    }
+                }
+            }
+            str = hh.toString() + ":";
+            if (mm.toString().length == 1)
+                str += "0" + mm.toString() + ":";
+            else
+                str += mm.toString() + ":";
+            if (ss.toString().length == 1)
+                str += "0" + ss.toString();
+            else
+                str += ss.toString();
+            tt.innerHTML = str;
+        }
+
+    </script>
+
+
+                                        <br />
+                                    </td>
+                                </tr>
+                                
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td align="left" valign="top">
+                <table width="950" border="0" cellspacing="0" cellpadding="15" bgcolor="#072e60">
+                    <tr>
+                        <td width="150" valign="top" style="border-right: 1px; border-right-style: solid;
+                            border-right-color: #FFFFFF;">
+                            <div class="style4">
+                                <big><b>Our Company</b></big><br />
+                                <a href="/about_us.aspx">About Us</a><br />
+                                <a href="/contact_us.aspx">Contact Us</a><br />
+                                <a href="/promise.aspx">Our Promise</a><br />
+                                <a href="/fundraising.aspx">Fundraising</a><br />
+                            </div>
+                        </td>
+                        <td width="150" align="left" valign="top" style="border-right: 1px; border-right-style: solid;
+                            border-right-color: #FFFFFF;">
+                            <div class="style4">
+                                <big><b>Learn More</b></big><br />
+                                <a href="/make_money.aspx">Make Money</a><br />
+                                <a href="/feature_your_business.aspx">Feature Your Business</a><br />
+                                <a href="/join_maddeal.aspx">Join MadDeal</a><br />
+                                <a href="/affiliate_program.aspx">Affiliate Program</a><br />
+                            </div>
+                        </td>
+                        <td width="150" valign="top" align="left" style="border-right: 1px; border-right-style: solid;
+                            border-right-color: #FFFFFF;">
+                            <div class="style4">
+                                <big><b>Legal Pages</b></big><br />
+                                <a href="/terms_and_conditions.aspx">Terms &amp; Conditions</a><br />
+                                <a href="/privacy_policy.aspx">Privacy Policy</a><br />
+                                <a href="/refund_policy.aspx">Refund Policy</a><br />
+                            </div>
+                        </td>
+                        <td class="style4" width="500" valign="top">
+                            At <b>MadDeal</b> we realize without our subscribers we have no business. With that
+                            in mind, we scout out for you the coolest restaurants, services, events and much
+                            more at discounts of 50 – 100% off. Sign up today so you don’t miss tomorrows Deal.
+                            <table width="100%" cellpadding="0" cellspacing="0" style="margin-top: 5px;">
+                                <tr>
+                                    <td class="style4">
+                                        <b>©
+                                            <span id="ctl00_lblYear">2011</span>
+                                            MadDeal, Inc. All Rights Reserved.</b>
+                                    </td>
+                                    <td>
+                                        <span id="siteseal">
+
+                                            <script type="text/javascript" src="https://seal.godaddy.com/getSeal?sealID=HEXuuxZRngInumpmy300tNMlRlSYbnau93QUTqlH63F5AnmUBkRcEb"></script>
+
+                                        </span>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+    <div id="popup" class="popupnew" style="display: none; border: none; width: 100%;">
+        <table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0" style="position: relative;
+            z-index: 9002;">
+            <tr>
+                <td align="center" valign="middle">
+                    <table width="590" border="0" cellspacing="0" cellpadding="0">
+                        <tr>
+                            <td colspan="3" align="left" valign="top">
+                                <div class="popuptitle" id="Div1" style="border: none;">
+                                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                        <tr>
+                                            <td align="left" valign="top">
+                                                <span class="headerpopup">WELCOME to MadDeal.com<br />
+                                                    <span class="happyshopping">Happy Shopping!</span></span>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <br />
+                                </div>
+                                <img src="/images/front/MadDealPopupbanner.png" alt="MadDeal" width="590" height="102"
+                                    border="0" usemap="#Map0" />
+                            </td>
+                        </tr>
+                        <tr>
+                            <td width="7" align="left" valign="top">
+                                &nbsp;
+                            </td>
+                            <td width="572" align="left" valign="top" bgcolor="#FFFFFF" style="border-top: 2px;
+                                border-bottom: 2px; border-left: 2px; border-right: 2px; border-style: solid;
+                                border-color: #5E9732; border-collapse: collapse;">
+                                <table width="572" cellspacing="0" cellpadding="25" style="position: relative; z-index: 9002;">
+                                    <tr>
+                                        <td align="left" valign="top">
+                                            <span class="stylePP">Subscribe today and start receiving a daily email offering exclusive
+                                                promotions!</span>
+                                            <br />
+                                            <br />
+                                            <span class="stylePP">Experience your city at </span>&nbsp;<span class="orangebold">50-100%
+                                                OFF!</span><br />
+                                            <br />
+                                            <table width="482" border="0" cellspacing="0" cellpadding="2" style="position: relative;
+                                                z-index: 9002;">
+                                                <tr>
+                                                    <td width="193" align="left">
+                                                        <label>
+                                                        </label>
+                                                        Choose your City:
+                                                    </td>
+                                                    <td width="287" align="left">
+                                                        Enter your Email Address:
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td width="193" align="left">
+                                                        <label>
+                                                            <select name="ctl00$ddlCityPopup" id="ctl00_ddlCityPopup" style="width: 200px; height: 22px;">
+	<option value="">Select City</option>
+	<optgroup label="Canada">
+	<option value="/Canada/ON/Barrie" OptionGroup="Canada">Barrie</option>
+	<option value="/Canada/ON/Brampton" OptionGroup="Canada">Brampton</option>
+	<option value="/Canada/AB/Calgary" OptionGroup="Canada">Calgary</option>
+	<option value="/Canada/ON/Durham_Region" OptionGroup="Canada">Durham Region</option>
+	<option value="/Canada/AB/Edmonton" OptionGroup="Canada">Edmonton</option>
+	<option value="/Canada/NS/Halifax" OptionGroup="Canada">Halifax</option>
+	<option value="/Canada/ON/Hamilton" OptionGroup="Canada">Hamilton</option>
+	<option value="/Canada/ON/Kitchener_-_Waterloo" OptionGroup="Canada">Kitchener - Waterloo</option>
+	<option value="/Canada/ON/London" OptionGroup="Canada">London</option>
+	<option value="/Canada/ON/Mississauga" OptionGroup="Canada">Mississauga</option>
+	<option value="/Canada/QC/Montreal" OptionGroup="Canada">Montreal</option>
+	<option value="/Canada/ON/Niagara_Region" OptionGroup="Canada">Niagara Region</option>
+	<option value="/Canada/ON/Ottawa" OptionGroup="Canada">Ottawa</option>
+	<option value="/Canada/QC/Quebec" OptionGroup="Canada">Quebec</option>
+	<option value="/Canada/SK/Regina" OptionGroup="Canada">Regina</option>
+	<option value="/Canada/SK/Saskatoon" OptionGroup="Canada">Saskatoon</option>
+	<option value="/Canada/ON/Toronto" OptionGroup="Canada">Toronto</option>
+	<option value="/Canada/BC/Vancouver" OptionGroup="Canada">Vancouver</option>
+	<option value="/Canada/BC/Victoria" OptionGroup="Canada">Victoria</option>
+	<option value="/Canada/ON/Windsor" OptionGroup="Canada">Windsor</option>
+	<option value="/Canada/MB/Winnipeg" OptionGroup="Canada">Winnipeg</option>
+	<option value="/Canada/ON/York_Region" OptionGroup="Canada">York Region</option>
+	</optgroup>
+	<optgroup label="UK">
+	<option value="/UK/Aberdeen" OptionGroup="UK">Aberdeen</option>
+	<option value="/UK/Bath" OptionGroup="UK">Bath</option>
+	<option value="/UK/Belfast" OptionGroup="UK">Belfast</option>
+	<option value="/UK/Birmingham" OptionGroup="UK">Birmingham</option>
+	<option value="/UK/Bournemouth" OptionGroup="UK">Bournemouth</option>
+	<option value="/UK/Bradford" OptionGroup="UK">Bradford</option>
+	<option value="/UK/Brighton" OptionGroup="UK">Brighton</option>
+	<option value="/UK/Bristol" OptionGroup="UK">Bristol</option>
+	<option value="/UK/Cambridge" OptionGroup="UK">Cambridge</option>
+	<option value="/UK/Cardiff" OptionGroup="UK">Cardiff</option>
+	<option value="/UK/Coventry" OptionGroup="UK">Coventry</option>
+	<option value="/UK/Derby" OptionGroup="UK">Derby</option>
+	<option value="/UK/Edinburgh" OptionGroup="UK">Edinburgh</option>
+	<option value="/UK/Essex" OptionGroup="UK">Essex</option>
+	<option value="/UK/Exeter" OptionGroup="UK">Exeter</option>
+	<option value="/UK/Glasgow" OptionGroup="UK">Glasgow</option>
+	<option value="/UK/Hull" OptionGroup="UK">Hull</option>
+	<option value="/UK/Ipswich" OptionGroup="UK">Ipswich</option>
+	<option value="/UK/Kent" OptionGroup="UK">Kent</option>
+	<option value="/UK/Leeds" OptionGroup="UK">Leeds</option>
+	<option value="/UK/Leicester" OptionGroup="UK">Leicester</option>
+	<option value="/UK/Liverpool" OptionGroup="UK">Liverpool</option>
+	<option value="/UK/London" OptionGroup="UK">London</option>
+	<option value="/UK/Manchester" OptionGroup="UK">Manchester</option>
+	<option value="/UK/Milton_Keynes" OptionGroup="UK">Milton Keynes</option>
+	<option value="/UK/Newcastle" OptionGroup="UK">Newcastle</option>
+	<option value="/UK/Newport" OptionGroup="UK">Newport</option>
+	<option value="/UK/Norwich" OptionGroup="UK">Norwich</option>
+	<option value="/UK/Nottingham" OptionGroup="UK">Nottingham</option>
+	<option value="/UK/Oxford" OptionGroup="UK">Oxford</option>
+	<option value="/UK/Plymouth" OptionGroup="UK">Plymouth</option>
+	<option value="/UK/Portsmouth" OptionGroup="UK">Portsmouth</option>
+	<option value="/UK/Reading" OptionGroup="UK">Reading</option>
+	<option value="/UK/Sheffield" OptionGroup="UK">Sheffield</option>
+	<option value="/UK/Southampton" OptionGroup="UK">Southampton</option>
+	<option value="/UK/Stoke-on-Trent" OptionGroup="UK">Stoke-on-Trent</option>
+	<option value="/UK/Surrey" OptionGroup="UK">Surrey</option>
+	<option value="/UK/Swansea" OptionGroup="UK">Swansea</option>
+	<option value="/UK/York" OptionGroup="UK">York</option>
+	</optgroup>
+	<optgroup label="USA">
+	<option value="/USA/GA/Atlanta" OptionGroup="USA">Atlanta</option>
+	<option value="/USA/TX/Austin" OptionGroup="USA">Austin</option>
+	<option value="/USA/MD/Baltimore" OptionGroup="USA">Baltimore</option>
+	<option value="/USA/MA/Boston" OptionGroup="USA">Boston</option>
+	<option value="/USA/NY/Buffalo" OptionGroup="USA">Buffalo</option>
+	<option value="/USA/NC/Charlotte" OptionGroup="USA">Charlotte</option>
+	<option value="/USA/IL/Chicago" OptionGroup="USA">Chicago</option>
+	<option value="/USA/OH/Cincinnati" OptionGroup="USA">Cincinnati</option>
+	<option value="/USA/OH/Cleveland" OptionGroup="USA">Cleveland</option>
+	<option value="/USA/OH/Columbus" OptionGroup="USA">Columbus</option>
+	<option value="/USA/TX/Dallas" OptionGroup="USA">Dallas</option>
+	<option value="/USA/CO/Denver" OptionGroup="USA">Denver</option>
+	<option value="/USA/MI/Detroit" OptionGroup="USA">Detroit</option>
+	<option value="/USA/FL/Fort_Lauderdale" OptionGroup="USA">Fort Lauderdale</option>
+	<option value="/USA/TX/Houston" OptionGroup="USA">Houston</option>
+	<option value="/USA/IN/Indianapolis" OptionGroup="USA">Indianapolis</option>
+	<option value="/USA/FL/Jacksonville" OptionGroup="USA">Jacksonville</option>
+	<option value="/USA/KS/Kansas" OptionGroup="USA">Kansas</option>
+	<option value="/USA/NV/Las_Vegas" OptionGroup="USA">Las Vegas</option>
+	<option value="/USA/CA/Los_Angeles" OptionGroup="USA">Los Angeles</option>
+	<option value="/USA/FL/Miami" OptionGroup="USA">Miami</option>
+	<option value="/USA/MN/Minneapolis_-_St_Paul" OptionGroup="USA">Minneapolis - St Paul</option>
+	<option value="/USA/TN/Nashville" OptionGroup="USA">Nashville</option>
+	<option value="/USA/NJ/New_Jersey" OptionGroup="USA">New Jersey</option>
+	<option value="/USA/LA/New_Orleans" OptionGroup="USA">New Orleans</option>
+	<option value="/USA/NY/New_York_City" OptionGroup="USA">New York City</option>
+	<option value="/USA/FL/Orlando" OptionGroup="USA">Orlando</option>
+	<option value="/USA/PA/Philadelphia" OptionGroup="USA">Philadelphia</option>
+	<option value="/USA/AZ/Phoenix" OptionGroup="USA">Phoenix</option>
+	<option value="/USA/PA/Pittsburgh" OptionGroup="USA">Pittsburgh</option>
+	<option value="/USA/OR/Portland" OptionGroup="USA">Portland</option>
+	<option value="/USA/RI/Providence" OptionGroup="USA">Providence</option>
+	<option value="/USA/NC/Raleigh" OptionGroup="USA">Raleigh</option>
+	<option value="/USA/VA/Richmond" OptionGroup="USA">Richmond</option>
+	<option value="/USA/CA/Sacramento" OptionGroup="USA">Sacramento</option>
+	<option value="/USA/UT/Salt_Lake_City" OptionGroup="USA">Salt Lake City</option>
+	<option value="/USA/TX/San_Antonio" OptionGroup="USA">San Antonio</option>
+	<option value="/USA/CA/San_Diego" OptionGroup="USA">San Diego</option>
+	<option value="/USA/CA/San_Francisco" OptionGroup="USA">San Francisco</option>
+	<option value="/USA/WA/Seattle" OptionGroup="USA">Seattle</option>
+	<option value="/USA/MO/St_Louis" OptionGroup="USA">St Louis</option>
+	<option value="/USA/FL/Tampa" OptionGroup="USA">Tampa</option>
+	<option value="/USA/DC/Washington" OptionGroup="USA">Washington</option>
+	</optgroup>
+	<optgroup label="Costa Rica">
+	<option value="/Costa_Rica/Alajuela" OptionGroup="Costa Rica">Alajuela</option>
+	<option value="/Costa_Rica/Cartago" OptionGroup="Costa Rica">Cartago</option>
+	<option value="/Costa_Rica/Guanacaste" OptionGroup="Costa Rica">Guanacaste</option>
+	<option value="/Costa_Rica/Heredia" OptionGroup="Costa Rica">Heredia</option>
+	<option value="/Costa_Rica/Limon" OptionGroup="Costa Rica">Limon</option>
+	<option value="/Costa_Rica/Puntarenas" OptionGroup="Costa Rica">Puntarenas</option>
+	<option value="/Costa_Rica/San_Jose" OptionGroup="Costa Rica">San Jose</option>
+	</optgroup>
+
+</select>
+                                                            <span id="ctl00_rfvCityPopup" style="color:Red;visibility:hidden;">Please select city</span>
+                                                        </label>
+                                                    </td>
+                                                    <td width="287" align="left">
+                                                        <label>
+                                                            <input name="ctl00$txtEmailPopup" type="text" maxlength="50" id="ctl00_txtEmailPopup" style="width: 300px;" />
+                                                            <span id="ctl00_rfvEmailPopup" style="color:Red;visibility:hidden;">Please enter email</span>
+                                                            <span id="ctl00_rxpEmailPopup" style="color:Red;visibility:hidden;">Email Address is not valid</span>
+                                                        </label>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td width="193" align="left">
+                                                        <input type="image" name="ctl00$btnSubmit" id="ctl00_btnSubmit" src="/images/front/signmeup.png" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$btnSubmit&quot;, &quot;&quot;, true, &quot;popup&quot;, &quot;&quot;, false, false))" style="border-width:0px;" />
+                                                    </td>
+                                                    <td width="287" align="left">
+                                                        &nbsp;
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                            <p>
+                                                We Never Share or Spam your email address! &nbsp;&nbsp; <a href="javascript:closePopup();openCities();">
+                                                    skip the subscribe process</a>
+                                            </p>
+                                            <span class="stylePP1">Already a member?&nbsp;&nbsp;<a href="/login.aspx">Sign In Here</a>.</span>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                            <td width="7" align="left" valign="top">
+                                &nbsp;
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+        <map name="Map0" id="Map0">
+            <area shape="circle" id="ar0" coords="569,23,20" href="javascript:closePopup();openCities();" />
+        </map>
+    </div>
+    <div id="ctl00_ValidationSummary1" style="color:Red;display:none;">
+
+</div>
+    <div class="popupnew" id="thanks" style="display: none; border: none; width: 100%;">
+        <table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0" style="position: relative;
+            z-index: 9002;">
+            <tr>
+                <td align="center" valign="middle">
+                    <table width="590" border="0" cellspacing="0" cellpadding="0">
+                        <tr>
+                            <td colspan="3" align="left" valign="top">
+                                <div class="popuptitle" id="Div2">
+                                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                        <tr>
+                                            <td align="left" valign="top">
+                                                <span class="headerpopup">Thank you for subscribing<br />
+                                                    to MadDeal daily deals!</span>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <br />
+                                </div>
+                                <img src="/images/front/MadDealPopupbanner.png" alt="MadDeal" width="590" height="102"
+                                    border="0" usemap="#Map1" />
+                            </td>
+                        </tr>
+                        <tr>
+                            <td width="7" align="left" valign="top">
+                                &nbsp;
+                            </td>
+                            <td width="572" align="left" valign="top" bgcolor="#FFFFFF" style="border-top: 2px;
+                                border-bottom: 2px; border-left: 2px; border-right: 2px; border-style: solid;
+                                border-color: #5E9732; border-collapse: collapse;">
+                                <table width="572" border="2" style="border-collapse: collapse;" bordercolor="#5E9732"
+                                    cellspacing="0" cellpadding="25" style="position: relative; z-index: 9002;">
+                                    <tr>
+                                        <td align="left" valign="top">
+                                            <p>
+                                                <span class="stylePP">You will now begin to receive the Daily Deal Emails for selected
+                                                    cities.
+                                                    
+                                                    <br />
+                                                    Thanks again and Happy Shopping.<br />
+                                                    <br />
+                                                    -MadDeal Team</span></p>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                            <td width="7" align="left" valign="top">
+                                &nbsp;
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+        <map name="Map1" id="Map1">
+            <area shape="circle" id="ar1" coords="569,23,20" href="javascript:closeThanx();" />
+        </map>
+    </div>
+    <div class="popupnew" id="login" style="display: none; border: none; width: 100%;">
+        <table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0" style="position: relative;
+            z-index: 9002;">
+            <tr>
+                <td align="center" valign="middle">
+                    <table width="590" border="0" cellspacing="0" cellpadding="0">
+                        <tr>
+                            <td colspan="3" align="left" valign="top">
+                                <div class="popuptitle" id="Div4">
+                                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                        <tr>
+                                            <td align="left" valign="top">
+                                                <span class="headerpopup">Sign in or Register to<br />
+                                                    Make Money with MadDeal</span>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <br />
+                                </div>
+                                <img src="/images/front/MadDealPopupbanner.png" alt="MadDeal" width="590" height="102"
+                                    border="0" usemap="#Map2" />
+                            </td>
+                        </tr>
+                        <tr>
+                            <td width="7" align="left" valign="top">
+                                &nbsp;
+                            </td>
+                            <td width="572" align="left" valign="top" bgcolor="#FFFFFF" style="border-top: 2px;
+                                border-bottom: 2px; border-left: 2px; border-right: 2px; border-style: solid;
+                                border-color: #5E9732; border-collapse: collapse;">
+                                <table width="572" style="position: relative; z-index: 9002;" cellspacing="30">
+                                    <tr>
+                                        <td align="left" valign="top" style="padding-top: 10px; padding-right: 30px; padding-left: 30px;">
+                                            <span class="stylePP">You are not signed into MadDeal.<br />
+                                                In order to make money by sharing this link with friends and family, you need to
+                                                either sign in or register. Registration only takes a minute.</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td align="center" nowrap style="padding-top: 10px; padding-bottom: 10px; padding-right: 30px;
+                                            padding-left: 30px;">
+                                            <a href="/login.aspx" id="a2" onclick="closeLogin();">
+                                                <img src="/images/front/login.png" border="0" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                            <a href="/register.aspx" id="a1" onclick="closeLogin();">
+                                                <img src="/images/front/register.png" border="0" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                            <a href="" id="ashare" onclick="closeLogin();">
+                                                <img src="/images/front/sharenomoney.png" border="0" /></a>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                            <td width="7" align="left" valign="top">
+                                &nbsp;
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+        <map name="Map2" id="Map2">
+            <area shape="circle" id="ar2" coords="569,23,20" href="javascript:closeLogin();" />
+        </map>
+    </div>
+    <div class="popupnew" id="mailproviders" style="display: none; border: none; width: 100%;">
+        <table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0" style="position: relative;
+            z-index: 9002;">
+            <tr>
+                <td align="center" valign="middle">
+                    <table width="590" border="0" cellspacing="0" cellpadding="0" style="position: relative;
+                        z-index: 9002;">
+                        <tr>
+                            <td colspan="3" align="left" valign="middle">
+                                <div class="popuptitle1" id="Div5">
+                                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                        <tr>
+                                            <td align="centre" valign="middle">
+                                                <span class="headerpopup">Select Email Provider</span>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <br />
+                                </div>
+                                <img src="/images/front/MadDealPopupbanner.png?" alt="MadDeal" width="590" height="102"
+                                    border="0" usemap="#Map3" />
+                            </td>
+                        </tr>
+                        <tr>
+                            <td width="7" align="left" valign="top">
+                                &nbsp;
+                            </td>
+                            <td width="572" align="center" valign="top" bgcolor="#FFFFFF" style="border-top: 2px;
+                                border-bottom: 2px; border-left: 2px; border-right: 2px; border-style: solid;
+                                border-color: #5E9732; border-collapse: collapse;">
+                                <table width="310" border="0" cellspacing="0" cellpadding="5" class="stylePP" style="position: relative;
+                                    z-index: 9002;">
+                                    <tr>
+                                        <td colspan="2">
+                                            &nbsp;
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td align="right" valign="top">
+                                            <a href="" id="aoutlook" target="_blank" onclick="closeMailProviders();">
+                                                <img src="/images/front/outlook.png" width="48" border="0" /></a>
+                                        </td>
+                                        <td align="left">
+                                            Microsoft Office Outlook
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td align="right" valign="top">
+                                            <a href="" id="agmail" target="_blank" onclick="closeMailProviders();">
+                                                <img src="/images/front/gmail.png" width="48" border="0" /></a>
+                                        </td>
+                                        <td align="left">
+                                            Gmail
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td align="right" valign="top">
+                                            <a href="" id="ayahoo" target="_blank" onclick="closeMailProviders();">
+                                                <img src="/images/front/yahoo.png" width="48" border="0" /></a>
+                                        </td>
+                                        <td align="left">
+                                            Yahoo! Mail
+                                        </td>
+                                    </tr>
+                                </table>
+                                <br />
+                                Or just copy and email the following link:<br />
+                                <input name="ctl00$txtMailLink" type="text" value="http://www.maddeal.com/Canada/ON/Toronto/?q=&amp;did=216" id="ctl00_txtMailLink" style="width:350px;position: relative;
+                                    z-index: 9002;" /><br />
+                                <input type="button" value="Copy to Clipboard" id="btn" onclick="copy_link();" style="position: relative;
+                                    z-index: 9002;" />
+                                <br />
+                                <br />
+                            </td>
+                            <td width="7" align="left" valign="top">
+                                &nbsp;
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+        <map name="Map3" id="Map3">
+            <area shape="circle" id="ar3" coords="569,23,20" href="javascript:closeMailProviders();" />
+        </map>
+    </div>
+    <input type="hidden" name="ctl00$hcitySV" id="ctl00_hcitySV" value="/Canada/ON/Toronto" />
+    <input type="hidden" name="ctl00$hthx" id="ctl00_hthx" />
+    <input type="hidden" name="ctl00$hfacebook" id="ctl00_hfacebook" value="http://www.facebook.com/sharer.php?u=http%3a%2f%2fwww.maddeal.com%2fCanada%2fON%2fToronto%2f%3fdid%3d216&amp;t=%2445+for+2+Weeks+of+Childrens+or+Adult+Classes+at+Fred+Villaris+Studio+Of+Self+Defense+-+Including+Uniform+(Regular+Price+%24110)" />
+    <input type="hidden" name="ctl00$htwitter" id="ctl00_htwitter" value="http://twitter.com/intent/tweet?status=%2445+for+2+Weeks+of+Childrens+or+Adult+Classes+at+Fred+Villaris+Studio+Of+Self+Defense+-+Including+Uniform+(Regular+Price+%24110)+http%3a%2f%2fwww.maddeal.com%2fCanada%2fON%2fToronto%2f%3fdid%3d216" />
+    <input type="hidden" name="ctl00$hemail" id="ctl00_hemail" value="mailto:?subject=Check out this great deal: $45 for 2 Weeks of Childrens or Adult Classes at Fred Villaris Studio Of Self Defense - Including Uniform (Regular Price $110)&amp;body=$45 for 2 Weeks of Childrens or Adult Classes at Fred Villaris Studio Of Self Defense - Including Uniform (Regular Price $110) http://www.maddeal.com/Canada/ON/Toronto/?q=%26did=216" />
+    <input type="hidden" name="ctl00$hgmail" id="ctl00_hgmail" value="https://www.google.com/accounts/ServiceLogin?service=mail&amp;passive=true&amp;rm=false&amp;continue=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Fextsrc%3Dmailto%26url%3Dmailto%3A%3Fsubject%253DCheck%252520out%252520this%252520great%252520deal%3a%252520%2445%252520for%2525202%252520Weeks%252520of%252520Childrens%252520or%252520Adult%252520Classes%252520at%252520Fred%252520Villaris%252520Studio%252520Of%252520Self%252520Defense%252520-%252520Including%252520Uniform%252520(Regular%252520Price%252520%24110)%2526body%253D%2445%252520for%2525202%252520Weeks%252520of%252520Childrens%252520or%252520Adult%252520Classes%252520at%252520Fred%252520Villaris%252520Studio%252520Of%252520Self%252520Defense%252520-%252520Including%252520Uniform%252520(Regular%252520Price%252520%24110)%252520http%3a%2f%2fwww.maddeal.com%2fCanada%2fON%2fToronto%2f%3fq%3d%26did%3d216%26ui%3Dhtml%26zy%3Dl&amp;bsv=llya694le36z&amp;scc=1&amp;ltmpl=default&amp;ltmplcache=2" />
+    <input type="hidden" name="ctl00$hyahoo" id="ctl00_hyahoo" value="https://login.yahoo.com/config/login_verify2?.intl=us&amp;.src=ym&amp;.done=http%3a%2f%2fcompose.mail.yahoo.com%2f%3fsubject%3dCheck%252520out%252520this%252520great%252520deal%3a%252520%2445%252520for%2525202%252520Weeks%252520of%252520Childrens%252520or%252520Adult%252520Classes%252520at%252520Fred%252520Villaris%252520Studio%252520Of%252520Self%252520Defense%252520-%252520Including%252520Uniform%252520(Regular%252520Price%252520%24110)%26body%3d%2445%252520for%2525202%252520Weeks%252520of%252520Childrens%252520or%252520Adult%252520Classes%252520at%252520Fred%252520Villaris%252520Studio%252520Of%252520Self%252520Defense%252520-%252520Including%252520Uniform%252520(Regular%252520Price%252520%24110)%252520http%3a%2f%2fwww.maddeal.com%2fCanada%2fON%2fToronto%2f%3fq%3d%26did%3d216" />
+    <input type="hidden" name="ctl00$hnocookies" id="ctl00_hnocookies" />
+    <div id="ctl00_divLON"></div>
+    
+<script type="text/javascript">
+//<![CDATA[
+var Page_ValidationSummaries =  new Array(document.getElementById("ctl00_vsSubscribe"), document.getElementById("ctl00_cphBody_vsNoDeal"), document.getElementById("ctl00_ValidationSummary1"));
+var Page_Validators =  new Array(document.getElementById("ctl00_revSubscribe"), document.getElementById("ctl00_cphBody_rxpEmailSubscribeNoDeal"), document.getElementById("ctl00_rfvCityPopup"), document.getElementById("ctl00_rfvEmailPopup"), document.getElementById("ctl00_rxpEmailPopup"));
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+var ctl00_revSubscribe = document.all ? document.all["ctl00_revSubscribe"] : document.getElementById("ctl00_revSubscribe");
+ctl00_revSubscribe.controltovalidate = "ctl00_txtEmailSubscribe";
+ctl00_revSubscribe.errormessage = "Email Address is not valid";
+ctl00_revSubscribe.validationGroup = "subscribe";
+ctl00_revSubscribe.evaluationfunction = "RegularExpressionValidatorEvaluateIsValid";
+ctl00_revSubscribe.validationexpression = "^([a-zA-Z0-9_\\-\\.]+)@((\\[[0-9]{1,3}\\.[0-9]{1,3}\\.[0-9]{1,3}\\.)|(([a-zA-Z0-9\\-]+\\.)+))([a-zA-Z]{2,4}|[0-9]{1,3})(\\]?)$";
+var ctl00_vsSubscribe = document.all ? document.all["ctl00_vsSubscribe"] : document.getElementById("ctl00_vsSubscribe");
+ctl00_vsSubscribe.showmessagebox = "True";
+ctl00_vsSubscribe.showsummary = "False";
+ctl00_vsSubscribe.validationGroup = "subscribe";
+var ctl00_cphBody_rxpEmailSubscribeNoDeal = document.all ? document.all["ctl00_cphBody_rxpEmailSubscribeNoDeal"] : document.getElementById("ctl00_cphBody_rxpEmailSubscribeNoDeal");
+ctl00_cphBody_rxpEmailSubscribeNoDeal.controltovalidate = "ctl00_cphBody_txtEmailSubscribeNoDeal";
+ctl00_cphBody_rxpEmailSubscribeNoDeal.errormessage = "Email Address is not valid";
+ctl00_cphBody_rxpEmailSubscribeNoDeal.display = "None";
+ctl00_cphBody_rxpEmailSubscribeNoDeal.validationGroup = "subscribeNoDeal";
+ctl00_cphBody_rxpEmailSubscribeNoDeal.evaluationfunction = "RegularExpressionValidatorEvaluateIsValid";
+ctl00_cphBody_rxpEmailSubscribeNoDeal.validationexpression = "^([a-zA-Z0-9_\\-\\.]+)@((\\[[0-9]{1,3}\\.[0-9]{1,3}\\.[0-9]{1,3}\\.)|(([a-zA-Z0-9\\-]+\\.)+))([a-zA-Z]{2,4}|[0-9]{1,3})(\\]?)$";
+var ctl00_cphBody_vsNoDeal = document.all ? document.all["ctl00_cphBody_vsNoDeal"] : document.getElementById("ctl00_cphBody_vsNoDeal");
+ctl00_cphBody_vsNoDeal.showmessagebox = "True";
+ctl00_cphBody_vsNoDeal.showsummary = "False";
+ctl00_cphBody_vsNoDeal.validationGroup = "subscribeNoDeal";
+var ctl00_rfvCityPopup = document.all ? document.all["ctl00_rfvCityPopup"] : document.getElementById("ctl00_rfvCityPopup");
+ctl00_rfvCityPopup.controltovalidate = "ctl00_ddlCityPopup";
+ctl00_rfvCityPopup.focusOnError = "t";
+ctl00_rfvCityPopup.errormessage = "Please select city";
+ctl00_rfvCityPopup.validationGroup = "popup";
+ctl00_rfvCityPopup.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+ctl00_rfvCityPopup.initialvalue = "";
+var ctl00_rfvEmailPopup = document.all ? document.all["ctl00_rfvEmailPopup"] : document.getElementById("ctl00_rfvEmailPopup");
+ctl00_rfvEmailPopup.controltovalidate = "ctl00_txtEmailPopup";
+ctl00_rfvEmailPopup.focusOnError = "t";
+ctl00_rfvEmailPopup.errormessage = "Please enter email";
+ctl00_rfvEmailPopup.validationGroup = "popup";
+ctl00_rfvEmailPopup.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+ctl00_rfvEmailPopup.initialvalue = "";
+var ctl00_rxpEmailPopup = document.all ? document.all["ctl00_rxpEmailPopup"] : document.getElementById("ctl00_rxpEmailPopup");
+ctl00_rxpEmailPopup.controltovalidate = "ctl00_txtEmailPopup";
+ctl00_rxpEmailPopup.errormessage = " ";
+ctl00_rxpEmailPopup.validationGroup = "popup";
+ctl00_rxpEmailPopup.evaluationfunction = "RegularExpressionValidatorEvaluateIsValid";
+ctl00_rxpEmailPopup.validationexpression = "^([a-zA-Z0-9_\\-\\.]+)@((\\[[0-9]{1,3}\\.[0-9]{1,3}\\.[0-9]{1,3}\\.)|(([a-zA-Z0-9\\-]+\\.)+))([a-zA-Z]{2,4}|[0-9]{1,3})(\\]?)$";
+var ctl00_ValidationSummary1 = document.all ? document.all["ctl00_ValidationSummary1"] : document.getElementById("ctl00_ValidationSummary1");
+ctl00_ValidationSummary1.showsummary = "False";
+ctl00_ValidationSummary1.validationGroup = "popup";
+//]]>
+</script>
+
+
+<script type="text/javascript">
+//<![CDATA[
+
+var Page_ValidationActive = false;
+if (typeof(ValidatorOnLoad) == "function") {
+    ValidatorOnLoad();
+}
+
+function ValidatorOnSubmit() {
+    if (Page_ValidationActive) {
+        return ValidatorCommonOnSubmit();
+    }
+    else {
+        return true;
+    }
+}
+        //]]>
+</script>
+</form>
+
+    <script type="text/javascript">
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-20035211-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+
+        if (document.getElementById("ctl00_hthx").value == "1") {
+            openThanx();
+            document.getElementById("ctl00_hthx").value == "";
+        }
+      //  document.getElementById("aRSS").href += document.getElementById("ctl00_lblCity").innerHTML.replace(" ", "_") + ".xml";
+        
+        
+        Set_Cookie('test', 'none', '', '/', '', '');
+        if (Get_Cookie('test')) {
+            document.getElementById("trNoCookies").style.display = "none";
+            Delete_Cookie('test', '/', '');
+        }
+        else {
+            document.getElementById("ctl00_hnocookies").value = "1";
+            document.getElementById("trNoCookies").style.display = "block";
+            document.getElementById("trContentPH").style.display = "none";
+        }
+    </script>
+<div id="ctl00_divEpic"></div>
+</body>
+</html>

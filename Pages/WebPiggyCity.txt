@@ -1,0 +1,417 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+
+	<title>WebPiggy | The Best Local Deals</title>
+	<meta name="description" content="Webpiggy offers daily deals featuring local retailers in Toronto. Sign up for our email alerts so you can get a fresh deal every day!" />
+	<link href="/stylesheets/webpiggy.css?1315319141" media="screen" rel="stylesheet" type="text/css" />
+	<link href="https://www.webpiggy.com/deals/rss/1" rel="alternate" title="RSS" type="application/rss+xml" />
+	
+	<script src="/javascripts/css_browser_selector.js?1300501231" type="text/javascript"></script>	<script src="/javascripts/prototype.js?1300501233" type="text/javascript"></script>
+<script src="/javascripts/effects.js?1300501232" type="text/javascript"></script>
+<script src="/javascripts/dragdrop.js?1300501231" type="text/javascript"></script>
+<script src="/javascripts/controls.js?1300501230" type="text/javascript"></script>
+<script src="/javascripts/application.js?1315319143" type="text/javascript"></script>
+	<script src="/javascripts/date.js?1300501231" type="text/javascript"></script>
+	<script src="/javascripts/countdown.js?1300501231" type="text/javascript"></script>
+	<!--[if lte IE 6]>
+	<script src="/javascripts/supersleight-min.js?1300501233" type="text/javascript"></script>
+	<![endif]-->
+	<script type="text/javascript" src="https://maps.google.com/maps/api/js?sensor=false"></script>
+<script type="text/javascript">
+  function initialize() {
+    var myLatlng = new google.maps.LatLng(43.648717,-79.402514);
+    var myOptions = {
+      zoom: 13,
+      center: myLatlng,
+      mapTypeId: google.maps.MapTypeId.ROADMAP
+    }
+    var map = new google.maps.Map(document.getElementById("map_canvas"), myOptions);
+    var marker = new google.maps.Marker({
+      position: myLatlng, 
+      map: map
+	});
+  }
+</script>
+</head>
+
+	<body onload="setnav('home')">
+
+	
+	
+	<div id="morecities" class="top_popup" style="display:none">
+		<ul id="city_list">
+		
+			
+				<li><a href="/home/pick_city/3">Atlanta</a></li>
+			
+		
+			
+				<li><a href="/home/pick_city/4">Austin</a></li>
+			
+		
+			
+				<li><a href="/calgary" style="font-weight:bold;color:#e4e039;">Calgary</a></li>
+			
+		
+			
+				<li><a href="/home/pick_city/2">Chicago</a></li>
+			
+		
+			
+				<li><a href="/home/pick_city/6">Cincinnati</a></li>
+			
+		
+			
+				<li><a href="/home/pick_city/7">Dallas</a></li>
+			
+		
+			
+				<li><a href="/home/pick_city/8">Denver</a></li>
+			
+		
+			
+				<li><a href="/home/pick_city/9">Los Angeles</a></li>
+			
+		
+			
+				<li><a href="/home/pick_city/10">Miami</a></li>
+			
+		
+			
+				<li><a href="/montreal" style="font-weight:bold;color:#e4e039;">Montreal</a></li>
+			
+		
+			
+				<li><a href="/home/pick_city/12">New York</a></li>
+			
+		
+			
+				<li><a href="/home/pick_city/13">San Francisco</a></li>
+			
+		
+			
+				<li><a href="/home/pick_city/14">Seattle</a></li>
+			
+		
+			
+				<li><a href="/tampa">Tampa</a></li>
+			
+		
+			
+				<li><a href="/toronto" style="font-weight:bold;color:#e4e039;">Toronto</a></li>
+			
+		
+			
+				<li><a href="/vancouver" style="font-weight:bold;color:#e4e039;">Vancouver</a></li>
+			
+		
+		</ul>
+		<br style="clear:both"/>
+	</div>
+	
+	<div id="signup_top" class="top_popup" style="display:none">
+		<div id="top_signupform">
+		<form action="/customer_sessions/create" method="post"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="RQfBA3fzpuGJYc12vgLjLYTAtiSF6DBU66lS+oMHrcU=" /></div>
+		<p>Email: <input class="signup_field" id="customer_session_email" name="customer_session[email]" size="30" type="text" />
+			Password: <input class="signup_field" id="customer_session_password" name="customer_session[password]" size="30" type="password" />
+			<input class="signup_submit" id="customer_session_submit" name="commit" type="submit" value="Sign in" /></p>
+			<p style="text-align:center"><a href="/customers/forgotpassword">Forgot your password?</a></p>
+		</form>
+		</div>
+	</div>
+	<div id="topwrapper">
+		<div id="wrapper">
+			<div id="header">
+				<img alt="Newlogo" id="newlogo" src="/images/newlogo.gif?1307665006" />
+				<div id="nav_links">
+				<!--<a href="#" onclick="roll_topoptions('emailalert'); return false;">Email Alerts</a>
+				&nbsp;&nbsp;&nbsp;&nbsp;-->
+				<a href="#" onclick="roll_topoptions('morecities'); return false;"><img alt="Button_morecities" src="/images/button_morecities.gif?1300501176" /></a>
+				&nbsp;&nbsp;&nbsp;&nbsp;
+				
+					<a href="#" onclick="roll_topoptions('signup_top'); return false;"><img alt="Signin_button" src="/images/signin_button.jpg?1300501221" /></a>
+					&nbsp;&nbsp;&nbsp;&nbsp;
+					<a href="/customers/register"><img alt="Signup_button" src="/images/Signup_button.jpg?1300501221" /></a>
+				
+				</div>
+				<ul id="nav">
+					<li id="nav_home" class="one"><p><a href="/">Today's Deals</a></p></li>
+					<li id="nav_works" class="two"><p><a href="/home/works">How It Works</a></p></li>
+					<li id="nav_past" class="three"><p><a href="/deals/past">Past Deals</a></p></li>
+					<li id="nav_piggybucks" class="four"><p><a href="/home/piggybucks"><img alt="Tab_earnpiggybucks" src="/images/tab_earnpiggybucks.gif?1315319144" /></a></p></li>
+				</ul>
+				<div id="business_tab">
+					<p><a href="/home/business">For Business</a></p>
+				</div>
+			</div>
+		
+			<div id="body_container">
+				<script type="text/javascript">
+	initialize();
+</script>
+
+<div id="centre_title">
+<!--
+	
+		<img alt="Deals now active in Tampa!" src="/images/tampa_promo.gif" style="display:block;margin-left:auto;margin-right:auto;margin-bottom:10px;" />
+	
+	-->
+	<h1>Toronto's Daily Deal: <span style="color:#ec297b">$12.50 for admission to Sex, Religion & Other Hang Ups presented by Gangland Productions ($25 Value).</span></h1>
+</div>
+<div id="left_column">
+	<div id="deal_summary">
+	<div id="deal_summary_price">
+		<p>only</p>
+		<p id="deal_price">$12.50</p>
+		<p>&nbsp;</p>
+	</div>
+	
+	<div id="deal_summary_info">
+		<ul>
+			<li style="color:#FFF">Discount<br/>50%</li>
+			<li>Value<br/>$25.00</li>
+			<li class="last">You Save<br/>$12.50</li>
+		</ul>
+	</div>
+	
+	<div id="deal_action">
+		
+			
+				<a href="/deals/buy/1101" id="buy_button"><img alt="Buy-button" src="/images/buy-button.png?1300501178" /></a>
+			
+			
+		
+	</div>
+</div>
+
+	<div id="time_left">
+		<p id="time_left_label">Time left to buy</p>
+		<p>
+			<script language="javascript" type="text/javascript">
+			
+			CountActive = true;
+			CountStepper = -1;
+			LeadingZero = true;
+			
+				DisplayFormat = "%%H%%:%%M%%:%%S%%";
+			
+			FinishMessage = "It's over!";
+			
+			if (typeof(CountActive)=="undefined")
+			  CountActive = true;
+			if (typeof(FinishMessage)=="undefined")
+			  FinishMessage = "";
+			if (typeof(CountStepper)!="number")
+			  CountStepper = -1;
+			if (typeof(LeadingZero)=="undefined")
+			  LeadingZero = true;
+
+
+			CountStepper = Math.ceil(CountStepper);
+			if (CountStepper == 0)
+			  CountActive = false;
+			var SetTimeOutPeriod = (Math.abs(CountStepper)-1)*1000 + 990;
+			putspan();
+			
+			
+			var dthen = new Date("Sun, 02 Oct 2011 23:59:00 EDT");
+			
+			var dnow = new Date("Sun, 02 Oct 2011 19:42:30 EDT");
+			if(CountStepper>0)
+			  ddiff = new Date(dnow-dthen);
+			else
+			  ddiff = new Date(dthen-dnow);
+			gsecs = Math.floor(ddiff.valueOf()/1000);
+			CountBack(gsecs);
+			</script>
+		</p>
+	</div>
+	
+	<div id="buyer_numbers">
+		<p id="current_buyers">
+			22 Buyers!
+		</p>
+	</div>
+	
+	<br style="clear:both" />
+	
+	<img src="/images/featuredon.gif" alt="Featured On" />
+	
+		
+	
+</div>
+
+<div id="mid_column">
+	<div id="deal_feature_photo" style="background-image:url('/system/deal_photos/1101/feature/gangland.jpg')">
+		<img alt="frame" src="/images/feature_deal_frame.png?1300501214" />
+		<!--
+		<div id="comment_count">
+			
+			
+			<p><a href="/deals/discussion/1101">0 Comments</a></p>
+		</div>
+		-->
+		<img alt="Sharebar" id="sharebar" src="/images/sharebar.png?1300501221" usemap="#sharebar" />
+		<iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.webpiggy.com/deals/future/1101%2F&amp;layout=button_count&amp;show_faces=true&amp;width=110&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:110px; height:21px;"></iframe>
+		
+		<map name="sharebar" id="sharebar_map">
+			
+			<area shape="rect" coords="95,2,145,23" href="http://twitter.com/home?status=%2412.50+for+admission+to+Sex%2C+Religion+%26+Other+Hang+Ups+presented+by+Gangland+Productions+%28%2425+Value%29.%20https://webpiggy.com" alt="Share with Twitter" target="_blank"/>
+			<area shape="rect" coords="151,4,203,23" href="mailto:?subject=Check out this deal on Webpiggy.com!&body=They offer exclusive deals on all kinds of great stuff in Toronto.%0D%0A%0D%0A
+			I'm looking at $12.50 for admission to Sex, Religion & Other Hang Ups presented by Gangland Productions ($25 Value). now.%0D%0A%0D%0A
+					You can sign-up for email alerts at http://www.webpiggy.com" alt="Share with Email" />
+		</map>
+	</div>
+	
+	<div id="deal_description_top"></div>
+	<div id="deal_description">
+		<div id="deal_desc_col1">
+			<h2>The Details</h2>
+			<p>Includes:<br/>Admission to o Sex, Religion & Other Hang Ups.<br/><br/>May purchase multiple vouchers.<br/>Call to reserve tickets.<br/>Valid for performances from October 4-13, 2011.<br/>Redemption codes will not be honoured without an advanced reservation.<br/>Tax included.<br/>Voucher has no cash value. No cash back.<br/>Expires October 13, 2011.<br/><br/>Theatre Passe Muraille<br/>16 Ryerson Ave.<br/>Toronto, ON<br/>416-504-7529</p>
+			
+			<div id="map_canvas" style="margin-bottom:10px;width:230px; height:200px;"></div>
+			
+		</div>
+		<div id="deal_desc_col2">
+			<h2>Highlights</h2>
+			<p><a href="http://sexhangup.com" target="_blank">Sex, Religion & Other Hang-ups</a>, is a one-man show about a guy named James Gangl with a ravenous sexual libido battling it out against a guy with astaunch Catholic upbringing over the heart of a sexy, insightful underwear model. Fringe sensation and solo-show veteran, Chris Gibbs directs, mining the universal truths in Gangl's twisted and touching true story.<br/><br/>Sex, Religion & Other Hang-ups was voted Patron’s Pick at the 2011 Toronto Fringe Festival, was awarded NOW Magazine’s “Outstanding Production” and “Outstanding Performance” and Gangl won the first annual Ed Mirvish Award for Entrepreneurship for highest percentage of tickets sold…the entire run was sold-out!<br/><br/>•	Patron's Pick- 2011 Toronto Fringe Festival<br/>•	Winner of the Ed Mirvish Award for Entrepreneurship<br/>•	Outstanding Performance/Production - NOW Magazine<br/><br/>Click <a href="http://sexhangup.com/reviews" target="_blank">here</a> for reviews.<br/><br/><a href="http://sexhangup.com" target="_blank">Sex, Religion & Other Hang-ups</a></p>
+		</div>
+		<br style="clear:both" />
+	</div>
+	<div id="deal_description_bottom"></div>
+		
+			
+</div>
+
+<div id="right_column">
+	
+	
+	<div id="signup_form">
+		<img alt="Heading_getdailyalerts" src="/images/heading_getdailyalerts.png?1307665006" style="margin-top:5px;margin-left:7px;" />
+		<form action="/customers/new" method="post"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="RQfBA3fzpuGJYc12vgLjLYTAtiSF6DBU66lS+oMHrcU=" /></div>
+		<div style="height:10px;">&nbsp;</div>
+		<input class="textfield" id="customer_email" name="customer[email]" onfocus="this.value=''" type="text" value="email" /></p>
+		<div style="height:10px;">&nbsp;</div>
+		<div style="text-align:center;margin-bottom:10px;"><select id="customer_preferred_city" name="customer[preferred_city]"><option value=3>Atlanta</option><option value=4>Austin</option><option value=5>Calgary</option><option value=2>Chicago</option><option value=6>Cincinnati</option><option value=7>Dallas</option><option value=8>Denver</option><option value=9>Los Angeles</option><option value=10>Miami</option><option value=11>Montreal</option><option value=12>New York</option><option value=13>San Francisco</option><option value=14>Seattle</option><option value=15>Tampa</option><option value=1 selected='true'>Toronto</option><option value=16>Vancouver</option></select></div>
+		<input id="customer_optin" name="customer[optin]" type="hidden" value="1" />
+		<input id="origin" name="origin" type="hidden" value="home" />
+		<input id="customer_validate_pass" name="customer[validate_pass]" type="hidden" value="0" />
+
+		<input src="/images/button-signmeup.png?1307665006" style="margin-left:65px;margin-bottom:10px;" type="image" />
+		</form>
+	</div>
+	
+	<div style="width:100%;text-align:center;margin-top:25px;margin-bottom:25px;">
+	<a class="a2a_dd" href="https://www.addtoany.com/share_save?linkname=WebPiggy&amp;linkurl=https%3A%2F%2Fwww.webpiggy.com"><img src="https://static.addtoany.com/buttons/share_save_171_16.png" width="171" height="16" border="0" alt="Share/Bookmark"/></a><script type="text/javascript">a2a_linkname="WebPiggy";a2a_linkurl="https://www.webpiggy.com";</script><script type="text/javascript" src="https://static.addtoany.com/menu/page.js"></script>
+	</div>
+	
+	
+	<div id="side_deal">
+		<img alt="Banner-moredeals" id="banner-moredeals" src="/images/banner-moredeals.png?1307665006" />
+		<div class="deal_talk_content" style="padding-top:45px;">
+			<a href="/deals/side_deal/1098"><img alt="Opera" src="/system/deal_photos/1098/feature/opera.jpg?1317309734" style="margin-left:17px;margin-top:25px;" width="190" /></a>
+			<h2><a href="/deals/side_deal/1098">$54 for $108 ticket to Mozart’s Don Giovanni at The Elgin Theatre, presented by Opera Atelier. </a></h2>
+		</div>
+		
+		
+		<div class="deal_talk_content">
+			<hr/>
+			<a href="/deals/side_deal/1069"><img alt="Omni" src="/system/deal_photos/1069/feature/omni.jpg?1316198463" style="margin-left:17px;" width="190" /></a>
+			<h2><a href="/deals/side_deal/1069">$249 for 6 days Hotel Accomodations at the 4 Star Omni Cancun Resort. All-Inclusive, All Taxes and Fees Included ($1990 value).</a></h2>
+		</div>
+		
+		
+		
+		
+		<div class="deal_talk_content">
+			<hr/>
+			<a href="/deals/side_deal/1094"><img alt="Oceanside_inn" src="/system/deal_photos/1094/feature/oceanside_inn.jpg?1317153989" style="margin-left:17px;" width="190" /></a>
+			<h2><a href="/deals/side_deal/1094">$79 for 4 days Hotel Accommodations at The Oceanside Inn Daytona Beach, FL ($278 value).</a></h2>
+		</div>
+		
+		
+		
+	</div>
+	
+	
+	<div id="deal_talk">
+		<img alt="Banner-dealtalk" id="banner-dealtalk" src="/images/banner-dealtalk.png?1307665006" />
+		<div class="deal_talk_content" style="margin-top:25px;">
+			
+			<p style="padding-top:55px;text-align:right;"><strong>Have a question?</strong></p>
+			<p style="text-align:right;margin-right:15px;"><strong><a href="/deals/discussion/1101" style="text-decoration:none;color:#000;text-transform:uppercase;">Join the Discussion</a></strong></p>
+		</div>
+		
+	</div>
+	<!--
+	<div id="tweets">
+		image_tag("/images/twitter_head.png") %>
+		<div class="deal_talk_content">
+			 @latest_status_feeds.each do |f| %>
+				<p>= f.text %></p>
+			 end %>
+			<p> link_to "Visit us on Twitter!", "http://twitter.com/webpiggy", :target=>"_blank" %></p>
+		</div>
+		 image_tag("/images/deal_talk_bottom.png") %>
+	</div>
+	-->
+</div>
+				
+			</div>
+			<br style="clear:both" />
+		</div>
+	</div>
+	<div id="footerwrapper">
+		<div id="footercontainer">
+		<div class="footercol">
+			<h2>Learn More</h2>
+			<ul>
+				<li><a href="/home/works">How Webpiggy works</a></li>
+				<li><a href="/home/faq">FAQ</a></li>
+			</ul>
+		</div>
+		<div class="footercol" style="width:125px">
+			<h2>WebPiggy</h2>
+			<ul>
+				<li><a href="/home/contact">Contact Us</a></li>
+				<li><a href="/home/careers">Careers</a></li>
+				<li><a href="/home/terms" onclick="window.open(this.href,'terms','width=700,height=600,resizable=yes,scrollbars=yes');return false;">Terms</a> &amp; <a href="/home/privacy" onclick="window.open(this.href,'terms','width=700,height=600,resizable=yes,scrollbars=yes');return false;">Privacy</a></li>
+			</ul>
+		</div>
+		<div class="footercol" style="width:165px">
+			<h2>Follow &amp; Share</h2>
+			<ul>
+				<li><a href="http://twitter.com/webpiggy" target="blank">Twitter</a></li>
+				<li><a href="http://www.facebook.com/?ref=home#!/pages/Webpiggy/190787599425" target="blank">Facebook</a></li>
+				<li><a href="/home/works">Subscribe to our updates</a></li>
+			</ul>
+		</div>
+		<div class="footercol" style="width:250px">
+			<h2>Webpiggy for Business</h2>
+			<ul>
+				<li><a href="/home/business">How Webpiggy can work for you</a></li>
+				<li><a href="/home/register">Get featured</a></li>
+			</ul>
+		</div>
+		<div class="footercol">
+			
+			<p style="margin-top: 5px">&copy; WebPiggy 2009</p>
+		</div>
+		
+		</div>
+	</div>
+	<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-321270-11");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+</html>

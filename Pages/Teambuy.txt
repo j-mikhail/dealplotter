@@ -1,0 +1,963 @@
+﻿<!doctype html>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7 ]> <html lang="en" class="no-js ie6"> <![endif]-->
+<!--[if IE 7 ]>    <html lang="en" class="no-js ie7"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="en" class="no-js ie8"> <![endif]-->
+<!--[if IE 9 ]>    <html lang="en" class="no-js ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html lang="en" class="no-js"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+
+  <title>TeamBuy</title>
+  <meta name="description" content="">
+
+  <!-- Place favicon.ico in the root of your domain and delete these references -->
+  <link rel="shortcut icon" href="/favicon.ico">
+<link href="/lib/webfontkit/stylesheet.css" type="text/css" rel="stylesheet" />
+
+  <!-- CSS : implied media="all" -->
+  <link type="text/css" rel="stylesheet" href="/css/style.css?v=1323545054">
+  <link href='//fonts.googleapis.com/css?family=Yellowtail' rel='stylesheet' type='text/css' />
+
+  <!-- All JavaScript at the bottom, except for Modernizr which enables HTML5 elements & feature detects -->
+  <script src="/js/libs/modernizr-1.7.min.js"></script>
+
+  <script>
+   var _gaq = [['_setAccount', 'UA-11265932-1'], ['_trackPageview']];
+   (function(d, t) {
+    var g = d.createElement(t),
+        s = d.getElementsByTagName(t)[0];
+    g.async = true;
+    g.src = ('https:' == location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    s.parentNode.insertBefore(g, s);
+   })(document, 'script');
+  </script>
+  </head>
+<body>
+
+    <div id="fb-root"></div>
+    <script>
+      window.fbAsyncInit = function() {
+        FB.init(
+          { appId      : '178199288867996'
+          , status     : true
+          , cookie     : true
+          , xfbml      : true
+          }
+        );
+      };
+      (function(d, s, id) {
+          var js, fjs = d.getElementsByTagName(s)[0];
+          if (d.getElementById(id)) {return;}
+          js = d.createElement(s); js.id = id;
+          js.src = "//connect.facebook.net/en_US/all.js?appId=178199288867996";
+          fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));
+    </script>
+
+      <div id="header_subscribe-section">
+        <div id="header-subscribe">
+    <div id="header-subscribe-page-wrap">
+<!-- if user logged in and subscribe, skip -->
+<!-- TODO: include javascript to disable if local storage is set for the current location -->
+        <form action="/account/subscribe" method="POST">
+            <a href="#" id="header-close">
+                <img src="http://d1o74metl8bqim.cloudfront.net/buttons/btn-close.png">
+            </a>
+
+            <input id="subscribe" class="pink-button small-2" type="submit" name="submit" value="Subscribe" />
+            <div id="subscribe-el">
+                <span id="subscribe-description">Email me the Daily Deal:</span>
+                <label>City:</label>
+                <select name="city">
+<option value="toronto">Toronto</option>
+<option value="ottawa">Ottawa-Gatineau</option>
+<option value="montreal">Montreal</option>
+<option value="calgary">Calgary</option>
+<option value="vancouver">Vancouver</option>
+<option value="halifax">Halifax</option>
+<option value="mississauga">Mississauga</option>
+<option value="london">London</option>
+<option value="kitchener">Kitchener/Waterloo</option>
+<option value="edmonton">Edmonton</option>
+<option value="quebec">Quebec City</option>
+<option value="winnipeg">Winnipeg</option>
+<option value="victoria">Victoria</option>
+<option value="hamilton">Hamilton</option>
+<option value="guelph">Guelph</option>
+<option value="gta">GTA</option>
+<option value="brampton">Brampton</option>
+<option value="york_region">York Region</option>
+<option value="durham_region">Durham Region</option>
+<option value="barrie">Barrie</option>
+<option value="niagara">Niagara/St. Catharines</option>
+<option value="windsor">Windsor</option>
+<option value="regina">Regina</option>
+<option value="saskatoon">Saskatoon</option>
+<option value="st_johns">St. John's</option>
+<option value="fredericton">Fredericton</option>
+<option value="moncton">Moncton</option>
+<option value="saint_john">Saint John</option>
+<option value="abbotsford">Abbotsford</option>
+<option value="kelowna">Kelowna</option>
+<option value="kingston">Kingston</option>
+<option value="sudbury">Sudbury</option>
+<option value="laval">Laval</option>
+<option value="sherbrooke">Sherbrooke</option>
+<option value="saguenay">Saguenay</option>
+<option value="kawartha_lakes">Kawartha Lakes</option>
+<option value="halton_region">Halton Region</option>
+<option value="seed">seed</option>
+</select>
+                <label>Email:</label>
+                <input type="email" name="email" value="" placeholder="example@domain.com"/>
+            </div>
+        </form>
+    </div>
+</div>
+      </div>
+
+    <div id="background-wrapper">
+        <header id="banner">
+            <div style="display:none;">
+
+    <div id="cityBoxFancyAP" class="lightbox" style="width:540px;padding:20px;">
+        <table>
+             <tr>
+                    <td>
+                                                    <div class="otherCityLive"><span><a id="change-to-abbotsford" style="cursor:pointer">Abbotsford</a></span></div>
+                                            </td>
+                                                <td>
+                                                    <div class="otherCityLive"><span><a id="change-to-barrie" style="cursor:pointer">Barrie</a></span></div>
+                                            </td>
+                                                <td>
+                                                    <div class="otherCityLive"><span><a id="change-to-brampton" style="cursor:pointer">Brampton</a></span></div>
+                                            </td>
+                                                <td>
+                                                    <div class="otherCityLive"><span><a id="change-to-calgary" style="cursor:pointer">Calgary</a></span></div>
+                                            </td>
+                                    </tr>
+                                 <tr>
+                    <td>
+                                                    <div class="otherCityLive"><span><a id="change-to-durham_region" style="cursor:pointer">Durham Region</a></span></div>
+                                            </td>
+                                                <td>
+                                                    <div class="otherCityLive"><span><a id="change-to-edmonton" style="cursor:pointer">Edmonton</a></span></div>
+                                            </td>
+                                                <td>
+                                                    <div class="otherCityLive"><span><a id="change-to-fredericton" style="cursor:pointer">Fredericton</a></span></div>
+                                            </td>
+                                                <td>
+                                                    <div class="otherCityLive"><span><a id="change-to-guelph" style="cursor:pointer">Guelph</a></span></div>
+                                            </td>
+                                    </tr>
+                                 <tr>
+                    <td>
+                                                    <div class="otherCityLive"><span><a id="change-to-halifax" style="cursor:pointer">Halifax</a></span></div>
+                                            </td>
+                                                <td>
+                                                    <div class="otherCityLive"><span><a id="change-to-halton_region" style="cursor:pointer">Halton Region</a></span></div>
+                                            </td>
+                                                <td>
+                                                    <div class="otherCityLive"><span><a id="change-to-hamilton" style="cursor:pointer">Hamilton</a></span></div>
+                                            </td>
+                                                <td>
+                                                    <div class="otherCityLive"><span><a id="change-to-kawartha_lakes" style="cursor:pointer">Kawartha Lakes</a></span></div>
+                                            </td>
+                                    </tr>
+                                 <tr>
+                    <td>
+                                                    <div class="otherCityLive"><span><a id="change-to-kelowna" style="cursor:pointer">Kelowna</a></span></div>
+                                            </td>
+                                                <td>
+                                                    <div class="otherCityLive"><span><a id="change-to-kingston" style="cursor:pointer">Kingston</a></span></div>
+                                            </td>
+                                                <td>
+                                                    <div class="otherCityLive"><span><a id="change-to-kitchener" style="cursor:pointer">Kitchener/Waterloo</a></span></div>
+                                            </td>
+                                                <td>
+                                                    <div class="otherCityLive"><span><a id="change-to-laval" style="cursor:pointer">Laval</a></span></div>
+                                            </td>
+                                    </tr>
+                                 <tr>
+                    <td>
+                                                    <div class="otherCityLive"><span><a id="change-to-london" style="cursor:pointer">London</a></span></div>
+                                            </td>
+                                                <td>
+                                                    <div class="otherCityLive"><span><a id="change-to-mississauga" style="cursor:pointer">Mississauga</a></span></div>
+                                            </td>
+                                                <td>
+                                                    <div class="otherCityLive"><span><a id="change-to-moncton" style="cursor:pointer">Moncton</a></span></div>
+                                            </td>
+                                                <td>
+                                                    <div class="otherCityLive"><span><a id="change-to-montreal" style="cursor:pointer">Montreal</a></span></div>
+                                            </td>
+                                    </tr>
+                                 <tr>
+                    <td>
+                                                    <div class="otherCityLive"><span><a id="change-to-niagara" style="cursor:pointer">Niagara/St. Catharines</a></span></div>
+                                            </td>
+                                                <td>
+                                                    <div class="otherCityLive"><span><a id="change-to-ottawa" style="cursor:pointer">Ottawa-Gatineau</a></span></div>
+                                            </td>
+                                                <td>
+                                                    <div class="otherCityLive"><span><a id="change-to-quebec" style="cursor:pointer">Quebec City</a></span></div>
+                                            </td>
+                                                <td>
+                                                    <div class="otherCityLive"><span><a id="change-to-regina" style="cursor:pointer">Regina</a></span></div>
+                                            </td>
+                                    </tr>
+                                 <tr>
+                    <td>
+                                                    <div class="otherCityLive"><span><a id="change-to-saguenay" style="cursor:pointer">Saguenay</a></span></div>
+                                            </td>
+                                                <td>
+                                                    <div class="otherCityLive"><span><a id="change-to-saint_john" style="cursor:pointer">Saint John</a></span></div>
+                                            </td>
+                                                <td>
+                                                    <div class="otherCityLive"><span><a id="change-to-saskatoon" style="cursor:pointer">Saskatoon</a></span></div>
+                                            </td>
+                                                <td>
+                                                    <div class="otherCityLive"><span><a id="change-to-sherbrooke" style="cursor:pointer">Sherbrooke</a></span></div>
+                                            </td>
+                                    </tr>
+                                 <tr>
+                    <td>
+                                                <div class="otherCityCurrent"><span><a style="color:#48baeb" id="change-to-st_johns" style="cursor:pointer">St. John's</a></span></div>
+                                            </td>
+                                                <td>
+                                                    <div class="otherCityLive"><span><a id="change-to-sudbury" style="cursor:pointer">Sudbury</a></span></div>
+                                            </td>
+                                                <td>
+                                                    <div class="otherCityLive"><span><a id="change-to-toronto" style="cursor:pointer">Toronto</a></span></div>
+                                            </td>
+                                                <td>
+                                                    <div class="otherCityLive"><span><a id="change-to-vancouver" style="cursor:pointer">Vancouver</a></span></div>
+                                            </td>
+                                    </tr>
+                                 <tr>
+                    <td>
+                                                    <div class="otherCityLive"><span><a id="change-to-victoria" style="cursor:pointer">Victoria</a></span></div>
+                                            </td>
+                                                <td>
+                                                    <div class="otherCityLive"><span><a id="change-to-windsor" style="cursor:pointer">Windsor</a></span></div>
+                                            </td>
+                                                <td>
+                                                    <div class="otherCityLive"><span><a id="change-to-winnipeg" style="cursor:pointer">Winnipeg</a></span></div>
+                                            </td>
+                                                <td>
+                                                    <div class="otherCityLive"><span><a id="change-to-york_region" style="cursor:pointer">York Region</a></span></div>
+                                            </td>
+                                    </tr>
+                            </table>
+    </div>
+</div>
+
+    <div id="header-container">
+      <div id="header">
+        <nav id="menu-main">
+          <ul>
+              <li ><a href="http://www.teambuy.ca/howItWorks.php">How it Works</a></li>
+                      </ul>
+        </nav>
+          <div id="header-logo">
+            <a href="http://www.teambuy.ca/">
+              <img id="header-logo-image" src="http://d15fj99giduw5b.cloudfront.net/logo.png" width="230" height="70" alt="TeamBuy.ca">
+            </a>
+          </div>
+        <!-- city selector -->
+        <div id="header-city">
+          <a id="changeCityLinkFancy" href="#cityBoxFancyAP" class="fancybox">
+            <span id="header-city-current">St. John's</span>
+            <div id="header-city-select-container">
+                <span class="btn-dropdown"></span>
+                <span id="header-city-select">Change City</span>
+            </div>
+          </a>
+        </div>
+
+        <div id="context-box">
+
+            <!-- shopping bag -->
+            <div id="shopping-bag-counter">
+                <span id="shopping-bag-new">New!</span>
+                <a id="shopping-bag-link" class="pink-link" href="https://www.teambuy.ca/en/shopping-bag">
+                    <span id="shopping-bag-counter-label">
+                        My Shopping Bag                    </span>
+                    <span id="shopping-bag-counter-icon" class="empty-shopping-bag"></span>
+                </a>
+            </div>
+
+            <!-- sign in -->
+            <div id="header-account">
+                <span class="fb_button">
+                    <div class="fb-login-button" data-show-faces="false" data-width="200" data-max-rows="1">Connect</div>
+                </span>
+
+                <a id="header-signin-button" href="https://www.teambuy.ca/signIn.php">Sign In | Sign Up</a>
+
+            </div>
+                                <div class="change-lang-div"><a href="http://www.teambuy.ca/fr/st_johns/all-buys/local" class="change-lang">Français</a></div>
+                        </div>
+
+      </div>
+    </div>
+
+
+    <div id="vrts">
+        <ul class="vrts ">
+            <li class="vrts-li"><a href="http://www.teambuy.ca/en/st_johns/all-buys" class="vrts-a ">ALL BUYS</a><span class="vrts-li-border"></span></li>
+            <li class="vrts-li"><a href="http://www.teambuy.ca/en/st_johns/all-buys/local" class="vrts-a  current-page">LOCAL</a><span class="vrts-li-border"></span></li>
+            <li class="vrts-li"><a href="http://www.teambuy.ca/en/st_johns/all-buys/products" class="vrts-a  ">PRODUCTS</a><span class="vrts-li-border"></span></li>
+            <li class="vrts-li"><a href="http://www.teambuy.ca/theTravelRoom.php?travel=true" class="vrts-a ">TRAVEL</a></li>
+        </ul>
+    </div>
+        </header>
+
+        
+<style type="text/css">
+        #background-wrapper {
+        background-image: url('http://d15fj99giduw5b.cloudfront.net/backgrounds/web_xmas2-v3.1-en.jpg');
+        background-color:#ace5ff;
+        background-repeat: no-repeat;
+        background-position: top;
+    }
+    
+    #content_body {
+        overflow:hidden;
+        padding-top: 80px;
+        padding-bottom: 200px;
+        background-image: url('http://d1fugl1muegjfv.cloudfront.net/backgrounds/web_xmas_bkg-footer.jpg');
+        background-repeat: no-repeat;
+        background-position: bottom;
+        min-height:800px;
+    }
+    
+    #header-container {
+        background: none;
+        border-bottom: none;
+    }
+    
+    #footer{
+        margin-top:0px;
+    }
+    
+        .boxHeaderColor{
+        background-color: #;
+    }
+        
+        #advertisement_countdown {
+        position:relative;
+        text-align:center;
+        color:black;
+        font-family:'times';
+        font-size:40px;
+        top:0px;
+        left:4px;
+        -webkit-user-select: none;
+        -khtml-user-select: none;
+        -moz-user-select: none;
+        -o-user-select: none;
+        cursor:default;
+        margin:auto;
+        max-width:200px;
+    }
+        #banner_top{
+        display:none;
+    }    
+    </style>
+
+<script type="text/javascript">
+            document.getElementById("header-logo-image").src = "http://d23rc1nqa0204y.cloudfront.net/logos/tbholiday_website323x93.png";
+    </script>
+
+<div>
+    <div id="advertisement_countdown">
+        14      </div>
+</div>
+        <div id="content_body">
+
+          <div id="container">
+
+
+<article id="page-wrap">
+     
+</article>            <div style="clear:both"></div>
+          </div> <!--! end of #container -->
+
+        </div>
+    </div>
+
+      <footer id="footer">
+    <style>
+    body{
+        background-color: #FFF;
+    }
+    #footer-top .container {
+        background-color: #e8e8e8;
+    }
+</style>
+<div id="footer-top">
+   
+    <h1>Partner with us</h1>
+    
+    <div class="container small short float-left">
+        <h3 class="new-row float-left">Refer a Friend!</h3>
+        <p class="new-row float-left short">Friends don't let friends pay full price, that's why if you refer a friend to TeamBuy, we'll hook you up with some TeamBucks when they make their first purchase!</p>
+        <img class="pos-right pos-bottom" src="http://www.teambuy.ca/web-app/images/footer/refer-friend.png" />
+    </div>
+    
+    <div class="container large short float-right">
+        <div class="float-left width-330" style="position: relative;">
+            <h3 class="new-row float-left">Business Owner</h3>
+            <p class="new-row float-left short">Want to join an exclusive list of merchants who have run a successful TeamBuy campaign? Click below to learn more about TeamBuy!</p>
+            <img class="pos-right pos-bottom" src="http://www.teambuy.ca/web-app/images/footer/business-owner.png" />
+            <a class="pink-button pos-left pos-bottom" href="http://www.teambuy.ca/WhyTeamBuy">Get Started</a>
+        </div>
+        
+        <div class="float-right width-330 pos-relative">
+            <h3 class="new-row float-left">Become an Affiliate</h3>
+            <p class="new-row float-left short">We want to share TeamBuy with everyone but understand that we can't without some help. Learn more about becoming a TeamBuy Affiliate partner.</p>
+            <img class="pos-right pos-bottom" src="http://www.teambuy.ca/web-app/images/footer/business-owner-2.png" />
+            <a class="pink-button pos-left pos-bottom" href="http://www.teambuy.ca/WhyTeamBuy/affiliates.php">Learn More</a>
+        </div>
+    </div>
+    <div class="clear-float"></div>
+    
+    <h1>News</h1>
+    
+     <div class="container large tall float-left">
+        <h2 class="float-left">TeamBuy Mobile</h2>
+        <a href="http://www.teambuy.ca/mobile/"><img src="http://www.teambuy.ca/web-app/images/footer/mobile.png" class="float-right pos-right pos-bottom" /></a>
+        <div class="clear-float"></div>
+        <p class="float-left long">Download TeamBuy's iPhone App or use our Mobile Website to buy, share, and redeem all on the go!</p>
+        <div class="clear-float"></div>
+        <p class="float-left">Download our App!</p>
+        <div class="clear-float"></div>
+        <a href="http://itunes.apple.com/ca/app/teambuy.ca/id452843124?mt=8" class="app-link iphone" target="_blank">iPhone</a>
+        <img src="http://www.teambuy.ca/web-app/images/footer/icons/android-inactive.png" class="app-link"  />
+        <img src="http://www.teambuy.ca/web-app/images/footer/icons/blackberry-inactive.png" class="app-link"  />
+        <div class="clear-float"></div>
+        <p class="float-left long"><span class="text-faded">Android and Blackberry apps coming soon.</span></p>
+     </div>
+    
+    <div class="container small tall float-right">
+        <div class="label-container">
+            <div class="label">
+                New            </div>
+        </div>
+        <h2 class="long float-right text-left">TeamBuy Deals on Facebook!</h2>
+        <p class="float-right text-left medium">Now you can save up to 90% on the best to see, eat and do without ever leaving Facebook.</p>
+        <img src="http://www.teambuy.ca/web-app/images/footer/facebook.png" class="pos-left pos-bottom" />
+        <p class="float-right text-left medium"><span class="float-left text-pink" style="margin-top: 4px;">Shop</span> <a class="facebook float-left" href="" target="_blank">facebook</a></p>
+    </div>
+    
+</div>
+
+<div style="width:100%;height:20px;clear:both;"></div>
+
+<div id="footer-bottom">
+    <nav class="footer-nav">
+      <ul class="float-left">
+        <div class="col">
+          <li>
+              <h4>Company Info</h4>
+              <ul>
+                <li><a href="http://www.teambuy.ca/teamPage.php">Meet the Team</a></li>
+                <li><a href="http://www.teambuy.ca/contactUs.php">Contact Us</a></li>
+                <li><a href="http://www.teambuy.ca/careers.php">We're Hiring</a></li>
+                <li class="footer-li-last"><a href="http://www.teambuy.ca/terms.php">Terms, Privacy, Returns</a></li>
+              </ul>
+          </li>
+          <li>
+              <h4>TeamBuy University</h4>
+              <ul>
+                <li><a href="http://www.teambuy.ca/howItWorks.php">How It Works</a></li>
+                <li><a href="http://www.teambuy.ca/faq.php">FAQ</a></li>
+                <li class="footer-li-last"><a href="http://www.teambuy.ca/recentBuys.php">Past Buys</a></li>
+              </ul>
+          </li>
+        </div>
+        <div class="col">
+            <li>
+              <h4>Business Services</h4>
+              <ul>
+                <li><a href="http://www.teambuy.ca/WhyTeamBuy/contact.php">Get Featured</a></li>
+                <li><a href="http://www.teambuy.ca/WhyTeamBuy">Why TeamBuy?</a></li>
+                <li><a href="http://www.teambuy.ca/WhyTeamBuy/affiliates.php">Affiliate Program</a></li>
+                <li class="footer-li-last" ><a href="http://www.teambuy.ca/contactUs.php">Suggest a Business</a></li>
+              </ul>
+            </li>
+            <li>
+              <h4>TeamBuy Elsewhere</h4>
+              <ul class="social-media">
+                    <li>
+                        <a href="" class="icon facebook" target="_blank">Facebook</a>
+                    </li> 
+                    <li>
+                        <a href="http://twitter.com/" class="icon twitter" target="_blank">Twitter></a>
+                    </li>
+                    <li>
+                        <a href="http://www.youtube.com/user/TeamBuy" class="icon youtube" target="_blank">YouTube</a>
+                    </li>
+                    <li>
+                        <a href="http://api.twitter.com/1/statuses/user_timeline.rss?screen_name=" class="icon rss" target="_blank">RSS</a>
+                    </li>
+              </ul>
+            </li>
+        </div>
+          <li class="col">
+              <h4>TeamBuy Mobile</h4>
+              <ul class="mobile">
+                <li>Take all of your deals on the go using the TeamBuy iPhone App, Android App, and Mobile Site and redeem without leaving a paper trail. Android and Blackberry apps coming soon.</li>
+                <li>&nbsp;</li>
+                <li><a href="http://itunes.apple.com/ca/app/teambuy.ca/id452843124?mt=8" class="iphone" target="_blank">iPhone</a></li>
+                <li><img src="http://www.teambuy.ca/web-app/images/footer/icons/android-inactive-foot.png" class="footer-coming-soon"/><span class="footer-coming-soon">Coming Soon</span></li>
+                <li><img src="http://www.teambuy.ca/web-app/images/footer/icons/blackberry-inactive-foot.png" class="footer-coming-soon"/><span class="footer-coming-soon">Coming Soon</span></li>
+              </ul>
+          </li>
+          <li>
+        <div class="col pos-absolute pos-right float-right">
+            <div class="label-container">
+                <div class="label">
+                    We're Hiring!                 </div>
+            </div>
+            <a href="http://www.teambuy.ca/careers.php" class="hiring-link">Get Started Today! &raquo;</a>
+            <a href="http://www.teambuy.ca/careers.php"><img src="http://www.teambuy.ca/web-app/images/footer/were-hiring.jpg" /></a>
+        </div>
+        </li>
+      </ul>
+        <div id="clear-float"></div>
+      <div class="footer-fine-print">Limited Time Offers @ Exclusive Pricing.&nbsp;TeamBuy.ca offers a variety of local services and products in your area at incredible savings of 50-90% off. Through TeamBuying we help you discover the best your city has to offer including restaurants, spas, entertainment, activities, events, theatres, and more.&nbsp;Copyright Buyers Unite Inc. All rights reserved.</div>
+    </nav>
+    <div class="footer-mini">
+      <div id="footer_mini_contents">
+        <p>As Featured On:</p>
+        
+          <img src="http://www.teambuy.ca/web-app/images/logos/logo-global.jpg" alt="logo-global.jpg"/>
+          <img src="http://www.teambuy.ca/web-app/images/logos/logo-globe-mail.jpg" alt="logo-globe-mail.jpg"/>
+          <img src="http://www.teambuy.ca/web-app/images/logos/logo-toronto-star.jpg" alt="logo-toronto-star.jpg"/>
+          <img src="http://www.teambuy.ca/web-app/images/logos/logo-ctv.jpg" alt="logo-ctv.jpg"/>
+          <img src="http://www.teambuy.ca/web-app/images/logos/logo-national-post.jpg" alt="logo-national-post.jpg"/>
+          <img src="http://www.teambuy.ca/web-app/images/logos/logo-cp24.jpg" alt="logo-cp24.jpg"/>
+          <img src="http://www.teambuy.ca/web-app/images/logos/logo-metro.jpg" alt="logo-metro.jpg"/>
+        
+      </div>
+    </div>
+</div>
+
+    <script src="//snapabug.appspot.com/snapabug.js" type="text/javascript"></script>
+    <script type="text/javascript">
+      SnapABug.setSecureConnexion();
+      SnapABug.setButton("https://s3.amazonaws.com/tb1_images/livehelp.png");
+      SnapABug.setButtonEffect("-4px");
+      SnapABug.addButton("74a8f861-5da7-41b0-99b1-c756bd38a74d","0","55%");
+    </script>
+      </footer>
+
+  <!-- Javascript at the bottom for fast page loading -->
+
+  <!-- Grab Google CDN's jQuery. fall back to local if necessary -->
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.0/jquery.min.js"></script>
+  <script>!window.jQuery && document.write(unescape('%3Cscript src="/js/libs/jquery-1.7.0.min.js"%3E%3C/script%3E'))</script>
+
+  <!-- scripts concatenated and minified via ant build script-->
+
+  <script src="/web-app/js/jquery.fancybox-1.3.1/fancybox/jquery.fancybox-1.3.1.js"> </script>
+  <script src="/web-app/js/dropdown.js"> </script>
+  <!-- TODO: load from CDN -->
+  <script src="/js/plugins.js"></script>
+
+
+  <script>
+$(document).ready(function() {
+
+    $("#header-close").click(function(){
+        $("#header-subscribe").fadeTo(300, .1);
+        $("#header-subscribe").slideUp(300);
+        setCookie("headerSubscribe",true);
+        return false;
+    });
+
+    function setCookie(c_name,value,exdays)
+    {
+        var exdate=new Date();
+        exdate.setDate(exdate.getDate() + exdays);
+        var c_value=escape(value) + ((exdays==null) ? "" : "; expires="+exdate.toUTCString());
+        document.cookie=c_name + "=" + c_value;
+    }
+
+    $(".fancybox").fancybox({
+        "speedIn":0,
+        "titleShow":false,
+        "scrolling":"no",
+        "showCloseButton":true,
+        "autoDimensions":true,
+        "padding":0
+    });
+
+    $(".fancyboxNoPad").fancybox({
+        "speedIn":500,
+        "titleShow":false,
+        "scrolling":"no",
+        "showCloseButton":true,
+        "autoDimensions":true,
+        "padding":0
+    });
+
+
+    $(".fancyboxRefresh").fancybox({
+        "speedIn":500,
+        "titleShow":false,
+        "scrolling":"no",
+        "showCloseButton":true,
+        "autoDimensions":true,
+        "padding":0,
+        "onClosed":function(){
+            window.location.href = "";
+        }
+    });
+
+    $("#changeEnglish").click(function(){
+        changeLanguage('english');
+    });
+
+    $("#changeFrench").click(function(){
+        changeLanguage('french');
+    });
+
+    $("#change-to-abbotsford").click(function(){
+        changeCity("abbotsford");
+    });
+    $("#change-to-barrie").click(function(){
+        changeCity("barrie");
+    });
+    $("#change-to-brampton").click(function(){
+        changeCity("brampton");
+    });
+    $("#change-to-calgary").click(function(){
+        changeCity("calgary");
+    });
+    $("#change-to-durham_region").click(function(){
+        changeCity("durham_region");
+    });
+    $("#change-to-edmonton").click(function(){
+        changeCity("edmonton");
+    });
+    $("#change-to-fredericton").click(function(){
+        changeCity("fredericton");
+    });
+    $("#change-to-guelph").click(function(){
+        changeCity("guelph");
+    });
+    $("#change-to-halifax").click(function(){
+        changeCity("halifax");
+    });
+    $("#change-to-halton_region").click(function(){
+        changeCity("halton_region");
+    });
+    $("#change-to-hamilton").click(function(){
+        changeCity("hamilton");
+    });
+    $("#change-to-kawartha_lakes").click(function(){
+        changeCity("kawartha_lakes");
+    });
+    $("#change-to-kelowna").click(function(){
+        changeCity("kelowna");
+    });
+    $("#change-to-kingston").click(function(){
+        changeCity("kingston");
+    });
+    $("#change-to-kitchener").click(function(){
+        changeCity("kitchener");
+    });
+    $("#change-to-laval").click(function(){
+        changeCity("laval");
+    });
+    $("#change-to-london").click(function(){
+        changeCity("london");
+    });
+    $("#change-to-mississauga").click(function(){
+        changeCity("mississauga");
+    });
+    $("#change-to-moncton").click(function(){
+        changeCity("moncton");
+    });
+    $("#change-to-montreal").click(function(){
+        changeCity("montreal");
+    });
+    $("#change-to-niagara").click(function(){
+        changeCity("niagara");
+    });
+    $("#change-to-ottawa").click(function(){
+        changeCity("ottawa");
+    });
+    $("#change-to-quebec").click(function(){
+        changeCity("quebec");
+    });
+    $("#change-to-regina").click(function(){
+        changeCity("regina");
+    });
+    $("#change-to-saguenay").click(function(){
+        changeCity("saguenay");
+    });
+    $("#change-to-saint_john").click(function(){
+        changeCity("saint_john");
+    });
+    $("#change-to-saskatoon").click(function(){
+        changeCity("saskatoon");
+    });
+    $("#change-to-sherbrooke").click(function(){
+        changeCity("sherbrooke");
+    });
+    $("#change-to-st_johns").click(function(){
+        changeCity("st_johns");
+    });
+    $("#change-to-sudbury").click(function(){
+        changeCity("sudbury");
+    });
+    $("#change-to-toronto").click(function(){
+        changeCity("toronto");
+    });
+    $("#change-to-vancouver").click(function(){
+        changeCity("vancouver");
+    });
+    $("#change-to-victoria").click(function(){
+        changeCity("victoria");
+    });
+    $("#change-to-windsor").click(function(){
+        changeCity("windsor");
+    });
+    $("#change-to-winnipeg").click(function(){
+        changeCity("winnipeg");
+    });
+    $("#change-to-york_region").click(function(){
+        changeCity("york_region");
+    });
+
+    function changeCity(city) {
+        var dataString = "city=" + city;
+
+        $.ajax({
+            type: "POST",
+            url: location.protocol + "//" + location.host + "/changeCity.php",
+            data: dataString,
+            cache: false,
+            success: function(data){
+                $.fancybox.close();
+                window.location.href = "http://" + location.host + "/" + city + "/all-buys";
+            },
+            error: function() {
+            }
+        });
+    }
+
+    function changeLanguage(lang) {
+
+        var language = lang;
+
+        var dataString = 'language=' + language;
+
+        $.ajax({
+            type: "POST",
+            url: location.protocol + "//" + location.host + "/changeLanguage.php",
+            data: dataString,
+            cache: false,
+            success: function(data){
+                window.location.href = "";
+            },
+            error: function() {
+                // TODO
+            }
+        });
+    }
+	
+    $('#subscribe').click(function(){
+        var city = $("select[name=city]").val(),
+        email = $("input[name=email]").val(),
+        errmsg='',
+        frm=null
+        displayError = function(msg){
+            $.fancybox(
+                "<div class='lightbox'><h3>Subscribing</h3><p>"+msg+"</p></div>",
+                {
+                'autoDimensions'	: false,
+                'width'         		: 350,
+                'height'        		: 'auto',
+                'transitionIn'		: 'none',
+                'transitionOut'		: 'none'
+                }
+            );		
+        };
+        if( !city || city ==='undefined'){
+            errmsg = "Please Select a city";
+        }
+        if( !email || email ==='undefined'){
+            errmsg += (errmsg?" and":"Please")+" enter an email address";
+        }
+        if(errmsg){
+            displayError("Error "+errmsg);
+        }else{
+            frm = $(this).parents('form');
+
+            $.post($(frm).attr('action')
+                ,{'city':city,'email':email}
+                ,function(data){
+                    if(data.length){
+                        data = $.parseJSON( data );
+                        if(data.error){
+                            displayError("Error "+data.error.message);
+                        }else{
+                            displayError("Your subscription was sucessful");
+                        }
+                    }else{
+                        $.fancybox(
+                            "<div class='lightbox'><h3>Subscribing</h3><p>Your subscription was sucessful</p></div>",
+                            {
+                            'autoDimensions'	: false,
+                            'width'         		: 350,
+                            'height'        		: 'auto',
+                            'transitionIn'		: 'none',
+                            'transitionOut'		: 'none'
+                            }
+                        );
+                        $("#header-close").click();
+                    }
+                });
+        }
+        return false;
+    });
+
+    $('.fb_button').click(function() {
+        FB.login(function(response) {
+            if( response.authResponse || response.status == "connected" )
+            {
+                $.ajax(
+                    { url: "http://www.teambuy.ca/en/account/facebook"
+                    , dataType: 'json'
+                    , cache: false
+                    , success: function( data )
+                      {
+                          console.log( data );
+                          if( data.error )
+                          {
+                              switch( data.error.code )
+                              {
+                                case 31300:
+                                case 31301:
+                                    // TODO: Display error message
+                                    break;
+                                case 31302:
+                                    // Offer to link emails
+                                    FB.api('/me', function(response) {
+                                        window.location.href = "https://www.teambuy.ca/signIn.php?tb_exist=" + response.email;
+                                    });
+                                    break;
+                                case 31303:
+                                    // Offer to create an account
+                                    window.location.href = "https://www.teambuy.ca/signIn.php?register=true";
+                                    break;
+                                default:
+                                    // Unknown Error
+                                    break;
+                              }
+                          }
+                          else
+                          {
+                              window.location.href = "";
+                          }
+                      }
+                    , error: function()
+                      {
+                          // TODO: Display error message
+                      }
+                    }
+                );
+            }
+            else
+            {
+                FB.logout(function(response) {
+                   //console.log('Logged out.');
+                });
+            }
+        }, {scope: 'email'});
+    });function countdown(end_date, format, element)
+{
+     Today = new Date();
+     Todays_Year = Today.getFullYear();
+     Todays_Month = Today.getMonth();
+
+     //Convert today's date into miliseconds.
+     Todays_Date = (new Date(Todays_Year, Todays_Month, Today.getDate(),
+                             Today.getHours(), Today.getMinutes(), Today.getSeconds())).getTime();
+
+     //Find their difference, and convert that into seconds.
+     Time_Left = Math.round((end_date - Todays_Date) / 1000);
+
+     if(Time_Left < 0)
+        Time_Left = 0;
+
+     var innerHTML = '';
+
+     switch(format)
+       {
+       case 0:
+            //The simplest way to display the time left.
+            innerHTML = Time_Left + ' seconds';
+            break;
+       case 1:
+            //More datailed.
+            days = Math.floor(Time_Left / (60 * 60 * 24));
+            Time_Left %= (60 * 60 * 24);
+            hours = Math.floor(Time_Left / (60 * 60));
+            Time_Left %= (60 * 60);
+            minutes = Math.floor(Time_Left / 60);
+            Time_Left %= 60;
+            seconds = Time_Left;
+
+            innerHTML = "";
+
+            if (days != 0)
+                innerHTML = days + 'd ';
+            innerHTML += hours + 'h ';
+            innerHTML += minutes + 'm ';
+            innerHTML += seconds + 's';
+            break;
+       default:
+            innerHTML = Time_Left + ' seconds';
+       }
+
+       $('#'+element).html(innerHTML);
+
+     //Recursive call, keeps the clock ticking.
+     setTimeout(function(){ countdown(end_date, format, element) }, 1000);
+}/* 
+ * To change this template, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+/**
+ * Countdown for the more buys deals
+ */
+
+get_countdown();
+
+function get_countdown()
+{
+    $('input[id|="deal_id"]').each(function() {
+        var id = this.value;
+        var end_date = $('#deal_end_date-'+id).val();
+        end_date = end_date * 1000; //In milliseconds for javascript
+        countdown(end_date, 1 ,"deal_timer-" + id);
+    });
+}});
+  </script>
+  <!-- end concatenated and minified scripts-->
+
+  <!--[if lt IE 7 ]>
+    <script src="/js/libs/dd_belatedpng.js"></script>
+    <script> DD_belatedPNG.fix('img, .png_bg'); //fix any <img> or .png_bg background-images </script>
+  <![endif]-->
+  <!-- Page rendered in 0.5743 seconds -->
+</body>
+</html>
